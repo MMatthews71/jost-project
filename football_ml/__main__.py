@@ -67,7 +67,7 @@ def cmd_predict(args):
         print(f"No upcoming fixtures on {day} in local data (run refresh first?)")
         return
     cols = ["league", "kickoff_utc", "home_name", "away_name", "p_home", "p_draw", "p_away"]
-    print(pred[cols].round(3).to_string(index=False))
+    print(pred[cols].round({"p_home": 3, "p_draw": 3, "p_away": 3}).to_string(index=False))
 
 
 def cmd_ratings(args):
