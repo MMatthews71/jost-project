@@ -1,0 +1,381 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+1005651,BRA,2023,2023-04-15T19:00:00+00:00,FT,Regular Season - 1,121,Palmeiras,1193,Cuiaba,2,1
+1005658,BRA,2023,2023-04-15T19:00:00+00:00,FT,Regular Season - 1,125,America Mineiro,124,Fluminense,0,3
+1005650,BRA,2023,2023-04-15T21:30:00+00:00,FT,Regular Season - 1,120,Botafogo,126,Sao Paulo,2,1
+1005653,BRA,2023,2023-04-15T21:30:00+00:00,FT,Regular Season - 1,794,RB Bragantino,118,Bahia,2,1
+1005656,BRA,2023,2023-04-15T21:30:00+00:00,FT,Regular Season - 1,134,Atletico Paranaense,151,Goias,2,0
+1005657,BRA,2023,2023-04-15T21:30:00+00:00,FT,Regular Season - 1,154,Fortaleza EC,119,Internacional,1,1
+1005654,BRA,2023,2023-04-16T00:00:00+00:00,FT,Regular Season - 1,1062,Atletico-MG,133,Vasco DA Gama,1,2
+1005649,BRA,2023,2023-04-16T19:00:00+00:00,FT,Regular Season - 1,127,Flamengo,147,Coritiba,3,0
+1005652,BRA,2023,2023-04-16T19:00:00+00:00,FT,Regular Season - 1,131,Corinthians,135,Cruzeiro,2,1
+1005655,BRA,2023,2023-04-16T21:30:00+00:00,FT,Regular Season - 1,130,Gremio,128,Santos,1,0
+1005659,BRA,2023,2023-04-22T19:00:00+00:00,FT,Regular Season - 2,124,Fluminense,134,Atletico Paranaense,2,0
+1005661,BRA,2023,2023-04-22T21:30:00+00:00,FT,Regular Season - 2,126,Sao Paulo,125,America Mineiro,3,0
+1005668,BRA,2023,2023-04-22T21:30:00+00:00,FT,Regular Season - 2,1193,Cuiaba,794,RB Bragantino,1,1
+1005664,BRA,2023,2023-04-23T00:00:00+00:00,FT,Regular Season - 2,135,Cruzeiro,130,Gremio,1,0
+1005665,BRA,2023,2023-04-23T14:00:00+00:00,FT,Regular Season - 2,119,Internacional,127,Flamengo,2,1
+1005660,BRA,2023,2023-04-23T19:00:00+00:00,FT,Regular Season - 2,133,Vasco DA Gama,121,Palmeiras,2,2
+1005662,BRA,2023,2023-04-23T19:00:00+00:00,FT,Regular Season - 2,128,Santos,1062,Atletico-MG,0,0
+1005666,BRA,2023,2023-04-23T21:30:00+00:00,FT,Regular Season - 2,147,Coritiba,154,Fortaleza EC,0,3
+1005663,BRA,2023,2023-04-23T22:00:00+00:00,FT,Regular Season - 2,151,Goias,131,Corinthians,3,1
+1005667,BRA,2023,2023-04-24T23:00:00+00:00,FT,Regular Season - 2,118,Bahia,120,Botafogo,1,2
+1005676,BRA,2023,2023-04-29T19:30:00+00:00,FT,Regular Season - 3,147,Coritiba,126,Sao Paulo,1,1
+1005677,BRA,2023,2023-04-29T19:30:00+00:00,FT,Regular Season - 3,154,Fortaleza EC,124,Fluminense,4,2
+1005671,BRA,2023,2023-04-29T21:30:00+00:00,FT,Regular Season - 3,121,Palmeiras,131,Corinthians,2,1
+1005672,BRA,2023,2023-04-29T21:30:00+00:00,FT,Regular Season - 3,128,Santos,125,America Mineiro,3,2
+1005673,BRA,2023,2023-04-29T21:30:00+00:00,FT,Regular Season - 3,794,RB Bragantino,135,Cruzeiro,0,3
+1005674,BRA,2023,2023-04-30T00:00:00+00:00,FT,Regular Season - 3,1062,Atletico-MG,134,Atletico Paranaense,2,1
+1005669,BRA,2023,2023-04-30T19:00:00+00:00,FT,Regular Season - 3,127,Flamengo,120,Botafogo,2,3
+1005675,BRA,2023,2023-04-30T21:30:00+00:00,FT,Regular Season - 3,119,Internacional,151,Goias,1,0
+1005678,BRA,2023,2023-04-30T21:30:00+00:00,FT,Regular Season - 3,1193,Cuiaba,130,Gremio,1,2
+1005670,BRA,2023,2023-05-01T23:00:00+00:00,FT,Regular Season - 3,133,Vasco DA Gama,118,Bahia,0,1
+1005684,BRA,2023,2023-05-06T19:00:00+00:00,FT,Regular Season - 4,135,Cruzeiro,128,Santos,2,1
+1005679,BRA,2023,2023-05-07T00:00:00+00:00,FT,Regular Season - 4,124,Fluminense,133,Vasco DA Gama,1,1
+1005688,BRA,2023,2023-05-07T14:00:00+00:00,FT,Regular Season - 4,125,America Mineiro,1193,Cuiaba,1,2
+1005681,BRA,2023,2023-05-07T19:00:00+00:00,FT,Regular Season - 4,126,Sao Paulo,119,Internacional,2,0
+1005686,BRA,2023,2023-05-07T19:00:00+00:00,FT,Regular Season - 4,134,Atletico Paranaense,127,Flamengo,2,1
+1005687,BRA,2023,2023-05-07T19:00:00+00:00,FT,Regular Season - 4,118,Bahia,147,Coritiba,3,1
+1005680,BRA,2023,2023-05-07T21:30:00+00:00,FT,Regular Season - 4,120,Botafogo,1062,Atletico-MG,2,0
+1005683,BRA,2023,2023-05-07T21:30:00+00:00,FT,Regular Season - 4,151,Goias,121,Palmeiras,0,5
+1005685,BRA,2023,2023-05-07T21:30:00+00:00,FT,Regular Season - 4,130,Gremio,794,RB Bragantino,3,3
+1005682,BRA,2023,2023-05-08T23:00:00+00:00,FT,Regular Season - 4,131,Corinthians,154,Fortaleza EC,1,1
+1005692,BRA,2023,2023-05-10T22:00:00+00:00,FT,Regular Season - 5,128,Santos,118,Bahia,3,0
+1005693,BRA,2023,2023-05-10T22:00:00+00:00,FT,Regular Season - 5,794,RB Bragantino,125,America Mineiro,2,2
+1005695,BRA,2023,2023-05-10T22:00:00+00:00,FT,Regular Season - 5,119,Internacional,134,Atletico Paranaense,0,2
+1005689,BRA,2023,2023-05-10T23:00:00+00:00,FT,Regular Season - 5,127,Flamengo,151,Goias,2,0
+1005698,BRA,2023,2023-05-10T23:00:00+00:00,FT,Regular Season - 5,1193,Cuiaba,1062,Atletico-MG,0,4
+1005691,BRA,2023,2023-05-11T00:30:00+00:00,FT,Regular Season - 5,121,Palmeiras,130,Gremio,4,1
+1005694,BRA,2023,2023-05-11T00:30:00+00:00,FT,Regular Season - 5,135,Cruzeiro,124,Fluminense,0,2
+1005696,BRA,2023,2023-05-11T22:00:00+00:00,FT,Regular Season - 5,147,Coritiba,133,Vasco DA Gama,1,1
+1005690,BRA,2023,2023-05-11T22:30:00+00:00,FT,Regular Season - 5,120,Botafogo,131,Corinthians,3,0
+1005697,BRA,2023,2023-05-11T23:00:00+00:00,FT,Regular Season - 5,154,Fortaleza EC,126,Sao Paulo,0,0
+1005707,BRA,2023,2023-05-13T19:00:00+00:00,FT,Regular Season - 6,118,Bahia,127,Flamengo,2,3
+1005699,BRA,2023,2023-05-13T21:30:00+00:00,FT,Regular Season - 6,124,Fluminense,1193,Cuiaba,2,0
+1005701,BRA,2023,2023-05-13T21:30:00+00:00,FT,Regular Season - 6,121,Palmeiras,794,RB Bragantino,1,1
+1005704,BRA,2023,2023-05-14T00:00:00+00:00,FT,Regular Season - 6,1062,Atletico-MG,119,Internacional,2,0
+1005700,BRA,2023,2023-05-14T19:00:00+00:00,FT,Regular Season - 6,133,Vasco DA Gama,128,Santos,0,1
+1005702,BRA,2023,2023-05-14T19:00:00+00:00,FT,Regular Season - 6,131,Corinthians,126,Sao Paulo,1,1
+1005705,BRA,2023,2023-05-14T19:00:00+00:00,FT,Regular Season - 6,130,Gremio,154,Fortaleza EC,0,0
+1005703,BRA,2023,2023-05-14T21:30:00+00:00,FT,Regular Season - 6,151,Goias,120,Botafogo,2,1
+1005706,BRA,2023,2023-05-14T21:30:00+00:00,FT,Regular Season - 6,134,Atletico Paranaense,147,Coritiba,3,2
+1005708,BRA,2023,2023-05-14T21:30:00+00:00,FT,Regular Season - 6,125,America Mineiro,135,Cruzeiro,0,4
+1005717,BRA,2023,2023-05-20T19:00:00+00:00,FT,Regular Season - 7,118,Bahia,151,Goias,1,1
+1005710,BRA,2023,2023-05-20T21:30:00+00:00,FT,Regular Season - 7,120,Botafogo,124,Fluminense,1,0
+1005711,BRA,2023,2023-05-20T21:30:00+00:00,FT,Regular Season - 7,126,Sao Paulo,133,Vasco DA Gama,4,2
+1005713,BRA,2023,2023-05-20T21:30:00+00:00,FT,Regular Season - 7,794,RB Bragantino,134,Atletico Paranaense,2,0
+1005716,BRA,2023,2023-05-20T21:30:00+00:00,FT,Regular Season - 7,147,Coritiba,1062,Atletico-MG,1,2
+1005718,BRA,2023,2023-05-20T21:30:00+00:00,FT,Regular Season - 7,125,America Mineiro,154,Fortaleza EC,2,1
+1005712,BRA,2023,2023-05-21T00:00:00+00:00,FT,Regular Season - 7,128,Santos,121,Palmeiras,0,0
+1005709,BRA,2023,2023-05-21T19:00:00+00:00,FT,Regular Season - 7,127,Flamengo,131,Corinthians,1,0
+1005715,BRA,2023,2023-05-21T21:30:00+00:00,FT,Regular Season - 7,130,Gremio,119,Internacional,3,1
+1005714,BRA,2023,2023-05-22T23:00:00+00:00,FT,Regular Season - 7,135,Cruzeiro,1193,Cuiaba,0,1
+1005726,BRA,2023,2023-05-27T19:00:00+00:00,FT,Regular Season - 8,134,Atletico Paranaense,130,Gremio,1,2
+1005727,BRA,2023,2023-05-27T19:00:00+00:00,FT,Regular Season - 8,154,Fortaleza EC,133,Vasco DA Gama,2,0
+1005719,BRA,2023,2023-05-27T21:30:00+00:00,FT,Regular Season - 8,127,Flamengo,135,Cruzeiro,1,1
+1005728,BRA,2023,2023-05-27T21:30:00+00:00,FT,Regular Season - 8,1193,Cuiaba,147,Coritiba,1,1
+1005721,BRA,2023,2023-05-28T00:00:00+00:00,FT,Regular Season - 8,126,Sao Paulo,151,Goias,2,1
+1005722,BRA,2023,2023-05-28T19:00:00+00:00,FT,Regular Season - 8,131,Corinthians,124,Fluminense,2,0
+1005725,BRA,2023,2023-05-28T19:00:00+00:00,FT,Regular Season - 8,119,Internacional,118,Bahia,2,0
+1005723,BRA,2023,2023-05-28T21:30:00+00:00,FT,Regular Season - 8,794,RB Bragantino,128,Santos,2,0
+1005724,BRA,2023,2023-05-28T21:30:00+00:00,FT,Regular Season - 8,1062,Atletico-MG,121,Palmeiras,1,1
+1005720,BRA,2023,2023-05-28T22:00:00+00:00,FT,Regular Season - 8,120,Botafogo,125,America Mineiro,2,0
+1005737,BRA,2023,2023-06-03T19:00:00+00:00,FT,Regular Season - 9,154,Fortaleza EC,118,Bahia,0,0
+1005734,BRA,2023,2023-06-03T21:30:00+00:00,FT,Regular Season - 9,135,Cruzeiro,1062,Atletico-MG,0,1
+1005736,BRA,2023,2023-06-03T21:30:00+00:00,FT,Regular Season - 9,134,Atletico Paranaense,120,Botafogo,1,0
+1005738,BRA,2023,2023-06-03T21:30:00+00:00,FT,Regular Season - 9,125,America Mineiro,131,Corinthians,2,0
+1005732,BRA,2023,2023-06-04T00:00:00+00:00,FT,Regular Season - 9,128,Santos,119,Internacional,1,1
+1005729,BRA,2023,2023-06-04T19:00:00+00:00,FT,Regular Season - 9,124,Fluminense,794,RB Bragantino,2,1
+1005735,BRA,2023,2023-06-04T19:00:00+00:00,FT,Regular Season - 9,130,Gremio,126,Sao Paulo,2,1
+1005731,BRA,2023,2023-06-04T21:30:00+00:00,FT,Regular Season - 9,121,Palmeiras,147,Coritiba,3,1
+1005733,BRA,2023,2023-06-04T21:30:00+00:00,FT,Regular Season - 9,151,Goias,1193,Cuiaba,0,1
+1005730,BRA,2023,2023-06-05T23:00:00+00:00,FT,Regular Season - 9,133,Vasco DA Gama,127,Flamengo,1,4
+1005746,BRA,2023,2023-06-10T19:00:00+00:00,FT,Regular Season - 10,147,Coritiba,128,Santos,0,0
+1005742,BRA,2023,2023-06-10T21:30:00+00:00,FT,Regular Season - 10,131,Corinthians,1193,Cuiaba,1,1
+1005744,BRA,2023,2023-06-10T21:30:00+00:00,FT,Regular Season - 10,1062,Atletico-MG,794,RB Bragantino,1,1
+1005747,BRA,2023,2023-06-10T21:30:00+00:00,FT,Regular Season - 10,118,Bahia,135,Cruzeiro,2,2
+1005740,BRA,2023,2023-06-11T00:00:00+00:00,FT,Regular Season - 10,120,Botafogo,154,Fortaleza EC,2,0
+1005748,BRA,2023,2023-06-11T14:00:00+00:00,FT,Regular Season - 10,125,America Mineiro,134,Atletico Paranaense,2,2
+1005741,BRA,2023,2023-06-11T19:00:00+00:00,FT,Regular Season - 10,126,Sao Paulo,121,Palmeiras,0,2
+1005745,BRA,2023,2023-06-11T19:00:00+00:00,FT,Regular Season - 10,119,Internacional,133,Vasco DA Gama,2,1
+1005739,BRA,2023,2023-06-11T21:30:00+00:00,FT,Regular Season - 10,127,Flamengo,130,Gremio,3,0
+1005743,BRA,2023,2023-06-11T21:30:00+00:00,FT,Regular Season - 10,151,Goias,124,Fluminense,2,2
+1005751,BRA,2023,2023-06-21T22:00:00+00:00,FT,Regular Season - 11,126,Sao Paulo,134,Atletico Paranaense,2,1
+1005754,BRA,2023,2023-06-21T22:00:00+00:00,FT,Regular Season - 11,135,Cruzeiro,154,Fortaleza EC,0,1
+1005752,BRA,2023,2023-06-21T23:00:00+00:00,FT,Regular Season - 11,128,Santos,131,Corinthians,0,2
+1005749,BRA,2023,2023-06-22T00:30:00+00:00,FT,Regular Season - 11,124,Fluminense,1062,Atletico-MG,1,1
+1005757,BRA,2023,2023-06-22T00:30:00+00:00,FT,Regular Season - 11,118,Bahia,121,Palmeiras,1,0
+1005755,BRA,2023,2023-06-22T22:00:00+00:00,FT,Regular Season - 11,130,Gremio,125,America Mineiro,3,1
+1005750,BRA,2023,2023-06-22T23:00:00+00:00,FT,Regular Season - 11,133,Vasco DA Gama,151,Goias,0,1
+1005756,BRA,2023,2023-06-22T23:00:00+00:00,FT,Regular Season - 11,147,Coritiba,119,Internacional,0,1
+1005758,BRA,2023,2023-06-22T23:00:00+00:00,FT,Regular Season - 11,1193,Cuiaba,120,Botafogo,0,1
+1005753,BRA,2023,2023-06-23T00:30:00+00:00,FT,Regular Season - 11,794,RB Bragantino,127,Flamengo,4,0
+1005766,BRA,2023,2023-06-24T19:00:00+00:00,FT,Regular Season - 12,134,Atletico Paranaense,131,Corinthians,1,0
+1005759,BRA,2023,2023-06-24T21:30:00+00:00,FT,Regular Season - 12,124,Fluminense,118,Bahia,2,1
+1005767,BRA,2023,2023-06-24T21:30:00+00:00,FT,Regular Season - 12,154,Fortaleza EC,1062,Atletico-MG,2,1
+1005764,BRA,2023,2023-06-25T00:00:00+00:00,FT,Regular Season - 12,135,Cruzeiro,126,Sao Paulo,1,0
+1005761,BRA,2023,2023-06-25T19:00:00+00:00,FT,Regular Season - 12,121,Palmeiras,120,Botafogo,0,1
+1005765,BRA,2023,2023-06-25T19:00:00+00:00,FT,Regular Season - 12,130,Gremio,147,Coritiba,5,1
+1005762,BRA,2023,2023-06-25T21:30:00+00:00,FT,Regular Season - 12,128,Santos,127,Flamengo,2,3
+1005763,BRA,2023,2023-06-25T21:30:00+00:00,FT,Regular Season - 12,794,RB Bragantino,151,Goias,2,0
+1005768,BRA,2023,2023-06-25T21:30:00+00:00,FT,Regular Season - 12,125,America Mineiro,119,Internacional,1,2
+1005760,BRA,2023,2023-06-27T00:00:00+00:00,FT,Regular Season - 12,133,Vasco DA Gama,1193,Cuiaba,1,0
+1005771,BRA,2023,2023-07-01T19:00:00+00:00,FT,Regular Season - 13,126,Sao Paulo,124,Fluminense,1,0
+1005769,BRA,2023,2023-07-01T21:30:00+00:00,FT,Regular Season - 13,127,Flamengo,154,Fortaleza EC,2,0
+1005777,BRA,2023,2023-07-01T21:30:00+00:00,FT,Regular Season - 13,118,Bahia,130,Gremio,1,2
+1005775,BRA,2023,2023-07-02T00:00:00+00:00,FT,Regular Season - 13,119,Internacional,135,Cruzeiro,0,0
+1005772,BRA,2023,2023-07-02T14:00:00+00:00,FT,Regular Season - 13,131,Corinthians,794,RB Bragantino,0,1
+1005770,BRA,2023,2023-07-02T19:00:00+00:00,FT,Regular Season - 13,120,Botafogo,133,Vasco DA Gama,2,0
+1005774,BRA,2023,2023-07-02T19:00:00+00:00,FT,Regular Season - 13,1062,Atletico-MG,125,America Mineiro,2,2
+1005776,BRA,2023,2023-07-02T19:00:00+00:00,FT,Regular Season - 13,134,Atletico Paranaense,121,Palmeiras,2,2
+1005778,BRA,2023,2023-07-02T21:30:00+00:00,FT,Regular Season - 13,1193,Cuiaba,128,Santos,3,0
+1005773,BRA,2023,2023-07-03T23:00:00+00:00,FT,Regular Season - 13,151,Goias,147,Coritiba,1,2
+1005780,BRA,2023,2023-07-08T19:00:00+00:00,FT,Regular Season - 14,133,Vasco DA Gama,135,Cruzeiro,0,1
+1005788,BRA,2023,2023-07-08T19:00:00+00:00,FT,Regular Season - 14,1193,Cuiaba,118,Bahia,1,1
+1005784,BRA,2023,2023-07-08T21:30:00+00:00,FT,Regular Season - 14,1062,Atletico-MG,131,Corinthians,0,1
+1005786,BRA,2023,2023-07-08T21:30:00+00:00,FT,Regular Season - 14,147,Coritiba,125,America Mineiro,3,1
+1005781,BRA,2023,2023-07-09T00:00:00+00:00,FT,Regular Season - 14,121,Palmeiras,127,Flamengo,1,1
+1005782,BRA,2023,2023-07-09T14:00:00+00:00,FT,Regular Season - 14,128,Santos,151,Goias,4,3
+1005779,BRA,2023,2023-07-09T19:00:00+00:00,FT,Regular Season - 14,124,Fluminense,119,Internacional,2,0
+1005783,BRA,2023,2023-07-09T19:00:00+00:00,FT,Regular Season - 14,794,RB Bragantino,126,Sao Paulo,0,0
+1005785,BRA,2023,2023-07-09T21:30:00+00:00,FT,Regular Season - 14,130,Gremio,120,Botafogo,0,2
+1005787,BRA,2023,2023-07-09T21:30:00+00:00,FT,Regular Season - 14,154,Fortaleza EC,134,Atletico Paranaense,1,0
+1005790,BRA,2023,2023-07-16T00:00:00+00:00,FT,Regular Season - 15,120,Botafogo,794,RB Bragantino,2,0
+1005794,BRA,2023,2023-07-16T14:00:00+00:00,FT,Regular Season - 15,135,Cruzeiro,147,Coritiba,0,0
+1005789,BRA,2023,2023-07-16T19:00:00+00:00,FT,Regular Season - 15,124,Fluminense,127,Flamengo,0,0
+1005791,BRA,2023,2023-07-16T19:00:00+00:00,FT,Regular Season - 15,126,Sao Paulo,128,Santos,4,1
+1005797,BRA,2023,2023-07-16T19:00:00+00:00,FT,Regular Season - 15,154,Fortaleza EC,1193,Cuiaba,0,1
+1005795,BRA,2023,2023-07-16T21:30:00+00:00,FT,Regular Season - 15,119,Internacional,121,Palmeiras,0,0
+1005796,BRA,2023,2023-07-16T21:30:00+00:00,FT,Regular Season - 15,134,Atletico Paranaense,118,Bahia,2,0
+1005793,BRA,2023,2023-07-17T23:00:00+00:00,FT,Regular Season - 15,151,Goias,1062,Atletico-MG,0,0
+1005799,BRA,2023,2023-07-22T19:00:00+00:00,FT,Regular Season - 16,127,Flamengo,125,America Mineiro,1,1
+1005801,BRA,2023,2023-07-22T19:00:00+00:00,FT,Regular Season - 16,121,Palmeiras,154,Fortaleza EC,3,1
+1005807,BRA,2023,2023-07-22T21:30:00+00:00,FT,Regular Season - 16,118,Bahia,131,Corinthians,0,0
+1005808,BRA,2023,2023-07-22T21:30:00+00:00,FT,Regular Season - 16,1193,Cuiaba,126,Sao Paulo,2,1
+1005805,BRA,2023,2023-07-23T00:00:00+00:00,FT,Regular Season - 16,130,Gremio,1062,Atletico-MG,1,0
+1005802,BRA,2023,2023-07-23T19:00:00+00:00,FT,Regular Season - 16,128,Santos,120,Botafogo,2,2
+1005803,BRA,2023,2023-07-23T19:00:00+00:00,FT,Regular Season - 16,794,RB Bragantino,119,Internacional,0,0
+1005804,BRA,2023,2023-07-23T19:00:00+00:00,FT,Regular Season - 16,135,Cruzeiro,151,Goias,0,1
+1005800,BRA,2023,2023-07-23T21:30:00+00:00,FT,Regular Season - 16,133,Vasco DA Gama,134,Atletico Paranaense,0,2
+1005806,BRA,2023,2023-07-24T22:00:00+00:00,FT,Regular Season - 16,147,Coritiba,124,Fluminense,2,0
+1005809,BRA,2023,2023-07-29T19:00:00+00:00,FT,Regular Season - 17,124,Fluminense,128,Santos,1,0
+1005815,BRA,2023,2023-07-29T19:00:00+00:00,FT,Regular Season - 17,119,Internacional,1193,Cuiaba,1,2
+1005816,BRA,2023,2023-07-29T19:00:00+00:00,FT,Regular Season - 17,134,Atletico Paranaense,135,Cruzeiro,3,3
+1005812,BRA,2023,2023-07-29T21:30:00+00:00,FT,Regular Season - 17,131,Corinthians,133,Vasco DA Gama,3,1
+1005817,BRA,2023,2023-07-29T21:30:00+00:00,FT,Regular Season - 17,154,Fortaleza EC,794,RB Bragantino,0,3
+1005814,BRA,2023,2023-07-30T00:00:00+00:00,FT,Regular Season - 17,1062,Atletico-MG,127,Flamengo,1,2
+1005811,BRA,2023,2023-07-30T14:00:00+00:00,FT,Regular Season - 17,126,Sao Paulo,118,Bahia,0,0
+1005810,BRA,2023,2023-07-30T19:00:00+00:00,FT,Regular Season - 17,120,Botafogo,147,Coritiba,4,1
+1005818,BRA,2023,2023-07-30T19:00:00+00:00,FT,Regular Season - 17,125,America Mineiro,121,Palmeiras,1,4
+1005813,BRA,2023,2023-07-30T21:30:00+00:00,FT,Regular Season - 17,151,Goias,130,Gremio,1,1
+1005822,BRA,2023,2023-08-05T19:00:00+00:00,FT,Regular Season - 18,128,Santos,134,Atletico Paranaense,1,1
+1005823,BRA,2023,2023-08-05T21:30:00+00:00,FT,Regular Season - 18,151,Goias,154,Fortaleza EC,1,0
+1005825,BRA,2023,2023-08-05T21:30:00+00:00,FT,Regular Season - 18,119,Internacional,131,Corinthians,2,2
+1005819,BRA,2023,2023-08-06T00:00:00+00:00,FT,Regular Season - 18,124,Fluminense,121,Palmeiras,2,1
+1005820,BRA,2023,2023-08-06T19:00:00+00:00,FT,Regular Season - 18,133,Vasco DA Gama,130,Gremio,1,0
+1005821,BRA,2023,2023-08-06T19:00:00+00:00,FT,Regular Season - 18,126,Sao Paulo,1062,Atletico-MG,0,2
+1005824,BRA,2023,2023-08-06T21:30:00+00:00,FT,Regular Season - 18,135,Cruzeiro,120,Botafogo,0,0
+1005826,BRA,2023,2023-08-06T21:30:00+00:00,FT,Regular Season - 18,147,Coritiba,794,RB Bragantino,0,1
+1005827,BRA,2023,2023-08-06T21:30:00+00:00,FT,Regular Season - 18,118,Bahia,125,America Mineiro,3,1
+1005828,BRA,2023,2023-08-06T23:00:00+00:00,FT,Regular Season - 18,1193,Cuiaba,127,Flamengo,3,0
+1005830,BRA,2023,2023-08-13T00:00:00+00:00,FT,Regular Season - 19,120,Botafogo,119,Internacional,3,1
+1005834,BRA,2023,2023-08-13T14:00:00+00:00,FT,Regular Season - 19,1062,Atletico-MG,118,Bahia,1,0
+1005832,BRA,2023,2023-08-13T19:00:00+00:00,FT,Regular Season - 19,131,Corinthians,147,Coritiba,3,1
+1005835,BRA,2023,2023-08-13T19:00:00+00:00,FT,Regular Season - 19,130,Gremio,124,Fluminense,2,1
+1005838,BRA,2023,2023-08-13T19:00:00+00:00,FT,Regular Season - 19,125,America Mineiro,151,Goias,0,1
+1005829,BRA,2023,2023-08-13T21:30:00+00:00,FT,Regular Season - 19,127,Flamengo,126,Sao Paulo,1,1
+1005837,BRA,2023,2023-08-13T21:30:00+00:00,FT,Regular Season - 19,154,Fortaleza EC,128,Santos,4,0
+1005831,BRA,2023,2023-08-14T22:00:00+00:00,FT,Regular Season - 19,121,Palmeiras,135,Cruzeiro,1,0
+1005833,BRA,2023,2023-08-15T00:00:00+00:00,FT,Regular Season - 19,794,RB Bragantino,133,Vasco DA Gama,1,1
+1005836,BRA,2023,2023-08-15T23:00:00+00:00,FT,Regular Season - 19,134,Atletico Paranaense,1193,Cuiaba,2,0
+1005841,BRA,2023,2023-08-19T19:00:00+00:00,FT,Regular Season - 20,126,Sao Paulo,120,Botafogo,0,0
+1005845,BRA,2023,2023-08-19T19:00:00+00:00,FT,Regular Season - 20,119,Internacional,154,Fortaleza EC,0,1
+1005839,BRA,2023,2023-08-19T21:30:00+00:00,FT,Regular Season - 20,124,Fluminense,125,America Mineiro,3,1
+1005848,BRA,2023,2023-08-19T21:30:00+00:00,FT,Regular Season - 20,1193,Cuiaba,121,Palmeiras,0,2
+1005844,BRA,2023,2023-08-20T00:00:00+00:00,FT,Regular Season - 20,135,Cruzeiro,131,Corinthians,1,1
+1005840,BRA,2023,2023-08-20T14:00:00+00:00,FT,Regular Season - 20,133,Vasco DA Gama,1062,Atletico-MG,1,0
+1005842,BRA,2023,2023-08-20T19:00:00+00:00,FT,Regular Season - 20,128,Santos,130,Gremio,2,1
+1005846,BRA,2023,2023-08-20T19:00:00+00:00,FT,Regular Season - 20,147,Coritiba,127,Flamengo,2,3
+1005847,BRA,2023,2023-08-20T19:00:00+00:00,FT,Regular Season - 20,118,Bahia,794,RB Bragantino,4,0
+1005843,BRA,2023,2023-08-21T23:00:00+00:00,FT,Regular Season - 20,151,Goias,134,Atletico Paranaense,1,1
+1005849,BRA,2023,2023-08-26T21:30:00+00:00,FT,Regular Season - 21,127,Flamengo,119,Internacional,0,0
+1005852,BRA,2023,2023-08-27T00:00:00+00:00,FT,Regular Season - 21,131,Corinthians,151,Goias,1,1
+1005853,BRA,2023,2023-08-27T14:00:00+00:00,FT,Regular Season - 21,794,RB Bragantino,1193,Cuiaba,2,0
+1005850,BRA,2023,2023-08-27T19:00:00+00:00,FT,Regular Season - 21,120,Botafogo,118,Bahia,3,0
+1005854,BRA,2023,2023-08-27T19:00:00+00:00,FT,Regular Season - 21,1062,Atletico-MG,128,Santos,2,0
+1005858,BRA,2023,2023-08-27T19:00:00+00:00,FT,Regular Season - 21,125,America Mineiro,126,Sao Paulo,2,1
+1005851,BRA,2023,2023-08-27T21:30:00+00:00,FT,Regular Season - 21,121,Palmeiras,133,Vasco DA Gama,1,0
+1005856,BRA,2023,2023-08-27T21:30:00+00:00,FT,Regular Season - 21,134,Atletico Paranaense,124,Fluminense,2,2
+1005857,BRA,2023,2023-08-27T21:30:00+00:00,FT,Regular Season - 21,154,Fortaleza EC,147,Coritiba,3,1
+1005855,BRA,2023,2023-08-27T22:00:00+00:00,FT,Regular Season - 21,130,Gremio,135,Cruzeiro,3,0
+1005863,BRA,2023,2023-09-02T19:00:00+00:00,FT,Regular Season - 22,151,Goias,119,Internacional,0,0
+1005866,BRA,2023,2023-09-02T19:00:00+00:00,FT,Regular Season - 22,134,Atletico Paranaense,1062,Atletico-MG,1,1
+1005860,BRA,2023,2023-09-03T00:00:00+00:00,FT,Regular Season - 22,120,Botafogo,127,Flamengo,1,2
+1005865,BRA,2023,2023-09-03T14:00:00+00:00,FT,Regular Season - 22,130,Gremio,1193,Cuiaba,2,0
+1005859,BRA,2023,2023-09-03T19:00:00+00:00,FT,Regular Season - 22,124,Fluminense,154,Fortaleza EC,1,0
+1005862,BRA,2023,2023-09-03T19:00:00+00:00,FT,Regular Season - 22,131,Corinthians,121,Palmeiras,0,0
+1005864,BRA,2023,2023-09-03T21:30:00+00:00,FT,Regular Season - 22,135,Cruzeiro,794,RB Bragantino,0,0
+1005867,BRA,2023,2023-09-03T21:30:00+00:00,FT,Regular Season - 22,118,Bahia,133,Vasco DA Gama,1,1
+1005868,BRA,2023,2023-09-03T21:30:00+00:00,FT,Regular Season - 22,125,America Mineiro,128,Santos,2,0
+1005869,BRA,2023,2023-09-14T00:30:00+00:00,FT,Regular Season - 23,127,Flamengo,134,Atletico Paranaense,0,3
+1005875,BRA,2023,2023-09-14T00:30:00+00:00,FT,Regular Season - 23,119,Internacional,126,Sao Paulo,2,1
+1005872,BRA,2023,2023-09-14T22:00:00+00:00,FT,Regular Season - 23,128,Santos,135,Cruzeiro,0,3
+1005877,BRA,2023,2023-09-14T22:00:00+00:00,FT,Regular Season - 23,154,Fortaleza EC,131,Corinthians,2,1
+1005876,BRA,2023,2023-09-14T23:00:00+00:00,FT,Regular Season - 23,147,Coritiba,118,Bahia,2,4
+1005873,BRA,2023,2023-09-15T00:30:00+00:00,FT,Regular Season - 23,794,RB Bragantino,130,Gremio,2,0
+1005878,BRA,2023,2023-09-15T23:00:00+00:00,FT,Regular Season - 23,1193,Cuiaba,125,America Mineiro,2,2
+1005871,BRA,2023,2023-09-16T00:30:00+00:00,FT,Regular Season - 23,121,Palmeiras,151,Goias,1,0
+1005870,BRA,2023,2023-09-16T19:00:00+00:00,FT,Regular Season - 23,133,Vasco DA Gama,124,Fluminense,4,2
+1005874,BRA,2023,2023-09-17T00:00:00+00:00,FT,Regular Season - 23,1062,Atletico-MG,120,Botafogo,1,0
+1005887,BRA,2023,2023-09-18T23:00:00+00:00,FT,Regular Season - 24,118,Bahia,128,Santos,1,2
+1005792,BRA,2023,2023-09-19T00:00:00+00:00,FT,Regular Season - 15,131,Corinthians,130,Gremio,4,4
+1005888,BRA,2023,2023-09-20T00:30:00+00:00,FT,Regular Season - 24,125,America Mineiro,794,RB Bragantino,0,2
+1005883,BRA,2023,2023-09-20T22:00:00+00:00,FT,Regular Season - 24,151,Goias,127,Flamengo,0,0
+1005879,BRA,2023,2023-09-21T00:30:00+00:00,FT,Regular Season - 24,124,Fluminense,135,Cruzeiro,1,0
+1005881,BRA,2023,2023-09-21T00:30:00+00:00,FT,Regular Season - 24,126,Sao Paulo,154,Fortaleza EC,1,2
+1005880,BRA,2023,2023-09-21T22:00:00+00:00,FT,Regular Season - 24,133,Vasco DA Gama,147,Coritiba,5,1
+1005886,BRA,2023,2023-09-21T22:30:00+00:00,FT,Regular Season - 24,134,Atletico Paranaense,119,Internacional,2,1
+1005885,BRA,2023,2023-09-22T00:30:00+00:00,FT,Regular Season - 24,130,Gremio,121,Palmeiras,1,0
+1005882,BRA,2023,2023-09-22T23:00:00+00:00,FT,Regular Season - 24,131,Corinthians,120,Botafogo,1,0
+1005884,BRA,2023,2023-09-24T00:00:00+00:00,FT,Regular Season - 24,1062,Atletico-MG,1193,Cuiaba,1,0
+1005798,BRA,2023,2023-09-25T23:00:00+00:00,FT,Regular Season - 15,125,America Mineiro,133,Vasco DA Gama,0,1
+1005861,BRA,2023,2023-09-27T22:00:00+00:00,FT,Regular Season - 22,126,Sao Paulo,147,Coritiba,2,1
+1005889,BRA,2023,2023-09-30T19:00:00+00:00,FT,Regular Season - 25,127,Flamengo,118,Bahia,1,0
+1005897,BRA,2023,2023-09-30T19:00:00+00:00,FT,Regular Season - 25,154,Fortaleza EC,130,Gremio,1,1
+1005891,BRA,2023,2023-09-30T21:30:00+00:00,FT,Regular Season - 25,126,Sao Paulo,131,Corinthians,2,1
+1005898,BRA,2023,2023-09-30T21:30:00+00:00,FT,Regular Season - 25,1193,Cuiaba,124,Fluminense,3,0
+1005895,BRA,2023,2023-10-01T00:00:00+00:00,FT,Regular Season - 25,119,Internacional,1062,Atletico-MG,0,2
+1005892,BRA,2023,2023-10-01T19:00:00+00:00,FT,Regular Season - 25,128,Santos,133,Vasco DA Gama,4,1
+1005894,BRA,2023,2023-10-01T19:00:00+00:00,FT,Regular Season - 25,135,Cruzeiro,125,America Mineiro,1,1
+1005896,BRA,2023,2023-10-01T19:00:00+00:00,FT,Regular Season - 25,147,Coritiba,134,Atletico Paranaense,2,0
+1005893,BRA,2023,2023-10-01T21:30:00+00:00,FT,Regular Season - 25,794,RB Bragantino,121,Palmeiras,2,1
+1005890,BRA,2023,2023-10-02T23:00:00+00:00,FT,Regular Season - 25,120,Botafogo,151,Goias,1,1
+1005903,BRA,2023,2023-10-07T19:00:00+00:00,FT,Regular Season - 26,151,Goias,118,Bahia,4,6
+1005900,BRA,2023,2023-10-07T21:30:00+00:00,FT,Regular Season - 26,133,Vasco DA Gama,126,Sao Paulo,0,0
+1005902,BRA,2023,2023-10-08T00:00:00+00:00,FT,Regular Season - 26,131,Corinthians,127,Flamengo,1,1
+1005899,BRA,2023,2023-10-08T19:00:00+00:00,FT,Regular Season - 26,124,Fluminense,120,Botafogo,0,2
+1005901,BRA,2023,2023-10-08T19:00:00+00:00,FT,Regular Season - 26,121,Palmeiras,128,Santos,1,2
+1005905,BRA,2023,2023-10-08T19:00:00+00:00,FT,Regular Season - 26,119,Internacional,130,Gremio,3,2
+1005904,BRA,2023,2023-10-08T21:30:00+00:00,FT,Regular Season - 26,1062,Atletico-MG,147,Coritiba,1,2
+1005906,BRA,2023,2023-10-08T21:30:00+00:00,FT,Regular Season - 26,134,Atletico Paranaense,794,RB Bragantino,1,1
+1005907,BRA,2023,2023-10-08T21:30:00+00:00,FT,Regular Season - 26,154,Fortaleza EC,125,America Mineiro,3,2
+1005908,BRA,2023,2023-10-15T00:00:00+00:00,FT,Regular Season - 26,1193,Cuiaba,135,Cruzeiro,0,0
+1005915,BRA,2023,2023-10-18T22:00:00+00:00,FT,Regular Season - 27,130,Gremio,134,Atletico Paranaense,1,2
+1005916,BRA,2023,2023-10-18T23:00:00+00:00,FT,Regular Season - 27,147,Coritiba,1193,Cuiaba,0,3
+1005918,BRA,2023,2023-10-18T23:00:00+00:00,FT,Regular Season - 27,125,America Mineiro,120,Botafogo,1,2
+1005910,BRA,2023,2023-10-19T00:30:00+00:00,FT,Regular Season - 27,133,Vasco DA Gama,154,Fortaleza EC,1,0
+1005913,BRA,2023,2023-10-19T00:30:00+00:00,FT,Regular Season - 27,151,Goias,126,Sao Paulo,2,0
+1005917,BRA,2023,2023-10-19T00:30:00+00:00,FT,Regular Season - 27,118,Bahia,119,Internacional,1,0
+1005911,BRA,2023,2023-10-19T22:00:00+00:00,FT,Regular Season - 27,121,Palmeiras,1062,Atletico-MG,0,2
+1005914,BRA,2023,2023-10-19T22:00:00+00:00,FT,Regular Season - 27,135,Cruzeiro,127,Flamengo,0,2
+1005912,BRA,2023,2023-10-19T23:00:00+00:00,FT,Regular Season - 27,128,Santos,794,RB Bragantino,1,3
+1005909,BRA,2023,2023-10-20T00:30:00+00:00,FT,Regular Season - 27,124,Fluminense,131,Corinthians,3,3
+1005921,BRA,2023,2023-10-21T21:30:00+00:00,FT,Regular Season - 28,126,Sao Paulo,130,Gremio,3,0
+1005927,BRA,2023,2023-10-21T21:30:00+00:00,FT,Regular Season - 28,118,Bahia,154,Fortaleza EC,2,0
+1005928,BRA,2023,2023-10-21T21:30:00+00:00,FT,Regular Season - 28,1193,Cuiaba,151,Goias,1,1
+1005920,BRA,2023,2023-10-22T00:00:00+00:00,FT,Regular Season - 28,120,Botafogo,134,Atletico Paranaense,1,1
+1005919,BRA,2023,2023-10-22T19:00:00+00:00,FT,Regular Season - 28,127,Flamengo,133,Vasco DA Gama,1,0
+1005924,BRA,2023,2023-10-22T19:00:00+00:00,FT,Regular Season - 28,1062,Atletico-MG,135,Cruzeiro,0,1
+1005925,BRA,2023,2023-10-22T19:00:00+00:00,FT,Regular Season - 28,119,Internacional,128,Santos,7,1
+1005922,BRA,2023,2023-10-22T21:30:00+00:00,FT,Regular Season - 28,131,Corinthians,125,America Mineiro,1,1
+1005923,BRA,2023,2023-10-22T21:30:00+00:00,FT,Regular Season - 28,794,RB Bragantino,124,Fluminense,1,0
+1005926,BRA,2023,2023-10-22T21:30:00+00:00,FT,Regular Season - 28,147,Coritiba,121,Palmeiras,0,2
+1005931,BRA,2023,2023-10-25T23:00:00+00:00,FT,Regular Season - 29,121,Palmeiras,126,Sao Paulo,5,0
+1005934,BRA,2023,2023-10-25T23:00:00+00:00,FT,Regular Season - 29,135,Cruzeiro,118,Bahia,3,0
+1005935,BRA,2023,2023-10-26T00:30:00+00:00,FT,Regular Season - 29,130,Gremio,127,Flamengo,3,2
+1005938,BRA,2023,2023-10-26T00:30:00+00:00,FT,Regular Season - 29,1193,Cuiaba,131,Corinthians,0,1
+1005929,BRA,2023,2023-10-26T22:00:00+00:00,FT,Regular Season - 29,124,Fluminense,151,Goias,5,3
+1005933,BRA,2023,2023-10-26T22:00:00+00:00,FT,Regular Season - 29,794,RB Bragantino,1062,Atletico-MG,1,2
+1005936,BRA,2023,2023-10-26T22:00:00+00:00,FT,Regular Season - 29,134,Atletico Paranaense,125,America Mineiro,3,2
+1005932,BRA,2023,2023-10-27T00:30:00+00:00,FT,Regular Season - 29,128,Santos,147,Coritiba,2,1
+1005930,BRA,2023,2023-10-27T22:00:00+00:00,FT,Regular Season - 29,133,Vasco DA Gama,119,Internacional,1,2
+1005941,BRA,2023,2023-10-28T23:00:00+00:00,FT,Regular Season - 30,121,Palmeiras,118,Bahia,1,0
+1005948,BRA,2023,2023-10-28T23:00:00+00:00,FT,Regular Season - 30,125,America Mineiro,130,Gremio,3,4
+1005944,BRA,2023,2023-10-29T01:00:00+00:00,FT,Regular Season - 30,1062,Atletico-MG,124,Fluminense,2,0
+1005943,BRA,2023,2023-10-29T19:00:00+00:00,FT,Regular Season - 30,151,Goias,133,Vasco DA Gama,1,1
+1005946,BRA,2023,2023-10-29T19:00:00+00:00,FT,Regular Season - 30,134,Atletico Paranaense,126,Sao Paulo,1,1
+1005942,BRA,2023,2023-10-29T21:30:00+00:00,FT,Regular Season - 30,131,Corinthians,128,Santos,1,1
+1005945,BRA,2023,2023-10-29T21:30:00+00:00,FT,Regular Season - 30,119,Internacional,147,Coritiba,3,4
+1005940,BRA,2023,2023-10-29T23:00:00+00:00,FT,Regular Season - 30,120,Botafogo,1193,Cuiaba,0,1
+1005957,BRA,2023,2023-10-31T22:00:00+00:00,FT,Regular Season - 31,118,Bahia,124,Fluminense,1,0
+1005952,BRA,2023,2023-11-01T22:00:00+00:00,FT,Regular Season - 31,131,Corinthians,134,Atletico Paranaense,1,0
+1005955,BRA,2023,2023-11-01T22:00:00+00:00,FT,Regular Season - 31,119,Internacional,125,America Mineiro,1,1
+1005949,BRA,2023,2023-11-01T23:00:00+00:00,FT,Regular Season - 31,127,Flamengo,128,Santos,1,2
+1005956,BRA,2023,2023-11-01T23:00:00+00:00,FT,Regular Season - 31,147,Coritiba,130,Gremio,1,2
+1005950,BRA,2023,2023-11-02T00:30:00+00:00,FT,Regular Season - 31,120,Botafogo,121,Palmeiras,3,4
+1005954,BRA,2023,2023-11-02T00:30:00+00:00,FT,Regular Season - 31,1062,Atletico-MG,154,Fortaleza EC,3,1
+1005958,BRA,2023,2023-11-02T20:00:00+00:00,FT,Regular Season - 31,1193,Cuiaba,133,Vasco DA Gama,0,2
+1005953,BRA,2023,2023-11-02T21:00:00+00:00,FT,Regular Season - 31,151,Goias,794,RB Bragantino,0,2
+1005951,BRA,2023,2023-11-02T23:00:00+00:00,FT,Regular Season - 31,126,Sao Paulo,135,Cruzeiro,1,0
+1005965,BRA,2023,2023-11-04T22:30:00+00:00,FT,Regular Season - 32,130,Gremio,118,Bahia,1,0
+1005968,BRA,2023,2023-11-04T22:30:00+00:00,FT,Regular Season - 32,125,America Mineiro,1062,Atletico-MG,1,1
+1005961,BRA,2023,2023-11-05T00:30:00+00:00,FT,Regular Season - 32,121,Palmeiras,134,Atletico Paranaense,1,0
+1005963,BRA,2023,2023-11-05T19:00:00+00:00,FT,Regular Season - 32,794,RB Bragantino,131,Corinthians,1,0
+1005964,BRA,2023,2023-11-05T19:00:00+00:00,FT,Regular Season - 32,135,Cruzeiro,119,Internacional,1,2
+1005967,BRA,2023,2023-11-05T19:00:00+00:00,FT,Regular Season - 32,154,Fortaleza EC,127,Flamengo,0,2
+1005966,BRA,2023,2023-11-05T21:30:00+00:00,FT,Regular Season - 32,147,Coritiba,151,Goias,0,1
+1005960,BRA,2023,2023-11-06T22:00:00+00:00,FT,Regular Season - 32,133,Vasco DA Gama,120,Botafogo,1,0
+1005962,BRA,2023,2023-11-07T00:00:00+00:00,FT,Regular Season - 32,128,Santos,1193,Cuiaba,0,0
+1005975,BRA,2023,2023-11-08T22:00:00+00:00,FT,Regular Season - 33,119,Internacional,124,Fluminense,0,0
+1005978,BRA,2023,2023-11-08T22:00:00+00:00,FT,Regular Season - 33,125,America Mineiro,147,Coritiba,0,3
+1005971,BRA,2023,2023-11-08T23:00:00+00:00,FT,Regular Season - 33,126,Sao Paulo,794,RB Bragantino,1,0
+1005976,BRA,2023,2023-11-08T23:00:00+00:00,FT,Regular Season - 33,134,Atletico Paranaense,154,Fortaleza EC,1,1
+1005969,BRA,2023,2023-11-09T00:30:00+00:00,FT,Regular Season - 33,127,Flamengo,121,Palmeiras,3,0
+1005972,BRA,2023,2023-11-09T22:00:00+00:00,FT,Regular Season - 33,131,Corinthians,1062,Atletico-MG,1,1
+1005973,BRA,2023,2023-11-09T22:00:00+00:00,FT,Regular Season - 33,151,Goias,128,Santos,0,1
+1005970,BRA,2023,2023-11-09T23:00:00+00:00,FT,Regular Season - 33,120,Botafogo,130,Gremio,3,4
+1005977,BRA,2023,2023-11-09T23:00:00+00:00,FT,Regular Season - 33,118,Bahia,1193,Cuiaba,0,3
+1005986,BRA,2023,2023-11-11T19:00:00+00:00,FT,Regular Season - 34,147,Coritiba,135,Cruzeiro,1,0
+1005979,BRA,2023,2023-11-11T21:30:00+00:00,FT,Regular Season - 34,127,Flamengo,124,Fluminense,1,1
+1005981,BRA,2023,2023-11-12T00:00:00+00:00,FT,Regular Season - 34,121,Palmeiras,119,Internacional,3,0
+1005983,BRA,2023,2023-11-12T19:00:00+00:00,FT,Regular Season - 34,794,RB Bragantino,120,Botafogo,2,2
+1005985,BRA,2023,2023-11-12T19:00:00+00:00,FT,Regular Season - 34,130,Gremio,131,Corinthians,0,1
+1005980,BRA,2023,2023-11-12T21:30:00+00:00,FT,Regular Season - 34,133,Vasco DA Gama,125,America Mineiro,2,1
+1005982,BRA,2023,2023-11-12T21:30:00+00:00,FT,Regular Season - 34,128,Santos,126,Sao Paulo,0,0
+1005984,BRA,2023,2023-11-12T21:30:00+00:00,FT,Regular Season - 34,1062,Atletico-MG,151,Goias,2,1
+1005987,BRA,2023,2023-11-12T21:30:00+00:00,FT,Regular Season - 34,118,Bahia,134,Atletico Paranaense,1,1
+1005988,BRA,2023,2023-11-12T21:30:00+00:00,FT,Regular Season - 34,1193,Cuiaba,154,Fortaleza EC,2,1
+1005947,BRA,2023,2023-11-18T21:30:00+00:00,FT,Regular Season - 30,154,Fortaleza EC,135,Cruzeiro,0,1
+1005974,BRA,2023,2023-11-22T22:00:00+00:00,FT,Regular Season - 33,135,Cruzeiro,133,Vasco DA Gama,2,2
+1005959,BRA,2023,2023-11-23T00:30:00+00:00,FT,Regular Season - 32,124,Fluminense,126,Sao Paulo,1,0
+1005937,BRA,2023,2023-11-23T22:00:00+00:00,FT,Regular Season - 29,154,Fortaleza EC,120,Botafogo,2,2
+1005939,BRA,2023,2023-11-24T00:30:00+00:00,FT,Regular Season - 30,127,Flamengo,794,RB Bragantino,1,0
+1005992,BRA,2023,2023-11-25T00:00:00+00:00,FT,Regular Season - 35,131,Corinthians,118,Bahia,1,5
+1005996,BRA,2023,2023-11-25T22:30:00+00:00,FT,Regular Season - 35,134,Atletico Paranaense,133,Vasco DA Gama,0,0
+1005989,BRA,2023,2023-11-26T00:00:00+00:00,FT,Regular Season - 35,124,Fluminense,147,Coritiba,2,1
+1005990,BRA,2023,2023-11-26T19:00:00+00:00,FT,Regular Season - 35,120,Botafogo,128,Santos,1,1
+1005994,BRA,2023,2023-11-26T19:00:00+00:00,FT,Regular Season - 35,1062,Atletico-MG,130,Gremio,3,0
+1005991,BRA,2023,2023-11-26T21:30:00+00:00,FT,Regular Season - 35,126,Sao Paulo,1193,Cuiaba,0,0
+1005995,BRA,2023,2023-11-26T21:30:00+00:00,FT,Regular Season - 35,119,Internacional,794,RB Bragantino,1,0
+1005997,BRA,2023,2023-11-26T21:30:00+00:00,FT,Regular Season - 35,154,Fortaleza EC,121,Palmeiras,2,2
+1005998,BRA,2023,2023-11-26T21:30:00+00:00,FT,Regular Season - 35,125,America Mineiro,127,Flamengo,0,3
+1005993,BRA,2023,2023-11-28T00:00:00+00:00,FT,Regular Season - 35,151,Goias,135,Cruzeiro,0,1
+1006000,BRA,2023,2023-11-29T00:30:00+00:00,FT,Regular Season - 36,133,Vasco DA Gama,131,Corinthians,2,4
+1006002,BRA,2023,2023-11-29T22:00:00+00:00,FT,Regular Season - 36,128,Santos,124,Fluminense,0,3
+1005999,BRA,2023,2023-11-29T22:30:00+00:00,FT,Regular Season - 36,127,Flamengo,1062,Atletico-MG,0,3
+1006007,BRA,2023,2023-11-29T23:00:00+00:00,FT,Regular Season - 36,118,Bahia,126,Sao Paulo,0,1
+1006008,BRA,2023,2023-11-29T23:00:00+00:00,FT,Regular Season - 36,1193,Cuiaba,119,Internacional,0,2
+1006001,BRA,2023,2023-11-30T00:30:00+00:00,FT,Regular Season - 36,121,Palmeiras,125,America Mineiro,4,0
+1006006,BRA,2023,2023-11-30T00:30:00+00:00,FT,Regular Season - 36,147,Coritiba,120,Botafogo,1,1
+1006005,BRA,2023,2023-11-30T22:00:00+00:00,FT,Regular Season - 36,130,Gremio,151,Goias,2,1
+1006004,BRA,2023,2023-11-30T23:00:00+00:00,FT,Regular Season - 36,135,Cruzeiro,134,Atletico Paranaense,1,1
+1006003,BRA,2023,2023-11-30T23:30:00+00:00,FT,Regular Season - 36,794,RB Bragantino,154,Fortaleza EC,1,2
+1006012,BRA,2023,2023-12-02T21:00:00+00:00,FT,Regular Season - 37,131,Corinthians,119,Internacional,1,2
+1006014,BRA,2023,2023-12-03T00:00:00+00:00,FT,Regular Season - 37,1062,Atletico-MG,126,Sao Paulo,2,1
+1006009,BRA,2023,2023-12-03T19:00:00+00:00,FT,Regular Season - 37,127,Flamengo,1193,Cuiaba,2,1
+1006011,BRA,2023,2023-12-03T19:00:00+00:00,FT,Regular Season - 37,121,Palmeiras,124,Fluminense,1,0
+1006010,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,120,Botafogo,135,Cruzeiro,0,0
+1006013,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,794,RB Bragantino,147,Coritiba,1,0
+1006015,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,130,Gremio,133,Vasco DA Gama,1,0
+1006016,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,134,Atletico Paranaense,128,Santos,3,0
+1006017,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,154,Fortaleza EC,151,Goias,1,0
+1006018,BRA,2023,2023-12-03T21:30:00+00:00,FT,Regular Season - 37,125,America Mineiro,118,Bahia,3,2
+1006023,BRA,2023,2023-12-06T22:00:00+00:00,FT,Regular Season - 38,151,Goias,125,America Mineiro,1,0
+1006019,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,124,Fluminense,130,Gremio,2,3
+1006020,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,133,Vasco DA Gama,794,RB Bragantino,2,1
+1006021,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,126,Sao Paulo,127,Flamengo,1,0
+1006022,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,128,Santos,154,Fortaleza EC,1,2
+1006024,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,135,Cruzeiro,121,Palmeiras,1,1
+1006025,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,119,Internacional,120,Botafogo,3,1
+1006026,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,147,Coritiba,131,Corinthians,0,2
+1006027,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,118,Bahia,1062,Atletico-MG,4,1
+1006028,BRA,2023,2023-12-07T00:30:00+00:00,FT,Regular Season - 38,1193,Cuiaba,134,Atletico Paranaense,3,0

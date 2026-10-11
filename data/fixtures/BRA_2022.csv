@@ -1,0 +1,381 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+837992,BRA,2022,2022-04-09T19:30:00+00:00,FT,Regular Season - 1,124,Fluminense,128,Santos,0,0
+837998,BRA,2022,2022-04-09T22:00:00+00:00,FT,Regular Season - 1,144,Atletico Goianiense,127,Flamengo,1,1
+837994,BRA,2022,2022-04-10T00:00:00+00:00,FT,Regular Season - 1,121,Palmeiras,129,Ceara,2,3
+838000,BRA,2022,2022-04-10T14:00:00+00:00,FT,Regular Season - 1,147,Coritiba,151,Goias,3,0
+837991,BRA,2022,2022-04-10T19:00:00+00:00,FT,Regular Season - 1,1062,Atletico-MG,119,Internacional,2,0
+837995,BRA,2022,2022-04-10T19:00:00+00:00,FT,Regular Season - 1,120,Botafogo,131,Corinthians,1,3
+837997,BRA,2022,2022-04-10T21:00:00+00:00,FT,Regular Season - 1,154,Fortaleza EC,1193,Cuiaba,0,1
+837993,BRA,2022,2022-04-10T22:00:00+00:00,FT,Regular Season - 1,126,Sao Paulo,134,Atletico Paranaense,4,0
+837999,BRA,2022,2022-04-10T22:00:00+00:00,FT,Regular Season - 1,145,Avai,125,America Mineiro,1,0
+837996,BRA,2022,2022-04-11T23:00:00+00:00,FT,Regular Season - 1,152,Juventude,794,RB Bragantino,2,2
+838008,BRA,2022,2022-04-16T19:30:00+00:00,FT,Regular Season - 2,151,Goias,121,Palmeiras,1,1
+838001,BRA,2022,2022-04-16T22:00:00+00:00,FT,Regular Season - 2,125,America Mineiro,152,Juventude,4,1
+838004,BRA,2022,2022-04-16T22:00:00+00:00,FT,Regular Season - 2,131,Corinthians,145,Avai,3,0
+838009,BRA,2022,2022-04-17T00:00:00+00:00,FT,Regular Season - 2,1193,Cuiaba,124,Fluminense,0,1
+838005,BRA,2022,2022-04-17T14:00:00+00:00,FT,Regular Season - 2,128,Santos,147,Coritiba,2,1
+838002,BRA,2022,2022-04-17T19:00:00+00:00,FT,Regular Season - 2,127,Flamengo,126,Sao Paulo,3,1
+838003,BRA,2022,2022-04-17T21:00:00+00:00,FT,Regular Season - 2,794,RB Bragantino,144,Atletico Goianiense,4,0
+838006,BRA,2022,2022-04-17T21:00:00+00:00,FT,Regular Season - 2,119,Internacional,154,Fortaleza EC,2,1
+838010,BRA,2022,2022-04-17T21:00:00+00:00,FT,Regular Season - 2,134,Atletico Paranaense,1062,Atletico-MG,0,1
+838007,BRA,2022,2022-04-17T22:00:00+00:00,FT,Regular Season - 2,129,Ceara,120,Botafogo,1,3
+838022,BRA,2022,2022-04-20T22:30:00+00:00,FT,Regular Season - 4,127,Flamengo,121,Palmeiras,0,0
+838013,BRA,2022,2022-04-23T19:30:00+00:00,FT,Regular Season - 3,794,RB Bragantino,126,Sao Paulo,1,1
+838020,BRA,2022,2022-04-23T19:30:00+00:00,FT,Regular Season - 3,134,Atletico Paranaense,127,Flamengo,1,0
+838012,BRA,2022,2022-04-23T22:00:00+00:00,FT,Regular Season - 3,124,Fluminense,119,Internacional,0,1
+838014,BRA,2022,2022-04-23T22:00:00+00:00,FT,Regular Season - 3,121,Palmeiras,131,Corinthians,3,0
+838011,BRA,2022,2022-04-24T00:00:00+00:00,FT,Regular Season - 3,1062,Atletico-MG,147,Coritiba,2,2
+838015,BRA,2022,2022-04-24T19:00:00+00:00,FT,Regular Season - 3,128,Santos,125,America Mineiro,3,0
+838016,BRA,2022,2022-04-24T21:00:00+00:00,FT,Regular Season - 3,152,Juventude,1193,Cuiaba,0,1
+838018,BRA,2022,2022-04-24T21:30:00+00:00,FT,Regular Season - 3,144,Atletico Goianiense,120,Botafogo,1,1
+838019,BRA,2022,2022-04-25T23:00:00+00:00,FT,Regular Season - 3,145,Avai,151,Goias,3,2
+838021,BRA,2022,2022-04-30T19:30:00+00:00,FT,Regular Season - 4,125,America Mineiro,134,Atletico Paranaense,1,0
+838027,BRA,2022,2022-04-30T19:30:00+00:00,FT,Regular Season - 4,129,Ceara,794,RB Bragantino,0,1
+838028,BRA,2022,2022-04-30T21:30:00+00:00,FT,Regular Season - 4,151,Goias,1062,Atletico-MG,2,2
+838029,BRA,2022,2022-04-30T22:00:00+00:00,FT,Regular Season - 4,1193,Cuiaba,144,Atletico Goianiense,1,1
+838025,BRA,2022,2022-05-01T14:00:00+00:00,FT,Regular Season - 4,120,Botafogo,152,Juventude,1,1
+838024,BRA,2022,2022-05-01T19:00:00+00:00,FT,Regular Season - 4,131,Corinthians,154,Fortaleza EC,1,0
+838030,BRA,2022,2022-05-01T19:00:00+00:00,FT,Regular Season - 4,147,Coritiba,124,Fluminense,3,2
+838026,BRA,2022,2022-05-01T22:00:00+00:00,FT,Regular Season - 4,119,Internacional,145,Avai,0,0
+838023,BRA,2022,2022-05-02T23:00:00+00:00,FT,Regular Season - 4,126,Sao Paulo,128,Santos,2,1
+838031,BRA,2022,2022-05-07T19:30:00+00:00,FT,Regular Season - 5,1062,Atletico-MG,125,America Mineiro,1,2
+838040,BRA,2022,2022-05-07T23:30:00+00:00,FT,Regular Season - 5,134,Atletico Paranaense,129,Ceara,1,0
+838032,BRA,2022,2022-05-08T14:00:00+00:00,FT,Regular Season - 5,127,Flamengo,120,Botafogo,0,1
+838034,BRA,2022,2022-05-08T19:00:00+00:00,FT,Regular Season - 5,121,Palmeiras,124,Fluminense,1,1
+838038,BRA,2022,2022-05-08T19:00:00+00:00,FT,Regular Season - 5,144,Atletico Goianiense,151,Goias,0,1
+838033,BRA,2022,2022-05-08T21:00:00+00:00,FT,Regular Season - 5,794,RB Bragantino,131,Corinthians,0,1
+838035,BRA,2022,2022-05-08T21:00:00+00:00,FT,Regular Season - 5,128,Santos,1193,Cuiaba,4,1
+838036,BRA,2022,2022-05-08T22:00:00+00:00,FT,Regular Season - 5,152,Juventude,119,Internacional,1,1
+838037,BRA,2022,2022-05-08T22:00:00+00:00,FT,Regular Season - 5,154,Fortaleza EC,126,Sao Paulo,1,1
+838039,BRA,2022,2022-05-09T23:00:00+00:00,FT,Regular Season - 5,145,Avai,147,Coritiba,2,1
+838053,BRA,2022,2022-05-11T23:30:00+00:00,FT,Regular Season - 7,794,RB Bragantino,1062,Atletico-MG,1,1
+838044,BRA,2022,2022-05-14T19:30:00+00:00,FT,Regular Season - 6,121,Palmeiras,794,RB Bragantino,2,0
+838047,BRA,2022,2022-05-14T19:30:00+00:00,FT,Regular Season - 6,129,Ceara,127,Flamengo,2,2
+838041,BRA,2022,2022-05-14T22:00:00+00:00,FT,Regular Season - 6,1062,Atletico-MG,144,Atletico Goianiense,2,0
+838046,BRA,2022,2022-05-14T22:00:00+00:00,FT,Regular Season - 6,119,Internacional,131,Corinthians,2,2
+838042,BRA,2022,2022-05-15T00:00:00+00:00,FT,Regular Season - 6,124,Fluminense,134,Atletico Paranaense,2,1
+838043,BRA,2022,2022-05-15T19:00:00+00:00,FT,Regular Season - 6,126,Sao Paulo,1193,Cuiaba,2,1
+838050,BRA,2022,2022-05-15T20:30:00+00:00,FT,Regular Season - 6,147,Coritiba,125,America Mineiro,1,0
+838045,BRA,2022,2022-05-15T21:00:00+00:00,FT,Regular Season - 6,120,Botafogo,154,Fortaleza EC,3,1
+838049,BRA,2022,2022-05-15T21:00:00+00:00,FT,Regular Season - 6,145,Avai,152,Juventude,1,2
+838048,BRA,2022,2022-05-15T22:00:00+00:00,FT,Regular Season - 6,151,Goias,128,Santos,1,0
+838052,BRA,2022,2022-05-21T19:30:00+00:00,FT,Regular Season - 7,127,Flamengo,151,Goias,1,0
+838058,BRA,2022,2022-05-21T19:30:00+00:00,FT,Regular Season - 7,144,Atletico Goianiense,147,Coritiba,2,0
+838055,BRA,2022,2022-05-21T21:30:00+00:00,FT,Regular Season - 7,128,Santos,129,Ceara,0,0
+838056,BRA,2022,2022-05-21T22:00:00+00:00,FT,Regular Season - 7,152,Juventude,121,Palmeiras,0,3
+838051,BRA,2022,2022-05-22T00:00:00+00:00,FT,Regular Season - 7,125,America Mineiro,120,Botafogo,1,1
+838059,BRA,2022,2022-05-22T00:00:00+00:00,FT,Regular Season - 7,1193,Cuiaba,119,Internacional,1,1
+838054,BRA,2022,2022-05-22T19:00:00+00:00,FT,Regular Season - 7,131,Corinthians,126,Sao Paulo,1,1
+838057,BRA,2022,2022-05-22T19:00:00+00:00,FT,Regular Season - 7,154,Fortaleza EC,124,Fluminense,0,1
+838060,BRA,2022,2022-05-22T22:00:00+00:00,FT,Regular Season - 7,134,Atletico Paranaense,145,Avai,2,1
+838068,BRA,2022,2022-05-28T19:30:00+00:00,FT,Regular Season - 8,151,Goias,794,RB Bragantino,1,1
+838063,BRA,2022,2022-05-28T22:00:00+00:00,FT,Regular Season - 8,126,Sao Paulo,129,Ceara,2,2
+838067,BRA,2022,2022-05-28T23:30:00+00:00,FT,Regular Season - 8,154,Fortaleza EC,152,Juventude,1,1
+838065,BRA,2022,2022-05-29T19:00:00+00:00,FT,Regular Season - 8,128,Santos,121,Palmeiras,0,1
+838070,BRA,2022,2022-05-29T19:00:00+00:00,FT,Regular Season - 8,147,Coritiba,120,Botafogo,1,0
+838062,BRA,2022,2022-05-29T21:00:00+00:00,FT,Regular Season - 8,124,Fluminense,127,Flamengo,1,2
+838064,BRA,2022,2022-05-29T21:00:00+00:00,FT,Regular Season - 8,131,Corinthians,125,America Mineiro,1,1
+838069,BRA,2022,2022-05-29T21:00:00+00:00,FT,Regular Season - 8,1193,Cuiaba,134,Atletico Paranaense,0,1
+838061,BRA,2022,2022-05-29T22:00:00+00:00,FT,Regular Season - 8,1062,Atletico-MG,145,Avai,2,1
+838066,BRA,2022,2022-05-30T23:00:00+00:00,FT,Regular Season - 8,119,Internacional,144,Atletico Goianiense,1,1
+838017,BRA,2022,2022-06-01T23:30:00+00:00,FT,Regular Season - 3,154,Fortaleza EC,129,Ceara,0,1
+838071,BRA,2022,2022-06-04T19:30:00+00:00,FT,Regular Season - 9,125,America Mineiro,1193,Cuiaba,2,1
+838077,BRA,2022,2022-06-04T22:00:00+00:00,FT,Regular Season - 9,129,Ceara,147,Coritiba,1,1
+838079,BRA,2022,2022-06-04T22:00:00+00:00,FT,Regular Season - 9,145,Avai,126,Sao Paulo,1,1
+838080,BRA,2022,2022-06-04T22:00:00+00:00,FT,Regular Season - 9,134,Atletico Paranaense,128,Santos,2,2
+838078,BRA,2022,2022-06-04T23:30:00+00:00,FT,Regular Season - 9,144,Atletico Goianiense,131,Corinthians,0,1
+838076,BRA,2022,2022-06-05T14:00:00+00:00,FT,Regular Season - 9,152,Juventude,124,Fluminense,1,0
+838072,BRA,2022,2022-06-05T19:00:00+00:00,FT,Regular Season - 9,127,Flamengo,154,Fortaleza EC,1,2
+838074,BRA,2022,2022-06-05T19:00:00+00:00,FT,Regular Season - 9,121,Palmeiras,1062,Atletico-MG,0,0
+838073,BRA,2022,2022-06-05T22:00:00+00:00,FT,Regular Season - 9,794,RB Bragantino,119,Internacional,0,2
+838075,BRA,2022,2022-06-06T23:00:00+00:00,FT,Regular Season - 9,120,Botafogo,151,Goias,1,2
+838089,BRA,2022,2022-06-08T00:30:00+00:00,FT,Regular Season - 10,1193,Cuiaba,131,Corinthians,1,0
+838081,BRA,2022,2022-06-08T22:00:00+00:00,FT,Regular Season - 10,125,America Mineiro,129,Ceara,0,2
+838086,BRA,2022,2022-06-08T22:00:00+00:00,FT,Regular Season - 10,152,Juventude,134,Atletico Paranaense,1,3
+838083,BRA,2022,2022-06-08T23:30:00+00:00,FT,Regular Season - 10,794,RB Bragantino,127,Flamengo,1,0
+838088,BRA,2022,2022-06-08T23:30:00+00:00,FT,Regular Season - 10,144,Atletico Goianiense,145,Avai,2,1
+838082,BRA,2022,2022-06-09T00:30:00+00:00,FT,Regular Season - 10,124,Fluminense,1062,Atletico-MG,5,3
+838085,BRA,2022,2022-06-09T00:30:00+00:00,FT,Regular Season - 10,128,Santos,119,Internacional,1,1
+838084,BRA,2022,2022-06-09T22:00:00+00:00,FT,Regular Season - 10,121,Palmeiras,120,Botafogo,4,0
+838087,BRA,2022,2022-06-09T23:00:00+00:00,FT,Regular Season - 10,154,Fortaleza EC,151,Goias,1,1
+838090,BRA,2022,2022-06-09T23:00:00+00:00,FT,Regular Season - 10,147,Coritiba,126,Sao Paulo,1,1
+838094,BRA,2022,2022-06-11T19:30:00+00:00,FT,Regular Season - 11,131,Corinthians,152,Juventude,2,0
+838091,BRA,2022,2022-06-11T22:00:00+00:00,FT,Regular Season - 11,1062,Atletico-MG,128,Santos,1,1
+838092,BRA,2022,2022-06-11T22:00:00+00:00,FT,Regular Season - 11,124,Fluminense,144,Atletico Goianiense,0,2
+838099,BRA,2022,2022-06-11T22:00:00+00:00,FT,Regular Season - 11,1193,Cuiaba,794,RB Bragantino,1,1
+838096,BRA,2022,2022-06-12T00:00:00+00:00,FT,Regular Season - 11,119,Internacional,127,Flamengo,3,1
+838093,BRA,2022,2022-06-12T19:00:00+00:00,FT,Regular Season - 11,126,Sao Paulo,125,America Mineiro,1,0
+838098,BRA,2022,2022-06-12T19:00:00+00:00,FT,Regular Season - 11,151,Goias,129,Ceara,1,1
+838100,BRA,2022,2022-06-12T21:00:00+00:00,FT,Regular Season - 11,147,Coritiba,121,Palmeiras,0,2
+838097,BRA,2022,2022-06-12T22:00:00+00:00,FT,Regular Season - 11,154,Fortaleza EC,134,Atletico Paranaense,0,0
+838095,BRA,2022,2022-06-13T22:00:00+00:00,FT,Regular Season - 11,120,Botafogo,145,Avai,0,1
+838106,BRA,2022,2022-06-15T00:30:00+00:00,FT,Regular Season - 12,152,Juventude,128,Santos,1,2
+838103,BRA,2022,2022-06-15T22:00:00+00:00,FT,Regular Season - 12,794,RB Bragantino,147,Coritiba,4,2
+838107,BRA,2022,2022-06-15T22:00:00+00:00,FT,Regular Season - 12,129,Ceara,1062,Atletico-MG,0,0
+838102,BRA,2022,2022-06-15T23:30:00+00:00,FT,Regular Season - 12,127,Flamengo,1193,Cuiaba,2,0
+838108,BRA,2022,2022-06-15T23:30:00+00:00,FT,Regular Season - 12,151,Goias,119,Internacional,1,2
+838101,BRA,2022,2022-06-16T00:30:00+00:00,FT,Regular Season - 12,125,America Mineiro,124,Fluminense,0,0
+838110,BRA,2022,2022-06-16T00:30:00+00:00,FT,Regular Season - 12,134,Atletico Paranaense,131,Corinthians,1,1
+838105,BRA,2022,2022-06-16T19:00:00+00:00,FT,Regular Season - 12,120,Botafogo,126,Sao Paulo,1,0
+838104,BRA,2022,2022-06-16T21:00:00+00:00,FT,Regular Season - 12,121,Palmeiras,144,Atletico Goianiense,4,2
+838109,BRA,2022,2022-06-16T22:00:00+00:00,FT,Regular Season - 12,145,Avai,154,Fortaleza EC,3,2
+838119,BRA,2022,2022-06-18T22:00:00+00:00,FT,Regular Season - 13,1193,Cuiaba,129,Ceara,0,0
+838115,BRA,2022,2022-06-19T00:00:00+00:00,FT,Regular Season - 13,128,Santos,794,RB Bragantino,2,2
+838111,BRA,2022,2022-06-19T19:00:00+00:00,FT,Regular Season - 13,1062,Atletico-MG,127,Flamengo,2,0
+838114,BRA,2022,2022-06-19T19:00:00+00:00,FT,Regular Season - 13,131,Corinthians,151,Goias,1,0
+838120,BRA,2022,2022-06-19T19:00:00+00:00,FT,Regular Season - 13,147,Coritiba,134,Atletico Paranaense,0,1
+838116,BRA,2022,2022-06-19T21:00:00+00:00,FT,Regular Season - 13,119,Internacional,120,Botafogo,2,3
+838117,BRA,2022,2022-06-19T21:00:00+00:00,FT,Regular Season - 13,154,Fortaleza EC,125,America Mineiro,1,0
+838118,BRA,2022,2022-06-19T21:00:00+00:00,FT,Regular Season - 13,144,Atletico Goianiense,152,Juventude,3,1
+838112,BRA,2022,2022-06-19T22:00:00+00:00,FT,Regular Season - 13,124,Fluminense,145,Avai,2,0
+838113,BRA,2022,2022-06-20T23:00:00+00:00,FT,Regular Season - 13,126,Sao Paulo,121,Palmeiras,1,2
+838126,BRA,2022,2022-06-25T00:30:00+00:00,FT,Regular Season - 14,119,Internacional,147,Coritiba,3,0
+838130,BRA,2022,2022-06-25T19:30:00+00:00,FT,Regular Season - 14,134,Atletico Paranaense,794,RB Bragantino,4,2
+838122,BRA,2022,2022-06-25T22:00:00+00:00,FT,Regular Season - 14,127,Flamengo,125,America Mineiro,3,0
+838124,BRA,2022,2022-06-25T22:00:00+00:00,FT,Regular Season - 14,131,Corinthians,128,Santos,0,0
+838121,BRA,2022,2022-06-26T00:00:00+00:00,FT,Regular Season - 14,1062,Atletico-MG,154,Fortaleza EC,3,2
+838125,BRA,2022,2022-06-26T19:00:00+00:00,FT,Regular Season - 14,120,Botafogo,124,Fluminense,0,1
+838129,BRA,2022,2022-06-26T19:00:00+00:00,FT,Regular Season - 14,145,Avai,121,Palmeiras,2,2
+838123,BRA,2022,2022-06-26T21:00:00+00:00,FT,Regular Season - 14,126,Sao Paulo,152,Juventude,0,0
+838127,BRA,2022,2022-06-26T21:00:00+00:00,FT,Regular Season - 14,129,Ceara,144,Atletico Goianiense,1,1
+838128,BRA,2022,2022-06-26T21:00:00+00:00,FT,Regular Season - 14,151,Goias,1193,Cuiaba,1,0
+838132,BRA,2022,2022-07-02T19:30:00+00:00,FT,Regular Season - 15,124,Fluminense,131,Corinthians,4,0
+838136,BRA,2022,2022-07-02T19:30:00+00:00,FT,Regular Season - 15,152,Juventude,1062,Atletico-MG,1,2
+838135,BRA,2022,2022-07-02T22:00:00+00:00,FT,Regular Season - 15,128,Santos,127,Flamengo,1,2
+838137,BRA,2022,2022-07-02T22:00:00+00:00,FT,Regular Season - 15,129,Ceara,119,Internacional,1,1
+838134,BRA,2022,2022-07-03T00:00:00+00:00,FT,Regular Season - 15,121,Palmeiras,134,Atletico Paranaense,0,2
+838139,BRA,2022,2022-07-03T14:00:00+00:00,FT,Regular Season - 15,145,Avai,1193,Cuiaba,1,2
+838138,BRA,2022,2022-07-03T19:00:00+00:00,FT,Regular Season - 15,144,Atletico Goianiense,126,Sao Paulo,1,2
+838131,BRA,2022,2022-07-03T21:00:00+00:00,FT,Regular Season - 15,125,America Mineiro,151,Goias,1,0
+838140,BRA,2022,2022-07-03T21:00:00+00:00,FT,Regular Season - 15,147,Coritiba,154,Fortaleza EC,2,1
+838133,BRA,2022,2022-07-04T23:00:00+00:00,FT,Regular Season - 15,794,RB Bragantino,120,Botafogo,0,1
+838143,BRA,2022,2022-07-09T19:30:00+00:00,FT,Regular Season - 16,794,RB Bragantino,145,Avai,4,0
+838142,BRA,2022,2022-07-09T22:00:00+00:00,FT,Regular Season - 16,124,Fluminense,129,Ceara,2,1
+838148,BRA,2022,2022-07-09T23:30:00+00:00,FT,Regular Season - 16,151,Goias,134,Atletico Paranaense,2,1
+838150,BRA,2022,2022-07-10T14:00:00+00:00,FT,Regular Season - 16,147,Coritiba,152,Juventude,2,2
+838144,BRA,2022,2022-07-10T19:00:00+00:00,FT,Regular Season - 16,131,Corinthians,127,Flamengo,1,0
+838141,BRA,2022,2022-07-10T21:00:00+00:00,FT,Regular Season - 16,1062,Atletico-MG,126,Sao Paulo,0,0
+838145,BRA,2022,2022-07-10T21:00:00+00:00,FT,Regular Season - 16,128,Santos,144,Atletico Goianiense,1,0
+838147,BRA,2022,2022-07-10T21:00:00+00:00,FT,Regular Season - 16,154,Fortaleza EC,121,Palmeiras,0,0
+838149,BRA,2022,2022-07-10T22:00:00+00:00,FT,Regular Season - 16,1193,Cuiaba,120,Botafogo,2,0
+838146,BRA,2022,2022-07-11T23:00:00+00:00,FT,Regular Season - 16,119,Internacional,125,America Mineiro,1,0
+838160,BRA,2022,2022-07-16T19:30:00+00:00,FT,Regular Season - 17,134,Atletico Paranaense,119,Internacional,0,0
+838152,BRA,2022,2022-07-16T22:00:00+00:00,FT,Regular Season - 17,127,Flamengo,147,Coritiba,2,0
+838159,BRA,2022,2022-07-16T22:00:00+00:00,FT,Regular Season - 17,145,Avai,128,Santos,1,0
+838157,BRA,2022,2022-07-17T00:00:00+00:00,FT,Regular Season - 17,129,Ceara,131,Corinthians,3,1
+838156,BRA,2022,2022-07-17T14:00:00+00:00,FT,Regular Season - 17,152,Juventude,151,Goias,0,0
+838153,BRA,2022,2022-07-17T19:00:00+00:00,FT,Regular Season - 17,126,Sao Paulo,124,Fluminense,2,2
+838155,BRA,2022,2022-07-17T21:00:00+00:00,FT,Regular Season - 17,120,Botafogo,1062,Atletico-MG,0,1
+838158,BRA,2022,2022-07-17T21:00:00+00:00,FT,Regular Season - 17,144,Atletico Goianiense,154,Fortaleza EC,0,1
+838151,BRA,2022,2022-07-17T22:00:00+00:00,FT,Regular Season - 17,125,America Mineiro,794,RB Bragantino,0,3
+838154,BRA,2022,2022-07-18T23:00:00+00:00,FT,Regular Season - 17,121,Palmeiras,1193,Cuiaba,1,0
+838167,BRA,2022,2022-07-20T00:30:00+00:00,FT,Regular Season - 18,129,Ceara,145,Avai,1,0
+838163,BRA,2022,2022-07-20T22:00:00+00:00,FT,Regular Season - 18,794,RB Bragantino,154,Fortaleza EC,2,1
+838168,BRA,2022,2022-07-20T22:00:00+00:00,FT,Regular Season - 18,151,Goias,124,Fluminense,2,3
+838170,BRA,2022,2022-07-20T22:30:00+00:00,FT,Regular Season - 18,134,Atletico Paranaense,144,Atletico Goianiense,4,1
+838162,BRA,2022,2022-07-20T23:30:00+00:00,FT,Regular Season - 18,127,Flamengo,152,Juventude,4,0
+838166,BRA,2022,2022-07-20T23:30:00+00:00,FT,Regular Season - 18,119,Internacional,126,Sao Paulo,3,3
+838164,BRA,2022,2022-07-21T00:30:00+00:00,FT,Regular Season - 18,131,Corinthians,147,Coritiba,3,1
+838165,BRA,2022,2022-07-21T00:30:00+00:00,FT,Regular Season - 18,128,Santos,120,Botafogo,2,0
+838169,BRA,2022,2022-07-21T22:00:00+00:00,FT,Regular Season - 18,1193,Cuiaba,1062,Atletico-MG,1,1
+838161,BRA,2022,2022-07-21T23:00:00+00:00,FT,Regular Season - 18,125,America Mineiro,121,Palmeiras,0,1
+838173,BRA,2022,2022-07-23T22:00:00+00:00,FT,Regular Season - 19,126,Sao Paulo,151,Goias,3,3
+838175,BRA,2022,2022-07-24T00:00:00+00:00,FT,Regular Season - 19,120,Botafogo,134,Atletico Paranaense,2,0
+838179,BRA,2022,2022-07-24T14:00:00+00:00,FT,Regular Season - 19,145,Avai,127,Flamengo,1,2
+838172,BRA,2022,2022-07-24T19:00:00+00:00,FT,Regular Season - 19,124,Fluminense,794,RB Bragantino,2,1
+838174,BRA,2022,2022-07-24T19:00:00+00:00,FT,Regular Season - 19,121,Palmeiras,119,Internacional,2,1
+838176,BRA,2022,2022-07-24T19:00:00+00:00,FT,Regular Season - 19,152,Juventude,129,Ceara,1,0
+838171,BRA,2022,2022-07-24T21:00:00+00:00,FT,Regular Season - 19,1062,Atletico-MG,131,Corinthians,1,2
+838178,BRA,2022,2022-07-24T21:00:00+00:00,FT,Regular Season - 19,144,Atletico Goianiense,125,America Mineiro,0,1
+838177,BRA,2022,2022-07-24T22:00:00+00:00,FT,Regular Season - 19,154,Fortaleza EC,128,Santos,0,0
+838180,BRA,2022,2022-07-25T23:00:00+00:00,FT,Regular Season - 19,147,Coritiba,1193,Cuiaba,1,0
+838187,BRA,2022,2022-07-30T19:30:00+00:00,FT,Regular Season - 20,129,Ceara,121,Palmeiras,1,2
+838188,BRA,2022,2022-07-30T19:30:00+00:00,FT,Regular Season - 20,151,Goias,147,Coritiba,1,0
+838184,BRA,2022,2022-07-30T22:00:00+00:00,FT,Regular Season - 20,131,Corinthians,120,Botafogo,1,0
+838182,BRA,2022,2022-07-30T23:30:00+00:00,FT,Regular Season - 20,127,Flamengo,144,Atletico Goianiense,4,1
+838186,BRA,2022,2022-07-31T19:00:00+00:00,FT,Regular Season - 20,119,Internacional,1062,Atletico-MG,3,0
+838190,BRA,2022,2022-07-31T19:00:00+00:00,FT,Regular Season - 20,134,Atletico Paranaense,126,Sao Paulo,1,0
+838181,BRA,2022,2022-07-31T21:00:00+00:00,FT,Regular Season - 20,125,America Mineiro,145,Avai,3,1
+838189,BRA,2022,2022-07-31T21:00:00+00:00,FT,Regular Season - 20,1193,Cuiaba,154,Fortaleza EC,0,1
+838183,BRA,2022,2022-07-31T22:00:00+00:00,FT,Regular Season - 20,794,RB Bragantino,152,Juventude,1,0
+838185,BRA,2022,2022-08-01T23:00:00+00:00,FT,Regular Season - 20,128,Santos,124,Fluminense,2,2
+838195,BRA,2022,2022-08-06T19:30:00+00:00,FT,Regular Season - 21,120,Botafogo,129,Ceara,1,1
+838196,BRA,2022,2022-08-06T19:30:00+00:00,FT,Regular Season - 21,152,Juventude,125,America Mineiro,0,1
+838198,BRA,2022,2022-08-06T22:00:00+00:00,FT,Regular Season - 21,144,Atletico Goianiense,794,RB Bragantino,2,1
+838199,BRA,2022,2022-08-06T22:00:00+00:00,FT,Regular Season - 21,145,Avai,131,Corinthians,1,1
+838193,BRA,2022,2022-08-06T23:30:00+00:00,FT,Regular Season - 21,126,Sao Paulo,127,Flamengo,0,2
+838192,BRA,2022,2022-08-07T19:00:00+00:00,FT,Regular Season - 21,124,Fluminense,1193,Cuiaba,1,0
+838194,BRA,2022,2022-08-07T19:00:00+00:00,FT,Regular Season - 21,121,Palmeiras,151,Goias,3,0
+838197,BRA,2022,2022-08-07T21:00:00+00:00,FT,Regular Season - 21,154,Fortaleza EC,119,Internacional,3,0
+838191,BRA,2022,2022-08-07T22:00:00+00:00,FT,Regular Season - 21,1062,Atletico-MG,134,Atletico Paranaense,2,3
+838200,BRA,2022,2022-08-08T23:00:00+00:00,FT,Regular Season - 21,147,Coritiba,128,Santos,1,2
+838208,BRA,2022,2022-08-13T19:30:00+00:00,FT,Regular Season - 22,151,Goias,145,Avai,1,1
+838204,BRA,2022,2022-08-13T22:00:00+00:00,FT,Regular Season - 22,131,Corinthians,121,Palmeiras,0,1
+838209,BRA,2022,2022-08-13T23:30:00+00:00,FT,Regular Season - 22,1193,Cuiaba,152,Juventude,1,0
+838205,BRA,2022,2022-08-14T00:00:00+00:00,FT,Regular Season - 22,120,Botafogo,144,Atletico Goianiense,0,0
+838210,BRA,2022,2022-08-14T14:00:00+00:00,FT,Regular Season - 22,147,Coritiba,1062,Atletico-MG,0,1
+838202,BRA,2022,2022-08-14T19:00:00+00:00,FT,Regular Season - 22,127,Flamengo,134,Atletico Paranaense,5,0
+838203,BRA,2022,2022-08-14T19:00:00+00:00,FT,Regular Season - 22,126,Sao Paulo,794,RB Bragantino,3,0
+838207,BRA,2022,2022-08-14T19:00:00+00:00,FT,Regular Season - 22,129,Ceara,154,Fortaleza EC,0,1
+838201,BRA,2022,2022-08-14T21:00:00+00:00,FT,Regular Season - 22,125,America Mineiro,128,Santos,1,0
+838206,BRA,2022,2022-08-14T22:00:00+00:00,FT,Regular Season - 22,119,Internacional,124,Fluminense,3,0
+838211,BRA,2022,2022-08-20T19:30:00+00:00,FT,Regular Season - 23,1062,Atletico-MG,151,Goias,0,1
+838212,BRA,2022,2022-08-20T22:00:00+00:00,FT,Regular Season - 23,124,Fluminense,147,Coritiba,5,2
+838216,BRA,2022,2022-08-21T14:00:00+00:00,FT,Regular Season - 23,152,Juventude,120,Botafogo,2,2
+838214,BRA,2022,2022-08-21T19:00:00+00:00,FT,Regular Season - 23,121,Palmeiras,127,Flamengo,1,1
+838213,BRA,2022,2022-08-21T21:00:00+00:00,FT,Regular Season - 23,794,RB Bragantino,129,Ceara,1,1
+838217,BRA,2022,2022-08-21T21:00:00+00:00,FT,Regular Season - 23,154,Fortaleza EC,131,Corinthians,1,0
+838218,BRA,2022,2022-08-21T21:00:00+00:00,FT,Regular Season - 23,144,Atletico Goianiense,1193,Cuiaba,1,1
+838220,BRA,2022,2022-08-21T21:00:00+00:00,FT,Regular Season - 23,134,Atletico Paranaense,125,America Mineiro,1,1
+838215,BRA,2022,2022-08-21T22:00:00+00:00,FT,Regular Season - 23,128,Santos,126,Sao Paulo,1,0
+838219,BRA,2022,2022-08-22T23:00:00+00:00,FT,Regular Season - 23,145,Avai,119,Internacional,0,1
+838228,BRA,2022,2022-08-27T19:30:00+00:00,FT,Regular Season - 24,151,Goias,144,Atletico Goianiense,2,1
+838230,BRA,2022,2022-08-27T19:30:00+00:00,FT,Regular Season - 24,147,Coritiba,145,Avai,1,0
+838222,BRA,2022,2022-08-27T22:00:00+00:00,FT,Regular Season - 24,124,Fluminense,121,Palmeiras,1,1
+838227,BRA,2022,2022-08-28T00:00:00+00:00,FT,Regular Season - 24,129,Ceara,134,Atletico Paranaense,0,0
+838221,BRA,2022,2022-08-28T19:00:00+00:00,FT,Regular Season - 24,125,America Mineiro,1062,Atletico-MG,1,1
+838223,BRA,2022,2022-08-28T19:00:00+00:00,FT,Regular Season - 24,126,Sao Paulo,154,Fortaleza EC,0,1
+838225,BRA,2022,2022-08-28T21:00:00+00:00,FT,Regular Season - 24,120,Botafogo,127,Flamengo,0,1
+838229,BRA,2022,2022-08-28T21:00:00+00:00,FT,Regular Season - 24,1193,Cuiaba,128,Santos,0,0
+838226,BRA,2022,2022-08-29T23:00:00+00:00,FT,Regular Season - 24,119,Internacional,152,Juventude,4,0
+838224,BRA,2022,2022-08-30T00:30:00+00:00,FT,Regular Season - 24,131,Corinthians,794,RB Bragantino,1,0
+838236,BRA,2022,2022-09-03T19:30:00+00:00,FT,Regular Season - 25,152,Juventude,145,Avai,1,1
+838233,BRA,2022,2022-09-03T22:00:00+00:00,FT,Regular Season - 25,794,RB Bragantino,121,Palmeiras,2,2
+838240,BRA,2022,2022-09-03T22:00:00+00:00,FT,Regular Season - 25,134,Atletico Paranaense,124,Fluminense,1,0
+838231,BRA,2022,2022-09-03T23:30:00+00:00,FT,Regular Season - 25,125,America Mineiro,147,Coritiba,2,0
+838232,BRA,2022,2022-09-04T14:00:00+00:00,FT,Regular Season - 25,127,Flamengo,129,Ceara,1,1
+838234,BRA,2022,2022-09-04T19:00:00+00:00,FT,Regular Season - 25,131,Corinthians,119,Internacional,2,2
+838237,BRA,2022,2022-09-04T19:00:00+00:00,FT,Regular Season - 25,154,Fortaleza EC,120,Botafogo,1,3
+838238,BRA,2022,2022-09-04T21:00:00+00:00,FT,Regular Season - 25,144,Atletico Goianiense,1062,Atletico-MG,0,2
+838239,BRA,2022,2022-09-04T22:00:00+00:00,FT,Regular Season - 25,1193,Cuiaba,126,Sao Paulo,1,1
+838235,BRA,2022,2022-09-05T23:00:00+00:00,FT,Regular Season - 25,128,Santos,151,Goias,1,2
+838241,BRA,2022,2022-09-07T20:00:00+00:00,FT,Regular Season - 26,1062,Atletico-MG,794,RB Bragantino,1,1
+838246,BRA,2022,2022-09-10T19:30:00+00:00,FT,Regular Season - 26,119,Internacional,1193,Cuiaba,1,0
+838247,BRA,2022,2022-09-10T19:30:00+00:00,FT,Regular Season - 26,129,Ceara,128,Santos,2,1
+838242,BRA,2022,2022-09-10T22:00:00+00:00,FT,Regular Season - 26,124,Fluminense,154,Fortaleza EC,2,1
+838244,BRA,2022,2022-09-11T00:00:00+00:00,FT,Regular Season - 26,121,Palmeiras,152,Juventude,2,1
+838245,BRA,2022,2022-09-11T14:00:00+00:00,FT,Regular Season - 26,120,Botafogo,125,America Mineiro,0,0
+838249,BRA,2022,2022-09-11T14:00:00+00:00,FT,Regular Season - 26,145,Avai,134,Atletico Paranaense,1,1
+838243,BRA,2022,2022-09-11T19:00:00+00:00,FT,Regular Season - 26,126,Sao Paulo,131,Corinthians,1,1
+838250,BRA,2022,2022-09-11T19:00:00+00:00,FT,Regular Season - 26,147,Coritiba,144,Atletico Goianiense,2,0
+838248,BRA,2022,2022-09-11T22:00:00+00:00,FT,Regular Season - 26,151,Goias,127,Flamengo,1,1
+838259,BRA,2022,2022-09-17T19:30:00+00:00,FT,Regular Season - 27,145,Avai,1062,Atletico-MG,1,0
+838255,BRA,2022,2022-09-17T22:00:00+00:00,FT,Regular Season - 27,120,Botafogo,147,Coritiba,2,0
+838253,BRA,2022,2022-09-18T14:00:00+00:00,FT,Regular Season - 27,794,RB Bragantino,151,Goias,1,1
+838252,BRA,2022,2022-09-18T19:00:00+00:00,FT,Regular Season - 27,127,Flamengo,124,Fluminense,1,2
+838257,BRA,2022,2022-09-18T19:00:00+00:00,FT,Regular Season - 27,129,Ceara,126,Sao Paulo,0,2
+838251,BRA,2022,2022-09-18T21:00:00+00:00,FT,Regular Season - 27,125,America Mineiro,131,Corinthians,1,0
+838256,BRA,2022,2022-09-18T21:00:00+00:00,FT,Regular Season - 27,152,Juventude,154,Fortaleza EC,1,1
+838254,BRA,2022,2022-09-18T21:30:00+00:00,FT,Regular Season - 27,121,Palmeiras,128,Santos,1,0
+838260,BRA,2022,2022-09-18T22:00:00+00:00,FT,Regular Season - 27,134,Atletico Paranaense,1193,Cuiaba,2,2
+838258,BRA,2022,2022-09-19T23:00:00+00:00,FT,Regular Season - 27,144,Atletico Goianiense,119,Internacional,1,2
+838263,BRA,2022,2022-09-25T23:00:00+00:00,FT,Regular Season - 28,126,Sao Paulo,145,Avai,4,0
+838265,BRA,2022,2022-09-28T00:00:00+00:00,FT,Regular Season - 28,128,Santos,134,Atletico Paranaense,2,0
+838262,BRA,2022,2022-09-28T22:00:00+00:00,FT,Regular Season - 28,124,Fluminense,152,Juventude,4,0
+838264,BRA,2022,2022-09-28T22:00:00+00:00,FT,Regular Season - 28,131,Corinthians,144,Atletico Goianiense,2,1
+838267,BRA,2022,2022-09-28T22:00:00+00:00,FT,Regular Season - 28,154,Fortaleza EC,127,Flamengo,3,2
+838270,BRA,2022,2022-09-28T22:00:00+00:00,FT,Regular Season - 28,147,Coritiba,129,Ceara,1,0
+838269,BRA,2022,2022-09-29T00:00:00+00:00,FT,Regular Season - 28,1193,Cuiaba,125,America Mineiro,2,1
+838261,BRA,2022,2022-09-29T00:45:00+00:00,FT,Regular Season - 28,1062,Atletico-MG,121,Palmeiras,0,1
+838266,BRA,2022,2022-09-29T00:45:00+00:00,FT,Regular Season - 28,119,Internacional,794,RB Bragantino,0,0
+838268,BRA,2022,2022-09-29T00:45:00+00:00,FT,Regular Season - 28,151,Goias,120,Botafogo,0,1
+838271,BRA,2022,2022-10-01T18:00:00+00:00,FT,Regular Season - 29,1062,Atletico-MG,124,Fluminense,2,0
+838276,BRA,2022,2022-10-01T18:00:00+00:00,FT,Regular Season - 29,119,Internacional,128,Santos,1,0
+838277,BRA,2022,2022-10-01T18:00:00+00:00,FT,Regular Season - 29,129,Ceara,125,America Mineiro,1,2
+838272,BRA,2022,2022-10-01T22:00:00+00:00,FT,Regular Season - 29,127,Flamengo,794,RB Bragantino,4,1
+838278,BRA,2022,2022-10-01T22:00:00+00:00,FT,Regular Season - 29,151,Goias,154,Fortaleza EC,0,1
+838279,BRA,2022,2022-10-01T22:00:00+00:00,FT,Regular Season - 29,145,Avai,144,Atletico Goianiense,1,2
+838280,BRA,2022,2022-10-01T22:00:00+00:00,FT,Regular Season - 29,134,Atletico Paranaense,152,Juventude,2,0
+838274,BRA,2022,2022-10-02T00:00:00+00:00,FT,Regular Season - 29,131,Corinthians,1193,Cuiaba,2,0
+838275,BRA,2022,2022-10-03T23:00:00+00:00,FT,Regular Season - 29,120,Botafogo,121,Palmeiras,1,3
+838286,BRA,2022,2022-10-05T00:30:00+00:00,FT,Regular Season - 30,152,Juventude,131,Corinthians,2,2
+838283,BRA,2022,2022-10-05T22:00:00+00:00,FT,Regular Season - 30,794,RB Bragantino,1193,Cuiaba,2,1
+838287,BRA,2022,2022-10-05T22:00:00+00:00,FT,Regular Season - 30,129,Ceara,151,Goias,1,1
+838288,BRA,2022,2022-10-05T22:00:00+00:00,FT,Regular Season - 30,144,Atletico Goianiense,124,Fluminense,3,2
+838290,BRA,2022,2022-10-05T22:30:00+00:00,FT,Regular Season - 30,134,Atletico Paranaense,154,Fortaleza EC,1,1
+838282,BRA,2022,2022-10-06T00:30:00+00:00,FT,Regular Season - 30,127,Flamengo,119,Internacional,0,0
+838285,BRA,2022,2022-10-06T00:30:00+00:00,FT,Regular Season - 30,128,Santos,1062,Atletico-MG,1,2
+838284,BRA,2022,2022-10-06T22:00:00+00:00,FT,Regular Season - 30,121,Palmeiras,147,Coritiba,4,0
+838281,BRA,2022,2022-10-06T23:00:00+00:00,FT,Regular Season - 30,125,America Mineiro,126,Sao Paulo,1,2
+838289,BRA,2022,2022-10-06T23:00:00+00:00,FT,Regular Season - 30,145,Avai,120,Botafogo,1,2
+838299,BRA,2022,2022-10-08T22:00:00+00:00,FT,Regular Season - 31,1193,Cuiaba,127,Flamengo,1,2
+838294,BRA,2022,2022-10-09T00:00:00+00:00,FT,Regular Season - 31,131,Corinthians,134,Atletico Paranaense,2,1
+838296,BRA,2022,2022-10-09T14:00:00+00:00,FT,Regular Season - 31,119,Internacional,151,Goias,4,2
+838293,BRA,2022,2022-10-09T19:00:00+00:00,FT,Regular Season - 31,126,Sao Paulo,120,Botafogo,0,1
+838297,BRA,2022,2022-10-09T19:00:00+00:00,FT,Regular Season - 31,154,Fortaleza EC,145,Avai,2,0
+838291,BRA,2022,2022-10-09T21:00:00+00:00,FT,Regular Season - 31,1062,Atletico-MG,129,Ceara,0,0
+838292,BRA,2022,2022-10-09T21:00:00+00:00,FT,Regular Season - 31,124,Fluminense,125,America Mineiro,0,2
+838300,BRA,2022,2022-10-09T21:00:00+00:00,FT,Regular Season - 31,147,Coritiba,794,RB Bragantino,2,1
+838298,BRA,2022,2022-10-10T21:30:00+00:00,FT,Regular Season - 31,144,Atletico Goianiense,121,Palmeiras,1,1
+838295,BRA,2022,2022-10-10T23:00:00+00:00,FT,Regular Season - 31,128,Santos,152,Juventude,4,1
+838301,BRA,2022,2022-10-15T23:30:00+00:00,FT,Regular Season - 32,125,America Mineiro,154,Fortaleza EC,1,2
+838302,BRA,2022,2022-10-15T23:30:00+00:00,FT,Regular Season - 32,127,Flamengo,1062,Atletico-MG,1,0
+838304,BRA,2022,2022-10-16T19:00:00+00:00,FT,Regular Season - 32,121,Palmeiras,126,Sao Paulo,0,0
+838307,BRA,2022,2022-10-16T19:00:00+00:00,FT,Regular Season - 32,129,Ceara,1193,Cuiaba,1,1
+838305,BRA,2022,2022-10-16T21:00:00+00:00,FT,Regular Season - 32,120,Botafogo,119,Internacional,0,1
+838306,BRA,2022,2022-10-16T21:00:00+00:00,FT,Regular Season - 32,152,Juventude,144,Atletico Goianiense,1,1
+838309,BRA,2022,2022-10-16T22:00:00+00:00,FT,Regular Season - 32,145,Avai,124,Fluminense,0,3
+838310,BRA,2022,2022-10-16T22:00:00+00:00,FT,Regular Season - 32,134,Atletico Paranaense,147,Coritiba,1,0
+838303,BRA,2022,2022-10-17T23:00:00+00:00,FT,Regular Season - 32,794,RB Bragantino,128,Santos,0,2
+838273,BRA,2022,2022-10-20T23:00:00+00:00,FT,Regular Season - 29,126,Sao Paulo,147,Coritiba,3,1
+838313,BRA,2022,2022-10-22T19:30:00+00:00,FT,Regular Season - 33,794,RB Bragantino,134,Atletico Paranaense,4,2
+838311,BRA,2022,2022-10-22T22:00:00+00:00,FT,Regular Season - 33,125,America Mineiro,127,Flamengo,1,2
+838315,BRA,2022,2022-10-22T22:00:00+00:00,FT,Regular Season - 33,128,Santos,131,Corinthians,0,1
+838314,BRA,2022,2022-10-23T00:00:00+00:00,FT,Regular Season - 33,121,Palmeiras,145,Avai,3,0
+838312,BRA,2022,2022-10-23T19:00:00+00:00,FT,Regular Season - 33,124,Fluminense,120,Botafogo,2,2
+838316,BRA,2022,2022-10-23T19:00:00+00:00,FT,Regular Season - 33,152,Juventude,126,Sao Paulo,1,2
+838318,BRA,2022,2022-10-23T21:00:00+00:00,FT,Regular Season - 33,144,Atletico Goianiense,129,Ceara,1,0
+838319,BRA,2022,2022-10-23T21:00:00+00:00,FT,Regular Season - 33,1193,Cuiaba,151,Goias,1,2
+838320,BRA,2022,2022-10-23T21:00:00+00:00,FT,Regular Season - 33,147,Coritiba,119,Internacional,1,1
+838317,BRA,2022,2022-10-24T23:00:00+00:00,FT,Regular Season - 33,154,Fortaleza EC,1062,Atletico-MG,0,0
+838322,BRA,2022,2022-10-26T00:45:00+00:00,FT,Regular Season - 34,127,Flamengo,128,Santos,3,2
+838330,BRA,2022,2022-10-26T00:45:00+00:00,FT,Regular Season - 34,134,Atletico Paranaense,121,Palmeiras,1,3
+838325,BRA,2022,2022-10-26T22:30:00+00:00,FT,Regular Season - 34,120,Botafogo,794,RB Bragantino,2,1
+838324,BRA,2022,2022-10-27T00:45:00+00:00,FT,Regular Season - 34,131,Corinthians,124,Fluminense,0,2
+838326,BRA,2022,2022-10-27T00:45:00+00:00,FT,Regular Season - 34,119,Internacional,129,Ceara,2,1
+838328,BRA,2022,2022-10-27T00:45:00+00:00,FT,Regular Season - 34,151,Goias,125,America Mineiro,2,2
+838323,BRA,2022,2022-10-27T22:00:00+00:00,FT,Regular Season - 34,126,Sao Paulo,144,Atletico Goianiense,2,1
+838327,BRA,2022,2022-10-27T22:00:00+00:00,FT,Regular Season - 34,154,Fortaleza EC,147,Coritiba,3,1
+838321,BRA,2022,2022-10-27T22:30:00+00:00,FT,Regular Season - 34,1062,Atletico-MG,152,Juventude,1,0
+838329,BRA,2022,2022-10-27T23:00:00+00:00,FT,Regular Season - 34,1193,Cuiaba,145,Avai,1,0
+838308,BRA,2022,2022-10-29T23:30:00+00:00,FT,Regular Season - 32,151,Goias,131,Corinthians,0,0
+838335,BRA,2022,2022-10-31T22:00:00+00:00,FT,Regular Season - 35,120,Botafogo,1193,Cuiaba,0,2
+838337,BRA,2022,2022-10-31T23:00:00+00:00,FT,Regular Season - 35,129,Ceara,124,Fluminense,0,1
+838336,BRA,2022,2022-11-01T22:00:00+00:00,FT,Regular Season - 35,152,Juventude,147,Coritiba,0,1
+838338,BRA,2022,2022-11-01T22:00:00+00:00,FT,Regular Season - 35,144,Atletico Goianiense,128,Santos,2,3
+838339,BRA,2022,2022-11-01T22:00:00+00:00,FT,Regular Season - 35,145,Avai,794,RB Bragantino,1,2
+838333,BRA,2022,2022-11-02T00:30:00+00:00,FT,Regular Season - 35,126,Sao Paulo,1062,Atletico-MG,2,2
+838331,BRA,2022,2022-11-02T19:00:00+00:00,FT,Regular Season - 35,125,America Mineiro,119,Internacional,1,0
+838340,BRA,2022,2022-11-02T19:00:00+00:00,FT,Regular Season - 35,134,Atletico Paranaense,151,Goias,3,2
+838332,BRA,2022,2022-11-03T00:30:00+00:00,FT,Regular Season - 35,127,Flamengo,131,Corinthians,1,2
+838334,BRA,2022,2022-11-03T00:30:00+00:00,FT,Regular Season - 35,121,Palmeiras,154,Fortaleza EC,4,0
+838343,BRA,2022,2022-11-04T22:00:00+00:00,FT,Regular Season - 36,794,RB Bragantino,125,America Mineiro,1,4
+838348,BRA,2022,2022-11-04T22:00:00+00:00,FT,Regular Season - 36,151,Goias,152,Juventude,1,0
+838342,BRA,2022,2022-11-05T19:30:00+00:00,FT,Regular Season - 36,124,Fluminense,126,Sao Paulo,3,1
+838345,BRA,2022,2022-11-05T19:30:00+00:00,FT,Regular Season - 36,128,Santos,145,Avai,1,1
+838344,BRA,2022,2022-11-05T23:30:00+00:00,FT,Regular Season - 36,131,Corinthians,129,Ceara,1,0
+838346,BRA,2022,2022-11-06T00:00:00+00:00,FT,Regular Season - 36,119,Internacional,134,Atletico Paranaense,2,0
+838347,BRA,2022,2022-11-06T19:00:00+00:00,FT,Regular Season - 36,154,Fortaleza EC,144,Atletico Goianiense,1,1
+838350,BRA,2022,2022-11-06T19:00:00+00:00,FT,Regular Season - 36,147,Coritiba,127,Flamengo,1,0
+838349,BRA,2022,2022-11-06T21:30:00+00:00,FT,Regular Season - 36,1193,Cuiaba,121,Palmeiras,1,1
+838341,BRA,2022,2022-11-07T23:00:00+00:00,FT,Regular Season - 36,1062,Atletico-MG,120,Botafogo,0,2
+838352,BRA,2022,2022-11-08T22:00:00+00:00,FT,Regular Season - 37,124,Fluminense,151,Goias,3,0
+838359,BRA,2022,2022-11-08T22:00:00+00:00,FT,Regular Season - 37,145,Avai,129,Ceara,2,0
+838360,BRA,2022,2022-11-08T22:00:00+00:00,FT,Regular Season - 37,147,Coritiba,131,Corinthians,2,2
+838353,BRA,2022,2022-11-09T00:30:00+00:00,FT,Regular Season - 37,126,Sao Paulo,119,Internacional,0,1
+838357,BRA,2022,2022-11-09T23:30:00+00:00,FT,Regular Season - 37,154,Fortaleza EC,794,RB Bragantino,6,0
+838354,BRA,2022,2022-11-10T00:30:00+00:00,FT,Regular Season - 37,121,Palmeiras,125,America Mineiro,2,1
+838356,BRA,2022,2022-11-10T00:30:00+00:00,FT,Regular Season - 37,152,Juventude,127,Flamengo,2,2
+838358,BRA,2022,2022-11-10T00:30:00+00:00,FT,Regular Season - 37,144,Atletico Goianiense,134,Atletico Paranaense,1,1
+838351,BRA,2022,2022-11-10T23:00:00+00:00,FT,Regular Season - 37,1062,Atletico-MG,1193,Cuiaba,3,0
+838355,BRA,2022,2022-11-10T23:00:00+00:00,FT,Regular Season - 37,120,Botafogo,128,Santos,3,0
+838362,BRA,2022,2022-11-12T19:00:00+00:00,FT,Regular Season - 38,127,Flamengo,145,Avai,1,2
+838361,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,125,America Mineiro,144,Atletico Goianiense,1,1
+838363,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,794,RB Bragantino,124,Fluminense,0,1
+838364,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,131,Corinthians,1062,Atletico-MG,0,1
+838365,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,128,Santos,154,Fortaleza EC,0,2
+838366,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,119,Internacional,121,Palmeiras,3,0
+838367,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,129,Ceara,152,Juventude,4,1
+838368,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,151,Goias,126,Sao Paulo,0,4
+838369,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,1193,Cuiaba,147,Coritiba,2,1
+838370,BRA,2022,2022-11-13T19:00:00+00:00,FT,Regular Season - 38,134,Atletico Paranaense,120,Botafogo,3,0

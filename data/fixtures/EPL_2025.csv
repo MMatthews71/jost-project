@@ -1,0 +1,381 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+1378969,EPL,2025,2025-08-15T19:00:00+00:00,FT,Regular Season - 1,40,Liverpool,35,Bournemouth,4,2
+1378970,EPL,2025,2025-08-16T11:30:00+00:00,FT,Regular Season - 1,66,Aston Villa,34,Newcastle,0,0
+1378971,EPL,2025,2025-08-16T14:00:00+00:00,FT,Regular Season - 1,51,Brighton,36,Fulham,1,1
+1378973,EPL,2025,2025-08-16T14:00:00+00:00,FT,Regular Season - 1,746,Sunderland,48,West Ham,3,0
+1378974,EPL,2025,2025-08-16T14:00:00+00:00,FT,Regular Season - 1,47,Tottenham,44,Burnley,3,0
+1378975,EPL,2025,2025-08-16T16:30:00+00:00,FT,Regular Season - 1,39,Wolves,50,Manchester City,0,4
+1378972,EPL,2025,2025-08-17T13:00:00+00:00,FT,Regular Season - 1,65,Nottingham Forest,55,Brentford,3,1
+1378976,EPL,2025,2025-08-17T13:00:00+00:00,FT,Regular Season - 1,49,Chelsea,52,Crystal Palace,0,0
+1378977,EPL,2025,2025-08-17T15:30:00+00:00,FT,Regular Season - 1,33,Manchester United,42,Arsenal,0,1
+1378978,EPL,2025,2025-08-18T19:00:00+00:00,FT,Regular Season - 1,63,Leeds,45,Everton,1,0
+1378988,EPL,2025,2025-08-22T19:00:00+00:00,FT,Regular Season - 2,48,West Ham,49,Chelsea,1,5
+1378986,EPL,2025,2025-08-23T11:30:00+00:00,FT,Regular Season - 2,50,Manchester City,47,Tottenham,0,2
+1378980,EPL,2025,2025-08-23T14:00:00+00:00,FT,Regular Season - 2,35,Bournemouth,39,Wolves,1,0
+1378981,EPL,2025,2025-08-23T14:00:00+00:00,FT,Regular Season - 2,55,Brentford,66,Aston Villa,1,0
+1378982,EPL,2025,2025-08-23T14:00:00+00:00,FT,Regular Season - 2,44,Burnley,746,Sunderland,2,0
+1378979,EPL,2025,2025-08-23T16:30:00+00:00,FT,Regular Season - 2,42,Arsenal,63,Leeds,5,0
+1378983,EPL,2025,2025-08-24T13:00:00+00:00,FT,Regular Season - 2,52,Crystal Palace,65,Nottingham Forest,1,1
+1378984,EPL,2025,2025-08-24T13:00:00+00:00,FT,Regular Season - 2,45,Everton,51,Brighton,2,0
+1378985,EPL,2025,2025-08-24T15:30:00+00:00,FT,Regular Season - 2,36,Fulham,33,Manchester United,1,1
+1378987,EPL,2025,2025-08-25T19:00:00+00:00,FT,Regular Season - 2,34,Newcastle,40,Liverpool,2,3
+1378991,EPL,2025,2025-08-30T11:30:00+00:00,FT,Regular Season - 3,49,Chelsea,36,Fulham,2,0
+1378994,EPL,2025,2025-08-30T14:00:00+00:00,FT,Regular Season - 3,33,Manchester United,44,Burnley,3,2
+1378996,EPL,2025,2025-08-30T14:00:00+00:00,FT,Regular Season - 3,746,Sunderland,55,Brentford,2,1
+1378997,EPL,2025,2025-08-30T14:00:00+00:00,FT,Regular Season - 3,47,Tottenham,35,Bournemouth,0,1
+1378998,EPL,2025,2025-08-30T14:00:00+00:00,FT,Regular Season - 3,39,Wolves,45,Everton,2,3
+1378992,EPL,2025,2025-08-30T16:30:00+00:00,FT,Regular Season - 3,63,Leeds,34,Newcastle,0,0
+1378990,EPL,2025,2025-08-31T13:00:00+00:00,FT,Regular Season - 3,51,Brighton,50,Manchester City,2,1
+1378995,EPL,2025,2025-08-31T13:00:00+00:00,FT,Regular Season - 3,65,Nottingham Forest,48,West Ham,0,3
+1378993,EPL,2025,2025-08-31T15:30:00+00:00,FT,Regular Season - 3,40,Liverpool,42,Arsenal,1,0
+1378989,EPL,2025,2025-08-31T18:00:00+00:00,FT,Regular Season - 3,66,Aston Villa,52,Crystal Palace,0,3
+1378999,EPL,2025,2025-09-13T11:30:00+00:00,FT,Regular Season - 4,42,Arsenal,65,Nottingham Forest,3,0
+1379000,EPL,2025,2025-09-13T14:00:00+00:00,FT,Regular Season - 4,35,Bournemouth,51,Brighton,2,1
+1379003,EPL,2025,2025-09-13T14:00:00+00:00,FT,Regular Season - 4,52,Crystal Palace,746,Sunderland,0,0
+1379004,EPL,2025,2025-09-13T14:00:00+00:00,FT,Regular Season - 4,45,Everton,66,Aston Villa,0,0
+1379005,EPL,2025,2025-09-13T14:00:00+00:00,FT,Regular Season - 4,36,Fulham,63,Leeds,1,0
+1379007,EPL,2025,2025-09-13T14:00:00+00:00,FT,Regular Season - 4,34,Newcastle,39,Wolves,1,0
+1379008,EPL,2025,2025-09-13T16:30:00+00:00,FT,Regular Season - 4,48,West Ham,47,Tottenham,0,3
+1379001,EPL,2025,2025-09-13T19:00:00+00:00,FT,Regular Season - 4,55,Brentford,49,Chelsea,2,2
+1379002,EPL,2025,2025-09-14T13:00:00+00:00,FT,Regular Season - 4,44,Burnley,40,Liverpool,0,1
+1379006,EPL,2025,2025-09-14T15:30:00+00:00,FT,Regular Season - 4,50,Manchester City,33,Manchester United,3,0
+1379014,EPL,2025,2025-09-20T11:30:00+00:00,FT,Regular Season - 5,40,Liverpool,45,Everton,2,1
+1379011,EPL,2025,2025-09-20T14:00:00+00:00,FT,Regular Season - 5,51,Brighton,47,Tottenham,2,2
+1379012,EPL,2025,2025-09-20T14:00:00+00:00,FT,Regular Season - 5,44,Burnley,65,Nottingham Forest,1,1
+1379017,EPL,2025,2025-09-20T14:00:00+00:00,FT,Regular Season - 5,48,West Ham,52,Crystal Palace,1,2
+1379018,EPL,2025,2025-09-20T14:00:00+00:00,FT,Regular Season - 5,39,Wolves,63,Leeds,1,3
+1379015,EPL,2025,2025-09-20T16:30:00+00:00,FT,Regular Season - 5,33,Manchester United,49,Chelsea,2,1
+1379013,EPL,2025,2025-09-20T19:00:00+00:00,FT,Regular Season - 5,36,Fulham,55,Brentford,3,1
+1379010,EPL,2025,2025-09-21T13:00:00+00:00,FT,Regular Season - 5,35,Bournemouth,34,Newcastle,0,0
+1379016,EPL,2025,2025-09-21T13:00:00+00:00,FT,Regular Season - 5,746,Sunderland,66,Aston Villa,1,1
+1379009,EPL,2025,2025-09-21T15:30:00+00:00,FT,Regular Season - 5,42,Arsenal,50,Manchester City,1,1
+1379020,EPL,2025,2025-09-27T11:30:00+00:00,FT,Regular Season - 6,55,Brentford,33,Manchester United,3,1
+1379021,EPL,2025,2025-09-27T14:00:00+00:00,FT,Regular Season - 6,49,Chelsea,51,Brighton,1,3
+1379022,EPL,2025,2025-09-27T14:00:00+00:00,FT,Regular Season - 6,52,Crystal Palace,40,Liverpool,2,1
+1379024,EPL,2025,2025-09-27T14:00:00+00:00,FT,Regular Season - 6,63,Leeds,35,Bournemouth,2,2
+1379025,EPL,2025,2025-09-27T14:00:00+00:00,FT,Regular Season - 6,50,Manchester City,44,Burnley,5,1
+1379027,EPL,2025,2025-09-27T16:30:00+00:00,FT,Regular Season - 6,65,Nottingham Forest,746,Sunderland,0,1
+1379028,EPL,2025,2025-09-27T19:00:00+00:00,FT,Regular Season - 6,47,Tottenham,39,Wolves,1,1
+1379019,EPL,2025,2025-09-28T13:00:00+00:00,FT,Regular Season - 6,66,Aston Villa,36,Fulham,3,1
+1379026,EPL,2025,2025-09-28T15:30:00+00:00,FT,Regular Season - 6,34,Newcastle,42,Arsenal,1,2
+1379023,EPL,2025,2025-09-29T19:00:00+00:00,FT,Regular Season - 6,45,Everton,48,West Ham,1,1
+1379031,EPL,2025,2025-10-03T19:00:00+00:00,FT,Regular Season - 7,35,Bournemouth,36,Fulham,3,1
+1379035,EPL,2025,2025-10-04T11:30:00+00:00,FT,Regular Season - 7,63,Leeds,47,Tottenham,1,2
+1379029,EPL,2025,2025-10-04T14:00:00+00:00,FT,Regular Season - 7,42,Arsenal,48,West Ham,2,0
+1379036,EPL,2025,2025-10-04T14:00:00+00:00,FT,Regular Season - 7,33,Manchester United,746,Sunderland,2,0
+1379033,EPL,2025,2025-10-04T16:30:00+00:00,FT,Regular Season - 7,49,Chelsea,40,Liverpool,2,1
+1379030,EPL,2025,2025-10-05T13:00:00+00:00,FT,Regular Season - 7,66,Aston Villa,44,Burnley,2,1
+1379034,EPL,2025,2025-10-05T13:00:00+00:00,FT,Regular Season - 7,45,Everton,52,Crystal Palace,2,1
+1379037,EPL,2025,2025-10-05T13:00:00+00:00,FT,Regular Season - 7,34,Newcastle,65,Nottingham Forest,2,0
+1379038,EPL,2025,2025-10-05T13:00:00+00:00,FT,Regular Season - 7,39,Wolves,51,Brighton,1,1
+1379032,EPL,2025,2025-10-05T15:30:00+00:00,FT,Regular Season - 7,55,Brentford,50,Manchester City,0,1
+1379045,EPL,2025,2025-10-18T11:30:00+00:00,FT,Regular Season - 8,65,Nottingham Forest,49,Chelsea,0,3
+1379039,EPL,2025,2025-10-18T14:00:00+00:00,FT,Regular Season - 8,51,Brighton,34,Newcastle,2,1
+1379040,EPL,2025,2025-10-18T14:00:00+00:00,FT,Regular Season - 8,44,Burnley,63,Leeds,2,0
+1379041,EPL,2025,2025-10-18T14:00:00+00:00,FT,Regular Season - 8,52,Crystal Palace,35,Bournemouth,3,3
+1379044,EPL,2025,2025-10-18T14:00:00+00:00,FT,Regular Season - 8,50,Manchester City,45,Everton,2,0
+1379046,EPL,2025,2025-10-18T14:00:00+00:00,FT,Regular Season - 8,746,Sunderland,39,Wolves,2,0
+1379042,EPL,2025,2025-10-18T16:30:00+00:00,FT,Regular Season - 8,36,Fulham,42,Arsenal,0,1
+1379047,EPL,2025,2025-10-19T13:00:00+00:00,FT,Regular Season - 8,47,Tottenham,66,Aston Villa,1,2
+1379043,EPL,2025,2025-10-19T15:30:00+00:00,FT,Regular Season - 8,40,Liverpool,33,Manchester United,1,2
+1379048,EPL,2025,2025-10-20T19:00:00+00:00,FT,Regular Season - 8,48,West Ham,55,Brentford,0,2
+1379055,EPL,2025,2025-10-24T19:00:00+00:00,FT,Regular Season - 9,63,Leeds,48,West Ham,2,1
+1379053,EPL,2025,2025-10-25T14:00:00+00:00,FT,Regular Season - 9,49,Chelsea,746,Sunderland,1,2
+1379057,EPL,2025,2025-10-25T14:00:00+00:00,FT,Regular Season - 9,34,Newcastle,36,Fulham,2,1
+1379056,EPL,2025,2025-10-25T16:30:00+00:00,FT,Regular Season - 9,33,Manchester United,51,Brighton,4,2
+1379052,EPL,2025,2025-10-25T19:00:00+00:00,FT,Regular Season - 9,55,Brentford,40,Liverpool,3,2
+1379049,EPL,2025,2025-10-26T14:00:00+00:00,FT,Regular Season - 9,42,Arsenal,52,Crystal Palace,1,0
+1379050,EPL,2025,2025-10-26T14:00:00+00:00,FT,Regular Season - 9,66,Aston Villa,50,Manchester City,1,0
+1379051,EPL,2025,2025-10-26T14:00:00+00:00,FT,Regular Season - 9,35,Bournemouth,65,Nottingham Forest,2,0
+1379058,EPL,2025,2025-10-26T14:00:00+00:00,FT,Regular Season - 9,39,Wolves,44,Burnley,2,3
+1379054,EPL,2025,2025-10-26T16:30:00+00:00,FT,Regular Season - 9,45,Everton,47,Tottenham,0,3
+1379059,EPL,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 10,51,Brighton,63,Leeds,3,0
+1379060,EPL,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 10,44,Burnley,42,Arsenal,0,2
+1379061,EPL,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 10,52,Crystal Palace,55,Brentford,2,0
+1379062,EPL,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 10,36,Fulham,39,Wolves,3,0
+1379065,EPL,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 10,65,Nottingham Forest,33,Manchester United,2,2
+1379067,EPL,2025,2025-11-01T17:30:00+00:00,FT,Regular Season - 10,47,Tottenham,49,Chelsea,0,1
+1379063,EPL,2025,2025-11-01T20:00:00+00:00,FT,Regular Season - 10,40,Liverpool,66,Aston Villa,2,0
+1379068,EPL,2025,2025-11-02T14:00:00+00:00,FT,Regular Season - 10,48,West Ham,34,Newcastle,3,1
+1379064,EPL,2025,2025-11-02T16:30:00+00:00,FT,Regular Season - 10,50,Manchester City,35,Bournemouth,3,1
+1379066,EPL,2025,2025-11-03T20:00:00+00:00,FT,Regular Season - 10,746,Sunderland,45,Everton,1,1
+1379077,EPL,2025,2025-11-08T12:30:00+00:00,FT,Regular Season - 11,47,Tottenham,33,Manchester United,2,2
+1379073,EPL,2025,2025-11-08T15:00:00+00:00,FT,Regular Season - 11,45,Everton,36,Fulham,2,0
+1379078,EPL,2025,2025-11-08T15:00:00+00:00,FT,Regular Season - 11,48,West Ham,44,Burnley,3,2
+1379076,EPL,2025,2025-11-08T17:30:00+00:00,FT,Regular Season - 11,746,Sunderland,42,Arsenal,2,2
+1379071,EPL,2025,2025-11-08T20:00:00+00:00,FT,Regular Season - 11,49,Chelsea,39,Wolves,3,0
+1379069,EPL,2025,2025-11-09T14:00:00+00:00,FT,Regular Season - 11,66,Aston Villa,35,Bournemouth,4,0
+1379070,EPL,2025,2025-11-09T14:00:00+00:00,FT,Regular Season - 11,55,Brentford,34,Newcastle,3,1
+1379072,EPL,2025,2025-11-09T14:00:00+00:00,FT,Regular Season - 11,52,Crystal Palace,51,Brighton,0,0
+1379075,EPL,2025,2025-11-09T14:00:00+00:00,FT,Regular Season - 11,65,Nottingham Forest,63,Leeds,3,1
+1379074,EPL,2025,2025-11-09T16:30:00+00:00,FT,Regular Season - 11,50,Manchester City,40,Liverpool,3,0
+1379082,EPL,2025,2025-11-22T12:30:00+00:00,FT,Regular Season - 12,44,Burnley,49,Chelsea,0,2
+1379080,EPL,2025,2025-11-22T15:00:00+00:00,FT,Regular Season - 12,35,Bournemouth,48,West Ham,2,2
+1379081,EPL,2025,2025-11-22T15:00:00+00:00,FT,Regular Season - 12,51,Brighton,55,Brentford,2,1
+1379083,EPL,2025,2025-11-22T15:00:00+00:00,FT,Regular Season - 12,36,Fulham,746,Sunderland,1,0
+1379085,EPL,2025,2025-11-22T15:00:00+00:00,FT,Regular Season - 12,40,Liverpool,65,Nottingham Forest,0,3
+1379088,EPL,2025,2025-11-22T15:00:00+00:00,FT,Regular Season - 12,39,Wolves,52,Crystal Palace,0,2
+1379087,EPL,2025,2025-11-22T17:30:00+00:00,FT,Regular Season - 12,34,Newcastle,50,Manchester City,2,1
+1379084,EPL,2025,2025-11-23T14:00:00+00:00,FT,Regular Season - 12,63,Leeds,66,Aston Villa,1,2
+1379079,EPL,2025,2025-11-23T16:30:00+00:00,FT,Regular Season - 12,42,Arsenal,47,Tottenham,4,1
+1379086,EPL,2025,2025-11-24T20:00:00+00:00,FT,Regular Season - 12,33,Manchester United,45,Everton,0,1
+1379090,EPL,2025,2025-11-29T15:00:00+00:00,FT,Regular Season - 13,55,Brentford,44,Burnley,3,1
+1379094,EPL,2025,2025-11-29T15:00:00+00:00,FT,Regular Season - 13,50,Manchester City,63,Leeds,3,2
+1379096,EPL,2025,2025-11-29T15:00:00+00:00,FT,Regular Season - 13,746,Sunderland,35,Bournemouth,3,2
+1379093,EPL,2025,2025-11-29T17:30:00+00:00,FT,Regular Season - 13,45,Everton,34,Newcastle,1,4
+1379097,EPL,2025,2025-11-29T20:00:00+00:00,FT,Regular Season - 13,47,Tottenham,36,Fulham,1,2
+1379092,EPL,2025,2025-11-30T12:00:00+00:00,FT,Regular Season - 13,52,Crystal Palace,33,Manchester United,1,2
+1379089,EPL,2025,2025-11-30T14:05:00+00:00,FT,Regular Season - 13,66,Aston Villa,39,Wolves,1,0
+1379095,EPL,2025,2025-11-30T14:05:00+00:00,FT,Regular Season - 13,65,Nottingham Forest,51,Brighton,0,2
+1379098,EPL,2025,2025-11-30T14:05:00+00:00,FT,Regular Season - 13,48,West Ham,40,Liverpool,0,2
+1379091,EPL,2025,2025-11-30T16:30:00+00:00,FT,Regular Season - 13,49,Chelsea,42,Arsenal,1,1
+1379100,EPL,2025,2025-12-02T19:30:00+00:00,FT,Regular Season - 14,35,Bournemouth,45,Everton,0,1
+1379103,EPL,2025,2025-12-02T19:30:00+00:00,FT,Regular Season - 14,36,Fulham,50,Manchester City,4,5
+1379107,EPL,2025,2025-12-02T20:15:00+00:00,FT,Regular Season - 14,34,Newcastle,47,Tottenham,2,2
+1379099,EPL,2025,2025-12-03T19:30:00+00:00,FT,Regular Season - 14,42,Arsenal,55,Brentford,2,0
+1379101,EPL,2025,2025-12-03T19:30:00+00:00,FT,Regular Season - 14,51,Brighton,66,Aston Villa,3,4
+1379102,EPL,2025,2025-12-03T19:30:00+00:00,FT,Regular Season - 14,44,Burnley,52,Crystal Palace,0,1
+1379108,EPL,2025,2025-12-03T19:30:00+00:00,FT,Regular Season - 14,39,Wolves,65,Nottingham Forest,0,1
+1379104,EPL,2025,2025-12-03T20:15:00+00:00,FT,Regular Season - 14,63,Leeds,49,Chelsea,3,1
+1379105,EPL,2025,2025-12-03T20:15:00+00:00,FT,Regular Season - 14,40,Liverpool,746,Sunderland,1,1
+1379106,EPL,2025,2025-12-04T20:00:00+00:00,FT,Regular Season - 14,33,Manchester United,48,West Ham,1,1
+1379109,EPL,2025,2025-12-06T12:30:00+00:00,FT,Regular Season - 15,66,Aston Villa,42,Arsenal,2,1
+1379110,EPL,2025,2025-12-06T15:00:00+00:00,FT,Regular Season - 15,35,Bournemouth,49,Chelsea,0,0
+1379112,EPL,2025,2025-12-06T15:00:00+00:00,FT,Regular Season - 15,45,Everton,65,Nottingham Forest,3,0
+1379115,EPL,2025,2025-12-06T15:00:00+00:00,FT,Regular Season - 15,50,Manchester City,746,Sunderland,3,0
+1379116,EPL,2025,2025-12-06T15:00:00+00:00,FT,Regular Season - 15,34,Newcastle,44,Burnley,2,1
+1379117,EPL,2025,2025-12-06T15:00:00+00:00,FT,Regular Season - 15,47,Tottenham,55,Brentford,2,0
+1379114,EPL,2025,2025-12-06T17:30:00+00:00,FT,Regular Season - 15,63,Leeds,40,Liverpool,3,3
+1379111,EPL,2025,2025-12-07T14:00:00+00:00,FT,Regular Season - 15,51,Brighton,48,West Ham,1,1
+1379113,EPL,2025,2025-12-07T16:30:00+00:00,FT,Regular Season - 15,36,Fulham,52,Crystal Palace,1,2
+1379118,EPL,2025,2025-12-08T20:00:00+00:00,FT,Regular Season - 15,39,Wolves,33,Manchester United,1,4
+1379122,EPL,2025,2025-12-13T15:00:00+00:00,FT,Regular Season - 16,49,Chelsea,45,Everton,2,0
+1379124,EPL,2025,2025-12-13T15:00:00+00:00,FT,Regular Season - 16,40,Liverpool,51,Brighton,2,0
+1379121,EPL,2025,2025-12-13T17:30:00+00:00,FT,Regular Season - 16,44,Burnley,36,Fulham,2,3
+1379119,EPL,2025,2025-12-13T20:00:00+00:00,FT,Regular Season - 16,42,Arsenal,39,Wolves,2,1
+1379123,EPL,2025,2025-12-14T14:00:00+00:00,FT,Regular Season - 16,52,Crystal Palace,50,Manchester City,0,3
+1379126,EPL,2025,2025-12-14T14:00:00+00:00,FT,Regular Season - 16,65,Nottingham Forest,47,Tottenham,3,0
+1379127,EPL,2025,2025-12-14T14:00:00+00:00,FT,Regular Season - 16,746,Sunderland,34,Newcastle,1,0
+1379128,EPL,2025,2025-12-14T14:00:00+00:00,FT,Regular Season - 16,48,West Ham,66,Aston Villa,2,3
+1379120,EPL,2025,2025-12-14T16:30:00+00:00,FT,Regular Season - 16,55,Brentford,63,Leeds,1,1
+1379125,EPL,2025,2025-12-15T20:00:00+00:00,FT,Regular Season - 16,33,Manchester United,35,Bournemouth,4,4
+1379136,EPL,2025,2025-12-20T12:30:00+00:00,FT,Regular Season - 17,34,Newcastle,49,Chelsea,2,2
+1379130,EPL,2025,2025-12-20T15:00:00+00:00,FT,Regular Season - 17,35,Bournemouth,44,Burnley,1,1
+1379131,EPL,2025,2025-12-20T15:00:00+00:00,FT,Regular Season - 17,51,Brighton,746,Sunderland,0,0
+1379135,EPL,2025,2025-12-20T15:00:00+00:00,FT,Regular Season - 17,50,Manchester City,48,West Ham,3,0
+1379138,EPL,2025,2025-12-20T15:00:00+00:00,FT,Regular Season - 17,39,Wolves,55,Brentford,0,2
+1379137,EPL,2025,2025-12-20T17:30:00+00:00,FT,Regular Season - 17,47,Tottenham,40,Liverpool,1,2
+1379132,EPL,2025,2025-12-20T20:00:00+00:00,FT,Regular Season - 17,45,Everton,42,Arsenal,0,1
+1379134,EPL,2025,2025-12-20T20:00:00+00:00,FT,Regular Season - 17,63,Leeds,52,Crystal Palace,4,1
+1379129,EPL,2025,2025-12-21T16:30:00+00:00,FT,Regular Season - 17,66,Aston Villa,33,Manchester United,2,1
+1379133,EPL,2025,2025-12-22T20:00:00+00:00,FT,Regular Season - 17,36,Fulham,65,Nottingham Forest,1,0
+1379145,EPL,2025,2025-12-26T20:00:00+00:00,FT,Regular Season - 18,33,Manchester United,34,Newcastle,1,0
+1379146,EPL,2025,2025-12-27T12:30:00+00:00,FT,Regular Season - 18,65,Nottingham Forest,50,Manchester City,1,2
+1379139,EPL,2025,2025-12-27T15:00:00+00:00,FT,Regular Season - 18,42,Arsenal,51,Brighton,2,1
+1379140,EPL,2025,2025-12-27T15:00:00+00:00,FT,Regular Season - 18,55,Brentford,35,Bournemouth,4,1
+1379141,EPL,2025,2025-12-27T15:00:00+00:00,FT,Regular Season - 18,44,Burnley,45,Everton,0,0
+1379144,EPL,2025,2025-12-27T15:00:00+00:00,FT,Regular Season - 18,40,Liverpool,39,Wolves,2,1
+1379148,EPL,2025,2025-12-27T15:00:00+00:00,FT,Regular Season - 18,48,West Ham,36,Fulham,0,1
+1379142,EPL,2025,2025-12-27T17:30:00+00:00,FT,Regular Season - 18,49,Chelsea,66,Aston Villa,1,2
+1379147,EPL,2025,2025-12-28T14:00:00+00:00,FT,Regular Season - 18,746,Sunderland,63,Leeds,1,1
+1379143,EPL,2025,2025-12-28T16:30:00+00:00,FT,Regular Season - 18,52,Crystal Palace,47,Tottenham,0,1
+1379151,EPL,2025,2025-12-30T19:30:00+00:00,FT,Regular Season - 19,44,Burnley,34,Newcastle,1,3
+1379152,EPL,2025,2025-12-30T19:30:00+00:00,FT,Regular Season - 19,49,Chelsea,35,Bournemouth,2,2
+1379156,EPL,2025,2025-12-30T19:30:00+00:00,FT,Regular Season - 19,65,Nottingham Forest,45,Everton,0,2
+1379158,EPL,2025,2025-12-30T19:30:00+00:00,FT,Regular Season - 19,48,West Ham,51,Brighton,2,2
+1379149,EPL,2025,2025-12-30T20:15:00+00:00,FT,Regular Season - 19,42,Arsenal,66,Aston Villa,4,1
+1379155,EPL,2025,2025-12-30T20:15:00+00:00,FT,Regular Season - 19,33,Manchester United,39,Wolves,1,1
+1379153,EPL,2025,2026-01-01T17:30:00+00:00,FT,Regular Season - 19,52,Crystal Palace,36,Fulham,1,1
+1379154,EPL,2025,2026-01-01T17:30:00+00:00,FT,Regular Season - 19,40,Liverpool,63,Leeds,0,0
+1379150,EPL,2025,2026-01-01T20:00:00+00:00,FT,Regular Season - 19,55,Brentford,47,Tottenham,0,0
+1379157,EPL,2025,2026-01-01T20:00:00+00:00,FT,Regular Season - 19,746,Sunderland,50,Manchester City,0,0
+1379159,EPL,2025,2026-01-03T12:30:00+00:00,FT,Regular Season - 20,66,Aston Villa,65,Nottingham Forest,3,1
+1379161,EPL,2025,2026-01-03T15:00:00+00:00,FT,Regular Season - 20,51,Brighton,44,Burnley,2,0
+1379168,EPL,2025,2026-01-03T15:00:00+00:00,FT,Regular Season - 20,39,Wolves,48,West Ham,3,0
+1379160,EPL,2025,2026-01-03T17:30:00+00:00,FT,Regular Season - 20,35,Bournemouth,42,Arsenal,2,3
+1379164,EPL,2025,2026-01-04T12:30:00+00:00,FT,Regular Season - 20,63,Leeds,33,Manchester United,1,1
+1379162,EPL,2025,2026-01-04T15:00:00+00:00,FT,Regular Season - 20,45,Everton,55,Brentford,2,4
+1379166,EPL,2025,2026-01-04T15:00:00+00:00,FT,Regular Season - 20,34,Newcastle,52,Crystal Palace,2,0
+1379167,EPL,2025,2026-01-04T15:00:00+00:00,FT,Regular Season - 20,47,Tottenham,746,Sunderland,1,1
+1379163,EPL,2025,2026-01-04T15:15:00+00:00,FT,Regular Season - 20,36,Fulham,40,Liverpool,2,2
+1379165,EPL,2025,2026-01-04T17:30:00+00:00,FT,Regular Season - 20,50,Manchester City,49,Chelsea,1,1
+1379178,EPL,2025,2026-01-06T20:00:00+00:00,FT,Regular Season - 21,48,West Ham,65,Nottingham Forest,1,2
+1379170,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,35,Bournemouth,47,Tottenham,3,2
+1379171,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,55,Brentford,746,Sunderland,3,0
+1379173,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,52,Crystal Palace,66,Aston Villa,0,0
+1379174,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,45,Everton,39,Wolves,1,1
+1379175,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,36,Fulham,49,Chelsea,2,1
+1379176,EPL,2025,2026-01-07T19:30:00+00:00,FT,Regular Season - 21,50,Manchester City,51,Brighton,1,1
+1379172,EPL,2025,2026-01-07T20:15:00+00:00,FT,Regular Season - 21,44,Burnley,33,Manchester United,2,2
+1379177,EPL,2025,2026-01-07T20:15:00+00:00,FT,Regular Season - 21,34,Newcastle,63,Leeds,4,3
+1379169,EPL,2025,2026-01-08T20:00:00+00:00,FT,Regular Season - 21,42,Arsenal,40,Liverpool,0,0
+1379184,EPL,2025,2026-01-17T12:30:00+00:00,FT,Regular Season - 22,33,Manchester United,50,Manchester City,2,0
+1379181,EPL,2025,2026-01-17T15:00:00+00:00,FT,Regular Season - 22,49,Chelsea,55,Brentford,2,0
+1379182,EPL,2025,2026-01-17T15:00:00+00:00,FT,Regular Season - 22,63,Leeds,36,Fulham,1,0
+1379183,EPL,2025,2026-01-17T15:00:00+00:00,FT,Regular Season - 22,40,Liverpool,44,Burnley,1,1
+1379186,EPL,2025,2026-01-17T15:00:00+00:00,FT,Regular Season - 22,746,Sunderland,52,Crystal Palace,2,1
+1379187,EPL,2025,2026-01-17T15:00:00+00:00,FT,Regular Season - 22,47,Tottenham,48,West Ham,1,2
+1379185,EPL,2025,2026-01-17T17:30:00+00:00,FT,Regular Season - 22,65,Nottingham Forest,42,Arsenal,0,0
+1379188,EPL,2025,2026-01-18T14:00:00+00:00,FT,Regular Season - 22,39,Wolves,34,Newcastle,0,0
+1379179,EPL,2025,2026-01-18T16:30:00+00:00,FT,Regular Season - 22,66,Aston Villa,45,Everton,0,1
+1379180,EPL,2025,2026-01-19T20:00:00+00:00,FT,Regular Season - 22,51,Brighton,35,Bournemouth,1,1
+1379198,EPL,2025,2026-01-24T12:30:00+00:00,FT,Regular Season - 23,48,West Ham,746,Sunderland,3,1
+1379192,EPL,2025,2026-01-24T15:00:00+00:00,FT,Regular Season - 23,44,Burnley,47,Tottenham,2,2
+1379195,EPL,2025,2026-01-24T15:00:00+00:00,FT,Regular Season - 23,36,Fulham,51,Brighton,2,1
+1379196,EPL,2025,2026-01-24T15:00:00+00:00,FT,Regular Season - 23,50,Manchester City,39,Wolves,2,0
+1379190,EPL,2025,2026-01-24T17:30:00+00:00,FT,Regular Season - 23,35,Bournemouth,40,Liverpool,3,2
+1379191,EPL,2025,2026-01-25T14:00:00+00:00,FT,Regular Season - 23,55,Brentford,65,Nottingham Forest,0,2
+1379193,EPL,2025,2026-01-25T14:00:00+00:00,FT,Regular Season - 23,52,Crystal Palace,49,Chelsea,1,3
+1379197,EPL,2025,2026-01-25T14:00:00+00:00,FT,Regular Season - 23,34,Newcastle,66,Aston Villa,0,2
+1379189,EPL,2025,2026-01-25T16:30:00+00:00,FT,Regular Season - 23,42,Arsenal,33,Manchester United,2,3
+1379194,EPL,2025,2026-01-26T20:00:00+00:00,FT,Regular Season - 23,45,Everton,63,Leeds,1,1
+1379200,EPL,2025,2026-01-31T15:00:00+00:00,FT,Regular Season - 24,51,Brighton,45,Everton,1,1
+1379202,EPL,2025,2026-01-31T15:00:00+00:00,FT,Regular Season - 24,63,Leeds,42,Arsenal,0,4
+1379208,EPL,2025,2026-01-31T15:00:00+00:00,FT,Regular Season - 24,39,Wolves,35,Bournemouth,0,2
+1379201,EPL,2025,2026-01-31T17:30:00+00:00,FT,Regular Season - 24,49,Chelsea,48,West Ham,3,2
+1379203,EPL,2025,2026-01-31T20:00:00+00:00,FT,Regular Season - 24,40,Liverpool,34,Newcastle,4,1
+1379199,EPL,2025,2026-02-01T14:00:00+00:00,FT,Regular Season - 24,66,Aston Villa,55,Brentford,0,1
+1379204,EPL,2025,2026-02-01T14:00:00+00:00,FT,Regular Season - 24,33,Manchester United,36,Fulham,3,2
+1379205,EPL,2025,2026-02-01T14:00:00+00:00,FT,Regular Season - 24,65,Nottingham Forest,52,Crystal Palace,1,1
+1379207,EPL,2025,2026-02-01T16:30:00+00:00,FT,Regular Season - 24,47,Tottenham,50,Manchester City,2,2
+1379206,EPL,2025,2026-02-02T20:00:00+00:00,FT,Regular Season - 24,746,Sunderland,44,Burnley,3,0
+1379214,EPL,2025,2026-02-06T20:00:00+00:00,FT,Regular Season - 25,63,Leeds,65,Nottingham Forest,3,1
+1379216,EPL,2025,2026-02-07T12:30:00+00:00,FT,Regular Season - 25,33,Manchester United,47,Tottenham,2,0
+1379209,EPL,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 25,42,Arsenal,746,Sunderland,3,0
+1379210,EPL,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 25,35,Bournemouth,66,Aston Villa,1,1
+1379212,EPL,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 25,44,Burnley,48,West Ham,0,2
+1379213,EPL,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 25,36,Fulham,45,Everton,1,2
+1379218,EPL,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 25,39,Wolves,49,Chelsea,1,3
+1379217,EPL,2025,2026-02-07T17:30:00+00:00,FT,Regular Season - 25,34,Newcastle,55,Brentford,2,3
+1379211,EPL,2025,2026-02-08T14:00:00+00:00,FT,Regular Season - 25,51,Brighton,52,Crystal Palace,0,1
+1379215,EPL,2025,2026-02-08T16:30:00+00:00,FT,Regular Season - 25,40,Liverpool,50,Manchester City,1,2
+1379221,EPL,2025,2026-02-10T19:30:00+00:00,FT,Regular Season - 26,49,Chelsea,63,Leeds,2,2
+1379223,EPL,2025,2026-02-10T19:30:00+00:00,FT,Regular Season - 26,45,Everton,35,Bournemouth,1,2
+1379227,EPL,2025,2026-02-10T19:30:00+00:00,FT,Regular Season - 26,47,Tottenham,34,Newcastle,1,2
+1379228,EPL,2025,2026-02-10T20:15:00+00:00,FT,Regular Season - 26,48,West Ham,33,Manchester United,1,1
+1379219,EPL,2025,2026-02-11T19:30:00+00:00,FT,Regular Season - 26,66,Aston Villa,51,Brighton,1,0
+1379222,EPL,2025,2026-02-11T19:30:00+00:00,FT,Regular Season - 26,52,Crystal Palace,44,Burnley,2,3
+1379224,EPL,2025,2026-02-11T19:30:00+00:00,FT,Regular Season - 26,50,Manchester City,36,Fulham,3,0
+1379225,EPL,2025,2026-02-11T19:30:00+00:00,FT,Regular Season - 26,65,Nottingham Forest,39,Wolves,0,0
+1379226,EPL,2025,2026-02-11T20:15:00+00:00,FT,Regular Season - 26,746,Sunderland,40,Liverpool,0,1
+1379220,EPL,2025,2026-02-12T20:00:00+00:00,FT,Regular Season - 26,55,Brentford,42,Arsenal,1,1
+1379278,EPL,2025,2026-02-18T20:00:00+00:00,FT,Regular Season - 31,39,Wolves,42,Arsenal,2,2
+1379229,EPL,2025,2026-02-21T15:00:00+00:00,FT,Regular Season - 27,66,Aston Villa,63,Leeds,1,1
+1379230,EPL,2025,2026-02-21T15:00:00+00:00,FT,Regular Season - 27,55,Brentford,51,Brighton,0,2
+1379231,EPL,2025,2026-02-21T15:00:00+00:00,FT,Regular Season - 27,49,Chelsea,44,Burnley,1,1
+1379238,EPL,2025,2026-02-21T17:30:00+00:00,FT,Regular Season - 27,48,West Ham,35,Bournemouth,0,0
+1379234,EPL,2025,2026-02-21T20:00:00+00:00,FT,Regular Season - 27,50,Manchester City,34,Newcastle,2,1
+1379232,EPL,2025,2026-02-22T14:00:00+00:00,FT,Regular Season - 27,52,Crystal Palace,39,Wolves,1,0
+1379235,EPL,2025,2026-02-22T14:00:00+00:00,FT,Regular Season - 27,65,Nottingham Forest,40,Liverpool,0,1
+1379236,EPL,2025,2026-02-22T14:00:00+00:00,FT,Regular Season - 27,746,Sunderland,36,Fulham,1,3
+1379237,EPL,2025,2026-02-22T16:30:00+00:00,FT,Regular Season - 27,47,Tottenham,42,Arsenal,1,4
+1379233,EPL,2025,2026-02-23T20:00:00+00:00,FT,Regular Season - 27,45,Everton,33,Manchester United,0,1
+1379248,EPL,2025,2026-02-27T20:00:00+00:00,FT,Regular Season - 28,39,Wolves,66,Aston Villa,2,0
+1379240,EPL,2025,2026-02-28T12:30:00+00:00,FT,Regular Season - 28,35,Bournemouth,746,Sunderland,1,1
+1379242,EPL,2025,2026-02-28T15:00:00+00:00,FT,Regular Season - 28,44,Burnley,55,Brentford,3,4
+1379245,EPL,2025,2026-02-28T15:00:00+00:00,FT,Regular Season - 28,40,Liverpool,48,West Ham,5,2
+1379247,EPL,2025,2026-02-28T15:00:00+00:00,FT,Regular Season - 28,34,Newcastle,45,Everton,2,3
+1379244,EPL,2025,2026-02-28T17:30:00+00:00,FT,Regular Season - 28,63,Leeds,50,Manchester City,0,1
+1379241,EPL,2025,2026-03-01T14:00:00+00:00,FT,Regular Season - 28,51,Brighton,65,Nottingham Forest,2,1
+1379243,EPL,2025,2026-03-01T14:00:00+00:00,FT,Regular Season - 28,36,Fulham,47,Tottenham,2,1
+1379246,EPL,2025,2026-03-01T14:00:00+00:00,FT,Regular Season - 28,33,Manchester United,52,Crystal Palace,2,1
+1379239,EPL,2025,2026-03-01T16:30:00+00:00,FT,Regular Season - 28,42,Arsenal,49,Chelsea,2,1
+1379250,EPL,2025,2026-03-03T19:30:00+00:00,FT,Regular Season - 29,35,Bournemouth,55,Brentford,0,0
+1379252,EPL,2025,2026-03-03T19:30:00+00:00,FT,Regular Season - 29,45,Everton,44,Burnley,2,0
+1379254,EPL,2025,2026-03-03T19:30:00+00:00,FT,Regular Season - 29,63,Leeds,746,Sunderland,0,1
+1379258,EPL,2025,2026-03-03T20:15:00+00:00,FT,Regular Season - 29,39,Wolves,40,Liverpool,2,1
+1379249,EPL,2025,2026-03-04T19:30:00+00:00,FT,Regular Season - 29,66,Aston Villa,49,Chelsea,1,4
+1379251,EPL,2025,2026-03-04T19:30:00+00:00,FT,Regular Season - 29,51,Brighton,42,Arsenal,0,1
+1379253,EPL,2025,2026-03-04T19:30:00+00:00,FT,Regular Season - 29,36,Fulham,48,West Ham,0,1
+1379255,EPL,2025,2026-03-04T19:30:00+00:00,FT,Regular Season - 29,50,Manchester City,65,Nottingham Forest,2,2
+1379256,EPL,2025,2026-03-04T20:15:00+00:00,FT,Regular Season - 29,34,Newcastle,33,Manchester United,2,1
+1379257,EPL,2025,2026-03-05T20:00:00+00:00,FT,Regular Season - 29,47,Tottenham,52,Crystal Palace,1,3
+1379261,EPL,2025,2026-03-14T15:00:00+00:00,FT,Regular Season - 30,44,Burnley,35,Bournemouth,0,0
+1379267,EPL,2025,2026-03-14T15:00:00+00:00,FT,Regular Season - 30,746,Sunderland,51,Brighton,0,1
+1379259,EPL,2025,2026-03-14T17:30:00+00:00,FT,Regular Season - 30,42,Arsenal,45,Everton,2,0
+1379262,EPL,2025,2026-03-14T17:30:00+00:00,FT,Regular Season - 30,49,Chelsea,34,Newcastle,0,1
+1379268,EPL,2025,2026-03-14T20:00:00+00:00,FT,Regular Season - 30,48,West Ham,50,Manchester City,1,1
+1379263,EPL,2025,2026-03-15T14:00:00+00:00,FT,Regular Season - 30,52,Crystal Palace,63,Leeds,0,0
+1379265,EPL,2025,2026-03-15T14:00:00+00:00,FT,Regular Season - 30,33,Manchester United,66,Aston Villa,3,1
+1379266,EPL,2025,2026-03-15T14:00:00+00:00,FT,Regular Season - 30,65,Nottingham Forest,36,Fulham,0,0
+1379264,EPL,2025,2026-03-15T16:30:00+00:00,FT,Regular Season - 30,40,Liverpool,47,Tottenham,1,1
+1379260,EPL,2025,2026-03-16T20:00:00+00:00,FT,Regular Season - 30,55,Brentford,39,Wolves,2,2
+1379270,EPL,2025,2026-03-20T20:00:00+00:00,FT,Regular Season - 31,35,Bournemouth,33,Manchester United,2,2
+1379271,EPL,2025,2026-03-21T12:30:00+00:00,FT,Regular Season - 31,51,Brighton,40,Liverpool,2,1
+1379273,EPL,2025,2026-03-21T15:00:00+00:00,FT,Regular Season - 31,36,Fulham,44,Burnley,3,1
+1379272,EPL,2025,2026-03-21T17:30:00+00:00,FT,Regular Season - 31,45,Everton,49,Chelsea,3,0
+1379274,EPL,2025,2026-03-21T20:00:00+00:00,FT,Regular Season - 31,63,Leeds,55,Brentford,0,0
+1379276,EPL,2025,2026-03-22T12:00:00+00:00,FT,Regular Season - 31,34,Newcastle,746,Sunderland,1,2
+1379269,EPL,2025,2026-03-22T14:15:00+00:00,FT,Regular Season - 31,66,Aston Villa,48,West Ham,2,0
+1379277,EPL,2025,2026-03-22T14:15:00+00:00,FT,Regular Season - 31,47,Tottenham,65,Nottingham Forest,0,3
+1379288,EPL,2025,2026-04-10T19:00:00+00:00,FT,Regular Season - 32,48,West Ham,39,Wolves,4,0
+1379279,EPL,2025,2026-04-11T11:30:00+00:00,FT,Regular Season - 32,42,Arsenal,35,Bournemouth,1,2
+1379280,EPL,2025,2026-04-11T14:00:00+00:00,FT,Regular Season - 32,55,Brentford,45,Everton,2,2
+1379281,EPL,2025,2026-04-11T14:00:00+00:00,FT,Regular Season - 32,44,Burnley,51,Brighton,0,2
+1379284,EPL,2025,2026-04-11T16:30:00+00:00,FT,Regular Season - 32,40,Liverpool,36,Fulham,2,0
+1379283,EPL,2025,2026-04-12T13:00:00+00:00,FT,Regular Season - 32,52,Crystal Palace,34,Newcastle,2,1
+1379286,EPL,2025,2026-04-12T13:00:00+00:00,FT,Regular Season - 32,65,Nottingham Forest,66,Aston Villa,1,1
+1379287,EPL,2025,2026-04-12T13:00:00+00:00,FT,Regular Season - 32,746,Sunderland,47,Tottenham,1,0
+1379282,EPL,2025,2026-04-12T15:30:00+00:00,FT,Regular Season - 32,49,Chelsea,50,Manchester City,0,3
+1379285,EPL,2025,2026-04-13T19:00:00+00:00,FT,Regular Season - 32,33,Manchester United,63,Leeds,1,2
+1379290,EPL,2025,2026-04-18T11:30:00+00:00,FT,Regular Season - 33,55,Brentford,36,Fulham,0,0
+1379294,EPL,2025,2026-04-18T14:00:00+00:00,FT,Regular Season - 33,63,Leeds,39,Wolves,3,0
+1379296,EPL,2025,2026-04-18T14:00:00+00:00,FT,Regular Season - 33,34,Newcastle,35,Bournemouth,1,2
+1379298,EPL,2025,2026-04-18T16:30:00+00:00,FT,Regular Season - 33,47,Tottenham,51,Brighton,2,2
+1379291,EPL,2025,2026-04-18T19:00:00+00:00,FT,Regular Season - 33,49,Chelsea,33,Manchester United,0,1
+1379289,EPL,2025,2026-04-19T13:00:00+00:00,FT,Regular Season - 33,66,Aston Villa,746,Sunderland,4,3
+1379293,EPL,2025,2026-04-19T13:00:00+00:00,FT,Regular Season - 33,45,Everton,40,Liverpool,1,2
+1379297,EPL,2025,2026-04-19T13:00:00+00:00,FT,Regular Season - 33,65,Nottingham Forest,44,Burnley,4,1
+1379295,EPL,2025,2026-04-19T15:30:00+00:00,FT,Regular Season - 33,50,Manchester City,42,Arsenal,2,1
+1379292,EPL,2025,2026-04-20T19:00:00+00:00,FT,Regular Season - 33,52,Crystal Palace,48,West Ham,0,0
+1379301,EPL,2025,2026-04-21T19:00:00+00:00,FT,Regular Season - 34,51,Brighton,49,Chelsea,3,0
+1379300,EPL,2025,2026-04-22T19:00:00+00:00,FT,Regular Season - 34,35,Bournemouth,63,Leeds,2,2
+1379302,EPL,2025,2026-04-22T19:00:00+00:00,FT,Regular Season - 34,44,Burnley,50,Manchester City,0,1
+1379306,EPL,2025,2026-04-24T19:00:00+00:00,FT,Regular Season - 34,746,Sunderland,65,Nottingham Forest,0,5
+1379303,EPL,2025,2026-04-25T11:30:00+00:00,FT,Regular Season - 34,36,Fulham,66,Aston Villa,1,0
+1379304,EPL,2025,2026-04-25T14:00:00+00:00,FT,Regular Season - 34,40,Liverpool,52,Crystal Palace,3,1
+1379307,EPL,2025,2026-04-25T14:00:00+00:00,FT,Regular Season - 34,48,West Ham,45,Everton,2,1
+1379308,EPL,2025,2026-04-25T14:00:00+00:00,FT,Regular Season - 34,39,Wolves,47,Tottenham,0,1
+1379299,EPL,2025,2026-04-25T16:30:00+00:00,FT,Regular Season - 34,42,Arsenal,34,Newcastle,1,0
+1379305,EPL,2025,2026-04-27T19:00:00+00:00,FT,Regular Season - 34,33,Manchester United,55,Brentford,2,1
+1379315,EPL,2025,2026-05-01T19:00:00+00:00,FT,Regular Season - 35,63,Leeds,44,Burnley,3,1
+1379312,EPL,2025,2026-05-02T14:00:00+00:00,FT,Regular Season - 35,55,Brentford,48,West Ham,3,0
+1379317,EPL,2025,2026-05-02T14:00:00+00:00,FT,Regular Season - 35,34,Newcastle,51,Brighton,3,1
+1379318,EPL,2025,2026-05-02T14:00:00+00:00,FT,Regular Season - 35,39,Wolves,746,Sunderland,1,1
+1379309,EPL,2025,2026-05-02T16:30:00+00:00,FT,Regular Season - 35,42,Arsenal,36,Fulham,3,0
+1379311,EPL,2025,2026-05-03T13:00:00+00:00,FT,Regular Season - 35,35,Bournemouth,52,Crystal Palace,3,0
+1379316,EPL,2025,2026-05-03T14:30:00+00:00,FT,Regular Season - 35,33,Manchester United,40,Liverpool,3,2
+1379310,EPL,2025,2026-05-03T18:00:00+00:00,FT,Regular Season - 35,66,Aston Villa,47,Tottenham,1,2
+1379313,EPL,2025,2026-05-04T14:00:00+00:00,FT,Regular Season - 35,49,Chelsea,65,Nottingham Forest,1,3
+1379314,EPL,2025,2026-05-04T19:00:00+00:00,FT,Regular Season - 35,45,Everton,50,Manchester City,3,3
+1379323,EPL,2025,2026-05-09T11:30:00+00:00,FT,Regular Season - 36,40,Liverpool,49,Chelsea,1,1
+1379319,EPL,2025,2026-05-09T14:00:00+00:00,FT,Regular Season - 36,51,Brighton,39,Wolves,3,0
+1379322,EPL,2025,2026-05-09T14:00:00+00:00,FT,Regular Season - 36,36,Fulham,35,Bournemouth,0,1
+1379326,EPL,2025,2026-05-09T14:00:00+00:00,FT,Regular Season - 36,746,Sunderland,33,Manchester United,0,0
+1379324,EPL,2025,2026-05-09T16:30:00+00:00,FT,Regular Season - 36,50,Manchester City,55,Brentford,3,0
+1379320,EPL,2025,2026-05-10T13:00:00+00:00,FT,Regular Season - 36,44,Burnley,66,Aston Villa,2,2
+1379321,EPL,2025,2026-05-10T13:00:00+00:00,FT,Regular Season - 36,52,Crystal Palace,45,Everton,2,2
+1379325,EPL,2025,2026-05-10T13:00:00+00:00,FT,Regular Season - 36,65,Nottingham Forest,34,Newcastle,1,1
+1379328,EPL,2025,2026-05-10T15:30:00+00:00,FT,Regular Season - 36,48,West Ham,42,Arsenal,0,1
+1379327,EPL,2025,2026-05-11T19:00:00+00:00,FT,Regular Season - 36,47,Tottenham,63,Leeds,1,1
+1379275,EPL,2025,2026-05-13T19:00:00+00:00,FT,Regular Season - 31,50,Manchester City,52,Crystal Palace,3,0
+1379330,EPL,2025,2026-05-15T19:00:00+00:00,FT,Regular Season - 37,66,Aston Villa,40,Liverpool,4,2
+1379336,EPL,2025,2026-05-17T11:30:00+00:00,FT,Regular Season - 37,33,Manchester United,65,Nottingham Forest,3,2
+1379332,EPL,2025,2026-05-17T14:00:00+00:00,FT,Regular Season - 37,55,Brentford,52,Crystal Palace,2,2
+1379334,EPL,2025,2026-05-17T14:00:00+00:00,FT,Regular Season - 37,45,Everton,746,Sunderland,1,3
+1379335,EPL,2025,2026-05-17T14:00:00+00:00,FT,Regular Season - 37,63,Leeds,51,Brighton,1,0
+1379338,EPL,2025,2026-05-17T14:00:00+00:00,FT,Regular Season - 37,39,Wolves,36,Fulham,1,1
+1379337,EPL,2025,2026-05-17T16:30:00+00:00,FT,Regular Season - 37,34,Newcastle,48,West Ham,3,1
+1379329,EPL,2025,2026-05-18T19:00:00+00:00,FT,Regular Season - 37,42,Arsenal,44,Burnley,1,0
+1379331,EPL,2025,2026-05-19T18:30:00+00:00,FT,Regular Season - 37,35,Bournemouth,50,Manchester City,1,1
+1379333,EPL,2025,2026-05-19T19:15:00+00:00,FT,Regular Season - 37,49,Chelsea,47,Tottenham,2,1
+1379339,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,51,Brighton,33,Manchester United,0,3
+1379340,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,44,Burnley,39,Wolves,1,1
+1379341,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,52,Crystal Palace,42,Arsenal,1,2
+1379342,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,36,Fulham,34,Newcastle,2,0
+1379343,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,40,Liverpool,55,Brentford,1,1
+1379344,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,50,Manchester City,66,Aston Villa,1,2
+1379345,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,65,Nottingham Forest,35,Bournemouth,1,1
+1379346,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,746,Sunderland,49,Chelsea,2,1
+1379347,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,47,Tottenham,45,Everton,1,0
+1379348,EPL,2025,2026-05-24T15:00:00+00:00,FT,Regular Season - 38,48,West Ham,63,Leeds,3,0

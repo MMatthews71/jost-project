@@ -1,0 +1,381 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+1180355,BRA,2024,2024-04-13T21:30:00+00:00,FT,Regular Season - 1,119,Internacional,118,Bahia,2,1
+1180364,BRA,2024,2024-04-13T21:30:00+00:00,FT,Regular Season - 1,140,Criciuma,152,Juventude,1,1
+1180358,BRA,2024,2024-04-14T00:00:00+00:00,FT,Regular Season - 1,124,Fluminense,794,RB Bragantino,2,2
+1180361,BRA,2024,2024-04-14T00:00:00+00:00,FT,Regular Season - 1,126,Sao Paulo,154,Fortaleza EC,1,2
+1180359,BRA,2024,2024-04-14T19:00:00+00:00,FT,Regular Season - 1,133,Vasco DA Gama,130,Gremio,2,1
+1180360,BRA,2024,2024-04-14T19:00:00+00:00,FT,Regular Season - 1,131,Corinthians,1062,Atletico-MG,0,0
+1180362,BRA,2024,2024-04-14T19:00:00+00:00,FT,Regular Season - 1,134,Atletico Paranaense,1193,Cuiaba,4,0
+1180363,BRA,2024,2024-04-14T19:00:00+00:00,FT,Regular Season - 1,144,Atletico Goianiense,127,Flamengo,1,2
+1180356,BRA,2024,2024-04-14T20:00:00+00:00,FT,Regular Season - 1,135,Cruzeiro,120,Botafogo,3,2
+1180357,BRA,2024,2024-04-14T21:30:00+00:00,FT,Regular Season - 1,136,Vitoria,121,Palmeiras,0,1
+1180367,BRA,2024,2024-04-17T00:30:00+00:00,FT,Regular Season - 2,118,Bahia,124,Fluminense,2,1
+1180365,BRA,2024,2024-04-17T22:00:00+00:00,FT,Regular Season - 2,130,Gremio,134,Atletico Paranaense,2,0
+1180371,BRA,2024,2024-04-17T22:00:00+00:00,FT,Regular Season - 2,794,RB Bragantino,133,Vasco DA Gama,2,1
+1180366,BRA,2024,2024-04-17T23:00:00+00:00,FT,Regular Season - 2,1062,Atletico-MG,140,Criciuma,1,1
+1180370,BRA,2024,2024-04-17T23:00:00+00:00,FT,Regular Season - 2,121,Palmeiras,119,Internacional,0,1
+1180372,BRA,2024,2024-04-17T23:00:00+00:00,FT,Regular Season - 2,154,Fortaleza EC,135,Cruzeiro,1,1
+1180374,BRA,2024,2024-04-17T23:00:00+00:00,FT,Regular Season - 2,152,Juventude,131,Corinthians,2,0
+1180368,BRA,2024,2024-04-18T00:30:00+00:00,FT,Regular Season - 2,127,Flamengo,126,Sao Paulo,2,1
+1180369,BRA,2024,2024-04-19T00:30:00+00:00,FT,Regular Season - 2,120,Botafogo,144,Atletico Goianiense,1,0
+1180378,BRA,2024,2024-04-20T19:00:00+00:00,FT,Regular Season - 3,124,Fluminense,133,Vasco DA Gama,2,1
+1180375,BRA,2024,2024-04-20T21:30:00+00:00,FT,Regular Season - 3,130,Gremio,1193,Cuiaba,1,0
+1180381,BRA,2024,2024-04-20T21:30:00+00:00,FT,Regular Season - 3,794,RB Bragantino,131,Corinthians,1,0
+1180376,BRA,2024,2024-04-21T00:00:00+00:00,FT,Regular Season - 3,1062,Atletico-MG,135,Cruzeiro,3,0
+1180377,BRA,2024,2024-04-21T19:00:00+00:00,FT,Regular Season - 3,136,Vitoria,118,Bahia,2,2
+1180380,BRA,2024,2024-04-21T19:00:00+00:00,FT,Regular Season - 3,121,Palmeiras,127,Flamengo,0,0
+1180382,BRA,2024,2024-04-21T19:00:00+00:00,FT,Regular Season - 3,134,Atletico Paranaense,119,Internacional,1,0
+1180379,BRA,2024,2024-04-21T21:30:00+00:00,FT,Regular Season - 3,120,Botafogo,152,Juventude,5,1
+1180383,BRA,2024,2024-04-21T21:30:00+00:00,FT,Regular Season - 3,144,Atletico Goianiense,126,Sao Paulo,0,3
+1180389,BRA,2024,2024-04-27T19:00:00+00:00,FT,Regular Season - 4,133,Vasco DA Gama,140,Criciuma,0,4
+1180393,BRA,2024,2024-04-27T21:30:00+00:00,FT,Regular Season - 4,1193,Cuiaba,1062,Atletico-MG,0,3
+1180387,BRA,2024,2024-04-28T00:00:00+00:00,FT,Regular Season - 4,118,Bahia,130,Gremio,1,0
+1180388,BRA,2024,2024-04-28T14:00:00+00:00,FT,Regular Season - 4,127,Flamengo,120,Botafogo,0,2
+1180386,BRA,2024,2024-04-28T19:00:00+00:00,FT,Regular Season - 4,135,Cruzeiro,136,Vitoria,3,1
+1180390,BRA,2024,2024-04-28T19:00:00+00:00,FT,Regular Season - 4,131,Corinthians,124,Fluminense,3,0
+1180392,BRA,2024,2024-04-28T21:30:00+00:00,FT,Regular Season - 4,154,Fortaleza EC,794,RB Bragantino,1,1
+1180394,BRA,2024,2024-04-28T21:30:00+00:00,FT,Regular Season - 4,152,Juventude,134,Atletico Paranaense,1,1
+1180385,BRA,2024,2024-04-28T23:00:00+00:00,FT,Regular Season - 4,119,Internacional,144,Atletico Goianiense,1,1
+1180391,BRA,2024,2024-04-29T23:00:00+00:00,FT,Regular Season - 4,126,Sao Paulo,121,Palmeiras,0,0
+1180398,BRA,2024,2024-05-04T19:00:00+00:00,FT,Regular Season - 5,124,Fluminense,1062,Atletico-MG,2,2
+1180401,BRA,2024,2024-05-04T21:30:00+00:00,FT,Regular Season - 5,794,RB Bragantino,127,Flamengo,1,1
+1180400,BRA,2024,2024-05-05T00:00:00+00:00,FT,Regular Season - 5,131,Corinthians,154,Fortaleza EC,0,0
+1180397,BRA,2024,2024-05-05T19:00:00+00:00,FT,Regular Season - 5,136,Vitoria,126,Sao Paulo,1,3
+1180402,BRA,2024,2024-05-05T19:00:00+00:00,FT,Regular Season - 5,134,Atletico Paranaense,133,Vasco DA Gama,1,0
+1180399,BRA,2024,2024-05-05T21:30:00+00:00,FT,Regular Season - 5,120,Botafogo,118,Bahia,1,2
+1180403,BRA,2024,2024-05-05T21:30:00+00:00,FT,Regular Season - 5,1193,Cuiaba,121,Palmeiras,0,2
+1180408,BRA,2024,2024-05-11T19:00:00+00:00,FT,Regular Season - 6,127,Flamengo,131,Corinthians,2,0
+1180410,BRA,2024,2024-05-12T19:00:00+00:00,FT,Regular Season - 6,121,Palmeiras,134,Atletico Paranaense,0,2
+1180412,BRA,2024,2024-05-12T19:00:00+00:00,FT,Regular Season - 6,154,Fortaleza EC,120,Botafogo,1,1
+1180413,BRA,2024,2024-05-12T19:00:00+00:00,FT,Regular Season - 6,144,Atletico Goianiense,135,Cruzeiro,0,1
+1180407,BRA,2024,2024-05-12T21:30:00+00:00,FT,Regular Season - 6,118,Bahia,794,RB Bragantino,1,0
+1180409,BRA,2024,2024-05-12T21:30:00+00:00,FT,Regular Season - 6,133,Vasco DA Gama,136,Vitoria,2,1
+1180411,BRA,2024,2024-05-13T23:00:00+00:00,FT,Regular Season - 6,126,Sao Paulo,124,Fluminense,2,1
+1180415,BRA,2024,2024-06-01T19:00:00+00:00,FT,Regular Season - 7,130,Gremio,794,RB Bragantino,0,2
+1180417,BRA,2024,2024-06-01T19:00:00+00:00,FT,Regular Season - 7,136,Vitoria,144,Atletico Goianiense,0,2
+1180418,BRA,2024,2024-06-01T21:30:00+00:00,FT,Regular Season - 7,124,Fluminense,152,Juventude,1,1
+1180423,BRA,2024,2024-06-01T21:30:00+00:00,FT,Regular Season - 7,1193,Cuiaba,119,Internacional,0,1
+1180420,BRA,2024,2024-06-02T00:00:00+00:00,FT,Regular Season - 7,131,Corinthians,120,Botafogo,0,1
+1180416,BRA,2024,2024-06-02T19:00:00+00:00,FT,Regular Season - 7,1062,Atletico-MG,118,Bahia,1,1
+1180419,BRA,2024,2024-06-02T19:00:00+00:00,FT,Regular Season - 7,133,Vasco DA Gama,127,Flamengo,1,6
+1180424,BRA,2024,2024-06-02T19:00:00+00:00,FT,Regular Season - 7,140,Criciuma,121,Palmeiras,1,2
+1180421,BRA,2024,2024-06-02T21:30:00+00:00,FT,Regular Season - 7,126,Sao Paulo,135,Cruzeiro,2,0
+1180422,BRA,2024,2024-06-02T21:30:00+00:00,FT,Regular Season - 7,154,Fortaleza EC,134,Atletico Paranaense,1,0
+1180404,BRA,2024,2024-06-05T22:00:00+00:00,FT,Regular Season - 5,152,Juventude,144,Atletico Goianiense,1,0
+1180373,BRA,2024,2024-06-05T23:00:00+00:00,FT,Regular Season - 2,1193,Cuiaba,136,Vitoria,0,0
+1180414,BRA,2024,2024-06-09T19:00:00+00:00,FT,Regular Season - 6,140,Criciuma,1193,Cuiaba,2,5
+1180433,BRA,2024,2024-06-11T22:00:00+00:00,FT,Regular Season - 8,144,Atletico Goianiense,131,Corinthians,2,2
+1180434,BRA,2024,2024-06-11T22:00:00+00:00,FT,Regular Season - 8,152,Juventude,136,Vitoria,1,1
+1180429,BRA,2024,2024-06-11T23:00:00+00:00,FT,Regular Season - 8,120,Botafogo,124,Fluminense,1,0
+1180431,BRA,2024,2024-06-12T00:30:00+00:00,FT,Regular Season - 8,794,RB Bragantino,1062,Atletico-MG,1,2
+1180426,BRA,2024,2024-06-13T22:00:00+00:00,FT,Regular Season - 8,135,Cruzeiro,1193,Cuiaba,2,1
+1180425,BRA,2024,2024-06-13T23:00:00+00:00,FT,Regular Season - 8,119,Internacional,126,Sao Paulo,0,0
+1180428,BRA,2024,2024-06-13T23:00:00+00:00,FT,Regular Season - 8,127,Flamengo,130,Gremio,2,1
+1180432,BRA,2024,2024-06-13T23:00:00+00:00,FT,Regular Season - 8,134,Atletico Paranaense,140,Criciuma,3,1
+1180427,BRA,2024,2024-06-14T00:30:00+00:00,FT,Regular Season - 8,118,Bahia,154,Fortaleza EC,1,0
+1180430,BRA,2024,2024-06-14T00:30:00+00:00,FT,Regular Season - 8,121,Palmeiras,133,Vasco DA Gama,2,0
+1180441,BRA,2024,2024-06-15T21:30:00+00:00,FT,Regular Season - 9,794,RB Bragantino,152,Juventude,2,1
+1180438,BRA,2024,2024-06-16T00:00:00+00:00,FT,Regular Season - 9,124,Fluminense,144,Atletico Goianiense,1,2
+1180437,BRA,2024,2024-06-16T19:00:00+00:00,FT,Regular Season - 9,136,Vitoria,119,Internacional,2,1
+1180440,BRA,2024,2024-06-16T19:00:00+00:00,FT,Regular Season - 9,131,Corinthians,126,Sao Paulo,2,2
+1180442,BRA,2024,2024-06-16T19:00:00+00:00,FT,Regular Season - 9,134,Atletico Paranaense,127,Flamengo,1,1
+1180435,BRA,2024,2024-06-16T21:30:00+00:00,FT,Regular Season - 9,130,Gremio,120,Botafogo,1,2
+1180439,BRA,2024,2024-06-16T21:30:00+00:00,FT,Regular Season - 9,133,Vasco DA Gama,135,Cruzeiro,0,0
+1180443,BRA,2024,2024-06-16T21:30:00+00:00,FT,Regular Season - 9,1193,Cuiaba,154,Fortaleza EC,5,0
+1180444,BRA,2024,2024-06-16T21:30:00+00:00,FT,Regular Season - 9,140,Criciuma,118,Bahia,2,2
+1180436,BRA,2024,2024-06-17T23:30:00+00:00,FT,Regular Season - 9,1062,Atletico-MG,121,Palmeiras,0,4
+1180449,BRA,2024,2024-06-19T22:00:00+00:00,FT,Regular Season - 10,120,Botafogo,134,Atletico Paranaense,1,1
+1180453,BRA,2024,2024-06-19T22:00:00+00:00,FT,Regular Season - 10,144,Atletico Goianiense,140,Criciuma,1,2
+1180451,BRA,2024,2024-06-19T23:00:00+00:00,FT,Regular Season - 10,126,Sao Paulo,1193,Cuiaba,0,1
+1180452,BRA,2024,2024-06-19T23:00:00+00:00,FT,Regular Season - 10,154,Fortaleza EC,130,Gremio,1,0
+1180454,BRA,2024,2024-06-19T23:00:00+00:00,FT,Regular Season - 10,152,Juventude,133,Vasco DA Gama,2,0
+1180445,BRA,2024,2024-06-20T00:30:00+00:00,FT,Regular Season - 10,119,Internacional,131,Corinthians,1,0
+1180446,BRA,2024,2024-06-20T00:30:00+00:00,FT,Regular Season - 10,135,Cruzeiro,124,Fluminense,2,0
+1180447,BRA,2024,2024-06-20T21:30:00+00:00,FT,Regular Season - 10,136,Vitoria,1062,Atletico-MG,4,2
+1180448,BRA,2024,2024-06-20T23:00:00+00:00,FT,Regular Season - 10,127,Flamengo,118,Bahia,2,1
+1180450,BRA,2024,2024-06-21T00:30:00+00:00,FT,Regular Season - 10,121,Palmeiras,794,RB Bragantino,2,1
+1180464,BRA,2024,2024-06-22T19:00:00+00:00,FT,Regular Season - 11,140,Criciuma,120,Botafogo,2,1
+1180455,BRA,2024,2024-06-22T20:30:00+00:00,FT,Regular Season - 11,130,Gremio,119,Internacional,0,1
+1180463,BRA,2024,2024-06-22T21:30:00+00:00,FT,Regular Season - 11,1193,Cuiaba,144,Atletico Goianiense,0,0
+1180459,BRA,2024,2024-06-23T00:30:00+00:00,FT,Regular Season - 11,133,Vasco DA Gama,126,Sao Paulo,4,1
+1180457,BRA,2024,2024-06-23T19:00:00+00:00,FT,Regular Season - 11,118,Bahia,135,Cruzeiro,4,1
+1180458,BRA,2024,2024-06-23T19:00:00+00:00,FT,Regular Season - 11,124,Fluminense,127,Flamengo,0,1
+1180462,BRA,2024,2024-06-23T19:00:00+00:00,FT,Regular Season - 11,134,Atletico Paranaense,131,Corinthians,1,1
+1180456,BRA,2024,2024-06-23T21:30:00+00:00,FT,Regular Season - 11,1062,Atletico-MG,154,Fortaleza EC,1,1
+1180460,BRA,2024,2024-06-23T21:30:00+00:00,FT,Regular Season - 11,121,Palmeiras,152,Juventude,3,1
+1180461,BRA,2024,2024-06-23T21:30:00+00:00,FT,Regular Season - 11,794,RB Bragantino,136,Vitoria,2,1
+1180466,BRA,2024,2024-06-26T22:00:00+00:00,FT,Regular Season - 12,135,Cruzeiro,134,Atletico Paranaense,2,0
+1180469,BRA,2024,2024-06-26T22:00:00+00:00,FT,Regular Season - 12,120,Botafogo,794,RB Bragantino,2,1
+1180470,BRA,2024,2024-06-26T23:00:00+00:00,FT,Regular Season - 12,131,Corinthians,1193,Cuiaba,1,1
+1180473,BRA,2024,2024-06-26T23:00:00+00:00,FT,Regular Season - 12,144,Atletico Goianiense,130,Gremio,1,1
+1180474,BRA,2024,2024-06-26T23:00:00+00:00,FT,Regular Season - 12,152,Juventude,127,Flamengo,2,1
+1180465,BRA,2024,2024-06-27T00:30:00+00:00,FT,Regular Season - 12,119,Internacional,1062,Atletico-MG,1,2
+1180467,BRA,2024,2024-06-27T00:30:00+00:00,FT,Regular Season - 12,118,Bahia,133,Vasco DA Gama,2,1
+1180472,BRA,2024,2024-06-27T00:30:00+00:00,FT,Regular Season - 12,154,Fortaleza EC,121,Palmeiras,3,0
+1180468,BRA,2024,2024-06-27T22:00:00+00:00,FT,Regular Season - 12,124,Fluminense,136,Vitoria,0,1
+1180471,BRA,2024,2024-06-27T23:00:00+00:00,FT,Regular Season - 12,126,Sao Paulo,140,Criciuma,2,1
+1180479,BRA,2024,2024-06-29T21:30:00+00:00,FT,Regular Season - 13,133,Vasco DA Gama,120,Botafogo,1,1
+1180483,BRA,2024,2024-06-29T21:30:00+00:00,FT,Regular Season - 13,1193,Cuiaba,794,RB Bragantino,1,1
+1180476,BRA,2024,2024-06-30T14:00:00+00:00,FT,Regular Season - 13,1062,Atletico-MG,144,Atletico Goianiense,1,1
+1180475,BRA,2024,2024-06-30T19:00:00+00:00,FT,Regular Season - 13,130,Gremio,124,Fluminense,1,0
+1180481,BRA,2024,2024-06-30T19:00:00+00:00,FT,Regular Season - 13,126,Sao Paulo,118,Bahia,3,1
+1180482,BRA,2024,2024-06-30T19:00:00+00:00,FT,Regular Season - 13,154,Fortaleza EC,152,Juventude,2,1
+1180477,BRA,2024,2024-06-30T21:30:00+00:00,FT,Regular Season - 13,136,Vitoria,134,Atletico Paranaense,0,1
+1180478,BRA,2024,2024-06-30T21:30:00+00:00,FT,Regular Season - 13,127,Flamengo,135,Cruzeiro,2,1
+1180484,BRA,2024,2024-06-30T21:30:00+00:00,FT,Regular Season - 13,140,Criciuma,119,Internacional,1,1
+1180480,BRA,2024,2024-07-01T23:00:00+00:00,FT,Regular Season - 13,121,Palmeiras,131,Corinthians,2,0
+1180493,BRA,2024,2024-07-03T22:00:00+00:00,FT,Regular Season - 14,1193,Cuiaba,120,Botafogo,1,2
+1180489,BRA,2024,2024-07-03T23:00:00+00:00,FT,Regular Season - 14,133,Vasco DA Gama,154,Fortaleza EC,2,0
+1180494,BRA,2024,2024-07-03T23:00:00+00:00,FT,Regular Season - 14,140,Criciuma,135,Cruzeiro,1,0
+1180486,BRA,2024,2024-07-04T00:30:00+00:00,FT,Regular Season - 14,1062,Atletico-MG,127,Flamengo,2,4
+1180491,BRA,2024,2024-07-04T00:30:00+00:00,FT,Regular Season - 14,794,RB Bragantino,144,Atletico Goianiense,3,1
+1180492,BRA,2024,2024-07-04T00:30:00+00:00,FT,Regular Season - 14,134,Atletico Paranaense,126,Sao Paulo,1,2
+1180485,BRA,2024,2024-07-04T22:00:00+00:00,FT,Regular Season - 14,130,Gremio,121,Palmeiras,2,2
+1180487,BRA,2024,2024-07-04T22:00:00+00:00,FT,Regular Season - 14,118,Bahia,152,Juventude,2,0
+1180488,BRA,2024,2024-07-04T23:00:00+00:00,FT,Regular Season - 14,124,Fluminense,119,Internacional,1,1
+1180490,BRA,2024,2024-07-04T23:00:00+00:00,FT,Regular Season - 14,131,Corinthians,136,Vitoria,3,2
+1180498,BRA,2024,2024-07-06T23:00:00+00:00,FT,Regular Season - 15,127,Flamengo,1193,Cuiaba,1,1
+1180501,BRA,2024,2024-07-06T23:00:00+00:00,FT,Regular Season - 15,126,Sao Paulo,794,RB Bragantino,2,0
+1180496,BRA,2024,2024-07-07T19:00:00+00:00,FT,Regular Season - 15,135,Cruzeiro,131,Corinthians,3,0
+1180502,BRA,2024,2024-07-07T19:00:00+00:00,FT,Regular Season - 15,154,Fortaleza EC,124,Fluminense,1,0
+1180504,BRA,2024,2024-07-07T19:00:00+00:00,FT,Regular Season - 15,152,Juventude,130,Gremio,3,0
+1180495,BRA,2024,2024-07-07T21:00:00+00:00,FT,Regular Season - 15,119,Internacional,133,Vasco DA Gama,1,2
+1180497,BRA,2024,2024-07-07T21:30:00+00:00,FT,Regular Season - 15,136,Vitoria,140,Criciuma,2,1
+1180500,BRA,2024,2024-07-07T21:30:00+00:00,FT,Regular Season - 15,121,Palmeiras,118,Bahia,2,0
+1180503,BRA,2024,2024-07-07T21:30:00+00:00,FT,Regular Season - 15,144,Atletico Goianiense,134,Atletico Paranaense,1,2
+1180499,BRA,2024,2024-07-07T23:30:00+00:00,FT,Regular Season - 15,120,Botafogo,1062,Atletico-MG,3,0
+1180505,BRA,2024,2024-07-10T21:30:00+00:00,FT,Regular Season - 16,130,Gremio,135,Cruzeiro,0,2
+1180509,BRA,2024,2024-07-10T22:00:00+00:00,FT,Regular Season - 16,133,Vasco DA Gama,131,Corinthians,2,0
+1180512,BRA,2024,2024-07-10T22:00:00+00:00,FT,Regular Season - 16,134,Atletico Paranaense,118,Bahia,1,3
+1180510,BRA,2024,2024-07-11T22:30:00+00:00,FT,Regular Season - 16,121,Palmeiras,144,Atletico Goianiense,3,1
+1180508,BRA,2024,2024-07-11T23:00:00+00:00,FT,Regular Season - 16,127,Flamengo,154,Fortaleza EC,1,2
+1180514,BRA,2024,2024-07-11T23:00:00+00:00,FT,Regular Season - 16,140,Criciuma,124,Fluminense,1,1
+1180506,BRA,2024,2024-07-12T00:30:00+00:00,FT,Regular Season - 16,1062,Atletico-MG,126,Sao Paulo,2,1
+1180507,BRA,2024,2024-07-12T00:30:00+00:00,FT,Regular Season - 16,136,Vitoria,120,Botafogo,0,1
+1180516,BRA,2024,2024-07-13T19:00:00+00:00,FT,Regular Season - 17,135,Cruzeiro,794,RB Bragantino,2,1
+1180517,BRA,2024,2024-07-13T19:00:00+00:00,FT,Regular Season - 17,118,Bahia,1193,Cuiaba,1,2
+1180524,BRA,2024,2024-07-16T22:00:00+00:00,FT,Regular Season - 17,152,Juventude,1062,Atletico-MG,1,1
+1180520,BRA,2024,2024-07-17T00:00:00+00:00,FT,Regular Season - 17,131,Corinthians,140,Criciuma,2,1
+1180523,BRA,2024,2024-07-17T22:00:00+00:00,FT,Regular Season - 17,144,Atletico Goianiense,133,Vasco DA Gama,0,1
+1180521,BRA,2024,2024-07-17T23:00:00+00:00,FT,Regular Season - 17,126,Sao Paulo,130,Gremio,1,0
+1180519,BRA,2024,2024-07-18T00:30:00+00:00,FT,Regular Season - 17,120,Botafogo,121,Palmeiras,1,0
+1180522,BRA,2024,2024-07-18T00:30:00+00:00,FT,Regular Season - 17,154,Fortaleza EC,136,Vitoria,3,1
+1180528,BRA,2024,2024-07-20T19:00:00+00:00,FT,Regular Season - 18,127,Flamengo,140,Criciuma,2,1
+1180529,BRA,2024,2024-07-20T21:30:00+00:00,FT,Regular Season - 18,120,Botafogo,119,Internacional,1,0
+1180530,BRA,2024,2024-07-21T00:00:00+00:00,FT,Regular Season - 18,121,Palmeiras,135,Cruzeiro,2,0
+1180525,BRA,2024,2024-07-21T14:00:00+00:00,FT,Regular Season - 18,130,Gremio,136,Vitoria,2,0
+1180526,BRA,2024,2024-07-21T19:00:00+00:00,FT,Regular Season - 18,1062,Atletico-MG,133,Vasco DA Gama,2,0
+1180527,BRA,2024,2024-07-21T19:00:00+00:00,FT,Regular Season - 18,118,Bahia,131,Corinthians,0,1
+1180531,BRA,2024,2024-07-21T21:30:00+00:00,FT,Regular Season - 18,794,RB Bragantino,134,Atletico Paranaense,1,0
+1180532,BRA,2024,2024-07-21T21:30:00+00:00,FT,Regular Season - 18,154,Fortaleza EC,144,Atletico Goianiense,3,1
+1180534,BRA,2024,2024-07-21T21:30:00+00:00,FT,Regular Season - 18,152,Juventude,126,Sao Paulo,0,0
+1180533,BRA,2024,2024-07-21T23:00:00+00:00,FT,Regular Season - 18,1193,Cuiaba,124,Fluminense,0,1
+1180384,BRA,2024,2024-07-24T22:00:00+00:00,FT,Regular Season - 3,140,Criciuma,154,Fortaleza EC,1,1
+1180536,BRA,2024,2024-07-24T22:00:00+00:00,FT,Regular Season - 19,135,Cruzeiro,152,Juventude,2,0
+1180541,BRA,2024,2024-07-24T22:30:00+00:00,FT,Regular Season - 19,126,Sao Paulo,120,Botafogo,2,2
+1180537,BRA,2024,2024-07-24T23:00:00+00:00,FT,Regular Season - 19,136,Vitoria,127,Flamengo,1,2
+1180538,BRA,2024,2024-07-25T00:30:00+00:00,FT,Regular Season - 19,124,Fluminense,121,Palmeiras,1,0
+1180543,BRA,2024,2024-07-25T00:30:00+00:00,FT,Regular Season - 19,144,Atletico Goianiense,118,Bahia,1,1
+1180540,BRA,2024,2024-07-25T23:00:00+00:00,FT,Regular Season - 19,131,Corinthians,130,Gremio,2,2
+1180550,BRA,2024,2024-07-27T22:00:00+00:00,FT,Regular Season - 20,121,Palmeiras,136,Vitoria,0,2
+1180554,BRA,2024,2024-07-27T22:00:00+00:00,FT,Regular Season - 20,152,Juventude,140,Criciuma,1,2
+1180547,BRA,2024,2024-07-27T23:00:00+00:00,FT,Regular Season - 20,118,Bahia,119,Internacional,1,1
+1180549,BRA,2024,2024-07-28T00:30:00+00:00,FT,Regular Season - 20,120,Botafogo,135,Cruzeiro,0,3
+1180552,BRA,2024,2024-07-28T00:30:00+00:00,FT,Regular Season - 20,154,Fortaleza EC,126,Sao Paulo,1,0
+1180551,BRA,2024,2024-07-28T14:00:00+00:00,FT,Regular Season - 20,794,RB Bragantino,124,Fluminense,0,1
+1180548,BRA,2024,2024-07-28T19:00:00+00:00,FT,Regular Season - 20,127,Flamengo,144,Atletico Goianiense,2,0
+1180545,BRA,2024,2024-07-28T22:00:00+00:00,FT,Regular Season - 20,130,Gremio,133,Vasco DA Gama,1,0
+1180546,BRA,2024,2024-07-28T22:00:00+00:00,FT,Regular Season - 20,1062,Atletico-MG,131,Corinthians,2,1
+1180553,BRA,2024,2024-07-28T22:00:00+00:00,FT,Regular Season - 20,1193,Cuiaba,134,Atletico Paranaense,1,2
+1180557,BRA,2024,2024-08-03T19:00:00+00:00,FT,Regular Season - 21,136,Vitoria,1193,Cuiaba,1,0
+1180559,BRA,2024,2024-08-03T22:00:00+00:00,FT,Regular Season - 21,133,Vasco DA Gama,794,RB Bragantino,2,2
+1180563,BRA,2024,2024-08-03T23:00:00+00:00,FT,Regular Season - 21,144,Atletico Goianiense,120,Botafogo,1,4
+1180564,BRA,2024,2024-08-03T23:00:00+00:00,FT,Regular Season - 21,140,Criciuma,1062,Atletico-MG,2,1
+1180561,BRA,2024,2024-08-04T00:30:00+00:00,FT,Regular Season - 21,126,Sao Paulo,127,Flamengo,1,0
+1180558,BRA,2024,2024-08-04T19:00:00+00:00,FT,Regular Season - 21,124,Fluminense,118,Bahia,1,0
+1180560,BRA,2024,2024-08-04T19:00:00+00:00,FT,Regular Season - 21,131,Corinthians,152,Juventude,1,1
+1180562,BRA,2024,2024-08-04T19:00:00+00:00,FT,Regular Season - 21,134,Atletico Paranaense,130,Gremio,0,2
+1180555,BRA,2024,2024-08-04T20:00:00+00:00,FT,Regular Season - 21,119,Internacional,121,Palmeiras,1,1
+1180556,BRA,2024,2024-08-06T00:00:00+00:00,FT,Regular Season - 21,135,Cruzeiro,154,Fortaleza EC,1,2
+1180572,BRA,2024,2024-08-10T19:00:00+00:00,FT,Regular Season - 22,154,Fortaleza EC,140,Criciuma,1,0
+1180573,BRA,2024,2024-08-10T22:00:00+00:00,FT,Regular Season - 22,1193,Cuiaba,130,Gremio,1,3
+1180566,BRA,2024,2024-08-11T00:30:00+00:00,FT,Regular Season - 22,135,Cruzeiro,1062,Atletico-MG,0,0
+1180569,BRA,2024,2024-08-11T00:30:00+00:00,FT,Regular Season - 22,133,Vasco DA Gama,124,Fluminense,2,0
+1180570,BRA,2024,2024-08-11T00:30:00+00:00,FT,Regular Season - 22,131,Corinthians,794,RB Bragantino,1,1
+1180574,BRA,2024,2024-08-11T14:00:00+00:00,FT,Regular Season - 22,152,Juventude,120,Botafogo,3,2
+1180567,BRA,2024,2024-08-11T19:00:00+00:00,FT,Regular Season - 22,118,Bahia,136,Vitoria,2,0
+1180568,BRA,2024,2024-08-11T19:00:00+00:00,FT,Regular Season - 22,127,Flamengo,121,Palmeiras,1,1
+1180571,BRA,2024,2024-08-11T19:00:00+00:00,FT,Regular Season - 22,126,Sao Paulo,144,Atletico Goianiense,1,0
+1180565,BRA,2024,2024-08-11T22:00:00+00:00,FT,Regular Season - 22,119,Internacional,134,Atletico Paranaense,2,2
+1180405,BRA,2024,2024-08-14T22:30:00+00:00,FT,Regular Season - 6,119,Internacional,152,Juventude,2,1
+1180575,BRA,2024,2024-08-17T19:00:00+00:00,FT,Regular Season - 23,130,Gremio,118,Bahia,0,2
+1180576,BRA,2024,2024-08-17T19:00:00+00:00,FT,Regular Season - 23,1062,Atletico-MG,1193,Cuiaba,1,1
+1180581,BRA,2024,2024-08-17T21:30:00+00:00,FT,Regular Season - 23,794,RB Bragantino,154,Fortaleza EC,1,2
+1180578,BRA,2024,2024-08-18T00:00:00+00:00,FT,Regular Season - 23,124,Fluminense,131,Corinthians,0,0
+1180580,BRA,2024,2024-08-18T19:00:00+00:00,FT,Regular Season - 23,121,Palmeiras,126,Sao Paulo,2,1
+1180583,BRA,2024,2024-08-18T19:00:00+00:00,FT,Regular Season - 23,144,Atletico Goianiense,119,Internacional,1,0
+1180584,BRA,2024,2024-08-18T19:00:00+00:00,FT,Regular Season - 23,140,Criciuma,133,Vasco DA Gama,2,2
+1180579,BRA,2024,2024-08-18T21:30:00+00:00,FT,Regular Season - 23,120,Botafogo,127,Flamengo,4,1
+1180582,BRA,2024,2024-08-18T21:30:00+00:00,FT,Regular Season - 23,134,Atletico Paranaense,152,Juventude,1,2
+1180577,BRA,2024,2024-08-19T23:00:00+00:00,FT,Regular Season - 23,136,Vitoria,135,Cruzeiro,2,2
+1180593,BRA,2024,2024-08-24T19:00:00+00:00,FT,Regular Season - 24,144,Atletico Goianiense,152,Juventude,2,1
+1180590,BRA,2024,2024-08-24T21:30:00+00:00,FT,Regular Season - 24,121,Palmeiras,1193,Cuiaba,5,0
+1180586,BRA,2024,2024-08-25T00:00:00+00:00,FT,Regular Season - 24,1062,Atletico-MG,124,Fluminense,0,2
+1180587,BRA,2024,2024-08-25T19:00:00+00:00,FT,Regular Season - 24,118,Bahia,120,Botafogo,0,0
+1180592,BRA,2024,2024-08-25T19:00:00+00:00,FT,Regular Season - 24,154,Fortaleza EC,131,Corinthians,1,0
+1180594,BRA,2024,2024-08-25T19:00:00+00:00,FT,Regular Season - 24,140,Criciuma,130,Gremio,0,1
+1180591,BRA,2024,2024-08-25T21:30:00+00:00,FT,Regular Season - 24,126,Sao Paulo,136,Vitoria,2,1
+1180585,BRA,2024,2024-08-25T22:00:00+00:00,FT,Regular Season - 24,119,Internacional,135,Cruzeiro,1,0
+1180588,BRA,2024,2024-08-25T23:00:00+00:00,FT,Regular Season - 24,127,Flamengo,794,RB Bragantino,2,1
+1180589,BRA,2024,2024-08-27T00:00:00+00:00,FT,Regular Season - 24,133,Vasco DA Gama,134,Atletico Paranaense,2,1
+1180396,BRA,2024,2024-08-28T22:30:00+00:00,FT,Regular Season - 5,135,Cruzeiro,119,Internacional,0,0
+1180544,BRA,2024,2024-08-28T22:30:00+00:00,FT,Regular Season - 19,140,Criciuma,794,RB Bragantino,1,0
+1180603,BRA,2024,2024-08-31T21:30:00+00:00,FT,Regular Season - 25,1193,Cuiaba,140,Criciuma,2,1
+1180599,BRA,2024,2024-09-01T00:00:00+00:00,FT,Regular Season - 25,120,Botafogo,154,Fortaleza EC,2,0
+1180595,BRA,2024,2024-09-01T14:00:00+00:00,FT,Regular Season - 25,130,Gremio,1062,Atletico-MG,2,3
+1180596,BRA,2024,2024-09-01T14:00:00+00:00,FT,Regular Season - 25,135,Cruzeiro,144,Atletico Goianiense,3,1
+1180600,BRA,2024,2024-09-01T19:00:00+00:00,FT,Regular Season - 25,131,Corinthians,127,Flamengo,2,1
+1180597,BRA,2024,2024-09-01T21:30:00+00:00,FT,Regular Season - 25,136,Vitoria,133,Vasco DA Gama,0,1
+1180598,BRA,2024,2024-09-01T21:30:00+00:00,FT,Regular Season - 25,124,Fluminense,126,Sao Paulo,2,0
+1180601,BRA,2024,2024-09-01T21:30:00+00:00,FT,Regular Season - 25,794,RB Bragantino,118,Bahia,2,1
+1180602,BRA,2024,2024-09-01T21:30:00+00:00,FT,Regular Season - 25,134,Atletico Paranaense,121,Palmeiras,0,2
+1180604,BRA,2024,2024-09-01T21:30:00+00:00,FT,Regular Season - 25,152,Juventude,119,Internacional,1,3
+1180513,BRA,2024,2024-09-05T23:00:00+00:00,FT,Regular Season - 16,1193,Cuiaba,152,Juventude,0,0
+1180535,BRA,2024,2024-09-11T22:30:00+00:00,FT,Regular Season - 19,119,Internacional,154,Fortaleza EC,2,1
+1180613,BRA,2024,2024-09-14T19:00:00+00:00,FT,Regular Season - 26,144,Atletico Goianiense,136,Vitoria,0,2
+1180612,BRA,2024,2024-09-14T21:30:00+00:00,FT,Regular Season - 26,134,Atletico Paranaense,154,Fortaleza EC,1,1
+1180609,BRA,2024,2024-09-15T00:00:00+00:00,FT,Regular Season - 26,120,Botafogo,131,Corinthians,2,1
+1180610,BRA,2024,2024-09-15T19:00:00+00:00,FT,Regular Season - 26,121,Palmeiras,140,Criciuma,5,0
+1180611,BRA,2024,2024-09-15T19:00:00+00:00,FT,Regular Season - 26,794,RB Bragantino,130,Gremio,2,2
+1180614,BRA,2024,2024-09-15T19:00:00+00:00,FT,Regular Season - 26,152,Juventude,124,Fluminense,2,1
+1180606,BRA,2024,2024-09-15T21:30:00+00:00,FT,Regular Season - 26,135,Cruzeiro,126,Sao Paulo,0,1
+1180607,BRA,2024,2024-09-15T21:30:00+00:00,FT,Regular Season - 26,118,Bahia,1062,Atletico-MG,3,0
+1180608,BRA,2024,2024-09-15T21:30:00+00:00,FT,Regular Season - 26,127,Flamengo,133,Vasco DA Gama,1,1
+1180605,BRA,2024,2024-09-16T23:00:00+00:00,FT,Regular Season - 26,119,Internacional,1193,Cuiaba,3,0
+1180617,BRA,2024,2024-09-21T19:00:00+00:00,FT,Regular Season - 27,136,Vitoria,152,Juventude,1,0
+1180620,BRA,2024,2024-09-21T19:00:00+00:00,FT,Regular Season - 27,131,Corinthians,144,Atletico Goianiense,3,0
+1180618,BRA,2024,2024-09-21T21:30:00+00:00,FT,Regular Season - 27,124,Fluminense,120,Botafogo,0,1
+1180622,BRA,2024,2024-09-22T00:00:00+00:00,FT,Regular Season - 27,154,Fortaleza EC,118,Bahia,4,1
+1180616,BRA,2024,2024-09-22T19:00:00+00:00,FT,Regular Season - 27,1062,Atletico-MG,794,RB Bragantino,3,0
+1180619,BRA,2024,2024-09-22T19:00:00+00:00,FT,Regular Season - 27,133,Vasco DA Gama,121,Palmeiras,0,1
+1180615,BRA,2024,2024-09-22T21:30:00+00:00,FT,Regular Season - 27,130,Gremio,127,Flamengo,3,2
+1180621,BRA,2024,2024-09-22T21:30:00+00:00,FT,Regular Season - 27,126,Sao Paulo,119,Internacional,1,3
+1180623,BRA,2024,2024-09-22T21:30:00+00:00,FT,Regular Season - 27,1193,Cuiaba,135,Cruzeiro,0,0
+1180624,BRA,2024,2024-09-23T21:30:00+00:00,FT,Regular Season - 27,140,Criciuma,134,Atletico Paranaense,0,0
+1180395,BRA,2024,2024-09-25T22:00:00+00:00,FT,Regular Season - 5,130,Gremio,140,Criciuma,1,2
+1180511,BRA,2024,2024-09-25T22:00:00+00:00,FT,Regular Season - 16,794,RB Bragantino,119,Internacional,2,2
+1180630,BRA,2024,2024-09-28T21:30:00+00:00,FT,Regular Season - 28,121,Palmeiras,1062,Atletico-MG,2,1
+1180629,BRA,2024,2024-09-29T00:00:00+00:00,FT,Regular Season - 28,120,Botafogo,130,Gremio,0,0
+1180634,BRA,2024,2024-09-29T14:00:00+00:00,FT,Regular Season - 28,152,Juventude,794,RB Bragantino,1,1
+1180631,BRA,2024,2024-09-29T19:00:00+00:00,FT,Regular Season - 28,126,Sao Paulo,131,Corinthians,3,1
+1180632,BRA,2024,2024-09-29T19:00:00+00:00,FT,Regular Season - 28,154,Fortaleza EC,1193,Cuiaba,1,0
+1180633,BRA,2024,2024-09-29T19:00:00+00:00,FT,Regular Season - 28,144,Atletico Goianiense,124,Fluminense,1,0
+1180625,BRA,2024,2024-09-29T21:30:00+00:00,FT,Regular Season - 28,119,Internacional,136,Vitoria,3,1
+1180626,BRA,2024,2024-09-29T21:30:00+00:00,FT,Regular Season - 28,135,Cruzeiro,133,Vasco DA Gama,1,1
+1180627,BRA,2024,2024-09-29T21:30:00+00:00,FT,Regular Season - 28,118,Bahia,140,Criciuma,1,0
+1180628,BRA,2024,2024-09-29T23:00:00+00:00,FT,Regular Season - 28,127,Flamengo,134,Atletico Paranaense,1,0
+1180644,BRA,2024,2024-10-03T22:00:00+00:00,FT,Regular Season - 29,140,Criciuma,144,Atletico Goianiense,2,0
+1180638,BRA,2024,2024-10-04T00:30:00+00:00,FT,Regular Season - 29,124,Fluminense,135,Cruzeiro,1,0
+1180635,BRA,2024,2024-10-05T00:30:00+00:00,FT,Regular Season - 29,130,Gremio,154,Fortaleza EC,3,1
+1180636,BRA,2024,2024-10-05T19:30:00+00:00,FT,Regular Season - 29,1062,Atletico-MG,136,Vitoria,2,2
+1180641,BRA,2024,2024-10-05T19:30:00+00:00,FT,Regular Season - 29,794,RB Bragantino,121,Palmeiras,0,0
+1180642,BRA,2024,2024-10-05T19:30:00+00:00,FT,Regular Season - 29,134,Atletico Paranaense,120,Botafogo,0,1
+1180637,BRA,2024,2024-10-05T22:00:00+00:00,FT,Regular Season - 29,118,Bahia,127,Flamengo,0,2
+1180640,BRA,2024,2024-10-05T22:00:00+00:00,FT,Regular Season - 29,131,Corinthians,119,Internacional,2,2
+1180643,BRA,2024,2024-10-05T22:00:00+00:00,FT,Regular Season - 29,1193,Cuiaba,126,Sao Paulo,2,0
+1180639,BRA,2024,2024-10-06T00:00:00+00:00,FT,Regular Season - 29,133,Vasco DA Gama,152,Juventude,1,1
+1180406,BRA,2024,2024-10-09T22:30:00+00:00,FT,Regular Season - 6,1062,Atletico-MG,130,Gremio,2,1
+1180651,BRA,2024,2024-10-17T00:45:00+00:00,FT,Regular Season - 30,126,Sao Paulo,133,Vasco DA Gama,3,0
+1180652,BRA,2024,2024-10-17T00:45:00+00:00,FT,Regular Season - 30,154,Fortaleza EC,1062,Atletico-MG,1,1
+1180648,BRA,2024,2024-10-17T23:00:00+00:00,FT,Regular Season - 30,127,Flamengo,124,Fluminense,0,2
+1180650,BRA,2024,2024-10-17T23:00:00+00:00,FT,Regular Season - 30,131,Corinthians,134,Atletico Paranaense,5,2
+1180653,BRA,2024,2024-10-18T22:00:00+00:00,FT,Regular Season - 30,144,Atletico Goianiense,1193,Cuiaba,0,0
+1180649,BRA,2024,2024-10-18T23:00:00+00:00,FT,Regular Season - 30,120,Botafogo,140,Criciuma,1,1
+1180646,BRA,2024,2024-10-19T00:30:00+00:00,FT,Regular Season - 30,135,Cruzeiro,118,Bahia,1,1
+1180645,BRA,2024,2024-10-19T19:00:00+00:00,FT,Regular Season - 30,119,Internacional,130,Gremio,1,0
+1180647,BRA,2024,2024-10-19T19:00:00+00:00,FT,Regular Season - 30,136,Vitoria,794,RB Bragantino,1,0
+1180654,BRA,2024,2024-10-20T23:00:00+00:00,FT,Regular Season - 30,152,Juventude,121,Palmeiras,3,5
+1180518,BRA,2024,2024-10-22T22:30:00+00:00,FT,Regular Season - 17,124,Fluminense,134,Atletico Paranaense,1,0
+1180539,BRA,2024,2024-10-25T22:00:00+00:00,FT,Regular Season - 19,133,Vasco DA Gama,1193,Cuiaba,1,0
+1180655,BRA,2024,2024-10-26T19:30:00+00:00,FT,Regular Season - 31,130,Gremio,144,Atletico Goianiense,3,1
+1180657,BRA,2024,2024-10-26T19:30:00+00:00,FT,Regular Season - 31,136,Vitoria,124,Fluminense,2,1
+1180658,BRA,2024,2024-10-26T19:30:00+00:00,FT,Regular Season - 31,127,Flamengo,152,Juventude,4,2
+1180660,BRA,2024,2024-10-26T19:30:00+00:00,FT,Regular Season - 31,121,Palmeiras,154,Fortaleza EC,2,2
+1180662,BRA,2024,2024-10-26T21:30:00+00:00,FT,Regular Season - 31,134,Atletico Paranaense,135,Cruzeiro,3,0
+1180656,BRA,2024,2024-10-26T23:00:00+00:00,FT,Regular Season - 31,1062,Atletico-MG,119,Internacional,1,3
+1180661,BRA,2024,2024-10-26T23:00:00+00:00,FT,Regular Season - 31,794,RB Bragantino,120,Botafogo,0,1
+1180664,BRA,2024,2024-10-27T01:00:00+00:00,FT,Regular Season - 31,140,Criciuma,126,Sao Paulo,1,1
+1180663,BRA,2024,2024-10-28T22:00:00+00:00,FT,Regular Season - 31,1193,Cuiaba,131,Corinthians,0,1
+1180659,BRA,2024,2024-10-29T00:00:00+00:00,FT,Regular Season - 31,133,Vasco DA Gama,118,Bahia,3,2
+1180515,BRA,2024,2024-10-30T22:00:00+00:00,FT,Regular Season - 17,119,Internacional,127,Flamengo,1,1
+1180668,BRA,2024,2024-11-02T00:00:00+00:00,FT,Regular Season - 32,124,Fluminense,130,Gremio,2,2
+1180671,BRA,2024,2024-11-02T19:00:00+00:00,FT,Regular Season - 32,794,RB Bragantino,1193,Cuiaba,0,0
+1180672,BRA,2024,2024-11-02T21:30:00+00:00,FT,Regular Season - 32,134,Atletico Paranaense,136,Vitoria,1,2
+1180674,BRA,2024,2024-11-02T21:30:00+00:00,FT,Regular Season - 32,152,Juventude,154,Fortaleza EC,0,3
+1180670,BRA,2024,2024-11-04T23:00:00+00:00,FT,Regular Season - 32,131,Corinthians,121,Palmeiras,2,0
+1180665,BRA,2024,2024-11-06T00:30:00+00:00,FT,Regular Season - 32,119,Internacional,140,Criciuma,2,0
+1180667,BRA,2024,2024-11-06T00:30:00+00:00,FT,Regular Season - 32,118,Bahia,126,Sao Paulo,0,3
+1180669,BRA,2024,2024-11-06T00:30:00+00:00,FT,Regular Season - 32,120,Botafogo,133,Vasco DA Gama,3,0
+1180666,BRA,2024,2024-11-07T00:00:00+00:00,FT,Regular Season - 32,135,Cruzeiro,127,Flamengo,0,1
+1180673,BRA,2024,2024-11-07T00:00:00+00:00,FT,Regular Season - 32,144,Atletico Goianiense,1062,Atletico-MG,1,0
+1180675,BRA,2024,2024-11-08T22:00:00+00:00,FT,Regular Season - 33,119,Internacional,124,Fluminense,2,0
+1180680,BRA,2024,2024-11-09T00:30:00+00:00,FT,Regular Season - 33,121,Palmeiras,130,Gremio,1,0
+1180677,BRA,2024,2024-11-09T19:30:00+00:00,FT,Regular Season - 33,136,Vitoria,131,Corinthians,1,2
+1180679,BRA,2024,2024-11-09T19:30:00+00:00,FT,Regular Season - 33,120,Botafogo,1193,Cuiaba,0,0
+1180676,BRA,2024,2024-11-09T22:00:00+00:00,FT,Regular Season - 33,135,Cruzeiro,140,Criciuma,2,1
+1180682,BRA,2024,2024-11-09T22:00:00+00:00,FT,Regular Season - 33,154,Fortaleza EC,133,Vasco DA Gama,3,0
+1180683,BRA,2024,2024-11-09T22:00:00+00:00,FT,Regular Season - 33,144,Atletico Goianiense,794,RB Bragantino,0,0
+1180684,BRA,2024,2024-11-09T22:00:00+00:00,FT,Regular Season - 33,152,Juventude,118,Bahia,2,1
+1180681,BRA,2024,2024-11-10T00:00:00+00:00,FT,Regular Season - 33,126,Sao Paulo,134,Atletico Paranaense,2,1
+1180678,BRA,2024,2024-11-13T23:00:00+00:00,FT,Regular Season - 33,127,Flamengo,1062,Atletico-MG,0,0
+1180542,BRA,2024,2024-11-16T21:30:00+00:00,FT,Regular Season - 19,134,Atletico Paranaense,1062,Atletico-MG,1,0
+1180690,BRA,2024,2024-11-20T14:00:00+00:00,FT,Regular Season - 34,131,Corinthians,135,Cruzeiro,2,1
+1180691,BRA,2024,2024-11-20T19:30:00+00:00,FT,Regular Season - 34,794,RB Bragantino,126,Sao Paulo,1,1
+1180692,BRA,2024,2024-11-20T19:30:00+00:00,FT,Regular Season - 34,134,Atletico Paranaense,144,Atletico Goianiense,2,0
+1180694,BRA,2024,2024-11-20T19:30:00+00:00,FT,Regular Season - 34,140,Criciuma,136,Vitoria,0,1
+1180687,BRA,2024,2024-11-20T21:00:00+00:00,FT,Regular Season - 34,118,Bahia,121,Palmeiras,1,2
+1180685,BRA,2024,2024-11-20T22:00:00+00:00,FT,Regular Season - 34,130,Gremio,152,Juventude,2,2
+1180693,BRA,2024,2024-11-20T22:00:00+00:00,FT,Regular Season - 34,1193,Cuiaba,127,Flamengo,1,2
+1180686,BRA,2024,2024-11-21T00:30:00+00:00,FT,Regular Season - 34,1062,Atletico-MG,120,Botafogo,0,0
+1180689,BRA,2024,2024-11-21T23:00:00+00:00,FT,Regular Season - 34,133,Vasco DA Gama,119,Internacional,0,1
+1180688,BRA,2024,2024-11-23T00:30:00+00:00,FT,Regular Season - 34,124,Fluminense,154,Fortaleza EC,2,2
+1180699,BRA,2024,2024-11-23T22:30:00+00:00,FT,Regular Season - 35,120,Botafogo,136,Vitoria,1,1
+1180703,BRA,2024,2024-11-23T22:30:00+00:00,FT,Regular Season - 35,144,Atletico Goianiense,121,Palmeiras,0,1
+1180704,BRA,2024,2024-11-23T22:30:00+00:00,FT,Regular Season - 35,152,Juventude,1193,Cuiaba,1,1
+1180701,BRA,2024,2024-11-24T00:30:00+00:00,FT,Regular Season - 35,126,Sao Paulo,1062,Atletico-MG,2,2
+1180695,BRA,2024,2024-11-24T19:00:00+00:00,FT,Regular Season - 35,119,Internacional,794,RB Bragantino,4,1
+1180697,BRA,2024,2024-11-24T19:00:00+00:00,FT,Regular Season - 35,118,Bahia,134,Atletico Paranaense,1,1
+1180700,BRA,2024,2024-11-24T19:00:00+00:00,FT,Regular Season - 35,131,Corinthians,133,Vasco DA Gama,3,1
+1180698,BRA,2024,2024-11-26T22:00:00+00:00,FT,Regular Season - 35,124,Fluminense,140,Criciuma,0,0
+1180702,BRA,2024,2024-11-26T23:00:00+00:00,FT,Regular Season - 35,154,Fortaleza EC,127,Flamengo,0,0
+1180706,BRA,2024,2024-11-27T00:30:00+00:00,FT,Regular Season - 36,1062,Atletico-MG,152,Juventude,2,3
+1180710,BRA,2024,2024-11-27T00:30:00+00:00,FT,Regular Season - 36,121,Palmeiras,120,Botafogo,1,3
+1180696,BRA,2024,2024-11-28T00:00:00+00:00,FT,Regular Season - 35,135,Cruzeiro,130,Gremio,1,1
+1180713,BRA,2024,2024-11-30T22:30:00+00:00,FT,Regular Season - 36,1193,Cuiaba,118,Bahia,1,2
+1180714,BRA,2024,2024-11-30T22:30:00+00:00,FT,Regular Season - 36,140,Criciuma,131,Corinthians,2,4
+1180709,BRA,2024,2024-12-01T00:30:00+00:00,FT,Regular Season - 36,133,Vasco DA Gama,144,Atletico Goianiense,2,2
+1180705,BRA,2024,2024-12-01T19:00:00+00:00,FT,Regular Season - 36,130,Gremio,126,Sao Paulo,2,1
+1180708,BRA,2024,2024-12-01T19:00:00+00:00,FT,Regular Season - 36,127,Flamengo,119,Internacional,3,2
+1180707,BRA,2024,2024-12-01T21:30:00+00:00,FT,Regular Season - 36,136,Vitoria,154,Fortaleza EC,2,0
+1180711,BRA,2024,2024-12-01T21:30:00+00:00,FT,Regular Season - 36,794,RB Bragantino,135,Cruzeiro,1,1
+1180712,BRA,2024,2024-12-01T21:30:00+00:00,FT,Regular Season - 36,134,Atletico Paranaense,124,Fluminense,1,1
+1180720,BRA,2024,2024-12-03T23:00:00+00:00,FT,Regular Season - 37,131,Corinthians,118,Bahia,3,0
+1180719,BRA,2024,2024-12-04T22:00:00+00:00,FT,Regular Season - 37,133,Vasco DA Gama,1062,Atletico-MG,2,0
+1180717,BRA,2024,2024-12-04T23:00:00+00:00,FT,Regular Season - 37,136,Vitoria,130,Gremio,1,1
+1180721,BRA,2024,2024-12-04T23:00:00+00:00,FT,Regular Season - 37,126,Sao Paulo,152,Juventude,1,2
+1180724,BRA,2024,2024-12-04T23:00:00+00:00,FT,Regular Season - 37,140,Criciuma,127,Flamengo,0,3
+1180715,BRA,2024,2024-12-05T00:30:00+00:00,FT,Regular Season - 37,119,Internacional,120,Botafogo,0,1
+1180716,BRA,2024,2024-12-05T00:30:00+00:00,FT,Regular Season - 37,135,Cruzeiro,121,Palmeiras,1,2
+1180723,BRA,2024,2024-12-05T00:30:00+00:00,FT,Regular Season - 37,144,Atletico Goianiense,154,Fortaleza EC,3,1
+1180718,BRA,2024,2024-12-05T23:00:00+00:00,FT,Regular Season - 37,124,Fluminense,1193,Cuiaba,1,0
+1180722,BRA,2024,2024-12-05T23:00:00+00:00,FT,Regular Season - 37,134,Atletico Paranaense,794,RB Bragantino,1,2
+1180725,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,130,Gremio,131,Corinthians,0,3
+1180726,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,1062,Atletico-MG,134,Atletico Paranaense,1,0
+1180727,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,118,Bahia,144,Atletico Goianiense,2,0
+1180728,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,127,Flamengo,136,Vitoria,2,2
+1180729,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,120,Botafogo,126,Sao Paulo,2,1
+1180730,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,121,Palmeiras,124,Fluminense,0,1
+1180731,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,794,RB Bragantino,140,Criciuma,5,1
+1180732,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,154,Fortaleza EC,119,Internacional,3,0
+1180733,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,1193,Cuiaba,133,Vasco DA Gama,1,2
+1180734,BRA,2024,2024-12-08T19:00:00+00:00,FT,Regular Season - 38,152,Juventude,135,Cruzeiro,0,1

@@ -1,0 +1,297 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+1384891,SRB,2025,2025-07-19T18:00:00+00:00,FT,Regular Season - 1,598,FK Crvena Zvezda,2653,Javor,4,0
+1384892,SRB,2025,2025-07-19T18:00:00+00:00,FT,Regular Season - 1,2656,Cukaricki,2655,Napredak,1,0
+1384893,SRB,2025,2025-07-20T18:00:00+00:00,FT,Regular Season - 1,699,Mladost Lucani,12316,IMT Novi Beograd,1,1
+1384896,SRB,2025,2025-07-20T18:00:00+00:00,FT,Regular Season - 1,2646,TSC Backa Topola,2254,Radnicki NIS,2,1
+1384897,SRB,2025,2025-07-20T18:00:00+00:00,FT,Regular Season - 1,702,Vojvodina,2657,Radnik Surdulica,2,0
+1384898,SRB,2025,2025-07-20T18:00:00+00:00,FT,Regular Season - 1,12360,Železničar Pančevo,573,FK Partizan,0,1
+1384895,SRB,2025,2025-07-21T18:00:00+00:00,FT,Regular Season - 1,2633,OFK Beograd,2251,FK Spartak Zdrepceva KRV,1,3
+1384899,SRB,2025,2025-07-26T18:00:00+00:00,FT,Regular Season - 2,598,FK Crvena Zvezda,2633,OFK Beograd,7,1
+1384904,SRB,2025,2025-07-26T18:00:00+00:00,FT,Regular Season - 2,2254,Radnicki NIS,699,Mladost Lucani,3,1
+1384905,SRB,2025,2025-07-26T18:00:00+00:00,FT,Regular Season - 2,2657,Radnik Surdulica,2646,TSC Backa Topola,0,0
+1384902,SRB,2025,2025-07-27T17:00:00+00:00,FT,Regular Season - 2,2655,Napredak,2643,Novi Pazar,2,2
+1384900,SRB,2025,2025-07-27T18:00:00+00:00,FT,Regular Season - 2,12316,IMT Novi Beograd,2656,Cukaricki,1,3
+1384903,SRB,2025,2025-07-27T18:00:00+00:00,FT,Regular Season - 2,2644,Radnicki 1923,12360,Železničar Pančevo,1,1
+1384906,SRB,2025,2025-07-27T19:00:00+00:00,FT,Regular Season - 2,2251,FK Spartak Zdrepceva KRV,702,Vojvodina,1,3
+1384908,SRB,2025,2025-08-02T18:00:00+00:00,FT,Regular Season - 3,699,Mladost Lucani,2657,Radnik Surdulica,1,0
+1384910,SRB,2025,2025-08-02T18:00:00+00:00,FT,Regular Season - 3,2633,OFK Beograd,2653,Javor,1,0
+1384912,SRB,2025,2025-08-02T18:00:00+00:00,FT,Regular Season - 3,2646,TSC Backa Topola,2251,FK Spartak Zdrepceva KRV,2,0
+1416555,SRB,2025,2025-08-03T17:00:00+00:00,FT,Regular Season - 3,2656,Cukaricki,2254,Radnicki NIS,1,1
+1384911,SRB,2025,2025-08-03T19:00:00+00:00,FT,Regular Season - 3,573,FK Partizan,2644,Radnicki 1923,2,1
+1384914,SRB,2025,2025-08-04T17:00:00+00:00,FT,Regular Season - 3,12360,Železničar Pančevo,2655,Napredak,0,0
+1416554,SRB,2025,2025-08-04T17:00:00+00:00,FT,Regular Season - 3,2643,Novi Pazar,12316,IMT Novi Beograd,1,2
+1384921,SRB,2025,2025-08-09T17:00:00+00:00,FT,Regular Season - 4,2657,Radnik Surdulica,2656,Cukaricki,3,1
+1384915,SRB,2025,2025-08-09T18:00:00+00:00,FT,Regular Season - 4,598,FK Crvena Zvezda,2646,TSC Backa Topola,1,0
+1384922,SRB,2025,2025-08-09T18:00:00+00:00,FT,Regular Season - 4,2251,FK Spartak Zdrepceva KRV,699,Mladost Lucani,1,1
+1384919,SRB,2025,2025-08-09T19:00:00+00:00,FT,Regular Season - 4,2633,OFK Beograd,702,Vojvodina,1,2
+1384920,SRB,2025,2025-08-10T18:00:00+00:00,FT,Regular Season - 4,2254,Radnicki NIS,2643,Novi Pazar,2,3
+1384918,SRB,2025,2025-08-10T18:30:00+00:00,FT,Regular Season - 4,2655,Napredak,573,FK Partizan,2,7
+1384916,SRB,2025,2025-08-11T17:00:00+00:00,FT,Regular Season - 4,12316,IMT Novi Beograd,12360,Železničar Pančevo,1,4
+1384917,SRB,2025,2025-08-11T17:00:00+00:00,FT,Regular Season - 4,2653,Javor,2644,Radnicki 1923,2,2
+1384923,SRB,2025,2025-08-15T18:00:00+00:00,FT,Regular Season - 5,2656,Cukaricki,2251,FK Spartak Zdrepceva KRV,2,1
+1384924,SRB,2025,2025-08-15T18:00:00+00:00,FT,Regular Season - 5,699,Mladost Lucani,598,FK Crvena Zvezda,1,4
+1384925,SRB,2025,2025-08-16T17:00:00+00:00,FT,Regular Season - 5,2643,Novi Pazar,2657,Radnik Surdulica,2,0
+1384929,SRB,2025,2025-08-16T18:00:00+00:00,FT,Regular Season - 5,702,Vojvodina,2653,Javor,2,2
+1384927,SRB,2025,2025-08-17T17:00:00+00:00,FT,Regular Season - 5,2644,Radnicki 1923,2655,Napredak,0,0
+1384928,SRB,2025,2025-08-17T17:00:00+00:00,FT,Regular Season - 5,2646,TSC Backa Topola,2633,OFK Beograd,1,3
+1384930,SRB,2025,2025-08-17T17:30:00+00:00,FT,Regular Season - 5,12360,Železničar Pančevo,2254,Radnicki NIS,3,0
+1384926,SRB,2025,2025-08-18T17:00:00+00:00,FT,Regular Season - 5,573,FK Partizan,12316,IMT Novi Beograd,5,1
+1384933,SRB,2025,2025-08-22T17:00:00+00:00,FT,Regular Season - 6,2653,Javor,2655,Napredak,0,0
+1384934,SRB,2025,2025-08-23T17:00:00+00:00,FT,Regular Season - 6,2633,OFK Beograd,699,Mladost Lucani,1,1
+1384938,SRB,2025,2025-08-23T19:00:00+00:00,FT,Regular Season - 6,702,Vojvodina,2646,TSC Backa Topola,2,0
+1384936,SRB,2025,2025-08-24T17:00:00+00:00,FT,Regular Season - 6,2657,Radnik Surdulica,12360,Železničar Pančevo,1,2
+1384932,SRB,2025,2025-08-24T17:15:00+00:00,FT,Regular Season - 6,12316,IMT Novi Beograd,2644,Radnicki 1923,2,0
+1384935,SRB,2025,2025-08-24T17:30:00+00:00,FT,Regular Season - 6,2254,Radnicki NIS,573,FK Partizan,2,2
+1384937,SRB,2025,2025-08-24T18:00:00+00:00,FT,Regular Season - 6,2251,FK Spartak Zdrepceva KRV,2643,Novi Pazar,1,1
+1384939,SRB,2025,2025-08-29T19:00:00+00:00,FT,Regular Season - 7,2656,Cukaricki,2633,OFK Beograd,1,3
+1384945,SRB,2025,2025-08-30T17:00:00+00:00,FT,Regular Season - 7,2646,TSC Backa Topola,2653,Javor,2,2
+1384943,SRB,2025,2025-08-30T17:30:00+00:00,FT,Regular Season - 7,573,FK Partizan,2657,Radnik Surdulica,2,0
+1384940,SRB,2025,2025-08-30T19:00:00+00:00,FT,Regular Season - 7,699,Mladost Lucani,702,Vojvodina,0,0
+1384942,SRB,2025,2025-08-31T17:30:00+00:00,FT,Regular Season - 7,2643,Novi Pazar,598,FK Crvena Zvezda,1,5
+1384941,SRB,2025,2025-08-31T19:00:00+00:00,FT,Regular Season - 7,2655,Napredak,12316,IMT Novi Beograd,3,1
+1384944,SRB,2025,2025-08-31T19:00:00+00:00,FT,Regular Season - 7,2644,Radnicki 1923,2254,Radnicki NIS,1,0
+1384946,SRB,2025,2025-08-31T19:00:00+00:00,FT,Regular Season - 7,12360,Železničar Pančevo,2251,FK Spartak Zdrepceva KRV,1,1
+1384948,SRB,2025,2025-09-13T16:00:00+00:00,FT,Regular Season - 8,2653,Javor,12316,IMT Novi Beograd,2,0
+1384951,SRB,2025,2025-09-13T16:00:00+00:00,FT,Regular Season - 8,2657,Radnik Surdulica,2644,Radnicki 1923,2,3
+1384949,SRB,2025,2025-09-13T17:30:00+00:00,FT,Regular Season - 8,2633,OFK Beograd,2643,Novi Pazar,0,2
+1384954,SRB,2025,2025-09-13T18:00:00+00:00,FT,Regular Season - 8,702,Vojvodina,2656,Cukaricki,3,1
+1384950,SRB,2025,2025-09-14T13:00:00+00:00,FT,Regular Season - 8,2254,Radnicki NIS,2655,Napredak,3,0
+1384947,SRB,2025,2025-09-14T15:00:00+00:00,FT,Regular Season - 8,598,FK Crvena Zvezda,12360,Železničar Pančevo,7,1
+1384953,SRB,2025,2025-09-14T15:00:00+00:00,FT,Regular Season - 8,2646,TSC Backa Topola,699,Mladost Lucani,1,0
+1384952,SRB,2025,2025-09-14T17:30:00+00:00,FT,Regular Season - 8,2251,FK Spartak Zdrepceva KRV,573,FK Partizan,2,5
+1384958,SRB,2025,2025-09-19T17:00:00+00:00,FT,Regular Season - 9,2655,Napredak,2657,Radnik Surdulica,1,3
+1384961,SRB,2025,2025-09-20T13:00:00+00:00,FT,Regular Season - 9,2644,Radnicki 1923,2251,FK Spartak Zdrepceva KRV,2,0
+1384959,SRB,2025,2025-09-20T15:30:00+00:00,FT,Regular Season - 9,2643,Novi Pazar,702,Vojvodina,1,0
+1384960,SRB,2025,2025-09-20T17:00:00+00:00,FT,Regular Season - 9,573,FK Partizan,598,FK Crvena Zvezda,1,2
+1384962,SRB,2025,2025-09-20T17:30:00+00:00,FT,Regular Season - 9,12360,Železničar Pančevo,2633,OFK Beograd,1,3
+1384956,SRB,2025,2025-09-21T15:00:00+00:00,FT,Regular Season - 9,12316,IMT Novi Beograd,2254,Radnicki NIS,1,0
+1384955,SRB,2025,2025-09-21T16:00:00+00:00,FT,Regular Season - 9,2656,Cukaricki,2646,TSC Backa Topola,4,2
+1384957,SRB,2025,2025-09-21T16:45:00+00:00,FT,Regular Season - 9,699,Mladost Lucani,2653,Javor,2,1
+1384894,SRB,2025,2025-09-24T16:00:00+00:00,FT,Regular Season - 1,2643,Novi Pazar,2644,Radnicki 1923,1,1
+1384967,SRB,2025,2025-09-26T16:00:00+00:00,FT,Regular Season - 10,2657,Radnik Surdulica,12316,IMT Novi Beograd,2,0
+1384964,SRB,2025,2025-09-27T15:30:00+00:00,FT,Regular Season - 10,2653,Javor,2254,Radnicki NIS,2,1
+1384966,SRB,2025,2025-09-27T16:30:00+00:00,FT,Regular Season - 10,2633,OFK Beograd,573,FK Partizan,0,2
+1384970,SRB,2025,2025-09-27T17:30:00+00:00,FT,Regular Season - 10,702,Vojvodina,12360,Železničar Pančevo,1,1
+1384969,SRB,2025,2025-09-28T14:00:00+00:00,FT,Regular Season - 10,2646,TSC Backa Topola,2643,Novi Pazar,1,0
+1384965,SRB,2025,2025-09-28T15:00:00+00:00,FT,Regular Season - 10,699,Mladost Lucani,2656,Cukaricki,1,1
+1384968,SRB,2025,2025-09-28T15:00:00+00:00,FT,Regular Season - 10,2251,FK Spartak Zdrepceva KRV,2655,Napredak,2,1
+1384963,SRB,2025,2025-09-28T17:00:00+00:00,FT,Regular Season - 10,598,FK Crvena Zvezda,2644,Radnicki 1923,2,1
+1384977,SRB,2025,2025-10-03T16:00:00+00:00,FT,Regular Season - 11,2254,Radnicki NIS,2657,Radnik Surdulica,4,2
+1384974,SRB,2025,2025-10-04T14:30:00+00:00,FT,Regular Season - 11,2643,Novi Pazar,699,Mladost Lucani,1,0
+1384976,SRB,2025,2025-10-04T15:30:00+00:00,FT,Regular Season - 11,2644,Radnicki 1923,2633,OFK Beograd,0,2
+1384978,SRB,2025,2025-10-04T16:30:00+00:00,FT,Regular Season - 11,12360,Železničar Pančevo,2646,TSC Backa Topola,1,0
+1384975,SRB,2025,2025-10-04T18:30:00+00:00,FT,Regular Season - 11,573,FK Partizan,702,Vojvodina,1,0
+1384971,SRB,2025,2025-10-05T13:30:00+00:00,FT,Regular Season - 11,2656,Cukaricki,2653,Javor,1,0
+1384972,SRB,2025,2025-10-05T15:00:00+00:00,FT,Regular Season - 11,12316,IMT Novi Beograd,2251,FK Spartak Zdrepceva KRV,1,0
+1384973,SRB,2025,2025-10-05T17:00:00+00:00,FT,Regular Season - 11,2655,Napredak,598,FK Crvena Zvezda,0,3
+1384983,SRB,2025,2025-10-18T12:00:00+00:00,FT,Regular Season - 12,2633,OFK Beograd,2655,Napredak,4,0
+1384981,SRB,2025,2025-10-18T15:00:00+00:00,FT,Regular Season - 12,2653,Javor,2657,Radnik Surdulica,3,2
+1384986,SRB,2025,2025-10-18T16:00:00+00:00,FT,Regular Season - 12,702,Vojvodina,2644,Radnicki 1923,4,1
+1384985,SRB,2025,2025-10-18T16:30:00+00:00,FT,Regular Season - 12,2646,TSC Backa Topola,573,FK Partizan,0,1
+1384980,SRB,2025,2025-10-19T13:30:00+00:00,FT,Regular Season - 12,2656,Cukaricki,2643,Novi Pazar,1,1
+1384982,SRB,2025,2025-10-19T15:00:00+00:00,FT,Regular Season - 12,699,Mladost Lucani,12360,Železničar Pančevo,2,1
+1384979,SRB,2025,2025-10-19T17:30:00+00:00,FT,Regular Season - 12,598,FK Crvena Zvezda,12316,IMT Novi Beograd,6,1
+1384984,SRB,2025,2025-10-19T17:30:00+00:00,FT,Regular Season - 12,2251,FK Spartak Zdrepceva KRV,2254,Radnicki NIS,2,0
+1384988,SRB,2025,2025-10-24T14:00:00+00:00,FT,Regular Season - 13,2655,Napredak,702,Vojvodina,1,4
+1384989,SRB,2025,2025-10-24T15:30:00+00:00,FT,Regular Season - 13,2643,Novi Pazar,2653,Javor,1,2
+1384990,SRB,2025,2025-10-24T15:30:00+00:00,FT,Regular Season - 13,573,FK Partizan,699,Mladost Lucani,3,0
+1384987,SRB,2025,2025-10-25T13:00:00+00:00,FT,Regular Season - 13,12316,IMT Novi Beograd,2633,OFK Beograd,1,1
+1384991,SRB,2025,2025-10-25T13:00:00+00:00,FT,Regular Season - 13,2644,Radnicki 1923,2646,TSC Backa Topola,2,1
+1384993,SRB,2025,2025-10-25T15:00:00+00:00,FT,Regular Season - 13,2657,Radnik Surdulica,2251,FK Spartak Zdrepceva KRV,2,0
+1384994,SRB,2025,2025-10-25T16:00:00+00:00,FT,Regular Season - 13,12360,Železničar Pančevo,2656,Cukaricki,1,0
+1384992,SRB,2025,2025-10-26T16:00:00+00:00,FT,Regular Season - 13,2254,Radnicki NIS,598,FK Crvena Zvezda,0,0
+1384913,SRB,2025,2025-10-30T17:00:00+00:00,FT,Regular Season - 3,702,Vojvodina,598,FK Crvena Zvezda,3,2
+1384997,SRB,2025,2025-11-01T15:00:00+00:00,FT,Regular Season - 14,2653,Javor,2251,FK Spartak Zdrepceva KRV,1,1
+1384996,SRB,2025,2025-11-01T17:00:00+00:00,FT,Regular Season - 14,2656,Cukaricki,573,FK Partizan,4,1
+1384999,SRB,2025,2025-11-02T15:00:00+00:00,FT,Regular Season - 14,2643,Novi Pazar,12360,Železničar Pančevo,1,0
+1385001,SRB,2025,2025-11-02T15:00:00+00:00,FT,Regular Season - 14,2646,TSC Backa Topola,2655,Napredak,1,1
+1384995,SRB,2025,2025-11-02T16:00:00+00:00,FT,Regular Season - 14,598,FK Crvena Zvezda,2657,Radnik Surdulica,1,1
+1385002,SRB,2025,2025-11-02T16:00:00+00:00,FT,Regular Season - 14,702,Vojvodina,12316,IMT Novi Beograd,1,3
+1385000,SRB,2025,2025-11-03T16:00:00+00:00,FT,Regular Season - 14,2633,OFK Beograd,2254,Radnicki NIS,0,1
+1384901,SRB,2025,2025-11-05T16:00:00+00:00,FT,Regular Season - 2,2653,Javor,573,FK Partizan,2,3
+1385008,SRB,2025,2025-11-08T13:00:00+00:00,FT,Regular Season - 15,2657,Radnik Surdulica,2633,OFK Beograd,1,0
+1385004,SRB,2025,2025-11-08T17:00:00+00:00,FT,Regular Season - 15,2655,Napredak,699,Mladost Lucani,0,1
+1385007,SRB,2025,2025-11-08T18:00:00+00:00,FT,Regular Season - 15,2254,Radnicki NIS,702,Vojvodina,0,1
+1385010,SRB,2025,2025-11-09T13:00:00+00:00,FT,Regular Season - 15,12360,Železničar Pančevo,2653,Javor,2,0
+1385009,SRB,2025,2025-11-09T15:00:00+00:00,FT,Regular Season - 15,2251,FK Spartak Zdrepceva KRV,598,FK Crvena Zvezda,2,3
+1385003,SRB,2025,2025-11-09T16:00:00+00:00,FT,Regular Season - 15,12316,IMT Novi Beograd,2646,TSC Backa Topola,1,1
+1385005,SRB,2025,2025-11-09T17:30:00+00:00,FT,Regular Season - 15,573,FK Partizan,2643,Novi Pazar,2,0
+1385017,SRB,2025,2025-11-21T14:00:00+00:00,FT,Regular Season - 16,2657,Radnik Surdulica,702,Vojvodina,3,1
+1385013,SRB,2025,2025-11-22T16:00:00+00:00,FT,Regular Season - 16,2655,Napredak,2656,Cukaricki,1,1
+1385014,SRB,2025,2025-11-22T17:30:00+00:00,FT,Regular Season - 16,573,FK Partizan,12360,Železničar Pančevo,1,3
+1385018,SRB,2025,2025-11-22T18:30:00+00:00,FT,Regular Season - 16,2251,FK Spartak Zdrepceva KRV,2633,OFK Beograd,2,2
+1385011,SRB,2025,2025-11-23T12:00:00+00:00,FT,Regular Season - 16,12316,IMT Novi Beograd,699,Mladost Lucani,1,3
+1385016,SRB,2025,2025-11-23T13:00:00+00:00,FT,Regular Season - 16,2254,Radnicki NIS,2646,TSC Backa Topola,1,1
+1385012,SRB,2025,2025-11-23T15:00:00+00:00,FT,Regular Season - 16,2653,Javor,598,FK Crvena Zvezda,1,0
+1385015,SRB,2025,2025-11-23T15:30:00+00:00,FT,Regular Season - 16,2644,Radnicki 1923,2643,Novi Pazar,0,0
+1385019,SRB,2025,2025-11-28T16:00:00+00:00,FT,Regular Season - 17,2656,Cukaricki,12316,IMT Novi Beograd,1,1
+1385026,SRB,2025,2025-11-29T12:00:00+00:00,FT,Regular Season - 17,12360,Železničar Pančevo,2644,Radnicki 1923,1,0
+1385020,SRB,2025,2025-11-29T13:00:00+00:00,FT,Regular Season - 17,699,Mladost Lucani,2254,Radnicki NIS,2,1
+1385025,SRB,2025,2025-11-29T15:30:00+00:00,FT,Regular Season - 17,702,Vojvodina,2251,FK Spartak Zdrepceva KRV,2,0
+1385021,SRB,2025,2025-11-29T16:00:00+00:00,FT,Regular Season - 17,2643,Novi Pazar,2655,Napredak,2,1
+1385023,SRB,2025,2025-11-29T17:30:00+00:00,FT,Regular Season - 17,573,FK Partizan,2653,Javor,4,0
+1385024,SRB,2025,2025-11-30T15:00:00+00:00,FT,Regular Season - 17,2646,TSC Backa Topola,2657,Radnik Surdulica,0,2
+1385022,SRB,2025,2025-11-30T17:30:00+00:00,FT,Regular Season - 17,2633,OFK Beograd,598,FK Crvena Zvezda,3,4
+1384998,SRB,2025,2025-12-03T16:30:00+00:00,FT,Regular Season - 14,699,Mladost Lucani,2644,Radnicki 1923,0,2
+1384931,SRB,2025,2025-12-04T18:00:00+00:00,FT,Regular Season - 6,598,FK Crvena Zvezda,2656,Cukaricki,3,0
+1385029,SRB,2025,2025-12-06T16:00:00+00:00,FT,Regular Season - 18,2653,Javor,2633,OFK Beograd,0,1
+1385030,SRB,2025,2025-12-07T12:00:00+00:00,FT,Regular Season - 18,2655,Napredak,12360,Železničar Pančevo,2,1
+1385028,SRB,2025,2025-12-07T14:00:00+00:00,FT,Regular Season - 18,12316,IMT Novi Beograd,2643,Novi Pazar,2,3
+1385031,SRB,2025,2025-12-07T14:00:00+00:00,FT,Regular Season - 18,2644,Radnicki 1923,573,FK Partizan,2,4
+1385027,SRB,2025,2025-12-07T16:00:00+00:00,FT,Regular Season - 18,598,FK Crvena Zvezda,702,Vojvodina,0,1
+1385033,SRB,2025,2025-12-08T14:00:00+00:00,FT,Regular Season - 18,2657,Radnik Surdulica,699,Mladost Lucani,0,0
+1385032,SRB,2025,2025-12-08T16:00:00+00:00,FT,Regular Season - 18,2254,Radnicki NIS,2656,Cukaricki,1,2
+1385034,SRB,2025,2025-12-08T18:00:00+00:00,FT,Regular Season - 18,2251,FK Spartak Zdrepceva KRV,2646,TSC Backa Topola,1,2
+1385035,SRB,2025,2025-12-13T12:00:00+00:00,FT,Regular Season - 19,2656,Cukaricki,2657,Radnik Surdulica,1,1
+1385039,SRB,2025,2025-12-13T13:00:00+00:00,FT,Regular Season - 19,2644,Radnicki 1923,2653,Javor,1,1
+1385041,SRB,2025,2025-12-13T15:30:00+00:00,FT,Regular Season - 19,702,Vojvodina,2633,OFK Beograd,0,0
+1385042,SRB,2025,2025-12-13T17:00:00+00:00,FT,Regular Season - 19,12360,Železničar Pančevo,12316,IMT Novi Beograd,1,0
+1385038,SRB,2025,2025-12-13T17:30:00+00:00,FT,Regular Season - 19,573,FK Partizan,2655,Napredak,3,2
+1385036,SRB,2025,2025-12-14T12:00:00+00:00,FT,Regular Season - 19,699,Mladost Lucani,2251,FK Spartak Zdrepceva KRV,0,0
+1385037,SRB,2025,2025-12-14T16:00:00+00:00,FT,Regular Season - 19,2643,Novi Pazar,2254,Radnicki NIS,1,0
+1385040,SRB,2025,2025-12-15T18:30:00+00:00,FT,Regular Season - 19,2646,TSC Backa Topola,598,FK Crvena Zvezda,0,0
+1385006,SRB,2025,2025-12-17T15:30:00+00:00,FT,Regular Season - 15,2644,Radnicki 1923,2656,Cukaricki,3,2
+1385048,SRB,2025,2025-12-20T12:00:00+00:00,FT,Regular Season - 20,2254,Radnicki NIS,12360,Železničar Pančevo,1,0
+1385045,SRB,2025,2025-12-20T13:00:00+00:00,FT,Regular Season - 20,2653,Javor,702,Vojvodina,1,2
+1385043,SRB,2025,2025-12-20T14:30:00+00:00,FT,Regular Season - 20,598,FK Crvena Zvezda,699,Mladost Lucani,4,0
+1385044,SRB,2025,2025-12-20T17:00:00+00:00,FT,Regular Season - 20,12316,IMT Novi Beograd,573,FK Partizan,1,0
+1385047,SRB,2025,2025-12-21T12:00:00+00:00,FT,Regular Season - 20,2633,OFK Beograd,2646,TSC Backa Topola,0,1
+1385050,SRB,2025,2025-12-21T14:00:00+00:00,FT,Regular Season - 20,2251,FK Spartak Zdrepceva KRV,2656,Cukaricki,1,3
+1385049,SRB,2025,2025-12-21T16:00:00+00:00,FT,Regular Season - 20,2657,Radnik Surdulica,2643,Novi Pazar,1,0
+1385046,SRB,2025,2025-12-22T18:00:00+00:00,FT,Regular Season - 20,2655,Napredak,2644,Radnicki 1923,0,1
+1385053,SRB,2025,2026-01-31T12:00:00+00:00,FT,Regular Season - 21,2655,Napredak,2653,Javor,1,2
+1385056,SRB,2025,2026-01-31T12:00:00+00:00,FT,Regular Season - 21,2644,Radnicki 1923,12316,IMT Novi Beograd,3,1
+1385055,SRB,2025,2026-01-31T14:00:00+00:00,FT,Regular Season - 21,573,FK Partizan,2254,Radnicki NIS,0,0
+1385058,SRB,2025,2026-01-31T16:00:00+00:00,FT,Regular Season - 21,12360,Železničar Pančevo,2657,Radnik Surdulica,1,0
+1385052,SRB,2025,2026-02-01T12:00:00+00:00,FT,Regular Season - 21,699,Mladost Lucani,2633,OFK Beograd,0,0
+1385054,SRB,2025,2026-02-01T13:30:00+00:00,FT,Regular Season - 21,2643,Novi Pazar,2251,FK Spartak Zdrepceva KRV,2,2
+1385051,SRB,2025,2026-02-01T14:00:00+00:00,FT,Regular Season - 21,2656,Cukaricki,598,FK Crvena Zvezda,1,3
+1385057,SRB,2025,2026-02-01T14:00:00+00:00,FT,Regular Season - 21,2646,TSC Backa Topola,702,Vojvodina,0,2
+1385061,SRB,2025,2026-02-07T13:00:00+00:00,FT,Regular Season - 22,2653,Javor,2646,TSC Backa Topola,0,0
+1385064,SRB,2025,2026-02-07T13:00:00+00:00,FT,Regular Season - 22,2657,Radnik Surdulica,573,FK Partizan,2,3
+1385059,SRB,2025,2026-02-07T15:00:00+00:00,FT,Regular Season - 22,598,FK Crvena Zvezda,2643,Novi Pazar,5,0
+1385063,SRB,2025,2026-02-08T12:00:00+00:00,FT,Regular Season - 22,2254,Radnicki NIS,2644,Radnicki 1923,2,1
+1385060,SRB,2025,2026-02-08T13:00:00+00:00,FT,Regular Season - 22,12316,IMT Novi Beograd,2655,Napredak,2,0
+1385065,SRB,2025,2026-02-08T14:00:00+00:00,FT,Regular Season - 22,2251,FK Spartak Zdrepceva KRV,12360,Železničar Pančevo,0,3
+1385066,SRB,2025,2026-02-08T14:30:00+00:00,FT,Regular Season - 22,702,Vojvodina,699,Mladost Lucani,5,0
+1385062,SRB,2025,2026-02-09T12:00:00+00:00,FT,Regular Season - 22,2633,OFK Beograd,2656,Cukaricki,2,0
+1385070,SRB,2025,2026-02-14T12:00:00+00:00,FT,Regular Season - 23,2655,Napredak,2254,Radnicki NIS,2,4
+1385072,SRB,2025,2026-02-14T14:00:00+00:00,FT,Regular Season - 23,573,FK Partizan,2251,FK Spartak Zdrepceva KRV,2,1
+1385067,SRB,2025,2026-02-14T16:00:00+00:00,FT,Regular Season - 23,2656,Cukaricki,702,Vojvodina,2,3
+1385074,SRB,2025,2026-02-14T16:00:00+00:00,FT,Regular Season - 23,12360,Železničar Pančevo,598,FK Crvena Zvezda,0,3
+1385071,SRB,2025,2026-02-15T13:00:00+00:00,FT,Regular Season - 23,2643,Novi Pazar,2633,OFK Beograd,2,1
+1385073,SRB,2025,2026-02-15T13:00:00+00:00,FT,Regular Season - 23,2644,Radnicki 1923,2657,Radnik Surdulica,0,0
+1385069,SRB,2025,2026-02-15T16:00:00+00:00,FT,Regular Season - 23,699,Mladost Lucani,2646,TSC Backa Topola,1,3
+1385068,SRB,2025,2026-02-16T16:00:00+00:00,FT,Regular Season - 23,12316,IMT Novi Beograd,2653,Javor,1,0
+1385077,SRB,2025,2026-02-21T13:00:00+00:00,FT,Regular Season - 24,2633,OFK Beograd,12360,Železničar Pančevo,0,0
+1385079,SRB,2025,2026-02-21T13:00:00+00:00,FT,Regular Season - 24,2657,Radnik Surdulica,2655,Napredak,2,1
+1385082,SRB,2025,2026-02-21T15:00:00+00:00,FT,Regular Season - 24,702,Vojvodina,2643,Novi Pazar,0,3
+1385078,SRB,2025,2026-02-22T12:00:00+00:00,FT,Regular Season - 24,2254,Radnicki NIS,12316,IMT Novi Beograd,2,1
+1385080,SRB,2025,2026-02-22T15:00:00+00:00,FT,Regular Season - 24,2251,FK Spartak Zdrepceva KRV,2644,Radnicki 1923,3,3
+1385075,SRB,2025,2026-02-22T16:00:00+00:00,FT,Regular Season - 24,598,FK Crvena Zvezda,573,FK Partizan,3,0
+1385081,SRB,2025,2026-02-22T18:00:00+00:00,FT,Regular Season - 24,2646,TSC Backa Topola,2656,Cukaricki,1,1
+1385076,SRB,2025,2026-02-23T15:00:00+00:00,FT,Regular Season - 24,2653,Javor,699,Mladost Lucani,0,0
+1385086,SRB,2025,2026-02-28T12:00:00+00:00,FT,Regular Season - 25,2643,Novi Pazar,2646,TSC Backa Topola,2,0
+1385083,SRB,2025,2026-02-28T13:00:00+00:00,FT,Regular Season - 25,2656,Cukaricki,699,Mladost Lucani,3,1
+1385090,SRB,2025,2026-02-28T15:00:00+00:00,FT,Regular Season - 25,12360,Železničar Pančevo,702,Vojvodina,2,0
+1385087,SRB,2025,2026-02-28T17:30:00+00:00,FT,Regular Season - 25,573,FK Partizan,2633,OFK Beograd,1,2
+1385089,SRB,2025,2026-03-01T12:00:00+00:00,FT,Regular Season - 25,2254,Radnicki NIS,2653,Javor,1,0
+1385085,SRB,2025,2026-03-01T14:30:00+00:00,FT,Regular Season - 25,2655,Napredak,2251,FK Spartak Zdrepceva KRV,1,1
+1385088,SRB,2025,2026-03-01T16:00:00+00:00,FT,Regular Season - 25,2644,Radnicki 1923,598,FK Crvena Zvezda,0,2
+1385084,SRB,2025,2026-03-02T16:00:00+00:00,FT,Regular Season - 25,12316,IMT Novi Beograd,2657,Radnik Surdulica,0,0
+1385097,SRB,2025,2026-03-07T12:00:00+00:00,FT,Regular Season - 26,2646,TSC Backa Topola,12360,Železničar Pančevo,0,0
+1385092,SRB,2025,2026-03-07T14:00:00+00:00,FT,Regular Season - 26,2653,Javor,2656,Cukaricki,1,0
+1385095,SRB,2025,2026-03-08T13:00:00+00:00,FT,Regular Season - 26,2657,Radnik Surdulica,2254,Radnicki NIS,2,2
+1385091,SRB,2025,2026-03-08T15:00:00+00:00,FT,Regular Season - 26,598,FK Crvena Zvezda,2655,Napredak,4,0
+1385096,SRB,2025,2026-03-08T15:00:00+00:00,FT,Regular Season - 26,2251,FK Spartak Zdrepceva KRV,12316,IMT Novi Beograd,0,1
+1385098,SRB,2025,2026-03-08T17:00:00+00:00,FT,Regular Season - 26,702,Vojvodina,573,FK Partizan,3,0
+1385093,SRB,2025,2026-03-09T17:00:00+00:00,FT,Regular Season - 26,699,Mladost Lucani,2643,Novi Pazar,0,2
+1385094,SRB,2025,2026-03-09T17:00:00+00:00,FT,Regular Season - 26,2633,OFK Beograd,2644,Radnicki 1923,0,0
+1385105,SRB,2025,2026-03-14T12:00:00+00:00,FT,Regular Season - 27,2657,Radnik Surdulica,2653,Javor,1,1
+1385104,SRB,2025,2026-03-14T13:00:00+00:00,FT,Regular Season - 27,2254,Radnicki NIS,2251,FK Spartak Zdrepceva KRV,0,2
+1385102,SRB,2025,2026-03-14T15:00:00+00:00,FT,Regular Season - 27,573,FK Partizan,2646,TSC Backa Topola,2,1
+1385101,SRB,2025,2026-03-15T12:00:00+00:00,FT,Regular Season - 27,2643,Novi Pazar,2656,Cukaricki,1,1
+1385106,SRB,2025,2026-03-15T15:00:00+00:00,FT,Regular Season - 27,12360,Železničar Pančevo,699,Mladost Lucani,5,0
+1385099,SRB,2025,2026-03-15T16:00:00+00:00,FT,Regular Season - 27,12316,IMT Novi Beograd,598,FK Crvena Zvezda,1,2
+1385103,SRB,2025,2026-03-15T18:30:00+00:00,FT,Regular Season - 27,2644,Radnicki 1923,702,Vojvodina,0,1
+1385100,SRB,2025,2026-03-16T16:00:00+00:00,FT,Regular Season - 27,2655,Napredak,2633,OFK Beograd,2,2
+1385112,SRB,2025,2026-03-20T16:00:00+00:00,FT,Regular Season - 28,2251,FK Spartak Zdrepceva KRV,2657,Radnik Surdulica,1,3
+1385109,SRB,2025,2026-03-21T13:00:00+00:00,FT,Regular Season - 28,2653,Javor,2643,Novi Pazar,0,0
+1385107,SRB,2025,2026-03-21T15:00:00+00:00,FT,Regular Season - 28,598,FK Crvena Zvezda,2254,Radnicki NIS,2,0
+1385114,SRB,2025,2026-03-21T16:00:00+00:00,FT,Regular Season - 28,702,Vojvodina,2655,Napredak,4,1
+1385110,SRB,2025,2026-03-21T17:30:00+00:00,FT,Regular Season - 28,699,Mladost Lucani,573,FK Partizan,1,1
+1385111,SRB,2025,2026-03-22T13:00:00+00:00,FT,Regular Season - 28,2633,OFK Beograd,12316,IMT Novi Beograd,3,3
+1385113,SRB,2025,2026-03-22T14:00:00+00:00,FT,Regular Season - 28,2646,TSC Backa Topola,2644,Radnicki 1923,0,0
+1385108,SRB,2025,2026-03-22T15:00:00+00:00,FT,Regular Season - 28,2656,Cukaricki,12360,Železničar Pančevo,3,2
+1385119,SRB,2025,2026-04-03T14:00:00+00:00,FT,Regular Season - 29,2254,Radnicki NIS,2633,OFK Beograd,1,2
+1385116,SRB,2025,2026-04-03T16:00:00+00:00,FT,Regular Season - 29,2655,Napredak,2646,TSC Backa Topola,1,2
+1385122,SRB,2025,2026-04-04T14:00:00+00:00,FT,Regular Season - 29,12360,Železničar Pančevo,2643,Novi Pazar,2,0
+1385118,SRB,2025,2026-04-04T16:00:00+00:00,FT,Regular Season - 29,2644,Radnicki 1923,699,Mladost Lucani,1,1
+1385121,SRB,2025,2026-04-04T16:00:00+00:00,FT,Regular Season - 29,2251,FK Spartak Zdrepceva KRV,2653,Javor,1,2
+1385115,SRB,2025,2026-04-04T18:00:00+00:00,FT,Regular Season - 29,12316,IMT Novi Beograd,702,Vojvodina,0,0
+1385120,SRB,2025,2026-04-05T15:00:00+00:00,FT,Regular Season - 29,2657,Radnik Surdulica,598,FK Crvena Zvezda,1,2
+1385117,SRB,2025,2026-04-05T17:00:00+00:00,FT,Regular Season - 29,573,FK Partizan,2656,Cukaricki,0,0
+1385125,SRB,2025,2026-04-08T15:00:00+00:00,FT,Regular Season - 30,2653,Javor,12360,Železničar Pančevo,1,2
+1385129,SRB,2025,2026-04-08T15:00:00+00:00,FT,Regular Season - 30,2646,TSC Backa Topola,12316,IMT Novi Beograd,1,3
+1385130,SRB,2025,2026-04-08T16:00:00+00:00,FT,Regular Season - 30,702,Vojvodina,2254,Radnicki NIS,3,2
+1385126,SRB,2025,2026-04-08T17:00:00+00:00,FT,Regular Season - 30,699,Mladost Lucani,2655,Napredak,2,0
+1385127,SRB,2025,2026-04-09T15:00:00+00:00,FT,Regular Season - 30,2643,Novi Pazar,573,FK Partizan,2,3
+1385123,SRB,2025,2026-04-09T17:00:00+00:00,FT,Regular Season - 30,598,FK Crvena Zvezda,2251,FK Spartak Zdrepceva KRV,3,2
+1385124,SRB,2025,2026-04-09T17:00:00+00:00,FT,Regular Season - 30,2656,Cukaricki,2644,Radnicki 1923,0,0
+1385128,SRB,2025,2026-04-09T17:00:00+00:00,FT,Regular Season - 30,2633,OFK Beograd,2657,Radnik Surdulica,0,0
+1540270,SRB,2025,2026-04-18T13:00:00+00:00,FT,Championship Group - 31,2656,Cukaricki,2657,Radnik Surdulica,2,2
+1540269,SRB,2025,2026-04-18T15:00:00+00:00,FT,Championship Group - 31,598,FK Crvena Zvezda,702,Vojvodina,4,1
+1540271,SRB,2025,2026-04-18T15:00:00+00:00,FT,Championship Group - 31,2643,Novi Pazar,2633,OFK Beograd,1,5
+1540272,SRB,2025,2026-04-18T16:30:00+00:00,FT,Championship Group - 31,573,FK Partizan,12360,Železničar Pančevo,2,1
+1540300,SRB,2025,2026-04-19T14:00:00+00:00,FT,Relegation Group - 31,2646,TSC Backa Topola,2655,Napredak,4,1
+1540298,SRB,2025,2026-04-19T15:30:00+00:00,FT,Relegation Group - 31,2653,Javor,2251,FK Spartak Zdrepceva KRV,1,0
+1540299,SRB,2025,2026-04-19T16:00:00+00:00,FT,Relegation Group - 31,2644,Radnicki 1923,2254,Radnicki NIS,1,1
+1540297,SRB,2025,2026-04-19T18:00:00+00:00,FT,Relegation Group - 31,12316,IMT Novi Beograd,699,Mladost Lucani,1,1
+1540274,SRB,2025,2026-04-22T15:00:00+00:00,FT,Championship Group - 32,2657,Radnik Surdulica,2643,Novi Pazar,2,0
+1540275,SRB,2025,2026-04-22T15:00:00+00:00,FT,Championship Group - 32,702,Vojvodina,573,FK Partizan,0,0
+1540273,SRB,2025,2026-04-22T16:30:00+00:00,FT,Championship Group - 32,2633,OFK Beograd,2656,Cukaricki,0,0
+1540276,SRB,2025,2026-04-22T17:00:00+00:00,FT,Championship Group - 32,12360,Železničar Pančevo,598,FK Crvena Zvezda,2,2
+1540303,SRB,2025,2026-04-23T14:00:00+00:00,FT,Relegation Group - 32,2254,Radnicki NIS,2653,Javor,3,2
+1540302,SRB,2025,2026-04-23T16:00:00+00:00,FT,Relegation Group - 32,2655,Napredak,12316,IMT Novi Beograd,0,1
+1540301,SRB,2025,2026-04-23T18:00:00+00:00,FT,Relegation Group - 32,699,Mladost Lucani,2644,Radnicki 1923,0,0
+1540304,SRB,2025,2026-04-23T18:00:00+00:00,FT,Relegation Group - 32,2251,FK Spartak Zdrepceva KRV,2646,TSC Backa Topola,1,4
+1540279,SRB,2025,2026-04-26T13:00:00+00:00,FT,Championship Group - 33,2633,OFK Beograd,2657,Radnik Surdulica,1,1
+1540278,SRB,2025,2026-04-26T14:30:00+00:00,FT,Championship Group - 33,2643,Novi Pazar,2656,Cukaricki,2,2
+1540277,SRB,2025,2026-04-26T16:00:00+00:00,FT,Championship Group - 33,598,FK Crvena Zvezda,573,FK Partizan,3,0
+1540280,SRB,2025,2026-04-26T18:00:00+00:00,FT,Championship Group - 33,702,Vojvodina,12360,Železničar Pančevo,0,0
+1540305,SRB,2025,2026-04-27T15:00:00+00:00,FT,Relegation Group - 33,12316,IMT Novi Beograd,2254,Radnicki NIS,2,0
+1540306,SRB,2025,2026-04-27T16:00:00+00:00,FT,Relegation Group - 33,2653,Javor,2655,Napredak,4,0
+1540307,SRB,2025,2026-04-27T16:00:00+00:00,FT,Relegation Group - 33,2644,Radnicki 1923,2251,FK Spartak Zdrepceva KRV,4,0
+1540308,SRB,2025,2026-04-27T17:00:00+00:00,FT,Relegation Group - 33,2646,TSC Backa Topola,699,Mladost Lucani,1,2
+1540282,SRB,2025,2026-05-02T16:30:00+00:00,FT,Championship Group - 34,573,FK Partizan,2643,Novi Pazar,2,1
+1540284,SRB,2025,2026-05-02T16:30:00+00:00,FT,Championship Group - 34,12360,Železničar Pančevo,2633,OFK Beograd,2,0
+1540309,SRB,2025,2026-05-03T17:30:00+00:00,FT,Relegation Group - 34,2653,Javor,12316,IMT Novi Beograd,0,0
+1540310,SRB,2025,2026-05-03T17:30:00+00:00,FT,Relegation Group - 34,699,Mladost Lucani,2251,FK Spartak Zdrepceva KRV,2,1
+1540311,SRB,2025,2026-05-03T17:30:00+00:00,FT,Relegation Group - 34,2655,Napredak,2254,Radnicki NIS,0,1
+1540312,SRB,2025,2026-05-03T17:30:00+00:00,FT,Relegation Group - 34,2644,Radnicki 1923,2646,TSC Backa Topola,2,2
+1540283,SRB,2025,2026-05-04T15:00:00+00:00,FT,Championship Group - 34,2657,Radnik Surdulica,702,Vojvodina,1,4
+1540281,SRB,2025,2026-05-04T17:00:00+00:00,FT,Championship Group - 34,2656,Cukaricki,598,FK Crvena Zvezda,1,2
+1540287,SRB,2025,2026-05-08T16:00:00+00:00,FT,Championship Group - 35,702,Vojvodina,2656,Cukaricki,1,0
+1540288,SRB,2025,2026-05-09T15:30:00+00:00,FT,Championship Group - 35,12360,Železničar Pančevo,2657,Radnik Surdulica,1,1
+1540285,SRB,2025,2026-05-09T16:00:00+00:00,FT,Championship Group - 35,598,FK Crvena Zvezda,2643,Novi Pazar,1,2
+1540286,SRB,2025,2026-05-09T17:30:00+00:00,FT,Championship Group - 35,573,FK Partizan,2633,OFK Beograd,1,1
+1540313,SRB,2025,2026-05-10T16:30:00+00:00,FT,Relegation Group - 35,12316,IMT Novi Beograd,2644,Radnicki 1923,0,0
+1540314,SRB,2025,2026-05-10T16:30:00+00:00,FT,Relegation Group - 35,2254,Radnicki NIS,699,Mladost Lucani,1,0
+1540315,SRB,2025,2026-05-10T16:30:00+00:00,FT,Relegation Group - 35,2251,FK Spartak Zdrepceva KRV,2655,Napredak,0,3
+1540316,SRB,2025,2026-05-10T16:30:00+00:00,FT,Relegation Group - 35,2646,TSC Backa Topola,2653,Javor,6,1
+1540317,SRB,2025,2026-05-16T18:00:00+00:00,FT,Relegation Group - 36,2653,Javor,699,Mladost Lucani,2,4
+1540318,SRB,2025,2026-05-16T18:00:00+00:00,FT,Relegation Group - 36,2655,Napredak,2644,Radnicki 1923,0,0
+1540319,SRB,2025,2026-05-16T18:00:00+00:00,FT,Relegation Group - 36,2251,FK Spartak Zdrepceva KRV,12316,IMT Novi Beograd,0,1
+1540320,SRB,2025,2026-05-16T18:00:00+00:00,FT,Relegation Group - 36,2646,TSC Backa Topola,2254,Radnicki NIS,1,2
+1540289,SRB,2025,2026-05-17T14:00:00+00:00,FT,Championship Group - 36,2656,Cukaricki,573,FK Partizan,0,0
+1540290,SRB,2025,2026-05-17T15:00:00+00:00,FT,Championship Group - 36,2643,Novi Pazar,12360,Železničar Pančevo,2,2
+1540292,SRB,2025,2026-05-17T16:30:00+00:00,FT,Championship Group - 36,2657,Radnik Surdulica,598,FK Crvena Zvezda,0,0
+1540291,SRB,2025,2026-05-17T18:00:00+00:00,FT,Championship Group - 36,2633,OFK Beograd,702,Vojvodina,1,2
+1540296,SRB,2025,2026-05-22T15:00:00+00:00,FT,Championship Group - 37,12360,Železničar Pančevo,2656,Cukaricki,0,0
+1540293,SRB,2025,2026-05-22T18:00:00+00:00,FT,Championship Group - 37,598,FK Crvena Zvezda,2633,OFK Beograd,1,2
+1540294,SRB,2025,2026-05-23T13:00:00+00:00,FT,Championship Group - 37,573,FK Partizan,2657,Radnik Surdulica,5,0
+1540295,SRB,2025,2026-05-23T16:00:00+00:00,FT,Championship Group - 37,702,Vojvodina,2643,Novi Pazar,3,0
+1540321,SRB,2025,2026-05-24T17:30:00+00:00,FT,Relegation Group - 37,12316,IMT Novi Beograd,2646,TSC Backa Topola,1,1
+1540322,SRB,2025,2026-05-24T17:30:00+00:00,FT,Relegation Group - 37,699,Mladost Lucani,2655,Napredak,1,0
+1540323,SRB,2025,2026-05-24T17:30:00+00:00,FT,Relegation Group - 37,2644,Radnicki 1923,2653,Javor,2,2
+1540324,SRB,2025,2026-05-24T17:30:00+00:00,FT,Relegation Group - 37,2254,Radnicki NIS,2251,FK Spartak Zdrepceva KRV,2,1

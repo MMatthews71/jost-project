@@ -1,0 +1,381 @@
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
+867946,EPL,2022,2022-08-05T19:00:00+00:00,FT,Regular Season - 1,52,Crystal Palace,42,Arsenal,0,2
+867947,EPL,2022,2022-08-06T11:30:00+00:00,FT,Regular Season - 1,36,Fulham,40,Liverpool,2,2
+867948,EPL,2022,2022-08-06T14:00:00+00:00,FT,Regular Season - 1,35,Bournemouth,66,Aston Villa,2,0
+867949,EPL,2022,2022-08-06T14:00:00+00:00,FT,Regular Season - 1,63,Leeds,39,Wolves,2,1
+867951,EPL,2022,2022-08-06T14:00:00+00:00,FT,Regular Season - 1,34,Newcastle,65,Nottingham Forest,2,0
+867952,EPL,2022,2022-08-06T14:00:00+00:00,FT,Regular Season - 1,47,Tottenham,41,Southampton,4,1
+867953,EPL,2022,2022-08-06T16:30:00+00:00,FT,Regular Season - 1,45,Everton,49,Chelsea,0,1
+867950,EPL,2022,2022-08-07T13:00:00+00:00,FT,Regular Season - 1,46,Leicester,55,Brentford,2,2
+867954,EPL,2022,2022-08-07T13:00:00+00:00,FT,Regular Season - 1,33,Manchester United,51,Brighton,1,2
+867955,EPL,2022,2022-08-07T15:30:00+00:00,FT,Regular Season - 1,48,West Ham,50,Manchester City,0,2
+867957,EPL,2022,2022-08-13T11:30:00+00:00,FT,Regular Season - 2,66,Aston Villa,45,Everton,2,1
+867956,EPL,2022,2022-08-13T14:00:00+00:00,FT,Regular Season - 2,42,Arsenal,46,Leicester,4,2
+867959,EPL,2022,2022-08-13T14:00:00+00:00,FT,Regular Season - 2,51,Brighton,34,Newcastle,0,0
+867962,EPL,2022,2022-08-13T14:00:00+00:00,FT,Regular Season - 2,50,Manchester City,35,Bournemouth,4,0
+867964,EPL,2022,2022-08-13T14:00:00+00:00,FT,Regular Season - 2,41,Southampton,63,Leeds,2,2
+867965,EPL,2022,2022-08-13T14:00:00+00:00,FT,Regular Season - 2,39,Wolves,36,Fulham,0,0
+867958,EPL,2022,2022-08-13T16:30:00+00:00,FT,Regular Season - 2,55,Brentford,33,Manchester United,4,0
+867963,EPL,2022,2022-08-14T13:00:00+00:00,FT,Regular Season - 2,65,Nottingham Forest,48,West Ham,1,0
+867960,EPL,2022,2022-08-14T15:30:00+00:00,FT,Regular Season - 2,49,Chelsea,47,Tottenham,2,2
+867961,EPL,2022,2022-08-15T19:00:00+00:00,FT,Regular Season - 2,40,Liverpool,52,Crystal Palace,1,1
+867974,EPL,2022,2022-08-20T11:30:00+00:00,FT,Regular Season - 3,47,Tottenham,39,Wolves,1,0
+867967,EPL,2022,2022-08-20T14:00:00+00:00,FT,Regular Season - 3,52,Crystal Palace,66,Aston Villa,3,1
+867968,EPL,2022,2022-08-20T14:00:00+00:00,FT,Regular Season - 3,45,Everton,65,Nottingham Forest,1,1
+867969,EPL,2022,2022-08-20T14:00:00+00:00,FT,Regular Season - 3,36,Fulham,55,Brentford,3,2
+867971,EPL,2022,2022-08-20T14:00:00+00:00,FT,Regular Season - 3,46,Leicester,41,Southampton,1,2
+867966,EPL,2022,2022-08-20T16:30:00+00:00,FT,Regular Season - 3,35,Bournemouth,42,Arsenal,0,3
+867970,EPL,2022,2022-08-21T13:00:00+00:00,FT,Regular Season - 3,63,Leeds,49,Chelsea,3,0
+867975,EPL,2022,2022-08-21T13:00:00+00:00,FT,Regular Season - 3,48,West Ham,51,Brighton,0,2
+867973,EPL,2022,2022-08-21T15:30:00+00:00,FT,Regular Season - 3,34,Newcastle,50,Manchester City,3,3
+867972,EPL,2022,2022-08-22T19:00:00+00:00,FT,Regular Season - 3,33,Manchester United,40,Liverpool,2,1
+867984,EPL,2022,2022-08-27T11:30:00+00:00,FT,Regular Season - 4,41,Southampton,33,Manchester United,0,1
+867978,EPL,2022,2022-08-27T14:00:00+00:00,FT,Regular Season - 4,55,Brentford,45,Everton,1,1
+867979,EPL,2022,2022-08-27T14:00:00+00:00,FT,Regular Season - 4,51,Brighton,63,Leeds,1,0
+867980,EPL,2022,2022-08-27T14:00:00+00:00,FT,Regular Season - 4,49,Chelsea,46,Leicester,2,1
+867981,EPL,2022,2022-08-27T14:00:00+00:00,FT,Regular Season - 4,40,Liverpool,35,Bournemouth,9,0
+867982,EPL,2022,2022-08-27T14:00:00+00:00,FT,Regular Season - 4,50,Manchester City,52,Crystal Palace,4,2
+867976,EPL,2022,2022-08-27T16:30:00+00:00,FT,Regular Season - 4,42,Arsenal,36,Fulham,2,1
+867977,EPL,2022,2022-08-28T13:00:00+00:00,FT,Regular Season - 4,66,Aston Villa,48,West Ham,0,1
+867985,EPL,2022,2022-08-28T13:00:00+00:00,FT,Regular Season - 4,39,Wolves,34,Newcastle,1,1
+867983,EPL,2022,2022-08-28T15:30:00+00:00,FT,Regular Season - 4,65,Nottingham Forest,47,Tottenham,0,2
+867988,EPL,2022,2022-08-30T18:30:00+00:00,FT,Regular Season - 5,36,Fulham,51,Brighton,2,1
+867992,EPL,2022,2022-08-30T18:30:00+00:00,FT,Regular Season - 5,52,Crystal Palace,55,Brentford,1,1
+867993,EPL,2022,2022-08-30T18:45:00+00:00,FT,Regular Season - 5,41,Southampton,49,Chelsea,2,1
+867989,EPL,2022,2022-08-30T19:00:00+00:00,FT,Regular Season - 5,63,Leeds,45,Everton,1,1
+867986,EPL,2022,2022-08-31T18:30:00+00:00,FT,Regular Season - 5,35,Bournemouth,39,Wolves,0,0
+867987,EPL,2022,2022-08-31T18:30:00+00:00,FT,Regular Season - 5,42,Arsenal,66,Aston Villa,2,1
+867995,EPL,2022,2022-08-31T18:30:00+00:00,FT,Regular Season - 5,50,Manchester City,65,Nottingham Forest,6,0
+867991,EPL,2022,2022-08-31T18:45:00+00:00,FT,Regular Season - 5,48,West Ham,47,Tottenham,1,1
+867994,EPL,2022,2022-08-31T19:00:00+00:00,FT,Regular Season - 5,40,Liverpool,34,Newcastle,2,1
+867990,EPL,2022,2022-09-01T19:00:00+00:00,FT,Regular Season - 5,46,Leicester,33,Manchester United,0,1
+868000,EPL,2022,2022-09-03T11:30:00+00:00,FT,Regular Season - 6,45,Everton,40,Liverpool,0,0
+867997,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,55,Brentford,63,Leeds,5,2
+867999,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,49,Chelsea,48,West Ham,2,1
+868002,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,34,Newcastle,52,Crystal Palace,0,0
+868003,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,65,Nottingham Forest,35,Bournemouth,2,3
+868004,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,47,Tottenham,36,Fulham,2,1
+868005,EPL,2022,2022-09-03T14:00:00+00:00,FT,Regular Season - 6,39,Wolves,41,Southampton,1,0
+867996,EPL,2022,2022-09-03T16:30:00+00:00,FT,Regular Season - 6,66,Aston Villa,50,Manchester City,1,1
+867998,EPL,2022,2022-09-04T13:00:00+00:00,FT,Regular Season - 6,51,Brighton,46,Leicester,5,2
+868001,EPL,2022,2022-09-04T15:30:00+00:00,FT,Regular Season - 6,33,Manchester United,42,Arsenal,3,1
+868016,EPL,2022,2022-09-16T19:00:00+00:00,FT,Regular Season - 8,66,Aston Villa,41,Southampton,1,0
+868023,EPL,2022,2022-09-16T19:00:00+00:00,FT,Regular Season - 8,65,Nottingham Forest,36,Fulham,2,3
+868025,EPL,2022,2022-09-17T11:30:00+00:00,FT,Regular Season - 8,39,Wolves,50,Manchester City,0,3
+868022,EPL,2022,2022-09-17T14:00:00+00:00,FT,Regular Season - 8,34,Newcastle,35,Bournemouth,1,1
+868024,EPL,2022,2022-09-17T16:30:00+00:00,FT,Regular Season - 8,47,Tottenham,46,Leicester,6,2
+868017,EPL,2022,2022-09-18T11:00:00+00:00,FT,Regular Season - 8,55,Brentford,42,Arsenal,0,3
+868020,EPL,2022,2022-09-18T13:15:00+00:00,FT,Regular Season - 8,45,Everton,48,West Ham,1,0
+868027,EPL,2022,2022-10-01T11:30:00+00:00,FT,Regular Season - 9,42,Arsenal,47,Tottenham,3,1
+868026,EPL,2022,2022-10-01T14:00:00+00:00,FT,Regular Season - 9,35,Bournemouth,55,Brentford,0,0
+868028,EPL,2022,2022-10-01T14:00:00+00:00,FT,Regular Season - 9,52,Crystal Palace,49,Chelsea,1,2
+868029,EPL,2022,2022-10-01T14:00:00+00:00,FT,Regular Season - 9,36,Fulham,34,Newcastle,1,4
+868032,EPL,2022,2022-10-01T14:00:00+00:00,FT,Regular Season - 9,40,Liverpool,51,Brighton,3,3
+868034,EPL,2022,2022-10-01T14:00:00+00:00,FT,Regular Season - 9,41,Southampton,45,Everton,1,2
+868035,EPL,2022,2022-10-01T16:30:00+00:00,FT,Regular Season - 9,48,West Ham,39,Wolves,2,0
+868033,EPL,2022,2022-10-02T13:00:00+00:00,FT,Regular Season - 9,50,Manchester City,33,Manchester United,6,3
+868030,EPL,2022,2022-10-02T15:30:00+00:00,FT,Regular Season - 9,63,Leeds,66,Aston Villa,0,0
+868031,EPL,2022,2022-10-03T19:00:00+00:00,FT,Regular Season - 9,46,Leicester,65,Nottingham Forest,4,0
+868036,EPL,2022,2022-10-08T14:00:00+00:00,FT,Regular Season - 10,35,Bournemouth,46,Leicester,2,1
+868039,EPL,2022,2022-10-08T14:00:00+00:00,FT,Regular Season - 10,49,Chelsea,39,Wolves,3,0
+868042,EPL,2022,2022-10-08T14:00:00+00:00,FT,Regular Season - 10,50,Manchester City,41,Southampton,4,0
+868043,EPL,2022,2022-10-08T14:00:00+00:00,FT,Regular Season - 10,34,Newcastle,55,Brentford,5,1
+868038,EPL,2022,2022-10-08T16:30:00+00:00,FT,Regular Season - 10,51,Brighton,47,Tottenham,0,1
+868040,EPL,2022,2022-10-09T13:00:00+00:00,FT,Regular Season - 10,52,Crystal Palace,63,Leeds,2,1
+868045,EPL,2022,2022-10-09T13:00:00+00:00,FT,Regular Season - 10,48,West Ham,36,Fulham,3,1
+868037,EPL,2022,2022-10-09T15:30:00+00:00,FT,Regular Season - 10,42,Arsenal,40,Liverpool,3,2
+868041,EPL,2022,2022-10-09T18:00:00+00:00,FT,Regular Season - 10,45,Everton,33,Manchester United,1,2
+868044,EPL,2022,2022-10-10T19:00:00+00:00,FT,Regular Season - 10,65,Nottingham Forest,66,Aston Villa,1,1
+868047,EPL,2022,2022-10-14T19:00:00+00:00,FT,Regular Season - 11,55,Brentford,51,Brighton,2,0
+868050,EPL,2022,2022-10-15T11:30:00+00:00,FT,Regular Season - 11,46,Leicester,52,Crystal Palace,0,0
+868048,EPL,2022,2022-10-15T14:00:00+00:00,FT,Regular Season - 11,36,Fulham,35,Bournemouth,2,2
+868055,EPL,2022,2022-10-15T14:00:00+00:00,FT,Regular Season - 11,39,Wolves,65,Nottingham Forest,1,0
+868054,EPL,2022,2022-10-15T16:30:00+00:00,FT,Regular Season - 11,47,Tottenham,45,Everton,2,0
+868046,EPL,2022,2022-10-16T13:00:00+00:00,FT,Regular Season - 11,66,Aston Villa,49,Chelsea,0,2
+868049,EPL,2022,2022-10-16T13:00:00+00:00,FT,Regular Season - 11,63,Leeds,42,Arsenal,0,1
+868052,EPL,2022,2022-10-16T13:00:00+00:00,FT,Regular Season - 11,33,Manchester United,34,Newcastle,0,0
+868053,EPL,2022,2022-10-16T13:00:00+00:00,FT,Regular Season - 11,41,Southampton,48,West Ham,1,1
+868051,EPL,2022,2022-10-16T15:30:00+00:00,FT,Regular Season - 11,40,Liverpool,50,Manchester City,1,0
+868059,EPL,2022,2022-10-18T18:30:00+00:00,FT,Regular Season - 12,51,Brighton,65,Nottingham Forest,0,0
+868062,EPL,2022,2022-10-18T19:15:00+00:00,FT,Regular Season - 12,52,Crystal Palace,39,Wolves,2,1
+868056,EPL,2022,2022-10-19T18:30:00+00:00,FT,Regular Season - 12,35,Bournemouth,41,Southampton,0,1
+868058,EPL,2022,2022-10-19T18:30:00+00:00,FT,Regular Season - 12,55,Brentford,49,Chelsea,0,0
+868063,EPL,2022,2022-10-19T18:30:00+00:00,FT,Regular Season - 12,34,Newcastle,45,Everton,1,0
+868064,EPL,2022,2022-10-19T18:30:00+00:00,FT,Regular Season - 12,40,Liverpool,48,West Ham,1,0
+868065,EPL,2022,2022-10-19T19:15:00+00:00,FT,Regular Season - 12,33,Manchester United,47,Tottenham,2,0
+868060,EPL,2022,2022-10-20T18:30:00+00:00,FT,Regular Season - 12,36,Fulham,66,Aston Villa,3,0
+868061,EPL,2022,2022-10-20T19:15:00+00:00,FT,Regular Season - 12,46,Leicester,63,Leeds,2,0
+868071,EPL,2022,2022-10-22T11:30:00+00:00,FT,Regular Season - 13,65,Nottingham Forest,40,Liverpool,1,0
+868068,EPL,2022,2022-10-22T14:00:00+00:00,FT,Regular Season - 13,45,Everton,52,Crystal Palace,3,0
+868070,EPL,2022,2022-10-22T14:00:00+00:00,FT,Regular Season - 13,50,Manchester City,51,Brighton,3,1
+868067,EPL,2022,2022-10-22T16:30:00+00:00,FT,Regular Season - 13,49,Chelsea,33,Manchester United,1,1
+868066,EPL,2022,2022-10-23T13:00:00+00:00,FT,Regular Season - 13,66,Aston Villa,55,Brentford,4,0
+868069,EPL,2022,2022-10-23T13:00:00+00:00,FT,Regular Season - 13,63,Leeds,36,Fulham,2,3
+868072,EPL,2022,2022-10-23T13:00:00+00:00,FT,Regular Season - 13,41,Southampton,42,Arsenal,1,1
+868075,EPL,2022,2022-10-23T13:00:00+00:00,FT,Regular Season - 13,39,Wolves,46,Leicester,0,4
+868073,EPL,2022,2022-10-23T15:30:00+00:00,FT,Regular Season - 13,47,Tottenham,34,Newcastle,1,2
+868074,EPL,2022,2022-10-24T19:00:00+00:00,FT,Regular Season - 13,48,West Ham,35,Bournemouth,2,0
+868082,EPL,2022,2022-10-29T11:30:00+00:00,FT,Regular Season - 14,46,Leicester,50,Manchester City,0,1
+868076,EPL,2022,2022-10-29T14:00:00+00:00,FT,Regular Season - 14,35,Bournemouth,47,Tottenham,2,3
+868078,EPL,2022,2022-10-29T14:00:00+00:00,FT,Regular Season - 14,55,Brentford,39,Wolves,1,1
+868079,EPL,2022,2022-10-29T14:00:00+00:00,FT,Regular Season - 14,51,Brighton,49,Chelsea,4,1
+868080,EPL,2022,2022-10-29T14:00:00+00:00,FT,Regular Season - 14,52,Crystal Palace,41,Southampton,1,0
+868085,EPL,2022,2022-10-29T14:00:00+00:00,FT,Regular Season - 14,34,Newcastle,66,Aston Villa,4,0
+868081,EPL,2022,2022-10-29T16:30:00+00:00,FT,Regular Season - 14,36,Fulham,45,Everton,0,0
+868083,EPL,2022,2022-10-29T18:45:00+00:00,FT,Regular Season - 14,40,Liverpool,63,Leeds,1,2
+868077,EPL,2022,2022-10-30T14:00:00+00:00,FT,Regular Season - 14,42,Arsenal,65,Nottingham Forest,5,0
+868084,EPL,2022,2022-10-30T16:15:00+00:00,FT,Regular Season - 14,33,Manchester United,48,West Ham,1,0
+868089,EPL,2022,2022-11-05T15:00:00+00:00,FT,Regular Season - 15,63,Leeds,35,Bournemouth,4,3
+868090,EPL,2022,2022-11-05T15:00:00+00:00,FT,Regular Season - 15,50,Manchester City,36,Fulham,2,1
+868091,EPL,2022,2022-11-05T15:00:00+00:00,FT,Regular Season - 15,65,Nottingham Forest,55,Brentford,2,2
+868095,EPL,2022,2022-11-05T15:00:00+00:00,FT,Regular Season - 15,39,Wolves,51,Brighton,2,3
+868088,EPL,2022,2022-11-05T17:30:00+00:00,FT,Regular Season - 15,45,Everton,46,Leicester,0,2
+868087,EPL,2022,2022-11-06T12:00:00+00:00,FT,Regular Season - 15,49,Chelsea,42,Arsenal,0,1
+868086,EPL,2022,2022-11-06T14:00:00+00:00,FT,Regular Season - 15,66,Aston Villa,33,Manchester United,3,1
+868092,EPL,2022,2022-11-06T14:00:00+00:00,FT,Regular Season - 15,41,Southampton,34,Newcastle,1,4
+868094,EPL,2022,2022-11-06T14:00:00+00:00,FT,Regular Season - 15,48,West Ham,52,Crystal Palace,1,2
+868093,EPL,2022,2022-11-06T16:30:00+00:00,FT,Regular Season - 15,47,Tottenham,40,Liverpool,1,2
+868100,EPL,2022,2022-11-12T12:30:00+00:00,FT,Regular Season - 16,50,Manchester City,55,Brentford,1,2
+868096,EPL,2022,2022-11-12T15:00:00+00:00,FT,Regular Season - 16,35,Bournemouth,45,Everton,3,0
+868099,EPL,2022,2022-11-12T15:00:00+00:00,FT,Regular Season - 16,40,Liverpool,41,Southampton,3,1
+868102,EPL,2022,2022-11-12T15:00:00+00:00,FT,Regular Season - 16,65,Nottingham Forest,52,Crystal Palace,1,0
+868103,EPL,2022,2022-11-12T15:00:00+00:00,FT,Regular Season - 16,47,Tottenham,63,Leeds,4,3
+868104,EPL,2022,2022-11-12T15:00:00+00:00,FT,Regular Season - 16,48,West Ham,46,Leicester,0,2
+868101,EPL,2022,2022-11-12T17:30:00+00:00,FT,Regular Season - 16,34,Newcastle,49,Chelsea,1,0
+868105,EPL,2022,2022-11-12T19:45:00+00:00,FT,Regular Season - 16,39,Wolves,42,Arsenal,0,2
+868097,EPL,2022,2022-11-13T14:00:00+00:00,FT,Regular Season - 16,51,Brighton,66,Aston Villa,1,2
+868098,EPL,2022,2022-11-13T16:30:00+00:00,FT,Regular Season - 16,36,Fulham,33,Manchester United,1,2
+868108,EPL,2022,2022-12-26T12:30:00+00:00,FT,Regular Season - 17,55,Brentford,47,Tottenham,2,2
+868110,EPL,2022,2022-12-26T15:00:00+00:00,FT,Regular Season - 17,52,Crystal Palace,36,Fulham,0,3
+868111,EPL,2022,2022-12-26T15:00:00+00:00,FT,Regular Season - 17,45,Everton,39,Wolves,1,2
+868113,EPL,2022,2022-12-26T15:00:00+00:00,FT,Regular Season - 17,46,Leicester,34,Newcastle,0,3
+868115,EPL,2022,2022-12-26T15:00:00+00:00,FT,Regular Season - 17,41,Southampton,51,Brighton,1,3
+868107,EPL,2022,2022-12-26T17:30:00+00:00,FT,Regular Season - 17,66,Aston Villa,40,Liverpool,1,3
+868106,EPL,2022,2022-12-26T20:00:00+00:00,FT,Regular Season - 17,42,Arsenal,48,West Ham,3,1
+868109,EPL,2022,2022-12-27T17:30:00+00:00,FT,Regular Season - 17,49,Chelsea,35,Bournemouth,2,0
+868114,EPL,2022,2022-12-27T20:00:00+00:00,FT,Regular Season - 17,33,Manchester United,65,Nottingham Forest,3,0
+868112,EPL,2022,2022-12-28T20:00:00+00:00,FT,Regular Season - 17,63,Leeds,50,Manchester City,1,3
+868124,EPL,2022,2022-12-30T19:45:00+00:00,FT,Regular Season - 18,48,West Ham,55,Brentford,0,2
+868119,EPL,2022,2022-12-30T20:00:00+00:00,FT,Regular Season - 18,40,Liverpool,46,Leicester,2,1
+868125,EPL,2022,2022-12-31T12:30:00+00:00,FT,Regular Season - 18,39,Wolves,33,Manchester United,0,1
+868116,EPL,2022,2022-12-31T15:00:00+00:00,FT,Regular Season - 18,35,Bournemouth,52,Crystal Palace,0,2
+868118,EPL,2022,2022-12-31T15:00:00+00:00,FT,Regular Season - 18,36,Fulham,41,Southampton,2,1
+868120,EPL,2022,2022-12-31T15:00:00+00:00,FT,Regular Season - 18,50,Manchester City,45,Everton,1,1
+868121,EPL,2022,2022-12-31T15:00:00+00:00,FT,Regular Season - 18,34,Newcastle,63,Leeds,0,0
+868117,EPL,2022,2022-12-31T17:30:00+00:00,FT,Regular Season - 18,51,Brighton,42,Arsenal,2,4
+868123,EPL,2022,2023-01-01T14:00:00+00:00,FT,Regular Season - 18,47,Tottenham,66,Aston Villa,0,2
+868122,EPL,2022,2023-01-01T16:30:00+00:00,FT,Regular Season - 18,65,Nottingham Forest,49,Chelsea,1,1
+868128,EPL,2022,2023-01-02T17:30:00+00:00,FT,Regular Season - 19,55,Brentford,40,Liverpool,3,1
+868126,EPL,2022,2023-01-03T19:45:00+00:00,FT,Regular Season - 19,42,Arsenal,34,Newcastle,0,0
+868131,EPL,2022,2023-01-03T19:45:00+00:00,FT,Regular Season - 19,45,Everton,51,Brighton,1,4
+868133,EPL,2022,2023-01-03T19:45:00+00:00,FT,Regular Season - 19,46,Leicester,36,Fulham,0,1
+868134,EPL,2022,2023-01-03T20:00:00+00:00,FT,Regular Season - 19,33,Manchester United,35,Bournemouth,3,0
+868135,EPL,2022,2023-01-04T19:30:00+00:00,FT,Regular Season - 19,41,Southampton,65,Nottingham Forest,0,1
+868132,EPL,2022,2023-01-04T19:45:00+00:00,FT,Regular Season - 19,63,Leeds,48,West Ham,2,2
+868127,EPL,2022,2023-01-04T20:00:00+00:00,FT,Regular Season - 19,66,Aston Villa,39,Wolves,1,1
+868130,EPL,2022,2023-01-04T20:00:00+00:00,FT,Regular Season - 19,52,Crystal Palace,47,Tottenham,0,4
+868129,EPL,2022,2023-01-05T20:00:00+00:00,FT,Regular Season - 19,49,Chelsea,50,Manchester City,0,1
+868009,EPL,2022,2023-01-12T20:00:00+00:00,FT,Regular Season - 7,36,Fulham,49,Chelsea,2,1
+868136,EPL,2022,2023-01-13T20:00:00+00:00,FT,Regular Season - 20,66,Aston Villa,63,Leeds,2,1
+868141,EPL,2022,2023-01-14T12:30:00+00:00,FT,Regular Season - 20,33,Manchester United,50,Manchester City,2,1
+868138,EPL,2022,2023-01-14T15:00:00+00:00,FT,Regular Season - 20,51,Brighton,40,Liverpool,3,0
+868140,EPL,2022,2023-01-14T15:00:00+00:00,FT,Regular Season - 20,45,Everton,41,Southampton,1,2
+868143,EPL,2022,2023-01-14T15:00:00+00:00,FT,Regular Season - 20,65,Nottingham Forest,46,Leicester,2,0
+868145,EPL,2022,2023-01-14T15:00:00+00:00,FT,Regular Season - 20,39,Wolves,48,West Ham,1,0
+868137,EPL,2022,2023-01-14T17:30:00+00:00,FT,Regular Season - 20,55,Brentford,35,Bournemouth,2,0
+868139,EPL,2022,2023-01-15T14:00:00+00:00,FT,Regular Season - 20,49,Chelsea,52,Crystal Palace,1,0
+868142,EPL,2022,2023-01-15T14:00:00+00:00,FT,Regular Season - 20,34,Newcastle,36,Fulham,1,0
+868144,EPL,2022,2023-01-15T16:30:00+00:00,FT,Regular Season - 20,47,Tottenham,42,Arsenal,0,2
+868008,EPL,2022,2023-01-18T20:00:00+00:00,FT,Regular Season - 7,52,Crystal Palace,33,Manchester United,1,1
+868013,EPL,2022,2023-01-19T20:00:00+00:00,FT,Regular Season - 7,50,Manchester City,47,Tottenham,4,2
+868152,EPL,2022,2023-01-21T12:30:00+00:00,FT,Regular Season - 21,40,Liverpool,49,Chelsea,0,0
+868146,EPL,2022,2023-01-21T15:00:00+00:00,FT,Regular Season - 21,35,Bournemouth,65,Nottingham Forest,1,1
+868151,EPL,2022,2023-01-21T15:00:00+00:00,FT,Regular Season - 21,46,Leicester,51,Brighton,2,2
+868154,EPL,2022,2023-01-21T15:00:00+00:00,FT,Regular Season - 21,41,Southampton,66,Aston Villa,0,1
+868155,EPL,2022,2023-01-21T15:00:00+00:00,FT,Regular Season - 21,48,West Ham,45,Everton,2,0
+868148,EPL,2022,2023-01-21T17:30:00+00:00,FT,Regular Season - 21,52,Crystal Palace,34,Newcastle,0,0
+868150,EPL,2022,2023-01-22T14:00:00+00:00,FT,Regular Season - 21,63,Leeds,55,Brentford,0,0
+868153,EPL,2022,2023-01-22T14:00:00+00:00,FT,Regular Season - 21,50,Manchester City,39,Wolves,3,0
+868147,EPL,2022,2023-01-22T16:30:00+00:00,FT,Regular Season - 21,42,Arsenal,33,Manchester United,3,2
+868149,EPL,2022,2023-01-23T20:00:00+00:00,FT,Regular Season - 21,36,Fulham,47,Tottenham,0,1
+868159,EPL,2022,2023-02-03T20:00:00+00:00,FT,Regular Season - 22,49,Chelsea,36,Fulham,0,0
+868160,EPL,2022,2023-02-04T12:30:00+00:00,FT,Regular Season - 22,45,Everton,42,Arsenal,1,0
+868156,EPL,2022,2023-02-04T15:00:00+00:00,FT,Regular Season - 22,66,Aston Villa,46,Leicester,2,4
+868157,EPL,2022,2023-02-04T15:00:00+00:00,FT,Regular Season - 22,55,Brentford,41,Southampton,3,0
+868158,EPL,2022,2023-02-04T15:00:00+00:00,FT,Regular Season - 22,51,Brighton,35,Bournemouth,1,0
+868161,EPL,2022,2023-02-04T15:00:00+00:00,FT,Regular Season - 22,33,Manchester United,52,Crystal Palace,2,1
+868165,EPL,2022,2023-02-04T15:00:00+00:00,FT,Regular Season - 22,39,Wolves,40,Liverpool,3,0
+868162,EPL,2022,2023-02-04T17:30:00+00:00,FT,Regular Season - 22,34,Newcastle,48,West Ham,1,1
+868163,EPL,2022,2023-02-05T14:00:00+00:00,FT,Regular Season - 22,65,Nottingham Forest,63,Leeds,1,0
+868164,EPL,2022,2023-02-05T16:30:00+00:00,FT,Regular Season - 22,47,Tottenham,50,Manchester City,1,0
+868021,EPL,2022,2023-02-08T20:00:00+00:00,FT,Regular Season - 8,33,Manchester United,63,Leeds,2,2
+868175,EPL,2022,2023-02-11T12:30:00+00:00,FT,Regular Season - 23,48,West Ham,49,Chelsea,1,1
+868167,EPL,2022,2023-02-11T15:00:00+00:00,FT,Regular Season - 23,42,Arsenal,55,Brentford,1,1
+868168,EPL,2022,2023-02-11T15:00:00+00:00,FT,Regular Season - 23,52,Crystal Palace,51,Brighton,1,1
+868169,EPL,2022,2023-02-11T15:00:00+00:00,FT,Regular Season - 23,36,Fulham,65,Nottingham Forest,2,0
+868171,EPL,2022,2023-02-11T15:00:00+00:00,FT,Regular Season - 23,46,Leicester,47,Tottenham,4,1
+868174,EPL,2022,2023-02-11T15:00:00+00:00,FT,Regular Season - 23,41,Southampton,39,Wolves,1,2
+868166,EPL,2022,2023-02-11T17:30:00+00:00,FT,Regular Season - 23,35,Bournemouth,34,Newcastle,1,1
+868170,EPL,2022,2023-02-12T14:00:00+00:00,FT,Regular Season - 23,63,Leeds,33,Manchester United,0,2
+868173,EPL,2022,2023-02-12T16:30:00+00:00,FT,Regular Season - 23,50,Manchester City,66,Aston Villa,3,1
+868172,EPL,2022,2023-02-13T20:00:00+00:00,FT,Regular Season - 23,40,Liverpool,45,Everton,2,0
+868057,EPL,2022,2023-02-15T19:30:00+00:00,FT,Regular Season - 12,42,Arsenal,50,Manchester City,1,3
+868176,EPL,2022,2023-02-18T12:30:00+00:00,FT,Regular Season - 24,66,Aston Villa,42,Arsenal,2,4
+868177,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,55,Brentford,52,Crystal Palace,1,1
+868178,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,51,Brighton,36,Fulham,0,1
+868179,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,49,Chelsea,41,Southampton,0,1
+868180,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,45,Everton,63,Leeds,1,0
+868183,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,65,Nottingham Forest,50,Manchester City,1,1
+868185,EPL,2022,2023-02-18T15:00:00+00:00,FT,Regular Season - 24,39,Wolves,35,Bournemouth,0,1
+868182,EPL,2022,2023-02-18T17:30:00+00:00,FT,Regular Season - 24,34,Newcastle,40,Liverpool,0,2
+868181,EPL,2022,2023-02-19T14:00:00+00:00,FT,Regular Season - 24,33,Manchester United,46,Leicester,3,0
+868184,EPL,2022,2023-02-19T16:30:00+00:00,FT,Regular Season - 24,47,Tottenham,48,West Ham,2,0
+868189,EPL,2022,2023-02-24T20:00:00+00:00,FT,Regular Season - 25,36,Fulham,39,Wolves,1,1
+868188,EPL,2022,2023-02-25T15:00:00+00:00,FT,Regular Season - 25,45,Everton,66,Aston Villa,0,2
+868190,EPL,2022,2023-02-25T15:00:00+00:00,FT,Regular Season - 25,63,Leeds,41,Southampton,1,0
+868191,EPL,2022,2023-02-25T15:00:00+00:00,FT,Regular Season - 25,46,Leicester,42,Arsenal,0,1
+868195,EPL,2022,2023-02-25T15:00:00+00:00,FT,Regular Season - 25,48,West Ham,65,Nottingham Forest,4,0
+868186,EPL,2022,2023-02-25T17:30:00+00:00,FT,Regular Season - 25,35,Bournemouth,50,Manchester City,1,4
+868187,EPL,2022,2023-02-25T19:45:00+00:00,FT,Regular Season - 25,52,Crystal Palace,40,Liverpool,0,0
+868194,EPL,2022,2023-02-26T13:30:00+00:00,FT,Regular Season - 25,47,Tottenham,49,Chelsea,2,0
+868007,EPL,2022,2023-03-01T19:45:00+00:00,FT,Regular Season - 7,42,Arsenal,45,Everton,4,0
+868012,EPL,2022,2023-03-01T20:00:00+00:00,FT,Regular Season - 7,40,Liverpool,39,Wolves,2,0
+868202,EPL,2022,2023-03-04T12:30:00+00:00,FT,Regular Season - 26,50,Manchester City,34,Newcastle,2,0
+868196,EPL,2022,2023-03-04T15:00:00+00:00,FT,Regular Season - 26,42,Arsenal,35,Bournemouth,3,2
+868197,EPL,2022,2023-03-04T15:00:00+00:00,FT,Regular Season - 26,66,Aston Villa,52,Crystal Palace,1,0
+868199,EPL,2022,2023-03-04T15:00:00+00:00,FT,Regular Season - 26,51,Brighton,48,West Ham,4,0
+868200,EPL,2022,2023-03-04T15:00:00+00:00,FT,Regular Season - 26,49,Chelsea,63,Leeds,1,0
+868205,EPL,2022,2023-03-04T15:00:00+00:00,FT,Regular Season - 26,39,Wolves,47,Tottenham,1,0
+868204,EPL,2022,2023-03-04T17:30:00+00:00,FT,Regular Season - 26,41,Southampton,46,Leicester,1,0
+868203,EPL,2022,2023-03-05T14:00:00+00:00,FT,Regular Season - 26,65,Nottingham Forest,45,Everton,2,2
+868201,EPL,2022,2023-03-05T16:30:00+00:00,FT,Regular Season - 26,40,Liverpool,33,Manchester United,7,0
+868198,EPL,2022,2023-03-06T20:00:00+00:00,FT,Regular Season - 26,55,Brentford,36,Fulham,3,2
+868206,EPL,2022,2023-03-11T12:30:00+00:00,FT,Regular Season - 27,35,Bournemouth,40,Liverpool,1,0
+868208,EPL,2022,2023-03-11T15:00:00+00:00,FT,Regular Season - 27,45,Everton,55,Brentford,1,0
+868210,EPL,2022,2023-03-11T15:00:00+00:00,FT,Regular Season - 27,63,Leeds,51,Brighton,2,2
+868211,EPL,2022,2023-03-11T15:00:00+00:00,FT,Regular Season - 27,46,Leicester,49,Chelsea,1,3
+868214,EPL,2022,2023-03-11T15:00:00+00:00,FT,Regular Season - 27,47,Tottenham,65,Nottingham Forest,3,1
+868207,EPL,2022,2023-03-11T17:30:00+00:00,FT,Regular Season - 27,52,Crystal Palace,50,Manchester City,0,1
+868209,EPL,2022,2023-03-12T14:00:00+00:00,FT,Regular Season - 27,36,Fulham,42,Arsenal,0,3
+868212,EPL,2022,2023-03-12T14:00:00+00:00,FT,Regular Season - 27,33,Manchester United,41,Southampton,0,0
+868215,EPL,2022,2023-03-12T14:00:00+00:00,FT,Regular Season - 27,48,West Ham,66,Aston Villa,1,1
+868213,EPL,2022,2023-03-12T16:30:00+00:00,FT,Regular Season - 27,34,Newcastle,39,Wolves,2,1
+868014,EPL,2022,2023-03-15T19:30:00+00:00,FT,Regular Season - 7,41,Southampton,55,Brentford,0,2
+868018,EPL,2022,2023-03-15T19:30:00+00:00,FT,Regular Season - 8,51,Brighton,52,Crystal Palace,1,0
+868223,EPL,2022,2023-03-17T20:00:00+00:00,FT,Regular Season - 28,65,Nottingham Forest,34,Newcastle,1,2
+868217,EPL,2022,2023-03-18T15:00:00+00:00,FT,Regular Season - 28,66,Aston Villa,35,Bournemouth,3,0
+868218,EPL,2022,2023-03-18T15:00:00+00:00,FT,Regular Season - 28,55,Brentford,46,Leicester,1,1
+868224,EPL,2022,2023-03-18T15:00:00+00:00,FT,Regular Season - 28,41,Southampton,47,Tottenham,3,3
+868225,EPL,2022,2023-03-18T15:00:00+00:00,FT,Regular Season - 28,39,Wolves,63,Leeds,2,4
+868220,EPL,2022,2023-03-18T17:30:00+00:00,FT,Regular Season - 28,49,Chelsea,45,Everton,2,2
+868216,EPL,2022,2023-03-19T14:00:00+00:00,FT,Regular Season - 28,42,Arsenal,52,Crystal Palace,4,1
+868232,EPL,2022,2023-04-01T11:30:00+00:00,FT,Regular Season - 29,50,Manchester City,40,Liverpool,4,1
+868226,EPL,2022,2023-04-01T14:00:00+00:00,FT,Regular Season - 29,35,Bournemouth,36,Fulham,2,1
+868227,EPL,2022,2023-04-01T14:00:00+00:00,FT,Regular Season - 29,42,Arsenal,63,Leeds,4,1
+868228,EPL,2022,2023-04-01T14:00:00+00:00,FT,Regular Season - 29,51,Brighton,55,Brentford,3,3
+868230,EPL,2022,2023-04-01T14:00:00+00:00,FT,Regular Season - 29,52,Crystal Palace,46,Leicester,2,1
+868234,EPL,2022,2023-04-01T14:00:00+00:00,FT,Regular Season - 29,65,Nottingham Forest,39,Wolves,1,1
+868229,EPL,2022,2023-04-01T16:30:00+00:00,FT,Regular Season - 29,49,Chelsea,66,Aston Villa,0,2
+868235,EPL,2022,2023-04-02T13:00:00+00:00,FT,Regular Season - 29,48,West Ham,41,Southampton,1,0
+868233,EPL,2022,2023-04-02T15:30:00+00:00,FT,Regular Season - 29,34,Newcastle,33,Manchester United,2,0
+868231,EPL,2022,2023-04-03T19:00:00+00:00,FT,Regular Season - 29,45,Everton,47,Tottenham,1,1
+868006,EPL,2022,2023-04-04T18:45:00+00:00,FT,Regular Season - 7,35,Bournemouth,51,Brighton,0,2
+868010,EPL,2022,2023-04-04T18:45:00+00:00,FT,Regular Season - 7,63,Leeds,65,Nottingham Forest,2,1
+868011,EPL,2022,2023-04-04T18:45:00+00:00,FT,Regular Season - 7,46,Leicester,66,Aston Villa,1,2
+868019,EPL,2022,2023-04-04T19:00:00+00:00,FT,Regular Season - 8,49,Chelsea,40,Liverpool,0,0
+868015,EPL,2022,2023-04-05T19:00:00+00:00,FT,Regular Season - 7,48,West Ham,34,Newcastle,1,5
+868192,EPL,2022,2023-04-05T19:00:00+00:00,FT,Regular Season - 25,33,Manchester United,55,Brentford,1,0
+868242,EPL,2022,2023-04-08T11:30:00+00:00,FT,Regular Season - 30,33,Manchester United,45,Everton,2,0
+868236,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,66,Aston Villa,65,Nottingham Forest,2,0
+868237,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,55,Brentford,34,Newcastle,1,2
+868238,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,36,Fulham,48,West Ham,0,1
+868240,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,46,Leicester,35,Bournemouth,0,1
+868244,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,47,Tottenham,51,Brighton,2,1
+868245,EPL,2022,2023-04-08T14:00:00+00:00,FT,Regular Season - 30,39,Wolves,49,Chelsea,1,0
+868243,EPL,2022,2023-04-08T16:30:00+00:00,FT,Regular Season - 30,41,Southampton,50,Manchester City,1,4
+868239,EPL,2022,2023-04-09T13:00:00+00:00,FT,Regular Season - 30,63,Leeds,52,Crystal Palace,1,5
+868241,EPL,2022,2023-04-09T15:30:00+00:00,FT,Regular Season - 30,40,Liverpool,42,Arsenal,2,2
+868246,EPL,2022,2023-04-15T11:30:00+00:00,FT,Regular Season - 31,66,Aston Villa,34,Newcastle,3,0
+868247,EPL,2022,2023-04-15T14:00:00+00:00,FT,Regular Season - 31,49,Chelsea,51,Brighton,1,2
+868248,EPL,2022,2023-04-15T14:00:00+00:00,FT,Regular Season - 31,45,Everton,36,Fulham,1,3
+868252,EPL,2022,2023-04-15T14:00:00+00:00,FT,Regular Season - 31,41,Southampton,52,Crystal Palace,0,2
+868255,EPL,2022,2023-04-15T14:00:00+00:00,FT,Regular Season - 31,39,Wolves,55,Brentford,2,0
+868253,EPL,2022,2023-04-15T14:15:00+00:00,FT,Regular Season - 31,47,Tottenham,35,Bournemouth,2,3
+868250,EPL,2022,2023-04-15T16:30:00+00:00,FT,Regular Season - 31,50,Manchester City,46,Leicester,3,1
+868254,EPL,2022,2023-04-16T13:00:00+00:00,FT,Regular Season - 31,48,West Ham,42,Arsenal,2,2
+868251,EPL,2022,2023-04-16T15:30:00+00:00,FT,Regular Season - 31,65,Nottingham Forest,33,Manchester United,0,2
+868249,EPL,2022,2023-04-17T19:00:00+00:00,FT,Regular Season - 31,63,Leeds,40,Liverpool,1,6
+868257,EPL,2022,2023-04-21T19:00:00+00:00,FT,Regular Season - 32,42,Arsenal,41,Southampton,3,3
+868261,EPL,2022,2023-04-22T11:30:00+00:00,FT,Regular Season - 32,36,Fulham,63,Leeds,2,1
+868258,EPL,2022,2023-04-22T14:00:00+00:00,FT,Regular Season - 32,55,Brentford,66,Aston Villa,1,1
+868260,EPL,2022,2023-04-22T14:00:00+00:00,FT,Regular Season - 32,52,Crystal Palace,45,Everton,0,0
+868262,EPL,2022,2023-04-22T14:00:00+00:00,FT,Regular Season - 32,46,Leicester,39,Wolves,2,1
+868263,EPL,2022,2023-04-22T14:00:00+00:00,FT,Regular Season - 32,40,Liverpool,65,Nottingham Forest,3,2
+868256,EPL,2022,2023-04-23T13:00:00+00:00,FT,Regular Season - 32,35,Bournemouth,48,West Ham,0,4
+868265,EPL,2022,2023-04-23T13:00:00+00:00,FT,Regular Season - 32,34,Newcastle,47,Tottenham,6,1
+868271,EPL,2022,2023-04-25T18:30:00+00:00,FT,Regular Season - 33,39,Wolves,52,Crystal Palace,2,0
+868272,EPL,2022,2023-04-25T18:45:00+00:00,FT,Regular Season - 33,66,Aston Villa,36,Fulham,1,0
+868267,EPL,2022,2023-04-25T19:00:00+00:00,FT,Regular Season - 33,63,Leeds,46,Leicester,1,1
+868268,EPL,2022,2023-04-26T18:30:00+00:00,FT,Regular Season - 33,65,Nottingham Forest,51,Brighton,3,1
+868270,EPL,2022,2023-04-26T18:45:00+00:00,FT,Regular Season - 33,48,West Ham,40,Liverpool,1,2
+868273,EPL,2022,2023-04-26T18:45:00+00:00,FT,Regular Season - 33,49,Chelsea,55,Brentford,0,2
+868275,EPL,2022,2023-04-26T19:00:00+00:00,FT,Regular Season - 33,50,Manchester City,42,Arsenal,4,1
+868266,EPL,2022,2023-04-27T18:45:00+00:00,FT,Regular Season - 33,45,Everton,34,Newcastle,1,4
+868274,EPL,2022,2023-04-27T18:45:00+00:00,FT,Regular Season - 33,41,Southampton,35,Bournemouth,0,1
+868269,EPL,2022,2023-04-27T19:15:00+00:00,FT,Regular Season - 33,47,Tottenham,33,Manchester United,2,2
+868280,EPL,2022,2023-04-29T11:30:00+00:00,FT,Regular Season - 34,52,Crystal Palace,48,West Ham,4,3
+868278,EPL,2022,2023-04-29T14:00:00+00:00,FT,Regular Season - 34,55,Brentford,65,Nottingham Forest,2,1
+868279,EPL,2022,2023-04-29T14:00:00+00:00,FT,Regular Season - 34,51,Brighton,39,Wolves,6,0
+868276,EPL,2022,2023-04-30T13:00:00+00:00,FT,Regular Season - 34,35,Bournemouth,63,Leeds,4,1
+868281,EPL,2022,2023-04-30T13:00:00+00:00,FT,Regular Season - 34,36,Fulham,50,Manchester City,1,2
+868284,EPL,2022,2023-04-30T13:00:00+00:00,FT,Regular Season - 34,33,Manchester United,66,Aston Villa,1,0
+868285,EPL,2022,2023-04-30T13:00:00+00:00,FT,Regular Season - 34,34,Newcastle,41,Southampton,3,1
+868283,EPL,2022,2023-04-30T15:30:00+00:00,FT,Regular Season - 34,40,Liverpool,47,Tottenham,4,3
+868282,EPL,2022,2023-05-01T19:00:00+00:00,FT,Regular Season - 34,46,Leicester,45,Everton,2,2
+868277,EPL,2022,2023-05-02T19:00:00+00:00,FT,Regular Season - 34,42,Arsenal,49,Chelsea,3,1
+868221,EPL,2022,2023-05-03T19:00:00+00:00,FT,Regular Season - 28,40,Liverpool,36,Fulham,1,0
+868222,EPL,2022,2023-05-03T19:00:00+00:00,FT,Regular Season - 28,50,Manchester City,48,West Ham,3,0
+868219,EPL,2022,2023-05-04T19:00:00+00:00,FT,Regular Season - 28,51,Brighton,33,Manchester United,1,0
+868286,EPL,2022,2023-05-06T14:00:00+00:00,FT,Regular Season - 35,35,Bournemouth,49,Chelsea,1,3
+868290,EPL,2022,2023-05-06T14:00:00+00:00,FT,Regular Season - 35,50,Manchester City,63,Leeds,2,1
+868293,EPL,2022,2023-05-06T14:00:00+00:00,FT,Regular Season - 35,47,Tottenham,52,Crystal Palace,1,0
+868295,EPL,2022,2023-05-06T14:00:00+00:00,FT,Regular Season - 35,39,Wolves,66,Aston Villa,1,0
+868289,EPL,2022,2023-05-06T16:30:00+00:00,FT,Regular Season - 35,40,Liverpool,55,Brentford,1,0
+868291,EPL,2022,2023-05-07T15:30:00+00:00,FT,Regular Season - 35,34,Newcastle,42,Arsenal,0,2
+868294,EPL,2022,2023-05-07T18:00:00+00:00,FT,Regular Season - 35,48,West Ham,33,Manchester United,1,0
+868288,EPL,2022,2023-05-08T14:00:00+00:00,FT,Regular Season - 35,36,Fulham,46,Leicester,5,3
+868287,EPL,2022,2023-05-08T16:30:00+00:00,FT,Regular Season - 35,51,Brighton,45,Everton,1,5
+868292,EPL,2022,2023-05-08T19:00:00+00:00,FT,Regular Season - 35,65,Nottingham Forest,41,Southampton,4,3
+868302,EPL,2022,2023-05-13T11:30:00+00:00,FT,Regular Season - 36,63,Leeds,34,Newcastle,2,2
+868297,EPL,2022,2023-05-13T14:00:00+00:00,FT,Regular Season - 36,66,Aston Villa,47,Tottenham,2,1
+868299,EPL,2022,2023-05-13T14:00:00+00:00,FT,Regular Season - 36,49,Chelsea,65,Nottingham Forest,2,2
+868300,EPL,2022,2023-05-13T14:00:00+00:00,FT,Regular Season - 36,52,Crystal Palace,35,Bournemouth,2,0
+868304,EPL,2022,2023-05-13T14:00:00+00:00,FT,Regular Season - 36,33,Manchester United,39,Wolves,2,0
+868305,EPL,2022,2023-05-13T14:00:00+00:00,FT,Regular Season - 36,41,Southampton,36,Fulham,0,2
+868298,EPL,2022,2023-05-14T13:00:00+00:00,FT,Regular Season - 36,55,Brentford,48,West Ham,2,0
+868301,EPL,2022,2023-05-14T13:00:00+00:00,FT,Regular Season - 36,45,Everton,50,Manchester City,0,3
+868296,EPL,2022,2023-05-14T15:30:00+00:00,FT,Regular Season - 36,42,Arsenal,51,Brighton,0,3
+868303,EPL,2022,2023-05-15T19:00:00+00:00,FT,Regular Season - 36,46,Leicester,40,Liverpool,0,3
+868193,EPL,2022,2023-05-18T18:30:00+00:00,FT,Regular Season - 25,34,Newcastle,51,Brighton,4,1
+868313,EPL,2022,2023-05-20T11:30:00+00:00,FT,Regular Season - 37,47,Tottenham,55,Brentford,1,3
+868306,EPL,2022,2023-05-20T14:00:00+00:00,FT,Regular Season - 37,35,Bournemouth,33,Manchester United,0,1
+868308,EPL,2022,2023-05-20T14:00:00+00:00,FT,Regular Season - 37,36,Fulham,52,Crystal Palace,2,2
+868309,EPL,2022,2023-05-20T14:00:00+00:00,FT,Regular Season - 37,40,Liverpool,66,Aston Villa,1,1
+868315,EPL,2022,2023-05-20T14:00:00+00:00,FT,Regular Season - 37,39,Wolves,45,Everton,1,1
+868312,EPL,2022,2023-05-20T16:30:00+00:00,FT,Regular Season - 37,65,Nottingham Forest,42,Arsenal,1,0
+868314,EPL,2022,2023-05-21T12:30:00+00:00,FT,Regular Season - 37,48,West Ham,63,Leeds,3,1
+868307,EPL,2022,2023-05-21T13:00:00+00:00,FT,Regular Season - 37,51,Brighton,41,Southampton,3,1
+868310,EPL,2022,2023-05-21T15:00:00+00:00,FT,Regular Season - 37,50,Manchester City,49,Chelsea,1,0
+868311,EPL,2022,2023-05-22T19:00:00+00:00,FT,Regular Season - 37,34,Newcastle,46,Leicester,0,0
+868259,EPL,2022,2023-05-24T19:00:00+00:00,FT,Regular Season - 32,51,Brighton,50,Manchester City,1,1
+868264,EPL,2022,2023-05-25T19:00:00+00:00,FT,Regular Season - 32,33,Manchester United,49,Chelsea,4,1
+868316,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,42,Arsenal,39,Wolves,5,0
+868317,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,66,Aston Villa,51,Brighton,2,1
+868318,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,55,Brentford,50,Manchester City,1,0
+868319,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,49,Chelsea,34,Newcastle,1,1
+868320,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,52,Crystal Palace,65,Nottingham Forest,1,1
+868321,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,45,Everton,35,Bournemouth,1,0
+868322,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,63,Leeds,47,Tottenham,1,4
+868323,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,46,Leicester,48,West Ham,2,1
+868324,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,33,Manchester United,36,Fulham,2,1
+868325,EPL,2022,2023-05-28T15:30:00+00:00,FT,Regular Season - 38,41,Southampton,40,Liverpool,4,4
