@@ -70,6 +70,16 @@ def cmd_predict(args):
     print(pred[cols].round(3).to_string(index=False))
 
 
+def cmd_ratings(args):
+    from .data import load_fixtures
+    from .model import OutcomeModel
+    from .predict import current_ratings
+    r = current_ratings(load_fixtures(args.leagues), OutcomeModel.load().elo_params)
+    for league, g in r.groupby("league", sort=False):
+        print(f"\n{LEAGUES[league].name} ({LEAGUES[league].country}) {g.season.iloc[0]}")
+        print(g[["rank", "team", "rating", "played"]].to_string(index=False))
+
+
 def main(argv=None):
     # Team names include č/ć/đ/ã; Windows consoles default to a codepage that can't print them.
     if hasattr(sys.stdout, "reconfigure"):
@@ -83,7 +93,7 @@ def main(argv=None):
     p = sub.add_parser("backfill", help="download historical seasons")
     p.add_argument("--leagues", **league_arg)
     p.add_argument("--seasons", nargs="+", type=int, help="explicit season labels (default: last N + current)")
-    p.add_argument("-n", type=int, default=3, help="number of completed seasons (default 3)")
+    p.add_argument("-n", type=int, default=4, help="number of completed seasons (default 4: one to warm up ratings, two to train, one to validate)")
     p.add_argument("--overwrite", action="store_true")
     p.set_defaults(fn=cmd_backfill)
 
@@ -95,6 +105,9 @@ def main(argv=None):
 
     p = sub.add_parser("train", help="fit the production model on all completed seasons")
     p.add_argument("--leagues", **league_arg); p.set_defaults(fn=cmd_train)
+
+    p = sub.add_parser("ratings", help="show current Elo ratings table per league")
+    p.add_argument("--leagues", **league_arg); p.set_defaults(fn=cmd_ratings)
 
     p = sub.add_parser("predict", help="show model probabilities for a day's fixtures")
     p.add_argument("--date"); p.set_defaults(fn=cmd_predict)

@@ -83,12 +83,13 @@ def league_matches(df: pd.DataFrame) -> pd.DataFrame:
     championship and relegation groups, where both sides are league members."""
     rnd = df["round"].fillna("").astype(str)
     regular = rnd.str.startswith("Regular Season")
-    members = df[regular].groupby(["league", "season"]).apply(
-        lambda g: set(g.home_id) | set(g.away_id), include_groups=False).to_dict()
-    both_members = [h in members.get((lg, s), ()) and a in members.get((lg, s), ())
-                    for lg, s, h, a in zip(df.league, df.season, df.home_id, df.away_id)]
+    reg = df[regular]
+    members = set(zip(reg.league, reg.season, reg.home_id)) | set(zip(reg.league, reg.season, reg.away_id))
+    both_members = pd.Series([(lg, s, h) in members and (lg, s, a) in members
+                              for lg, s, h, a in zip(df.league, df.season, df.home_id, df.away_id)],
+                             index=df.index, dtype=bool)
     knockout = rnd.str.contains("Final|Semi|Play-off", case=False)
-    return df[regular | (pd.Series(both_members, index=df.index) & ~knockout)]
+    return df[regular | (both_members & ~knockout)]
 
 
 def finished(df: pd.DataFrame) -> pd.DataFrame:

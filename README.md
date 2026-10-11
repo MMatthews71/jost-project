@@ -31,7 +31,8 @@ the automated scheduler come in Milestone 2.
    points and the loser loses the same amount. Bigger wins move the ratings more. Each league has
    its own rating pool, so a promoted team starts near the bottom of its new league instead of
    bringing over a rating from the league below. Between seasons, ratings move 10% of the way back
-   toward the league average. Ratings are rebuilt from the full match history on every run, so each
+   toward the league average. `python -m football_ml ratings` prints the current table for each
+   league. Ratings are rebuilt from the full match history on every run, so each
    new result is included automatically once the data is refreshed.
 3. **Calibration** (`football_ml/model.py`): a multinomial logistic regression turns the
    rating difference into P(home), P(draw), P(away). It learns a separate home advantage and draw
@@ -70,16 +71,17 @@ Requires Python 3.11+ and an API-Football key.
 pip install -r requirements.txt
 cp .env.example .env              # put your APIFOOTBALL_KEY in .env
 python -m football_ml status      # check plan and remaining requests
-python -m football_ml backfill -n 4   # 2022 to current season, all leagues (~50 requests)
+python -m football_ml backfill    # 2022 to current season, all leagues (~50 requests)
 python -m football_ml refresh     # re-download current seasons (new results, upcoming fixtures)
 python -m football_ml validate    # tune Elo + evaluate on held-out season -> reports/
 python -m football_ml train       # fit the production model -> models/model.json
+python -m football_ml ratings     # current Elo ratings table for every league
 python -m football_ml predict --date 2026-10-17   # probabilities for that day's fixtures
 python -m pytest -q               # tests
 ```
 
 The repository already includes the downloaded data, the trained model and the validation
-report. `predict` works straight after cloning, and `refresh` + `train` bring it up to date.
+report. `ratings` and `predict` work straight after cloning, and `refresh` + `train` bring it up to date.
 
 ## Project layout
 
@@ -91,7 +93,7 @@ football_ml/
   elo.py        Elo rating engine
   model.py      logistic-regression calibration layer
   train.py      Elo tuning, held-out validation, final training
-  predict.py    probabilities for upcoming fixtures
+  predict.py    current ratings tables, probabilities for upcoming fixtures
 data/fixtures/  match data, one CSV per league-season
 models/         trained model (JSON)
 reports/        validation report

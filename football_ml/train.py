@@ -111,7 +111,6 @@ def validate(fixtures: pd.DataFrame, params: EloParams | None = None, today: dat
     rates = train.groupby("league")["result"].value_counts(normalize=True).unstack().reindex(columns=CLASSES).fillna(0)
     overall = train["result"].value_counts(normalize=True).reindex(CLASSES).fillna(0).values
     base = np.array([rates.loc[lg].values if lg in rates.index else overall for lg in test.league])
-    home = np.tile([1.0, 0.0, 0.0], (len(test), 1))
 
     per_league = {}
     for lg, idx in test.groupby("league").indices.items():
@@ -159,9 +158,10 @@ def write_report(rep: dict) -> None:
         f"| Base rates (per-league H/D/A frequencies) | {o['base_rate']['accuracy']:.3f} | {o['base_rate']['log_loss']:.4f} | {o['base_rate']['brier']:.4f} | {o['base_rate']['rps']:.4f} |",
         f"| Always home | {o['always_home_accuracy']:.3f} | | | |",
         "",
-        "Lower is better for log loss / Brier / RPS. Accuracy is the share of matches where the most "
-        "likely outcome happened; football 1X2 accuracy above ~50% is typical for a good model because "
-        "draws are rarely the single most likely outcome.",
+        "Accuracy is how often the model's most likely outcome happened. Around 50% is a solid result "
+        "for 1X2 football predictions: about a quarter of matches are draws, and a draw is rarely the "
+        "single most likely outcome, so they are hard to call. Log loss, Brier and RPS score the "
+        "probabilities themselves; lower is better.",
         "",
         "## Per league",
         "",

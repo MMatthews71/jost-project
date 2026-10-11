@@ -1,12 +1,14 @@
 from datetime import date
 
 import numpy as np
+import pandas as pd
 import pytest
 
 from football_ml import config
-from football_ml.data import finished
+from football_ml.data import finished, league_matches
 from football_ml.elo import EloEngine, EloParams, run_elo
 from football_ml.model import OutcomeModel
+from football_ml.predict import current_ratings
 from football_ml.train import holdout_seasons, metrics, rate, validate
 
 from .conftest import synthetic_fixtures
@@ -65,3 +67,30 @@ def test_metrics_perfect_prediction():
     p = np.array([[1.0, 0, 0], [0, 1.0, 0]])
     m = metrics(p, ["H", "D"])
     assert m["accuracy"] == 1 and m["brier"] == 0 and m["rps"] == 0
+
+
+def test_first_season_everyone_starts_level():
+    e = EloEngine()
+    e.start_season("HNL", 2022)
+    for t in range(10):
+        e.update("HNL", t, 100 + t, 2, 0)
+    assert e.rating("HNL", 999) == 1500
+
+
+def test_league_matches_drops_playoffs_keeps_split_rounds():
+    def row(fid, rnd, h, a):
+        return {"fixture_id": fid, "league": "SRB", "season": 2024, "round": rnd, "home_id": h, "away_id": a}
+    df = pd.DataFrame([
+        row(1, "Regular Season - 1", 1, 2), row(2, "Regular Season - 2", 3, 4),
+        row(3, "Championship Round - 1", 1, 3),       # split-league phase between members: kept
+        row(4, "Relegation Round - 1", 4, 99),        # play-off against a lower-division team: dropped
+        row(5, "Final", 1, 2),                         # knockout / neutral venue: dropped
+    ])
+    assert list(league_matches(df).fixture_id) == [1, 2, 3]
+
+
+def test_current_ratings_table():
+    fx = synthetic_fixtures(leagues=("HNL",))
+    r = current_ratings(fx, EloParams())
+    assert len(r) == 12 and list(r["rank"]) == list(range(1, 13))
+    assert r["rating"].is_monotonic_decreasing

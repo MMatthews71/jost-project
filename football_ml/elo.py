@@ -40,6 +40,7 @@ class EloEngine:
         self.p = params or EloParams()
         self.ratings: dict[str, dict[int, float]] = {}
         self.season: dict[str, int] = {}
+        self.established: set[str] = set()   # leagues that have completed at least one season
 
     def _pool(self, league: str) -> dict[int, float]:
         return self.ratings.setdefault(league, {})
@@ -47,8 +48,9 @@ class EloEngine:
     def rating(self, league: str, team: int) -> float:
         pool = self._pool(league)
         if team not in pool:
+            # In a league's first season everyone starts level; after that, newcomers are promoted sides.
             pool[team] = (float(np.percentile(list(pool.values()), self.p.new_team_pct))
-                          if len(pool) >= 6 else self.p.base)
+                          if league in self.established else self.p.base)
         return pool[team]
 
     def start_season(self, league: str, season: int) -> None:
@@ -56,6 +58,7 @@ class EloEngine:
             return
         pool = self._pool(league)
         if pool and league in self.season:
+            self.established.add(league)
             mean = float(np.mean(list(pool.values())))
             for t in pool:
                 pool[t] = mean + self.p.carry * (pool[t] - mean)

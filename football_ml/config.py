@@ -49,7 +49,7 @@ def current_season(league: League, today: date | None = None) -> int:
     return today.year if today.month >= 7 else today.year - 1
 
 
-def default_backfill_seasons(league: League, n: int = 3, today: date | None = None) -> list[int]:
+def default_backfill_seasons(league: League, n: int = 4, today: date | None = None) -> list[int]:
     """The n most recent *completed* seasons plus the current one."""
     cur = current_season(league, today)
     return list(range(cur - n, cur + 1))
