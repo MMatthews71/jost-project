@@ -1,307 +1,307 @@
-fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
-1552733,LIGUE1,2026,2026-08-21T18:45:00+00:00,FT,Regular Season - 1,81,Marseille,95,Strasbourg,4.0,0.0
-1552732,LIGUE1,2026,2026-08-22T15:15:00+00:00,FT,Regular Season - 1,116,Lens,108,Auxerre,5.0,2.0
-1552731,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,1298,Le Mans,106,Stade Brestois 29,2.0,2.0
-1552734,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,84,Nice,97,Lorient,0.0,0.0
-1552736,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,96,Toulouse,80,Lyon,0.0,2.0
-1552737,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,110,Estac Troyes,114,Paris FC,0.0,0.0
-1552729,LIGUE1,2026,2026-08-23T13:00:00+00:00,FT,Regular Season - 1,77,Angers,79,Lille,0.0,2.0
-1552730,LIGUE1,2026,2026-08-23T15:15:00+00:00,FT,Regular Season - 1,111,Le Havre,91,Monaco,0.0,1.0
-1552735,LIGUE1,2026,2026-08-23T18:45:00+00:00,FT,Regular Season - 1,94,Rennes,85,Paris Saint Germain,2.0,2.0
-1552746,LIGUE1,2026,2026-08-28T18:45:00+00:00,FT,Regular Season - 2,79,Lille,85,Paris Saint Germain,2.0,2.0
-1552745,LIGUE1,2026,2026-08-29T15:15:00+00:00,FT,Regular Season - 2,95,Strasbourg,116,Lens,2.0,1.0
-1552738,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,108,Auxerre,77,Angers,1.0,3.0
-1552739,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,106,Stade Brestois 29,96,Toulouse,2.0,2.0
-1552740,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,97,Lorient,110,Estac Troyes,1.0,2.0
-1552741,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,80,Lyon,111,Le Havre,1.0,1.0
-1552743,LIGUE1,2026,2026-08-30T13:00:00+00:00,FT,Regular Season - 2,114,Paris FC,84,Nice,3.0,0.0
-1552744,LIGUE1,2026,2026-08-30T15:15:00+00:00,FT,Regular Season - 2,94,Rennes,1298,Le Mans,3.0,2.0
-1552742,LIGUE1,2026,2026-08-30T18:45:00+00:00,FT,Regular Season - 2,91,Monaco,81,Marseille,2.0,0.0
-1552754,LIGUE1,2026,2026-09-03T18:45:00+00:00,FT,Regular Season - 3,96,Toulouse,79,Lille,0.0,1.0
-1552750,LIGUE1,2026,2026-09-04T17:00:00+00:00,FT,Regular Season - 3,80,Lyon,108,Auxerre,3.0,1.0
-1552753,LIGUE1,2026,2026-09-04T19:05:00+00:00,FT,Regular Season - 3,85,Paris Saint Germain,91,Monaco,1.0,2.0
-1552749,LIGUE1,2026,2026-09-05T15:15:00+00:00,FT,Regular Season - 3,116,Lens,97,Lorient,0.0,1.0
-1552748,LIGUE1,2026,2026-09-05T18:45:00+00:00,FT,Regular Season - 3,111,Le Havre,106,Stade Brestois 29,1.0,2.0
-1552752,LIGUE1,2026,2026-09-05T18:45:00+00:00,FT,Regular Season - 3,84,Nice,1298,Le Mans,1.0,1.0
-1552755,LIGUE1,2026,2026-09-06T13:00:00+00:00,FT,Regular Season - 3,110,Estac Troyes,95,Strasbourg,2.0,6.0
-1552747,LIGUE1,2026,2026-09-06T15:15:00+00:00,FT,Regular Season - 3,77,Angers,94,Rennes,1.0,2.0
-1552751,LIGUE1,2026,2026-09-06T18:45:00+00:00,FT,Regular Season - 3,81,Marseille,114,Paris FC,2.0,3.0
-1552763,LIGUE1,2026,2026-09-11T18:45:00+00:00,FT,Regular Season - 4,94,Rennes,81,Marseille,1.0,0.0
-1552764,LIGUE1,2026,2026-09-12T15:15:00+00:00,FT,Regular Season - 4,95,Strasbourg,91,Monaco,1.0,1.0
-1552756,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,108,Auxerre,84,Nice,1.0,0.0
-1552758,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,111,Le Havre,77,Angers,0.0,0.0
-1552761,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,97,Lorient,96,Toulouse,2.0,2.0
-1552762,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,114,Paris FC,80,Lyon,0.0,0.0
-1552760,LIGUE1,2026,2026-09-13T13:00:00+00:00,FT,Regular Season - 4,79,Lille,110,Estac Troyes,2.0,0.0
-1552759,LIGUE1,2026,2026-09-13T15:15:00+00:00,FT,Regular Season - 4,1298,Le Mans,116,Lens,2.0,2.0
-1552757,LIGUE1,2026,2026-09-13T18:45:00+00:00,FT,Regular Season - 4,106,Stade Brestois 29,85,Paris Saint Germain,0.0,1.0
-1552769,LIGUE1,2026,2026-09-18T18:45:00+00:00,FT,Regular Season - 5,91,Monaco,116,Lens,2.0,1.0
-1552771,LIGUE1,2026,2026-09-19T15:15:00+00:00,FT,Regular Season - 5,114,Paris FC,95,Strasbourg,2.0,1.0
-1552765,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,77,Angers,110,Estac Troyes,2.0,0.0
-1552767,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,1298,Le Mans,97,Lorient,2.0,1.0
-1552768,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,80,Lyon,94,Rennes,4.0,0.0
-1552772,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,96,Toulouse,111,Le Havre,3.0,2.0
-1552766,LIGUE1,2026,2026-09-20T13:00:00+00:00,FT,Regular Season - 5,108,Auxerre,106,Stade Brestois 29,2.0,1.0
-1552770,LIGUE1,2026,2026-09-20T15:15:00+00:00,FT,Regular Season - 5,84,Nice,79,Lille,2.0,1.0
-1552773,LIGUE1,2026,2026-09-20T18:45:00+00:00,FT,Regular Season - 5,81,Marseille,85,Paris Saint Germain,1.0,2.0
-1552775,LIGUE1,2026,2026-10-09T18:45:00+00:00,FT,Regular Season - 6,116,Lens,80,Lyon,2.0,1.0
-1552776,LIGUE1,2026,2026-10-10T15:15:00+00:00,FT,Regular Season - 6,79,Lille,111,Le Havre,1.0,0.0
-1552774,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,106,Stade Brestois 29,77,Angers,5.0,1.0
-1552777,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,97,Lorient,114,Paris FC,1.0,0.0
-1552778,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,91,Monaco,96,Toulouse,2.0,2.0
-1552780,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,85,Paris Saint Germain,1298,Le Mans,3.0,1.0
-1552779,LIGUE1,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 6,84,Nice,95,Strasbourg,2.0,1.0
-1552781,LIGUE1,2026,2026-10-11T15:15:00+00:00,FT,Regular Season - 6,94,Rennes,108,Auxerre,4.0,1.0
-1552782,LIGUE1,2026,2026-10-11T18:45:00+00:00,FT,Regular Season - 6,110,Estac Troyes,81,Marseille,0.0,2.0
-1552785,LIGUE1,2026,2026-10-16T18:45:00+00:00,NS,Regular Season - 7,1298,Le Mans,96,Toulouse,,
-1552790,LIGUE1,2026,2026-10-17T15:15:00+00:00,NS,Regular Season - 7,95,Strasbourg,85,Paris Saint Germain,,
-1552786,LIGUE1,2026,2026-10-17T18:45:00+00:00,NS,Regular Season - 7,79,Lille,106,Stade Brestois 29,,
-1552791,LIGUE1,2026,2026-10-17T18:45:00+00:00,NS,Regular Season - 7,110,Estac Troyes,116,Lens,,
-1552783,LIGUE1,2026,2026-10-18T13:00:00+00:00,NS,Regular Season - 7,77,Angers,81,Marseille,,
-1552784,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,111,Le Havre,108,Auxerre,,
-1552787,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,97,Lorient,91,Monaco,,
-1552789,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,114,Paris FC,94,Rennes,,
-1552788,LIGUE1,2026,2026-10-18T18:45:00+00:00,NS,Regular Season - 7,80,Lyon,84,Nice,,
-1552794,LIGUE1,2026,2026-10-23T18:45:00+00:00,NS,Regular Season - 8,106,Stade Brestois 29,84,Nice,,
-1552799,LIGUE1,2026,2026-10-24T15:15:00+00:00,NS,Regular Season - 8,96,Toulouse,110,Estac Troyes,,
-1552795,LIGUE1,2026,2026-10-24T18:45:00+00:00,NS,Regular Season - 8,116,Lens,114,Paris FC,,
-1552797,LIGUE1,2026,2026-10-25T14:00:00+00:00,NS,Regular Season - 8,91,Monaco,79,Lille,,
-1552792,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,77,Angers,97,Lorient,,
-1552793,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,108,Auxerre,1298,Le Mans,,
-1552796,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,81,Marseille,111,Le Havre,,
-1552798,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,94,Rennes,95,Strasbourg,,
-1552800,LIGUE1,2026,2026-10-25T19:45:00+00:00,NS,Regular Season - 8,85,Paris Saint Germain,80,Lyon,,
-1552801,LIGUE1,2026,2026-10-30T18:00:00+00:00,NS,Regular Season - 9,111,Le Havre,85,Paris Saint Germain,,
-1552802,LIGUE1,2026,2026-10-30T20:05:00+00:00,NS,Regular Season - 9,79,Lille,116,Lens,,
-1552806,LIGUE1,2026,2026-10-31T16:15:00+00:00,NS,Regular Season - 9,84,Nice,94,Rennes,,
-1552803,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,97,Lorient,106,Stade Brestois 29,,
-1552804,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,80,Lyon,77,Angers,,
-1552809,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,110,Estac Troyes,1298,Le Mans,,
-1552808,LIGUE1,2026,2026-11-01T14:00:00+00:00,NS,Regular Season - 9,95,Strasbourg,108,Auxerre,,
-1552807,LIGUE1,2026,2026-11-01T16:15:00+00:00,NS,Regular Season - 9,114,Paris FC,91,Monaco,,
-1552805,LIGUE1,2026,2026-11-01T19:45:00+00:00,NS,Regular Season - 9,81,Marseille,96,Toulouse,,
-1552817,LIGUE1,2026,2026-11-06T19:45:00+00:00,NS,Regular Season - 10,96,Toulouse,95,Strasbourg,,
-1552811,LIGUE1,2026,2026-11-07T16:15:00+00:00,NS,Regular Season - 10,108,Auxerre,114,Paris FC,,
-1552815,LIGUE1,2026,2026-11-07T19:45:00+00:00,NS,Regular Season - 10,85,Paris Saint Germain,110,Estac Troyes,,
-1552816,LIGUE1,2026,2026-11-08T14:00:00+00:00,NS,Regular Season - 10,94,Rennes,79,Lille,,
-1552810,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,77,Angers,84,Nice,,
-1552812,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,106,Stade Brestois 29,80,Lyon,,
-1552813,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,111,Le Havre,97,Lorient,,
-1552814,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,1298,Le Mans,91,Monaco,,
-1552818,LIGUE1,2026,2026-11-08T19:45:00+00:00,NS,Regular Season - 10,116,Lens,81,Marseille,,
-1552827,LIGUE1,2026,2026-11-20T19:45:00+00:00,NS,Regular Season - 11,110,Estac Troyes,111,Le Havre,,
-1552824,LIGUE1,2026,2026-11-21T16:15:00+00:00,NS,Regular Season - 11,84,Nice,85,Paris Saint Germain,,
-1552819,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,116,Lens,96,Toulouse,,
-1552820,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,79,Lille,80,Lyon,,
-1552823,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,91,Monaco,108,Auxerre,,
-1552826,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,95,Strasbourg,106,Stade Brestois 29,,
-1552825,LIGUE1,2026,2026-11-22T14:00:00+00:00,NS,Regular Season - 11,114,Paris FC,77,Angers,,
-1552821,LIGUE1,2026,2026-11-22T16:15:00+00:00,NS,Regular Season - 11,97,Lorient,94,Rennes,,
-1552822,LIGUE1,2026,2026-11-22T19:45:00+00:00,NS,Regular Season - 11,81,Marseille,1298,Le Mans,,
-1552830,LIGUE1,2026,2026-11-27T19:45:00+00:00,NS,Regular Season - 12,106,Stade Brestois 29,114,Paris FC,,
-1552828,LIGUE1,2026,2026-11-28T16:15:00+00:00,NS,Regular Season - 12,77,Angers,116,Lens,,
-1552831,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,111,Le Havre,95,Strasbourg,,
-1552832,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,1298,Le Mans,79,Lille,,
-1552834,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,84,Nice,110,Estac Troyes,,
-1552835,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,85,Paris Saint Germain,97,Lorient,,
-1552829,LIGUE1,2026,2026-11-29T14:00:00+00:00,NS,Regular Season - 12,108,Auxerre,81,Marseille,,
-1552836,LIGUE1,2026,2026-11-29T16:15:00+00:00,NS,Regular Season - 12,96,Toulouse,94,Rennes,,
-1552833,LIGUE1,2026,2026-11-29T19:45:00+00:00,NS,Regular Season - 12,80,Lyon,91,Monaco,,
-1552837,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,116,Lens,111,Le Havre,,
-1552838,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,79,Lille,108,Auxerre,,
-1552839,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,81,Marseille,84,Nice,,
-1552840,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,91,Monaco,77,Angers,,
-1552841,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,114,Paris FC,1298,Le Mans,,
-1552842,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,94,Rennes,106,Stade Brestois 29,,
-1552843,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,95,Strasbourg,97,Lorient,,
-1552844,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,96,Toulouse,85,Paris Saint Germain,,
-1552845,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,110,Estac Troyes,80,Lyon,,
-1552846,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,77,Angers,95,Strasbourg,,
-1552847,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,108,Auxerre,96,Toulouse,,
-1552848,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,106,Stade Brestois 29,110,Estac Troyes,,
-1552849,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,111,Le Havre,1298,Le Mans,,
-1552850,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,97,Lorient,79,Lille,,
-1552851,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,84,Nice,116,Lens,,
-1552852,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,85,Paris Saint Germain,114,Paris FC,,
-1552853,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,94,Rennes,91,Monaco,,
-1552854,LIGUE1,2026,2026-12-13T19:45:00+00:00,NS,Regular Season - 14,80,Lyon,81,Marseille,,
-1552855,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,106,Stade Brestois 29,81,Marseille,,
-1552856,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,1298,Le Mans,80,Lyon,,
-1552857,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,79,Lille,95,Strasbourg,,
-1552858,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,97,Lorient,108,Auxerre,,
-1552859,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,91,Monaco,84,Nice,,
-1552860,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,114,Paris FC,111,Le Havre,,
-1552861,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,96,Toulouse,77,Angers,,
-1552862,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,110,Estac Troyes,94,Rennes,,
-1552863,LIGUE1,2026,2027-01-03T19:45:00+00:00,NS,Regular Season - 15,116,Lens,85,Paris Saint Germain,,
-1552864,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,77,Angers,85,Paris Saint Germain,,
-1552865,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,108,Auxerre,110,Estac Troyes,,
-1552866,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,80,Lyon,97,Lorient,,
-1552867,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,81,Marseille,79,Lille,,
-1552868,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,91,Monaco,106,Stade Brestois 29,,
-1552869,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,84,Nice,111,Le Havre,,
-1552870,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,114,Paris FC,96,Toulouse,,
-1552871,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,94,Rennes,116,Lens,,
-1552872,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,95,Strasbourg,1298,Le Mans,,
-1552873,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,111,Le Havre,94,Rennes,,
-1552874,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,1298,Le Mans,77,Angers,,
-1552875,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,116,Lens,106,Stade Brestois 29,,
-1552876,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,79,Lille,114,Paris FC,,
-1552877,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,97,Lorient,81,Marseille,,
-1552878,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,85,Paris Saint Germain,108,Auxerre,,
-1552879,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,95,Strasbourg,80,Lyon,,
-1552880,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,96,Toulouse,84,Nice,,
-1552881,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,110,Estac Troyes,91,Monaco,,
-1552882,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,77,Angers,111,Le Havre,,
-1552883,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,106,Stade Brestois 29,95,Strasbourg,,
-1552884,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,1298,Le Mans,84,Nice,,
-1552885,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,80,Lyon,79,Lille,,
-1552886,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,81,Marseille,110,Estac Troyes,,
-1552887,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,91,Monaco,85,Paris Saint Germain,,
-1552888,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,114,Paris FC,108,Auxerre,,
-1552889,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,94,Rennes,97,Lorient,,
-1552890,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,96,Toulouse,116,Lens,,
-1552891,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,108,Auxerre,91,Monaco,,
-1552892,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,111,Le Havre,96,Toulouse,,
-1552893,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,116,Lens,77,Angers,,
-1552894,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,97,Lorient,1298,Le Mans,,
-1552895,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,84,Nice,106,Stade Brestois 29,,
-1552896,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,94,Rennes,80,Lyon,,
-1552897,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,95,Strasbourg,114,Paris FC,,
-1552898,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,110,Estac Troyes,79,Lille,,
-1552899,LIGUE1,2026,2027-02-07T19:45:00+00:00,NS,Regular Season - 19,85,Paris Saint Germain,81,Marseille,,
-1552900,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,108,Auxerre,95,Strasbourg,,
-1552901,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,106,Stade Brestois 29,94,Rennes,,
-1552902,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,1298,Le Mans,85,Paris Saint Germain,,
-1552903,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,79,Lille,84,Nice,,
-1552904,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,97,Lorient,111,Le Havre,,
-1552905,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,80,Lyon,116,Lens,,
-1552906,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,81,Marseille,77,Angers,,
-1552907,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,114,Paris FC,110,Estac Troyes,,
-1552908,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,96,Toulouse,91,Monaco,,
-1552909,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,77,Angers,114,Paris FC,,
-1552910,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,111,Le Havre,80,Lyon,,
-1552911,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,116,Lens,110,Estac Troyes,,
-1552912,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,79,Lille,97,Lorient,,
-1552913,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,91,Monaco,1298,Le Mans,,
-1552914,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,84,Nice,108,Auxerre,,
-1552915,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,85,Paris Saint Germain,106,Stade Brestois 29,,
-1552916,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,94,Rennes,96,Toulouse,,
-1552917,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,95,Strasbourg,81,Marseille,,
-1552918,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,108,Auxerre,79,Lille,,
-1552919,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,106,Stade Brestois 29,91,Monaco,,
-1552920,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,1298,Le Mans,114,Paris FC,,
-1552921,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,97,Lorient,77,Angers,,
-1552922,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,80,Lyon,96,Toulouse,,
-1552923,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,81,Marseille,94,Rennes,,
-1552924,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,95,Strasbourg,111,Le Havre,,
-1552925,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,110,Estac Troyes,84,Nice,,
-1552926,LIGUE1,2026,2027-02-28T19:45:00+00:00,NS,Regular Season - 22,85,Paris Saint Germain,116,Lens,,
-1552927,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,77,Angers,108,Auxerre,,
-1552928,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,111,Le Havre,84,Nice,,
-1552929,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,116,Lens,95,Strasbourg,,
-1552930,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,79,Lille,81,Marseille,,
-1552931,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,91,Monaco,80,Lyon,,
-1552932,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,114,Paris FC,106,Stade Brestois 29,,
-1552933,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,85,Paris Saint Germain,94,Rennes,,
-1552934,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,96,Toulouse,1298,Le Mans,,
-1552935,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,110,Estac Troyes,97,Lorient,,
-1552936,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,108,Auxerre,85,Paris Saint Germain,,
-1552937,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,106,Stade Brestois 29,79,Lille,,
-1552938,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,111,Le Havre,116,Lens,,
-1552939,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,1298,Le Mans,94,Rennes,,
-1552940,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,80,Lyon,110,Estac Troyes,,
-1552941,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,81,Marseille,91,Monaco,,
-1552942,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,84,Nice,96,Toulouse,,
-1552943,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,114,Paris FC,97,Lorient,,
-1552944,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,95,Strasbourg,77,Angers,,
-1552945,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,77,Angers,1298,Le Mans,,
-1552946,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,116,Lens,79,Lille,,
-1552947,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,97,Lorient,84,Nice,,
-1552948,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,91,Monaco,111,Le Havre,,
-1552949,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,85,Paris Saint Germain,95,Strasbourg,,
-1552950,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,94,Rennes,114,Paris FC,,
-1552951,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,96,Toulouse,106,Stade Brestois 29,,
-1552952,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,110,Estac Troyes,108,Auxerre,,
-1552953,LIGUE1,2026,2027-03-21T19:45:00+00:00,NS,Regular Season - 25,81,Marseille,80,Lyon,,
-1552954,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,77,Angers,91,Monaco,,
-1552955,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,108,Auxerre,116,Lens,,
-1552956,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,106,Stade Brestois 29,97,Lorient,,
-1552957,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,111,Le Havre,110,Estac Troyes,,
-1552958,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,1298,Le Mans,81,Marseille,,
-1552959,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,79,Lille,94,Rennes,,
-1552960,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,84,Nice,80,Lyon,,
-1552961,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,114,Paris FC,85,Paris Saint Germain,,
-1552962,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,95,Strasbourg,96,Toulouse,,
-1552963,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,1298,Le Mans,108,Auxerre,,
-1552964,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,79,Lille,96,Toulouse,,
-1552965,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,97,Lorient,116,Lens,,
-1552966,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,80,Lyon,95,Strasbourg,,
-1552967,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,81,Marseille,106,Stade Brestois 29,,
-1552968,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,91,Monaco,94,Rennes,,
-1552969,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,84,Nice,114,Paris FC,,
-1552970,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,85,Paris Saint Germain,111,Le Havre,,
-1552971,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,110,Estac Troyes,77,Angers,,
-1552972,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,77,Angers,80,Lyon,,
-1552973,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,108,Auxerre,97,Lorient,,
-1552974,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,106,Stade Brestois 29,1298,Le Mans,,
-1552975,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,111,Le Havre,81,Marseille,,
-1552976,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,116,Lens,84,Nice,,
-1552977,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,91,Monaco,95,Strasbourg,,
-1552978,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,85,Paris Saint Germain,79,Lille,,
-1552979,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,94,Rennes,110,Estac Troyes,,
-1552980,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,96,Toulouse,114,Paris FC,,
-1552981,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,1298,Le Mans,111,Le Havre,,
-1552982,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,79,Lille,91,Monaco,,
-1552983,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,97,Lorient,85,Paris Saint Germain,,
-1552984,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,80,Lyon,106,Stade Brestois 29,,
-1552985,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,81,Marseille,108,Auxerre,,
-1552986,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,84,Nice,77,Angers,,
-1552987,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,114,Paris FC,116,Lens,,
-1552988,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,95,Strasbourg,94,Rennes,,
-1552989,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,110,Estac Troyes,96,Toulouse,,
-1552990,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,108,Auxerre,80,Lyon,,
-1552991,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,111,Le Havre,114,Paris FC,,
-1552992,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,116,Lens,1298,Le Mans,,
-1552993,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,91,Monaco,97,Lorient,,
-1552994,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,85,Paris Saint Germain,77,Angers,,
-1552995,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,94,Rennes,84,Nice,,
-1552996,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,95,Strasbourg,79,Lille,,
-1552997,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,96,Toulouse,81,Marseille,,
-1552998,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,110,Estac Troyes,106,Stade Brestois 29,,
-1552999,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,77,Angers,96,Toulouse,,
-1553000,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,106,Stade Brestois 29,108,Auxerre,,
-1553001,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,1298,Le Mans,110,Estac Troyes,,
-1553002,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,116,Lens,91,Monaco,,
-1553003,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,97,Lorient,95,Strasbourg,,
-1553004,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,84,Nice,81,Marseille,,
-1553005,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,114,Paris FC,79,Lille,,
-1553006,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,94,Rennes,111,Le Havre,,
-1553007,LIGUE1,2026,2027-05-09T18:45:00+00:00,NS,Regular Season - 31,80,Lyon,85,Paris Saint Germain,,
-1553008,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,108,Auxerre,94,Rennes,,
-1553009,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,106,Stade Brestois 29,111,Le Havre,,
-1553010,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,79,Lille,77,Angers,,
-1553011,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,80,Lyon,1298,Le Mans,,
-1553012,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,81,Marseille,116,Lens,,
-1553013,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,91,Monaco,114,Paris FC,,
-1553014,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,85,Paris Saint Germain,84,Nice,,
-1553015,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,95,Strasbourg,110,Estac Troyes,,
-1553016,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,96,Toulouse,97,Lorient,,
-1553017,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,77,Angers,106,Stade Brestois 29,,
-1553018,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,111,Le Havre,79,Lille,,
-1553019,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,1298,Le Mans,95,Strasbourg,,
-1553020,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,116,Lens,94,Rennes,,
-1553021,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,97,Lorient,80,Lyon,,
-1553022,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,84,Nice,91,Monaco,,
-1553023,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,114,Paris FC,81,Marseille,,
-1553024,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,96,Toulouse,108,Auxerre,,
-1553025,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,110,Estac Troyes,85,Paris Saint Germain,,
-1553026,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,108,Auxerre,111,Le Havre,,
-1553027,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,106,Stade Brestois 29,116,Lens,,
-1553028,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,79,Lille,1298,Le Mans,,
-1553029,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,80,Lyon,114,Paris FC,,
-1553030,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,81,Marseille,97,Lorient,,
-1553031,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,91,Monaco,110,Estac Troyes,,
-1553032,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,85,Paris Saint Germain,96,Toulouse,,
-1553033,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,94,Rennes,77,Angers,,
-1553034,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,95,Strasbourg,84,Nice,,
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals,league_logo,home_logo,away_logo
+1552733,LIGUE1,2026,2026-08-21T18:45:00+00:00,FT,Regular Season - 1,81,Marseille,95,Strasbourg,4.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/95.png
+1552732,LIGUE1,2026,2026-08-22T15:15:00+00:00,FT,Regular Season - 1,116,Lens,108,Auxerre,5.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/108.png
+1552731,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,1298,Le Mans,106,Stade Brestois 29,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/106.png
+1552734,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,84,Nice,97,Lorient,0.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/97.png
+1552736,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,96,Toulouse,80,Lyon,0.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/80.png
+1552737,LIGUE1,2026,2026-08-22T18:45:00+00:00,FT,Regular Season - 1,110,Estac Troyes,114,Paris FC,0.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/114.png
+1552729,LIGUE1,2026,2026-08-23T13:00:00+00:00,FT,Regular Season - 1,77,Angers,79,Lille,0.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/79.png
+1552730,LIGUE1,2026,2026-08-23T15:15:00+00:00,FT,Regular Season - 1,111,Le Havre,91,Monaco,0.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/91.png
+1552735,LIGUE1,2026,2026-08-23T18:45:00+00:00,FT,Regular Season - 1,94,Rennes,85,Paris Saint Germain,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/85.png
+1552746,LIGUE1,2026,2026-08-28T18:45:00+00:00,FT,Regular Season - 2,79,Lille,85,Paris Saint Germain,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/85.png
+1552745,LIGUE1,2026,2026-08-29T15:15:00+00:00,FT,Regular Season - 2,95,Strasbourg,116,Lens,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/116.png
+1552738,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,108,Auxerre,77,Angers,1.0,3.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/77.png
+1552739,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,106,Stade Brestois 29,96,Toulouse,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/96.png
+1552740,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,97,Lorient,110,Estac Troyes,1.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/110.png
+1552741,LIGUE1,2026,2026-08-29T18:45:00+00:00,FT,Regular Season - 2,80,Lyon,111,Le Havre,1.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/111.png
+1552743,LIGUE1,2026,2026-08-30T13:00:00+00:00,FT,Regular Season - 2,114,Paris FC,84,Nice,3.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/84.png
+1552744,LIGUE1,2026,2026-08-30T15:15:00+00:00,FT,Regular Season - 2,94,Rennes,1298,Le Mans,3.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/1298.png
+1552742,LIGUE1,2026,2026-08-30T18:45:00+00:00,FT,Regular Season - 2,91,Monaco,81,Marseille,2.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/81.png
+1552754,LIGUE1,2026,2026-09-03T18:45:00+00:00,FT,Regular Season - 3,96,Toulouse,79,Lille,0.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/79.png
+1552750,LIGUE1,2026,2026-09-04T17:00:00+00:00,FT,Regular Season - 3,80,Lyon,108,Auxerre,3.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/108.png
+1552753,LIGUE1,2026,2026-09-04T19:05:00+00:00,FT,Regular Season - 3,85,Paris Saint Germain,91,Monaco,1.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/91.png
+1552749,LIGUE1,2026,2026-09-05T15:15:00+00:00,FT,Regular Season - 3,116,Lens,97,Lorient,0.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/97.png
+1552748,LIGUE1,2026,2026-09-05T18:45:00+00:00,FT,Regular Season - 3,111,Le Havre,106,Stade Brestois 29,1.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/106.png
+1552752,LIGUE1,2026,2026-09-05T18:45:00+00:00,FT,Regular Season - 3,84,Nice,1298,Le Mans,1.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/1298.png
+1552755,LIGUE1,2026,2026-09-06T13:00:00+00:00,FT,Regular Season - 3,110,Estac Troyes,95,Strasbourg,2.0,6.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/95.png
+1552747,LIGUE1,2026,2026-09-06T15:15:00+00:00,FT,Regular Season - 3,77,Angers,94,Rennes,1.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/94.png
+1552751,LIGUE1,2026,2026-09-06T18:45:00+00:00,FT,Regular Season - 3,81,Marseille,114,Paris FC,2.0,3.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/114.png
+1552763,LIGUE1,2026,2026-09-11T18:45:00+00:00,FT,Regular Season - 4,94,Rennes,81,Marseille,1.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/81.png
+1552764,LIGUE1,2026,2026-09-12T15:15:00+00:00,FT,Regular Season - 4,95,Strasbourg,91,Monaco,1.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/91.png
+1552756,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,108,Auxerre,84,Nice,1.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/84.png
+1552758,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,111,Le Havre,77,Angers,0.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/77.png
+1552761,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,97,Lorient,96,Toulouse,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/96.png
+1552762,LIGUE1,2026,2026-09-12T18:45:00+00:00,FT,Regular Season - 4,114,Paris FC,80,Lyon,0.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/80.png
+1552760,LIGUE1,2026,2026-09-13T13:00:00+00:00,FT,Regular Season - 4,79,Lille,110,Estac Troyes,2.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/110.png
+1552759,LIGUE1,2026,2026-09-13T15:15:00+00:00,FT,Regular Season - 4,1298,Le Mans,116,Lens,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/116.png
+1552757,LIGUE1,2026,2026-09-13T18:45:00+00:00,FT,Regular Season - 4,106,Stade Brestois 29,85,Paris Saint Germain,0.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/85.png
+1552769,LIGUE1,2026,2026-09-18T18:45:00+00:00,FT,Regular Season - 5,91,Monaco,116,Lens,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/116.png
+1552771,LIGUE1,2026,2026-09-19T15:15:00+00:00,FT,Regular Season - 5,114,Paris FC,95,Strasbourg,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/95.png
+1552765,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,77,Angers,110,Estac Troyes,2.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/110.png
+1552767,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,1298,Le Mans,97,Lorient,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/97.png
+1552768,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,80,Lyon,94,Rennes,4.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/94.png
+1552772,LIGUE1,2026,2026-09-19T18:45:00+00:00,FT,Regular Season - 5,96,Toulouse,111,Le Havre,3.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/111.png
+1552766,LIGUE1,2026,2026-09-20T13:00:00+00:00,FT,Regular Season - 5,108,Auxerre,106,Stade Brestois 29,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/106.png
+1552770,LIGUE1,2026,2026-09-20T15:15:00+00:00,FT,Regular Season - 5,84,Nice,79,Lille,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/79.png
+1552773,LIGUE1,2026,2026-09-20T18:45:00+00:00,FT,Regular Season - 5,81,Marseille,85,Paris Saint Germain,1.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/85.png
+1552775,LIGUE1,2026,2026-10-09T18:45:00+00:00,FT,Regular Season - 6,116,Lens,80,Lyon,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/80.png
+1552776,LIGUE1,2026,2026-10-10T15:15:00+00:00,FT,Regular Season - 6,79,Lille,111,Le Havre,1.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/111.png
+1552774,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,106,Stade Brestois 29,77,Angers,5.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/77.png
+1552777,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,97,Lorient,114,Paris FC,1.0,0.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/114.png
+1552778,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,91,Monaco,96,Toulouse,2.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/96.png
+1552780,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,85,Paris Saint Germain,1298,Le Mans,3.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/1298.png
+1552779,LIGUE1,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 6,84,Nice,95,Strasbourg,2.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/95.png
+1552781,LIGUE1,2026,2026-10-11T15:15:00+00:00,FT,Regular Season - 6,94,Rennes,108,Auxerre,4.0,1.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/108.png
+1552782,LIGUE1,2026,2026-10-11T18:45:00+00:00,FT,Regular Season - 6,110,Estac Troyes,81,Marseille,0.0,2.0,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/81.png
+1552785,LIGUE1,2026,2026-10-16T18:45:00+00:00,NS,Regular Season - 7,1298,Le Mans,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/96.png
+1552790,LIGUE1,2026,2026-10-17T15:15:00+00:00,NS,Regular Season - 7,95,Strasbourg,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/85.png
+1552786,LIGUE1,2026,2026-10-17T18:45:00+00:00,NS,Regular Season - 7,79,Lille,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/106.png
+1552791,LIGUE1,2026,2026-10-17T18:45:00+00:00,NS,Regular Season - 7,110,Estac Troyes,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/116.png
+1552783,LIGUE1,2026,2026-10-18T13:00:00+00:00,NS,Regular Season - 7,77,Angers,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/81.png
+1552784,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,111,Le Havre,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/108.png
+1552787,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,97,Lorient,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/91.png
+1552789,LIGUE1,2026,2026-10-18T15:15:00+00:00,NS,Regular Season - 7,114,Paris FC,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/94.png
+1552788,LIGUE1,2026,2026-10-18T18:45:00+00:00,NS,Regular Season - 7,80,Lyon,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/84.png
+1552794,LIGUE1,2026,2026-10-23T18:45:00+00:00,NS,Regular Season - 8,106,Stade Brestois 29,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/84.png
+1552799,LIGUE1,2026,2026-10-24T15:15:00+00:00,NS,Regular Season - 8,96,Toulouse,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/110.png
+1552795,LIGUE1,2026,2026-10-24T18:45:00+00:00,NS,Regular Season - 8,116,Lens,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/114.png
+1552797,LIGUE1,2026,2026-10-25T14:00:00+00:00,NS,Regular Season - 8,91,Monaco,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/79.png
+1552792,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,77,Angers,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/97.png
+1552793,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,108,Auxerre,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/1298.png
+1552796,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,81,Marseille,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/111.png
+1552798,LIGUE1,2026,2026-10-25T16:15:00+00:00,NS,Regular Season - 8,94,Rennes,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/95.png
+1552800,LIGUE1,2026,2026-10-25T19:45:00+00:00,NS,Regular Season - 8,85,Paris Saint Germain,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/80.png
+1552801,LIGUE1,2026,2026-10-30T18:00:00+00:00,NS,Regular Season - 9,111,Le Havre,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/85.png
+1552802,LIGUE1,2026,2026-10-30T20:05:00+00:00,NS,Regular Season - 9,79,Lille,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/116.png
+1552806,LIGUE1,2026,2026-10-31T16:15:00+00:00,NS,Regular Season - 9,84,Nice,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/94.png
+1552803,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,97,Lorient,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/106.png
+1552804,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,80,Lyon,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/77.png
+1552809,LIGUE1,2026,2026-10-31T19:45:00+00:00,NS,Regular Season - 9,110,Estac Troyes,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/1298.png
+1552808,LIGUE1,2026,2026-11-01T14:00:00+00:00,NS,Regular Season - 9,95,Strasbourg,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/108.png
+1552807,LIGUE1,2026,2026-11-01T16:15:00+00:00,NS,Regular Season - 9,114,Paris FC,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/91.png
+1552805,LIGUE1,2026,2026-11-01T19:45:00+00:00,NS,Regular Season - 9,81,Marseille,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/96.png
+1552817,LIGUE1,2026,2026-11-06T19:45:00+00:00,NS,Regular Season - 10,96,Toulouse,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/95.png
+1552811,LIGUE1,2026,2026-11-07T16:15:00+00:00,NS,Regular Season - 10,108,Auxerre,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/114.png
+1552815,LIGUE1,2026,2026-11-07T19:45:00+00:00,NS,Regular Season - 10,85,Paris Saint Germain,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/110.png
+1552816,LIGUE1,2026,2026-11-08T14:00:00+00:00,NS,Regular Season - 10,94,Rennes,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/79.png
+1552810,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,77,Angers,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/84.png
+1552812,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,106,Stade Brestois 29,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/80.png
+1552813,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,111,Le Havre,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/97.png
+1552814,LIGUE1,2026,2026-11-08T16:15:00+00:00,NS,Regular Season - 10,1298,Le Mans,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/91.png
+1552818,LIGUE1,2026,2026-11-08T19:45:00+00:00,NS,Regular Season - 10,116,Lens,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/81.png
+1552827,LIGUE1,2026,2026-11-20T19:45:00+00:00,NS,Regular Season - 11,110,Estac Troyes,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/111.png
+1552824,LIGUE1,2026,2026-11-21T16:15:00+00:00,NS,Regular Season - 11,84,Nice,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/85.png
+1552819,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,116,Lens,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/96.png
+1552820,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,79,Lille,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/80.png
+1552823,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,91,Monaco,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/108.png
+1552826,LIGUE1,2026,2026-11-21T19:45:00+00:00,NS,Regular Season - 11,95,Strasbourg,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/106.png
+1552825,LIGUE1,2026,2026-11-22T14:00:00+00:00,NS,Regular Season - 11,114,Paris FC,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/77.png
+1552821,LIGUE1,2026,2026-11-22T16:15:00+00:00,NS,Regular Season - 11,97,Lorient,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/94.png
+1552822,LIGUE1,2026,2026-11-22T19:45:00+00:00,NS,Regular Season - 11,81,Marseille,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/1298.png
+1552830,LIGUE1,2026,2026-11-27T19:45:00+00:00,NS,Regular Season - 12,106,Stade Brestois 29,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/114.png
+1552828,LIGUE1,2026,2026-11-28T16:15:00+00:00,NS,Regular Season - 12,77,Angers,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/116.png
+1552831,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,111,Le Havre,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/95.png
+1552832,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,1298,Le Mans,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/79.png
+1552834,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,84,Nice,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/110.png
+1552835,LIGUE1,2026,2026-11-28T19:45:00+00:00,NS,Regular Season - 12,85,Paris Saint Germain,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/97.png
+1552829,LIGUE1,2026,2026-11-29T14:00:00+00:00,NS,Regular Season - 12,108,Auxerre,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/81.png
+1552836,LIGUE1,2026,2026-11-29T16:15:00+00:00,NS,Regular Season - 12,96,Toulouse,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/94.png
+1552833,LIGUE1,2026,2026-11-29T19:45:00+00:00,NS,Regular Season - 12,80,Lyon,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/91.png
+1552837,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,116,Lens,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/111.png
+1552838,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,79,Lille,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/108.png
+1552839,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,81,Marseille,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/84.png
+1552840,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,91,Monaco,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/77.png
+1552841,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,114,Paris FC,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/1298.png
+1552842,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,94,Rennes,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/106.png
+1552843,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,95,Strasbourg,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/97.png
+1552844,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,96,Toulouse,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/85.png
+1552845,LIGUE1,2026,2026-12-05T16:00:00+00:00,NS,Regular Season - 13,110,Estac Troyes,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/80.png
+1552846,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,77,Angers,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/95.png
+1552847,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,108,Auxerre,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/96.png
+1552848,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,106,Stade Brestois 29,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/110.png
+1552849,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,111,Le Havre,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/1298.png
+1552850,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,97,Lorient,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/79.png
+1552851,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,84,Nice,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/116.png
+1552852,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,85,Paris Saint Germain,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/114.png
+1552853,LIGUE1,2026,2026-12-12T16:00:00+00:00,NS,Regular Season - 14,94,Rennes,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/91.png
+1552854,LIGUE1,2026,2026-12-13T19:45:00+00:00,NS,Regular Season - 14,80,Lyon,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/81.png
+1552855,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,106,Stade Brestois 29,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/81.png
+1552856,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,1298,Le Mans,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/80.png
+1552857,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,79,Lille,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/95.png
+1552858,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,97,Lorient,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/108.png
+1552859,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,91,Monaco,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/84.png
+1552860,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,114,Paris FC,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/111.png
+1552861,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,96,Toulouse,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/77.png
+1552862,LIGUE1,2026,2027-01-02T16:00:00+00:00,NS,Regular Season - 15,110,Estac Troyes,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/94.png
+1552863,LIGUE1,2026,2027-01-03T19:45:00+00:00,NS,Regular Season - 15,116,Lens,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/85.png
+1552864,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,77,Angers,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/85.png
+1552865,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,108,Auxerre,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/110.png
+1552866,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,80,Lyon,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/97.png
+1552867,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,81,Marseille,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/79.png
+1552868,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,91,Monaco,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/106.png
+1552869,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,84,Nice,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/111.png
+1552870,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,114,Paris FC,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/96.png
+1552871,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,94,Rennes,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/116.png
+1552872,LIGUE1,2026,2027-01-16T16:00:00+00:00,NS,Regular Season - 16,95,Strasbourg,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/1298.png
+1552873,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,111,Le Havre,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/94.png
+1552874,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,1298,Le Mans,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/77.png
+1552875,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,116,Lens,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/106.png
+1552876,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,79,Lille,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/114.png
+1552877,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,97,Lorient,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/81.png
+1552878,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,85,Paris Saint Germain,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/108.png
+1552879,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,95,Strasbourg,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/80.png
+1552880,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,96,Toulouse,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/84.png
+1552881,LIGUE1,2026,2027-01-23T16:00:00+00:00,NS,Regular Season - 17,110,Estac Troyes,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/91.png
+1552882,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,77,Angers,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/111.png
+1552883,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,106,Stade Brestois 29,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/95.png
+1552884,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,1298,Le Mans,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/84.png
+1552885,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,80,Lyon,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/79.png
+1552886,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,81,Marseille,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/110.png
+1552887,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,91,Monaco,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/85.png
+1552888,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,114,Paris FC,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/108.png
+1552889,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,94,Rennes,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/97.png
+1552890,LIGUE1,2026,2027-01-30T16:00:00+00:00,NS,Regular Season - 18,96,Toulouse,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/116.png
+1552891,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,108,Auxerre,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/91.png
+1552892,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,111,Le Havre,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/96.png
+1552893,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,116,Lens,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/77.png
+1552894,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,97,Lorient,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/1298.png
+1552895,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,84,Nice,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/106.png
+1552896,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,94,Rennes,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/80.png
+1552897,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,95,Strasbourg,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/114.png
+1552898,LIGUE1,2026,2027-02-06T16:00:00+00:00,NS,Regular Season - 19,110,Estac Troyes,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/79.png
+1552899,LIGUE1,2026,2027-02-07T19:45:00+00:00,NS,Regular Season - 19,85,Paris Saint Germain,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/81.png
+1552900,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,108,Auxerre,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/95.png
+1552901,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,106,Stade Brestois 29,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/94.png
+1552902,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,1298,Le Mans,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/85.png
+1552903,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,79,Lille,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/84.png
+1552904,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,97,Lorient,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/111.png
+1552905,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,80,Lyon,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/116.png
+1552906,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,81,Marseille,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/77.png
+1552907,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,114,Paris FC,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/110.png
+1552908,LIGUE1,2026,2027-02-13T16:00:00+00:00,NS,Regular Season - 20,96,Toulouse,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/91.png
+1552909,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,77,Angers,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/114.png
+1552910,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,111,Le Havre,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/80.png
+1552911,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,116,Lens,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/110.png
+1552912,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,79,Lille,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/97.png
+1552913,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,91,Monaco,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/1298.png
+1552914,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,84,Nice,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/108.png
+1552915,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,85,Paris Saint Germain,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/106.png
+1552916,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,94,Rennes,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/96.png
+1552917,LIGUE1,2026,2027-02-20T16:00:00+00:00,NS,Regular Season - 21,95,Strasbourg,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/81.png
+1552918,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,108,Auxerre,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/79.png
+1552919,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,106,Stade Brestois 29,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/91.png
+1552920,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,1298,Le Mans,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/114.png
+1552921,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,97,Lorient,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/77.png
+1552922,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,80,Lyon,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/96.png
+1552923,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,81,Marseille,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/94.png
+1552924,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,95,Strasbourg,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/111.png
+1552925,LIGUE1,2026,2027-02-27T16:00:00+00:00,NS,Regular Season - 22,110,Estac Troyes,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/84.png
+1552926,LIGUE1,2026,2027-02-28T19:45:00+00:00,NS,Regular Season - 22,85,Paris Saint Germain,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/116.png
+1552927,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,77,Angers,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/108.png
+1552928,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,111,Le Havre,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/84.png
+1552929,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,116,Lens,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/95.png
+1552930,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,79,Lille,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/81.png
+1552931,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,91,Monaco,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/80.png
+1552932,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,114,Paris FC,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/106.png
+1552933,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,85,Paris Saint Germain,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/94.png
+1552934,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,96,Toulouse,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/1298.png
+1552935,LIGUE1,2026,2027-03-06T16:00:00+00:00,NS,Regular Season - 23,110,Estac Troyes,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/97.png
+1552936,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,108,Auxerre,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/85.png
+1552937,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,106,Stade Brestois 29,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/79.png
+1552938,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,111,Le Havre,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/116.png
+1552939,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,1298,Le Mans,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/94.png
+1552940,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,80,Lyon,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/110.png
+1552941,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,81,Marseille,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/91.png
+1552942,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,84,Nice,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/96.png
+1552943,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,114,Paris FC,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/97.png
+1552944,LIGUE1,2026,2027-03-13T16:00:00+00:00,NS,Regular Season - 24,95,Strasbourg,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/77.png
+1552945,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,77,Angers,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/1298.png
+1552946,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,116,Lens,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/79.png
+1552947,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,97,Lorient,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/84.png
+1552948,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,91,Monaco,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/111.png
+1552949,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,85,Paris Saint Germain,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/95.png
+1552950,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,94,Rennes,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/114.png
+1552951,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,96,Toulouse,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/106.png
+1552952,LIGUE1,2026,2027-03-20T16:00:00+00:00,NS,Regular Season - 25,110,Estac Troyes,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/108.png
+1552953,LIGUE1,2026,2027-03-21T19:45:00+00:00,NS,Regular Season - 25,81,Marseille,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/80.png
+1552954,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,77,Angers,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/91.png
+1552955,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,108,Auxerre,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/116.png
+1552956,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,106,Stade Brestois 29,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/97.png
+1552957,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,111,Le Havre,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/110.png
+1552958,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,1298,Le Mans,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/81.png
+1552959,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,79,Lille,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/94.png
+1552960,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,84,Nice,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/80.png
+1552961,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,114,Paris FC,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/85.png
+1552962,LIGUE1,2026,2027-04-03T15:00:00+00:00,NS,Regular Season - 26,95,Strasbourg,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/96.png
+1552963,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,1298,Le Mans,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/108.png
+1552964,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,79,Lille,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/96.png
+1552965,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,97,Lorient,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/116.png
+1552966,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,80,Lyon,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/95.png
+1552967,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,81,Marseille,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/106.png
+1552968,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,91,Monaco,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/94.png
+1552969,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,84,Nice,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/114.png
+1552970,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,85,Paris Saint Germain,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/111.png
+1552971,LIGUE1,2026,2027-04-10T15:00:00+00:00,NS,Regular Season - 27,110,Estac Troyes,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/77.png
+1552972,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,77,Angers,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/80.png
+1552973,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,108,Auxerre,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/97.png
+1552974,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,106,Stade Brestois 29,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/1298.png
+1552975,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,111,Le Havre,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/81.png
+1552976,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,116,Lens,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/84.png
+1552977,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,91,Monaco,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/95.png
+1552978,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,85,Paris Saint Germain,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/79.png
+1552979,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,94,Rennes,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/110.png
+1552980,LIGUE1,2026,2027-04-17T15:00:00+00:00,NS,Regular Season - 28,96,Toulouse,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/114.png
+1552981,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,1298,Le Mans,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/111.png
+1552982,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,79,Lille,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/91.png
+1552983,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,97,Lorient,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/85.png
+1552984,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,80,Lyon,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/106.png
+1552985,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,81,Marseille,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/108.png
+1552986,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,84,Nice,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/77.png
+1552987,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,114,Paris FC,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/116.png
+1552988,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,95,Strasbourg,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/94.png
+1552989,LIGUE1,2026,2027-04-24T15:00:00+00:00,NS,Regular Season - 29,110,Estac Troyes,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/96.png
+1552990,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,108,Auxerre,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/80.png
+1552991,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,111,Le Havre,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/114.png
+1552992,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,116,Lens,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/1298.png
+1552993,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,91,Monaco,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/97.png
+1552994,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,85,Paris Saint Germain,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/77.png
+1552995,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,94,Rennes,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/84.png
+1552996,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,95,Strasbourg,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/79.png
+1552997,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,96,Toulouse,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/81.png
+1552998,LIGUE1,2026,2027-05-01T15:00:00+00:00,NS,Regular Season - 30,110,Estac Troyes,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/106.png
+1552999,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,77,Angers,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/96.png
+1553000,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,106,Stade Brestois 29,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/108.png
+1553001,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,1298,Le Mans,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/110.png
+1553002,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,116,Lens,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/91.png
+1553003,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,97,Lorient,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/95.png
+1553004,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,84,Nice,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/81.png
+1553005,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,114,Paris FC,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/79.png
+1553006,LIGUE1,2026,2027-05-08T15:00:00+00:00,NS,Regular Season - 31,94,Rennes,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/111.png
+1553007,LIGUE1,2026,2027-05-09T18:45:00+00:00,NS,Regular Season - 31,80,Lyon,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/85.png
+1553008,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,108,Auxerre,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/94.png
+1553009,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,106,Stade Brestois 29,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/111.png
+1553010,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,79,Lille,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/77.png
+1553011,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,80,Lyon,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/1298.png
+1553012,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,81,Marseille,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/116.png
+1553013,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,91,Monaco,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/114.png
+1553014,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,85,Paris Saint Germain,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/84.png
+1553015,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,95,Strasbourg,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/110.png
+1553016,LIGUE1,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 32,96,Toulouse,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/97.png
+1553017,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,77,Angers,106,Stade Brestois 29,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/77.png,https://media.api-sports.io/football/teams/106.png
+1553018,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,111,Le Havre,79,Lille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/111.png,https://media.api-sports.io/football/teams/79.png
+1553019,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,1298,Le Mans,95,Strasbourg,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/1298.png,https://media.api-sports.io/football/teams/95.png
+1553020,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,116,Lens,94,Rennes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/116.png,https://media.api-sports.io/football/teams/94.png
+1553021,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,97,Lorient,80,Lyon,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/97.png,https://media.api-sports.io/football/teams/80.png
+1553022,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,84,Nice,91,Monaco,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/84.png,https://media.api-sports.io/football/teams/91.png
+1553023,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,114,Paris FC,81,Marseille,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/114.png,https://media.api-sports.io/football/teams/81.png
+1553024,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,96,Toulouse,108,Auxerre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/96.png,https://media.api-sports.io/football/teams/108.png
+1553025,LIGUE1,2026,2027-05-22T15:00:00+00:00,NS,Regular Season - 33,110,Estac Troyes,85,Paris Saint Germain,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/110.png,https://media.api-sports.io/football/teams/85.png
+1553026,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,108,Auxerre,111,Le Havre,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/108.png,https://media.api-sports.io/football/teams/111.png
+1553027,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,106,Stade Brestois 29,116,Lens,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/106.png,https://media.api-sports.io/football/teams/116.png
+1553028,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,79,Lille,1298,Le Mans,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/79.png,https://media.api-sports.io/football/teams/1298.png
+1553029,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,80,Lyon,114,Paris FC,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/80.png,https://media.api-sports.io/football/teams/114.png
+1553030,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,81,Marseille,97,Lorient,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/81.png,https://media.api-sports.io/football/teams/97.png
+1553031,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,91,Monaco,110,Estac Troyes,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/91.png,https://media.api-sports.io/football/teams/110.png
+1553032,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,85,Paris Saint Germain,96,Toulouse,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/85.png,https://media.api-sports.io/football/teams/96.png
+1553033,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,94,Rennes,77,Angers,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/94.png,https://media.api-sports.io/football/teams/77.png
+1553034,LIGUE1,2026,2027-05-29T19:00:00+00:00,NS,Regular Season - 34,95,Strasbourg,84,Nice,,,https://media.api-sports.io/football/leagues/61.png,https://media.api-sports.io/football/teams/95.png,https://media.api-sports.io/football/teams/84.png

@@ -1,0 +1,77 @@
+name: daily
+
+# Morning: settle earlier picks, refresh fixtures (Elo picks up new results), send today's picks.
+# Picks must reach the site before 08:00 Europe/Belgrade. GitHub can start scheduled runs late,
+# so there is a main run and a backup run; the backup does nothing if picks were already sent.
+# Night runs: settle picks from matches that finished late (incl. Brazilian evening kickoffs).
+on:
+  schedule:
+    - cron: "30 4 * * *"    # 06:30 Belgrade summer / 05:30 winter -> results + picks
+    - cron: "15 5 * * *"    # 07:15 / 06:15 backup                 -> results + picks
+    - cron: "30 22 * * *"   # results only
+    - cron: "30 3 * * *"    # results only (late Brazilian matches)
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "picks | results | both"
+        default: both
+      dry_run:
+        description: "print payloads instead of sending them"
+        type: boolean
+        default: false
+      test_mode:
+        description: 'send picks with "test": true (stored by the site, never shown to members)'
+        type: boolean
+        default: false
+      force:
+        description: "resend today's picks even if they were already sent (the site upserts, so this is safe)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+      PICKS_API_KEY: ${{ secrets.PICKS_API_KEY }}
+      # Repository variable PICKS_TEST_MODE=true keeps every scheduled run in test mode.
+      PICKS_TEST_MODE: ${{ github.event.inputs.test_mode == 'true' && 'true' || vars.PICKS_TEST_MODE }}
+      DRY: ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
+      FORCE: ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+      JOB: ${{ github.event.inputs.job || ((github.event.schedule == '30 4 * * *' || github.event.schedule == '15 5 * * *') && 'both' || 'results') }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Results
+        if: env.JOB == 'results' || env.JOB == 'both'
+        continue-on-error: true   # a failed results send is retried next run; never block picks
+        run: python -m football_ml results $DRY
+
+      - name: Picks
+        if: env.JOB == 'picks' || env.JOB == 'both'
+        run: python -m football_ml picks $DRY $FORCE
+
+      - name: Save pick history
+        if: always()
+        run: |
+          git config user.name "football-ml-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: ${JOB} run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash
+            git push
+          fi

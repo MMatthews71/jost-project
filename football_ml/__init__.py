@@ -1,1 +1,1 @@
-"""Football match-outcome model: Elo ratings + logistic-regression calibration (1X2)."""
+"""Football match-outcome model: Elo ratings + logistic calibration, daily picks delivery."""

@@ -1,381 +1,381 @@
-fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
-1570333,LALIGA,2026,2026-08-15T17:30:00+00:00,FT,Regular Season - 1,542,Alaves,546,Getafe,3.0,0.0
-1570341,LALIGA,2026,2026-08-15T19:30:00+00:00,FT,Regular Season - 1,536,Sevilla,728,Rayo Vallecano,2.0,1.0
-1570339,LALIGA,2026,2026-08-16T15:00:00+00:00,FT,Regular Season - 1,4665,Racing Santander,533,Villarreal,2.0,2.0
-1570338,LALIGA,2026,2026-08-16T17:00:00+00:00,FT,Regular Season - 1,540,Espanyol,539,Levante,3.0,0.0
-1570337,LALIGA,2026,2026-08-17T19:00:00+00:00,FT,Regular Season - 1,544,Deportivo La Coruna,797,Elche,1.0,1.0
-1570334,LALIGA,2026,2026-08-19T19:00:00+00:00,FT,Regular Season - 1,530,Atletico Madrid,535,Malaga,2.0,0.0
-1570351,LALIGA,2026,2026-08-20T19:00:00+00:00,FT,Regular Season - 2,728,Rayo Vallecano,542,Alaves,1.0,1.0
-1570345,LALIGA,2026,2026-08-21T19:00:00+00:00,FT,Regular Season - 2,543,Real Betis,548,Real Sociedad,1.0,0.0
-1570343,LALIGA,2026,2026-08-22T15:00:00+00:00,FT,Regular Season - 2,531,Athletic Club,536,Sevilla,1.0,3.0
-1570352,LALIGA,2026,2026-08-22T17:30:00+00:00,FT,Regular Season - 2,532,Valencia,538,Celta Vigo,0.0,0.0
-1570347,LALIGA,2026,2026-08-22T19:30:00+00:00,FT,Regular Season - 2,540,Espanyol,541,Real Madrid,1.0,2.0
-1570344,LALIGA,2026,2026-08-23T15:00:00+00:00,FT,Regular Season - 2,530,Atletico Madrid,533,Villarreal,2.0,2.0
-1570348,LALIGA,2026,2026-08-23T17:30:00+00:00,FT,Regular Season - 2,546,Getafe,4665,Racing Santander,1.0,0.0
-1570346,LALIGA,2026,2026-08-23T19:30:00+00:00,FT,Regular Season - 2,797,Elche,529,Barcelona,0.0,5.0
-1570350,LALIGA,2026,2026-08-24T17:30:00+00:00,FT,Regular Season - 2,727,Osasuna,539,Levante,0.0,0.0
-1570349,LALIGA,2026,2026-08-24T19:30:00+00:00,FT,Regular Season - 2,535,Malaga,544,Deportivo La Coruna,1.0,1.0
-1570342,LALIGA,2026,2026-08-25T19:00:00+00:00,FT,Regular Season - 1,532,Valencia,543,Real Betis,0.0,1.0
-1570340,LALIGA,2026,2026-08-26T19:00:00+00:00,FT,Regular Season - 1,541,Real Madrid,548,Real Sociedad,4.0,1.0
-1570336,LALIGA,2026,2026-08-27T18:30:00+00:00,FT,Regular Season - 1,538,Celta Vigo,727,Osasuna,1.0,2.0
-1570335,LALIGA,2026,2026-08-27T19:00:00+00:00,FT,Regular Season - 1,529,Barcelona,531,Athletic Club,2.0,0.0
-1570359,LALIGA,2026,2026-08-28T17:00:00+00:00,FT,Regular Season - 3,4665,Racing Santander,797,Elche,3.0,2.0
-1570353,LALIGA,2026,2026-08-28T19:30:00+00:00,FT,Regular Season - 3,542,Alaves,533,Villarreal,1.0,0.0
-1570357,LALIGA,2026,2026-08-29T15:00:00+00:00,FT,Regular Season - 3,539,Levante,543,Real Betis,5.0,2.0
-1570361,LALIGA,2026,2026-08-29T17:00:00+00:00,FT,Regular Season - 3,548,Real Sociedad,540,Espanyol,2.0,1.0
-1570362,LALIGA,2026,2026-08-29T19:30:00+00:00,FT,Regular Season - 3,536,Sevilla,530,Atletico Madrid,1.0,3.0
-1570360,LALIGA,2026,2026-08-30T15:00:00+00:00,FT,Regular Season - 3,541,Real Madrid,535,Malaga,4.0,0.0
-1570356,LALIGA,2026,2026-08-30T17:30:00+00:00,FT,Regular Season - 3,544,Deportivo La Coruna,532,Valencia,3.0,1.0
-1570355,LALIGA,2026,2026-08-30T19:30:00+00:00,FT,Regular Season - 3,538,Celta Vigo,531,Athletic Club,0.0,2.0
-1570358,LALIGA,2026,2026-08-31T17:30:00+00:00,FT,Regular Season - 3,727,Osasuna,546,Getafe,1.0,0.0
-1570354,LALIGA,2026,2026-08-31T19:30:00+00:00,FT,Regular Season - 3,529,Barcelona,728,Rayo Vallecano,5.0,2.0
-1570392,LALIGA,2026,2026-09-03T19:00:00+00:00,FT,Regular Season - 6,548,Real Sociedad,538,Celta Vigo,0.0,0.0
-1570365,LALIGA,2026,2026-09-04T19:00:00+00:00,FT,Regular Season - 4,543,Real Betis,541,Real Madrid,1.0,0.0
-1570364,LALIGA,2026,2026-09-05T14:15:00+00:00,FT,Regular Season - 4,531,Athletic Club,530,Atletico Madrid,3.0,0.0
-1570370,LALIGA,2026,2026-09-05T16:30:00+00:00,FT,Regular Season - 4,728,Rayo Vallecano,4665,Racing Santander,3.0,2.0
-1570372,LALIGA,2026,2026-09-05T19:00:00+00:00,FT,Regular Season - 4,533,Villarreal,544,Deportivo La Coruna,2.0,3.0
-1570371,LALIGA,2026,2026-09-06T14:15:00+00:00,FT,Regular Season - 4,532,Valencia,529,Barcelona,0.0,5.0
-1570363,LALIGA,2026,2026-09-06T16:30:00+00:00,FT,Regular Season - 4,542,Alaves,727,Osasuna,5.0,2.0
-1570369,LALIGA,2026,2026-09-06T16:30:00+00:00,FT,Regular Season - 4,535,Malaga,539,Levante,0.0,0.0
-1570367,LALIGA,2026,2026-09-06T19:00:00+00:00,FT,Regular Season - 4,540,Espanyol,536,Sevilla,1.0,1.0
-1570368,LALIGA,2026,2026-09-07T17:00:00+00:00,FT,Regular Season - 4,546,Getafe,538,Celta Vigo,1.0,1.0
-1570366,LALIGA,2026,2026-09-07T19:30:00+00:00,FT,Regular Season - 4,797,Elche,548,Real Sociedad,2.0,3.0
-1570381,LALIGA,2026,2026-09-11T19:00:00+00:00,FT,Regular Season - 5,536,Sevilla,532,Valencia,1.0,0.0
-1570378,LALIGA,2026,2026-09-12T12:00:00+00:00,FT,Regular Season - 5,4665,Racing Santander,542,Alaves,2.0,1.0
-1570377,LALIGA,2026,2026-09-12T14:15:00+00:00,FT,Regular Season - 5,727,Osasuna,540,Espanyol,0.0,2.0
-1570373,LALIGA,2026,2026-09-12T16:30:00+00:00,FT,Regular Season - 5,531,Athletic Club,797,Elche,1.0,1.0
-1570379,LALIGA,2026,2026-09-12T19:00:00+00:00,FT,Regular Season - 5,541,Real Madrid,728,Rayo Vallecano,4.0,1.0
-1570374,LALIGA,2026,2026-09-13T12:00:00+00:00,FT,Regular Season - 5,538,Celta Vigo,535,Malaga,1.0,1.0
-1570376,LALIGA,2026,2026-09-13T14:15:00+00:00,FT,Regular Season - 5,539,Levante,529,Barcelona,2.0,4.0
-1570375,LALIGA,2026,2026-09-13T16:30:00+00:00,FT,Regular Season - 5,546,Getafe,544,Deportivo La Coruna,1.0,1.0
-1570380,LALIGA,2026,2026-09-13T19:00:00+00:00,FT,Regular Season - 5,548,Real Sociedad,530,Atletico Madrid,0.0,3.0
-1570382,LALIGA,2026,2026-09-14T19:00:00+00:00,FT,Regular Season - 5,533,Villarreal,543,Real Betis,1.0,2.0
-1570391,LALIGA,2026,2026-09-15T17:00:00+00:00,FT,Regular Season - 6,728,Rayo Vallecano,540,Espanyol,2.0,1.0
-1570383,LALIGA,2026,2026-09-15T18:00:00+00:00,FT,Regular Season - 6,542,Alaves,532,Valencia,0.0,1.0
-1570388,LALIGA,2026,2026-09-15T19:30:00+00:00,FT,Regular Season - 6,797,Elche,541,Real Madrid,2.0,3.0
-1570384,LALIGA,2026,2026-09-16T17:00:00+00:00,FT,Regular Season - 6,530,Atletico Madrid,727,Osasuna,4.0,0.0
-1570387,LALIGA,2026,2026-09-16T17:00:00+00:00,FT,Regular Season - 6,544,Deportivo La Coruna,536,Sevilla,0.0,1.0
-1570385,LALIGA,2026,2026-09-16T19:30:00+00:00,FT,Regular Season - 6,529,Barcelona,4665,Racing Santander,7.0,2.0
-1570386,LALIGA,2026,2026-09-17T17:00:00+00:00,FT,Regular Season - 6,543,Real Betis,546,Getafe,1.0,0.0
-1570390,LALIGA,2026,2026-09-17T19:30:00+00:00,FT,Regular Season - 6,535,Malaga,533,Villarreal,1.0,3.0
-1570397,LALIGA,2026,2026-09-18T19:00:00+00:00,FT,Regular Season - 7,540,Espanyol,797,Elche,1.0,3.0
-1570399,LALIGA,2026,2026-09-19T12:00:00+00:00,FT,Regular Season - 7,727,Osasuna,728,Rayo Vallecano,1.0,1.0
-1570393,LALIGA,2026,2026-09-19T14:15:00+00:00,FT,Regular Season - 7,531,Athletic Club,542,Alaves,0.0,0.0
-1570395,LALIGA,2026,2026-09-19T16:30:00+00:00,FT,Regular Season - 7,538,Celta Vigo,4665,Racing Santander,5.0,0.0
-1570400,LALIGA,2026,2026-09-19T19:00:00+00:00,FT,Regular Season - 7,536,Sevilla,529,Barcelona,1.0,3.0
-1570398,LALIGA,2026,2026-09-20T12:00:00+00:00,FT,Regular Season - 7,546,Getafe,535,Malaga,1.0,0.0
-1570394,LALIGA,2026,2026-09-20T14:15:00+00:00,FT,Regular Season - 7,530,Atletico Madrid,541,Real Madrid,2.0,1.0
-1570396,LALIGA,2026,2026-09-20T16:30:00+00:00,FT,Regular Season - 7,544,Deportivo La Coruna,543,Real Betis,1.0,1.0
-1570402,LALIGA,2026,2026-09-20T16:30:00+00:00,FT,Regular Season - 7,533,Villarreal,539,Levante,3.0,1.0
-1570401,LALIGA,2026,2026-09-20T19:00:00+00:00,FT,Regular Season - 7,532,Valencia,548,Real Sociedad,2.0,3.0
-1570408,LALIGA,2026,2026-10-09T19:00:00+00:00,FT,Regular Season - 8,535,Malaga,540,Espanyol,1.0,1.0
-1570410,LALIGA,2026,2026-10-10T12:00:00+00:00,ABD,Regular Season - 8,728,Rayo Vallecano,531,Athletic Club,0.0,0.0
-1570403,LALIGA,2026,2026-10-10T14:15:00+00:00,FT,Regular Season - 8,542,Alaves,530,Atletico Madrid,1.0,2.0
-1570404,LALIGA,2026,2026-10-10T16:30:00+00:00,FT,Regular Season - 8,529,Barcelona,546,Getafe,3.0,0.0
-1570411,LALIGA,2026,2026-10-10T19:00:00+00:00,FT,Regular Season - 8,541,Real Madrid,533,Villarreal,1.0,0.0
-1570406,LALIGA,2026,2026-10-11T12:00:00+00:00,FT,Regular Season - 8,797,Elche,538,Celta Vigo,0.0,0.0
-1570412,LALIGA,2026,2026-10-11T14:15:00+00:00,FT,Regular Season - 8,548,Real Sociedad,544,Deportivo La Coruna,3.0,2.0
-1570405,LALIGA,2026,2026-10-11T16:30:00+00:00,FT,Regular Season - 8,543,Real Betis,727,Osasuna,5.0,2.0
-1570409,LALIGA,2026,2026-10-11T19:00:00+00:00,FT,Regular Season - 8,4665,Racing Santander,532,Valencia,2.0,2.0
-1570407,LALIGA,2026,2026-10-12T19:00:00+00:00,FT,Regular Season - 8,539,Levante,536,Sevilla,3.0,3.0
-1570415,LALIGA,2026,2026-10-16T19:00:00+00:00,NS,Regular Season - 9,544,Deportivo La Coruna,539,Levante,,
-1570416,LALIGA,2026,2026-10-17T12:00:00+00:00,NS,Regular Season - 9,540,Espanyol,530,Atletico Madrid,,
-1570422,LALIGA,2026,2026-10-17T14:15:00+00:00,NS,Regular Season - 9,533,Villarreal,797,Elche,,
-1570413,LALIGA,2026,2026-10-17T16:30:00+00:00,NS,Regular Season - 9,543,Real Betis,529,Barcelona,,
-1570421,LALIGA,2026,2026-10-17T19:00:00+00:00,NS,Regular Season - 9,532,Valencia,531,Athletic Club,,
-1570419,LALIGA,2026,2026-10-18T12:00:00+00:00,NS,Regular Season - 9,727,Osasuna,4665,Racing Santander,,
-1570414,LALIGA,2026,2026-10-18T14:15:00+00:00,NS,Regular Season - 9,538,Celta Vigo,542,Alaves,,
-1570418,LALIGA,2026,2026-10-18T16:30:00+00:00,NS,Regular Season - 9,535,Malaga,548,Real Sociedad,,
-1570420,LALIGA,2026,2026-10-18T19:00:00+00:00,NS,Regular Season - 9,541,Real Madrid,536,Sevilla,,
-1570417,LALIGA,2026,2026-10-19T19:00:00+00:00,NS,Regular Season - 9,546,Getafe,728,Rayo Vallecano,,
-1570389,LALIGA,2026,2026-10-21T18:00:00+00:00,NS,Regular Season - 6,539,Levante,531,Athletic Club,,
-1570423,LALIGA,2026,2026-10-23T19:00:00+00:00,NS,Regular Season - 10,542,Alaves,535,Malaga,,
-1570429,LALIGA,2026,2026-10-24T12:00:00+00:00,NS,Regular Season - 10,728,Rayo Vallecano,797,Elche,,
-1570428,LALIGA,2026,2026-10-24T14:15:00+00:00,NS,Regular Season - 10,4665,Racing Santander,540,Espanyol,,
-1570432,LALIGA,2026,2026-10-24T16:30:00+00:00,NS,Regular Season - 10,532,Valencia,533,Villarreal,,
-1570425,LALIGA,2026,2026-10-24T19:00:00+00:00,NS,Regular Season - 10,530,Atletico Madrid,544,Deportivo La Coruna,,
-1570424,LALIGA,2026,2026-10-25T13:00:00+00:00,NS,Regular Season - 10,531,Athletic Club,546,Getafe,,
-1570427,LALIGA,2026,2026-10-25T15:15:00+00:00,NS,Regular Season - 10,538,Celta Vigo,543,Real Betis,,
-1570430,LALIGA,2026,2026-10-25T17:30:00+00:00,NS,Regular Season - 10,548,Real Sociedad,539,Levante,,
-1570426,LALIGA,2026,2026-10-25T20:00:00+00:00,NS,Regular Season - 10,529,Barcelona,541,Real Madrid,,
-1570431,LALIGA,2026,2026-10-26T20:00:00+00:00,NS,Regular Season - 10,536,Sevilla,727,Osasuna,,
-1570442,LALIGA,2026,2026-10-30T20:00:00+00:00,NS,Regular Season - 11,533,Villarreal,540,Espanyol,,
-1570439,LALIGA,2026,2026-10-31T13:00:00+00:00,NS,Regular Season - 11,539,Levante,530,Atletico Madrid,,
-1570441,LALIGA,2026,2026-10-31T15:15:00+00:00,NS,Regular Season - 11,728,Rayo Vallecano,538,Celta Vigo,,
-1570435,LALIGA,2026,2026-10-31T17:30:00+00:00,NS,Regular Season - 11,543,Real Betis,535,Malaga,,
-1570434,LALIGA,2026,2026-10-31T20:00:00+00:00,NS,Regular Season - 11,529,Barcelona,542,Alaves,,
-1570438,LALIGA,2026,2026-11-01T13:00:00+00:00,NS,Regular Season - 11,546,Getafe,536,Sevilla,,
-1570440,LALIGA,2026,2026-11-01T15:15:00+00:00,NS,Regular Season - 11,4665,Racing Santander,541,Real Madrid,,
-1570437,LALIGA,2026,2026-11-01T17:30:00+00:00,NS,Regular Season - 11,797,Elche,532,Valencia,,
-1570433,LALIGA,2026,2026-11-01T20:00:00+00:00,NS,Regular Season - 11,531,Athletic Club,548,Real Sociedad,,
-1570436,LALIGA,2026,2026-11-02T20:00:00+00:00,NS,Regular Season - 11,544,Deportivo La Coruna,727,Osasuna,,
-1570443,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,530,Atletico Madrid,529,Barcelona,,
-1570444,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,538,Celta Vigo,539,Levante,,
-1570445,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,797,Elche,543,Real Betis,,
-1570446,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,540,Espanyol,544,Deportivo La Coruna,,
-1570447,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,535,Malaga,4665,Racing Santander,,
-1570448,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,727,Osasuna,531,Athletic Club,,
-1570449,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,548,Real Sociedad,728,Rayo Vallecano,,
-1570450,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,536,Sevilla,542,Alaves,,
-1570451,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,532,Valencia,541,Real Madrid,,
-1570452,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,533,Villarreal,546,Getafe,,
-1570453,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,542,Alaves,544,Deportivo La Coruna,,
-1570454,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,531,Athletic Club,540,Espanyol,,
-1570455,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,529,Barcelona,533,Villarreal,,
-1570456,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,546,Getafe,530,Atletico Madrid,,
-1570457,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,539,Levante,797,Elche,,
-1570458,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,727,Osasuna,535,Malaga,,
-1570459,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,4665,Racing Santander,548,Real Sociedad,,
-1570460,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,728,Rayo Vallecano,532,Valencia,,
-1570461,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,541,Real Madrid,538,Celta Vigo,,
-1570462,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,536,Sevilla,543,Real Betis,,
-1570463,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,543,Real Betis,728,Rayo Vallecano,,
-1570464,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,538,Celta Vigo,533,Villarreal,,
-1570465,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,544,Deportivo La Coruna,529,Barcelona,,
-1570466,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,797,Elche,530,Atletico Madrid,,
-1570467,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,540,Espanyol,546,Getafe,,
-1570468,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,539,Levante,4665,Racing Santander,,
-1570469,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,535,Malaga,531,Athletic Club,,
-1570470,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,541,Real Madrid,542,Alaves,,
-1570471,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,548,Real Sociedad,536,Sevilla,,
-1570472,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,532,Valencia,727,Osasuna,,
-1570473,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,542,Alaves,540,Espanyol,,
-1570474,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,531,Athletic Club,541,Real Madrid,,
-1570475,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,530,Atletico Madrid,543,Real Betis,,
-1570476,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,529,Barcelona,538,Celta Vigo,,
-1570477,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,546,Getafe,532,Valencia,,
-1570478,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,727,Osasuna,797,Elche,,
-1570479,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,4665,Racing Santander,544,Deportivo La Coruna,,
-1570480,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,728,Rayo Vallecano,539,Levante,,
-1570481,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,536,Sevilla,535,Malaga,,
-1570482,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,533,Villarreal,548,Real Sociedad,,
-1570483,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,530,Atletico Madrid,532,Valencia,,
-1570484,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,543,Real Betis,4665,Racing Santander,,
-1570485,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,544,Deportivo La Coruna,531,Athletic Club,,
-1570486,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,797,Elche,536,Sevilla,,
-1570487,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,540,Espanyol,538,Celta Vigo,,
-1570488,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,539,Levante,542,Alaves,,
-1570489,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,535,Malaga,529,Barcelona,,
-1570490,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,541,Real Madrid,727,Osasuna,,
-1570491,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,548,Real Sociedad,546,Getafe,,
-1570492,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,533,Villarreal,728,Rayo Vallecano,,
-1570493,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,542,Alaves,797,Elche,,
-1570494,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,531,Athletic Club,543,Real Betis,,
-1570495,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,529,Barcelona,548,Real Sociedad,,
-1570496,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,538,Celta Vigo,530,Atletico Madrid,,
-1570497,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,544,Deportivo La Coruna,541,Real Madrid,,
-1570498,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,546,Getafe,539,Levante,,
-1570499,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,727,Osasuna,533,Villarreal,,
-1570500,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,728,Rayo Vallecano,535,Malaga,,
-1570501,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,536,Sevilla,4665,Racing Santander,,
-1570502,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,532,Valencia,540,Espanyol,,
-1570503,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,543,Real Betis,542,Alaves,,
-1570504,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,538,Celta Vigo,544,Deportivo La Coruna,,
-1570505,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,540,Espanyol,529,Barcelona,,
-1570506,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,539,Levante,532,Valencia,,
-1570507,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,535,Malaga,797,Elche,,
-1570508,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,4665,Racing Santander,531,Athletic Club,,
-1570509,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,728,Rayo Vallecano,530,Atletico Madrid,,
-1570510,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,541,Real Madrid,546,Getafe,,
-1570511,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,548,Real Sociedad,727,Osasuna,,
-1570512,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,533,Villarreal,536,Sevilla,,
-1570513,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,542,Alaves,548,Real Sociedad,,
-1570514,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,531,Athletic Club,533,Villarreal,,
-1570515,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,530,Atletico Madrid,4665,Racing Santander,,
-1570516,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,544,Deportivo La Coruna,728,Rayo Vallecano,,
-1570517,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,797,Elche,546,Getafe,,
-1570518,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,540,Espanyol,543,Real Betis,,
-1570519,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,727,Osasuna,529,Barcelona,,
-1570520,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,541,Real Madrid,539,Levante,,
-1570521,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,536,Sevilla,538,Celta Vigo,,
-1570522,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,532,Valencia,535,Malaga,,
-1570523,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,530,Atletico Madrid,548,Real Sociedad,,
-1570524,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,529,Barcelona,797,Elche,,
-1570525,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,543,Real Betis,544,Deportivo La Coruna,,
-1570526,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,538,Celta Vigo,532,Valencia,,
-1570527,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,546,Getafe,531,Athletic Club,,
-1570528,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,539,Levante,540,Espanyol,,
-1570529,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,535,Malaga,541,Real Madrid,,
-1570530,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,4665,Racing Santander,727,Osasuna,,
-1570531,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,728,Rayo Vallecano,536,Sevilla,,
-1570532,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,533,Villarreal,542,Alaves,,
-1570533,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,542,Alaves,529,Barcelona,,
-1570534,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,531,Athletic Club,539,Levante,,
-1570535,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,544,Deportivo La Coruna,530,Atletico Madrid,,
-1570536,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,797,Elche,728,Rayo Vallecano,,
-1570537,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,540,Espanyol,533,Villarreal,,
-1570538,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,546,Getafe,727,Osasuna,,
-1570539,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,4665,Racing Santander,538,Celta Vigo,,
-1570540,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,541,Real Madrid,543,Real Betis,,
-1570541,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,548,Real Sociedad,535,Malaga,,
-1570542,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,532,Valencia,536,Sevilla,,
-1570543,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,530,Atletico Madrid,540,Espanyol,,
-1570544,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,529,Barcelona,532,Valencia,,
-1570545,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,543,Real Betis,797,Elche,,
-1570546,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,538,Celta Vigo,546,Getafe,,
-1570547,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,539,Levante,548,Real Sociedad,,
-1570548,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,535,Malaga,542,Alaves,,
-1570549,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,727,Osasuna,544,Deportivo La Coruna,,
-1570550,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,728,Rayo Vallecano,541,Real Madrid,,
-1570551,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,536,Sevilla,531,Athletic Club,,
-1570552,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,533,Villarreal,4665,Racing Santander,,
-1570553,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,542,Alaves,538,Celta Vigo,,
-1570554,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,531,Athletic Club,727,Osasuna,,
-1570555,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,529,Barcelona,530,Atletico Madrid,,
-1570556,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,543,Real Betis,536,Sevilla,,
-1570557,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,544,Deportivo La Coruna,535,Malaga,,
-1570558,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,797,Elche,539,Levante,,
-1570559,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,540,Espanyol,728,Rayo Vallecano,,
-1570560,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,546,Getafe,533,Villarreal,,
-1570561,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,548,Real Sociedad,541,Real Madrid,,
-1570562,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,532,Valencia,4665,Racing Santander,,
-1570563,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,538,Celta Vigo,728,Rayo Vallecano,,
-1570564,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,797,Elche,544,Deportivo La Coruna,,
-1570565,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,539,Levante,535,Malaga,,
-1570566,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,727,Osasuna,530,Atletico Madrid,,
-1570567,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,4665,Racing Santander,546,Getafe,,
-1570568,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,541,Real Madrid,531,Athletic Club,,
-1570569,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,548,Real Sociedad,543,Real Betis,,
-1570570,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,536,Sevilla,540,Espanyol,,
-1570571,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,532,Valencia,542,Alaves,,
-1570572,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,533,Villarreal,529,Barcelona,,
-1570573,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,542,Alaves,4665,Racing Santander,,
-1570574,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,531,Athletic Club,538,Celta Vigo,,
-1570575,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,530,Atletico Madrid,797,Elche,,
-1570576,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,529,Barcelona,539,Levante,,
-1570577,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,544,Deportivo La Coruna,548,Real Sociedad,,
-1570578,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,540,Espanyol,727,Osasuna,,
-1570579,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,535,Malaga,543,Real Betis,,
-1570580,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,728,Rayo Vallecano,546,Getafe,,
-1570581,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,536,Sevilla,541,Real Madrid,,
-1570582,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,533,Villarreal,532,Valencia,,
-1570583,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,531,Athletic Club,529,Barcelona,,
-1570584,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,543,Real Betis,533,Villarreal,,
-1570585,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,538,Celta Vigo,540,Espanyol,,
-1570586,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,546,Getafe,542,Alaves,,
-1570587,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,539,Levante,544,Deportivo La Coruna,,
-1570588,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,535,Malaga,530,Atletico Madrid,,
-1570589,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,727,Osasuna,536,Sevilla,,
-1570590,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,4665,Racing Santander,728,Rayo Vallecano,,
-1570591,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,541,Real Madrid,532,Valencia,,
-1570592,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,548,Real Sociedad,797,Elche,,
-1570593,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,542,Alaves,531,Athletic Club,,
-1570594,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,530,Atletico Madrid,538,Celta Vigo,,
-1570595,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,529,Barcelona,543,Real Betis,,
-1570596,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,544,Deportivo La Coruna,546,Getafe,,
-1570597,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,797,Elche,535,Malaga,,
-1570598,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,540,Espanyol,4665,Racing Santander,,
-1570599,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,728,Rayo Vallecano,727,Osasuna,,
-1570600,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,536,Sevilla,548,Real Sociedad,,
-1570601,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,532,Valencia,539,Levante,,
-1570602,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,533,Villarreal,541,Real Madrid,,
-1570603,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,542,Alaves,536,Sevilla,,
-1570604,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,531,Athletic Club,532,Valencia,,
-1570605,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,529,Barcelona,544,Deportivo La Coruna,,
-1570606,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,543,Real Betis,539,Levante,,
-1570607,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,797,Elche,533,Villarreal,,
-1570608,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,546,Getafe,548,Real Sociedad,,
-1570609,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,535,Malaga,728,Rayo Vallecano,,
-1570610,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,727,Osasuna,538,Celta Vigo,,
-1570611,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,4665,Racing Santander,530,Atletico Madrid,,
-1570612,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,541,Real Madrid,540,Espanyol,,
-1570613,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,530,Atletico Madrid,546,Getafe,,
-1570614,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,538,Celta Vigo,541,Real Madrid,,
-1570615,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,540,Espanyol,531,Athletic Club,,
-1570616,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,539,Levante,727,Osasuna,,
-1570617,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,4665,Racing Santander,543,Real Betis,,
-1570618,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,728,Rayo Vallecano,529,Barcelona,,
-1570619,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,548,Real Sociedad,542,Alaves,,
-1570620,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,536,Sevilla,797,Elche,,
-1570621,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,532,Valencia,544,Deportivo La Coruna,,
-1570622,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,533,Villarreal,535,Malaga,,
-1570623,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,531,Athletic Club,4665,Racing Santander,,
-1570624,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,529,Barcelona,536,Sevilla,,
-1570625,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,543,Real Betis,538,Celta Vigo,,
-1570626,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,544,Deportivo La Coruna,533,Villarreal,,
-1570627,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,797,Elche,542,Alaves,,
-1570628,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,546,Getafe,540,Espanyol,,
-1570629,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,539,Levante,728,Rayo Vallecano,,
-1570630,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,535,Malaga,727,Osasuna,,
-1570631,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,541,Real Madrid,530,Atletico Madrid,,
-1570632,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,548,Real Sociedad,532,Valencia,,
-1570633,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,542,Alaves,543,Real Betis,,
-1570634,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,530,Atletico Madrid,539,Levante,,
-1570635,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,538,Celta Vigo,797,Elche,,
-1570636,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,540,Espanyol,535,Malaga,,
-1570637,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,727,Osasuna,541,Real Madrid,,
-1570638,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,4665,Racing Santander,529,Barcelona,,
-1570639,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,728,Rayo Vallecano,548,Real Sociedad,,
-1570640,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,536,Sevilla,544,Deportivo La Coruna,,
-1570641,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,532,Valencia,546,Getafe,,
-1570642,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,533,Villarreal,531,Athletic Club,,
-1570643,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,542,Alaves,728,Rayo Vallecano,,
-1570644,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,530,Atletico Madrid,536,Sevilla,,
-1570645,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,529,Barcelona,540,Espanyol,,
-1570646,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,543,Real Betis,531,Athletic Club,,
-1570647,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,544,Deportivo La Coruna,538,Celta Vigo,,
-1570648,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,797,Elche,727,Osasuna,,
-1570649,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,546,Getafe,541,Real Madrid,,
-1570650,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,539,Levante,533,Villarreal,,
-1570651,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,535,Malaga,532,Valencia,,
-1570652,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,548,Real Sociedad,4665,Racing Santander,,
-1570653,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,531,Athletic Club,544,Deportivo La Coruna,,
-1570654,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,538,Celta Vigo,529,Barcelona,,
-1570655,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,540,Espanyol,548,Real Sociedad,,
-1570656,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,546,Getafe,543,Real Betis,,
-1570657,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,727,Osasuna,542,Alaves,,
-1570658,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,4665,Racing Santander,535,Malaga,,
-1570659,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,541,Real Madrid,797,Elche,,
-1570660,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,536,Sevilla,539,Levante,,
-1570661,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,532,Valencia,728,Rayo Vallecano,,
-1570662,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,533,Villarreal,530,Atletico Madrid,,
-1570663,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,530,Atletico Madrid,542,Alaves,,
-1570664,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,529,Barcelona,727,Osasuna,,
-1570665,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,543,Real Betis,532,Valencia,,
-1570666,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,538,Celta Vigo,536,Sevilla,,
-1570667,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,544,Deportivo La Coruna,4665,Racing Santander,,
-1570668,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,797,Elche,540,Espanyol,,
-1570669,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,539,Levante,541,Real Madrid,,
-1570670,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,535,Malaga,546,Getafe,,
-1570671,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,728,Rayo Vallecano,533,Villarreal,,
-1570672,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,548,Real Sociedad,531,Athletic Club,,
-1570673,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,542,Alaves,539,Levante,,
-1570674,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,531,Athletic Club,535,Malaga,,
-1570675,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,543,Real Betis,540,Espanyol,,
-1570676,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,546,Getafe,797,Elche,,
-1570677,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,727,Osasuna,548,Real Sociedad,,
-1570678,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,4665,Racing Santander,536,Sevilla,,
-1570679,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,728,Rayo Vallecano,544,Deportivo La Coruna,,
-1570680,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,541,Real Madrid,529,Barcelona,,
-1570681,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,532,Valencia,530,Atletico Madrid,,
-1570682,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,533,Villarreal,538,Celta Vigo,,
-1570683,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,530,Atletico Madrid,728,Rayo Vallecano,,
-1570684,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,544,Deportivo La Coruna,542,Alaves,,
-1570685,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,797,Elche,531,Athletic Club,,
-1570686,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,540,Espanyol,532,Valencia,,
-1570687,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,539,Levante,546,Getafe,,
-1570688,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,535,Malaga,538,Celta Vigo,,
-1570689,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,727,Osasuna,543,Real Betis,,
-1570690,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,541,Real Madrid,4665,Racing Santander,,
-1570691,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,548,Real Sociedad,529,Barcelona,,
-1570692,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,536,Sevilla,533,Villarreal,,
-1570693,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,542,Alaves,541,Real Madrid,,
-1570694,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,530,Atletico Madrid,531,Athletic Club,,
-1570695,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,529,Barcelona,535,Malaga,,
-1570696,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,538,Celta Vigo,548,Real Sociedad,,
-1570697,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,544,Deportivo La Coruna,540,Espanyol,,
-1570698,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,4665,Racing Santander,539,Levante,,
-1570699,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,728,Rayo Vallecano,543,Real Betis,,
-1570700,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,536,Sevilla,546,Getafe,,
-1570701,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,532,Valencia,797,Elche,,
-1570702,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,533,Villarreal,727,Osasuna,,
-1570703,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,531,Athletic Club,728,Rayo Vallecano,,
-1570704,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,543,Real Betis,530,Atletico Madrid,,
-1570705,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,797,Elche,4665,Racing Santander,,
-1570706,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,540,Espanyol,542,Alaves,,
-1570707,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,546,Getafe,529,Barcelona,,
-1570708,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,539,Levante,538,Celta Vigo,,
-1570709,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,535,Malaga,536,Sevilla,,
-1570710,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,727,Osasuna,532,Valencia,,
-1570711,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,541,Real Madrid,544,Deportivo La Coruna,,
-1570712,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,548,Real Sociedad,533,Villarreal,,
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals,league_logo,home_logo,away_logo
+1570333,LALIGA,2026,2026-08-15T17:30:00+00:00,FT,Regular Season - 1,542,Alaves,546,Getafe,3.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/546.png
+1570341,LALIGA,2026,2026-08-15T19:30:00+00:00,FT,Regular Season - 1,536,Sevilla,728,Rayo Vallecano,2.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/728.png
+1570339,LALIGA,2026,2026-08-16T15:00:00+00:00,FT,Regular Season - 1,4665,Racing Santander,533,Villarreal,2.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/533.png
+1570338,LALIGA,2026,2026-08-16T17:00:00+00:00,FT,Regular Season - 1,540,Espanyol,539,Levante,3.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/539.png
+1570337,LALIGA,2026,2026-08-17T19:00:00+00:00,FT,Regular Season - 1,544,Deportivo La Coruna,797,Elche,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/797.png
+1570334,LALIGA,2026,2026-08-19T19:00:00+00:00,FT,Regular Season - 1,530,Atletico Madrid,535,Malaga,2.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/535.png
+1570351,LALIGA,2026,2026-08-20T19:00:00+00:00,FT,Regular Season - 2,728,Rayo Vallecano,542,Alaves,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/542.png
+1570345,LALIGA,2026,2026-08-21T19:00:00+00:00,FT,Regular Season - 2,543,Real Betis,548,Real Sociedad,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/548.png
+1570343,LALIGA,2026,2026-08-22T15:00:00+00:00,FT,Regular Season - 2,531,Athletic Club,536,Sevilla,1.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/536.png
+1570352,LALIGA,2026,2026-08-22T17:30:00+00:00,FT,Regular Season - 2,532,Valencia,538,Celta Vigo,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/538.png
+1570347,LALIGA,2026,2026-08-22T19:30:00+00:00,FT,Regular Season - 2,540,Espanyol,541,Real Madrid,1.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/541.png
+1570344,LALIGA,2026,2026-08-23T15:00:00+00:00,FT,Regular Season - 2,530,Atletico Madrid,533,Villarreal,2.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/533.png
+1570348,LALIGA,2026,2026-08-23T17:30:00+00:00,FT,Regular Season - 2,546,Getafe,4665,Racing Santander,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/4665.png
+1570346,LALIGA,2026,2026-08-23T19:30:00+00:00,FT,Regular Season - 2,797,Elche,529,Barcelona,0.0,5.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/529.png
+1570350,LALIGA,2026,2026-08-24T17:30:00+00:00,FT,Regular Season - 2,727,Osasuna,539,Levante,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/539.png
+1570349,LALIGA,2026,2026-08-24T19:30:00+00:00,FT,Regular Season - 2,535,Malaga,544,Deportivo La Coruna,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/544.png
+1570342,LALIGA,2026,2026-08-25T19:00:00+00:00,FT,Regular Season - 1,532,Valencia,543,Real Betis,0.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/543.png
+1570340,LALIGA,2026,2026-08-26T19:00:00+00:00,FT,Regular Season - 1,541,Real Madrid,548,Real Sociedad,4.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/548.png
+1570336,LALIGA,2026,2026-08-27T18:30:00+00:00,FT,Regular Season - 1,538,Celta Vigo,727,Osasuna,1.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/727.png
+1570335,LALIGA,2026,2026-08-27T19:00:00+00:00,FT,Regular Season - 1,529,Barcelona,531,Athletic Club,2.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/531.png
+1570359,LALIGA,2026,2026-08-28T17:00:00+00:00,FT,Regular Season - 3,4665,Racing Santander,797,Elche,3.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/797.png
+1570353,LALIGA,2026,2026-08-28T19:30:00+00:00,FT,Regular Season - 3,542,Alaves,533,Villarreal,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/533.png
+1570357,LALIGA,2026,2026-08-29T15:00:00+00:00,FT,Regular Season - 3,539,Levante,543,Real Betis,5.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/543.png
+1570361,LALIGA,2026,2026-08-29T17:00:00+00:00,FT,Regular Season - 3,548,Real Sociedad,540,Espanyol,2.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/540.png
+1570362,LALIGA,2026,2026-08-29T19:30:00+00:00,FT,Regular Season - 3,536,Sevilla,530,Atletico Madrid,1.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/530.png
+1570360,LALIGA,2026,2026-08-30T15:00:00+00:00,FT,Regular Season - 3,541,Real Madrid,535,Malaga,4.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/535.png
+1570356,LALIGA,2026,2026-08-30T17:30:00+00:00,FT,Regular Season - 3,544,Deportivo La Coruna,532,Valencia,3.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/532.png
+1570355,LALIGA,2026,2026-08-30T19:30:00+00:00,FT,Regular Season - 3,538,Celta Vigo,531,Athletic Club,0.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/531.png
+1570358,LALIGA,2026,2026-08-31T17:30:00+00:00,FT,Regular Season - 3,727,Osasuna,546,Getafe,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/546.png
+1570354,LALIGA,2026,2026-08-31T19:30:00+00:00,FT,Regular Season - 3,529,Barcelona,728,Rayo Vallecano,5.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/728.png
+1570392,LALIGA,2026,2026-09-03T19:00:00+00:00,FT,Regular Season - 6,548,Real Sociedad,538,Celta Vigo,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/538.png
+1570365,LALIGA,2026,2026-09-04T19:00:00+00:00,FT,Regular Season - 4,543,Real Betis,541,Real Madrid,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/541.png
+1570364,LALIGA,2026,2026-09-05T14:15:00+00:00,FT,Regular Season - 4,531,Athletic Club,530,Atletico Madrid,3.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/530.png
+1570370,LALIGA,2026,2026-09-05T16:30:00+00:00,FT,Regular Season - 4,728,Rayo Vallecano,4665,Racing Santander,3.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/4665.png
+1570372,LALIGA,2026,2026-09-05T19:00:00+00:00,FT,Regular Season - 4,533,Villarreal,544,Deportivo La Coruna,2.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/544.png
+1570371,LALIGA,2026,2026-09-06T14:15:00+00:00,FT,Regular Season - 4,532,Valencia,529,Barcelona,0.0,5.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/529.png
+1570363,LALIGA,2026,2026-09-06T16:30:00+00:00,FT,Regular Season - 4,542,Alaves,727,Osasuna,5.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/727.png
+1570369,LALIGA,2026,2026-09-06T16:30:00+00:00,FT,Regular Season - 4,535,Malaga,539,Levante,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/539.png
+1570367,LALIGA,2026,2026-09-06T19:00:00+00:00,FT,Regular Season - 4,540,Espanyol,536,Sevilla,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/536.png
+1570368,LALIGA,2026,2026-09-07T17:00:00+00:00,FT,Regular Season - 4,546,Getafe,538,Celta Vigo,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/538.png
+1570366,LALIGA,2026,2026-09-07T19:30:00+00:00,FT,Regular Season - 4,797,Elche,548,Real Sociedad,2.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/548.png
+1570381,LALIGA,2026,2026-09-11T19:00:00+00:00,FT,Regular Season - 5,536,Sevilla,532,Valencia,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/532.png
+1570378,LALIGA,2026,2026-09-12T12:00:00+00:00,FT,Regular Season - 5,4665,Racing Santander,542,Alaves,2.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/542.png
+1570377,LALIGA,2026,2026-09-12T14:15:00+00:00,FT,Regular Season - 5,727,Osasuna,540,Espanyol,0.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/540.png
+1570373,LALIGA,2026,2026-09-12T16:30:00+00:00,FT,Regular Season - 5,531,Athletic Club,797,Elche,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/797.png
+1570379,LALIGA,2026,2026-09-12T19:00:00+00:00,FT,Regular Season - 5,541,Real Madrid,728,Rayo Vallecano,4.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/728.png
+1570374,LALIGA,2026,2026-09-13T12:00:00+00:00,FT,Regular Season - 5,538,Celta Vigo,535,Malaga,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/535.png
+1570376,LALIGA,2026,2026-09-13T14:15:00+00:00,FT,Regular Season - 5,539,Levante,529,Barcelona,2.0,4.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/529.png
+1570375,LALIGA,2026,2026-09-13T16:30:00+00:00,FT,Regular Season - 5,546,Getafe,544,Deportivo La Coruna,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/544.png
+1570380,LALIGA,2026,2026-09-13T19:00:00+00:00,FT,Regular Season - 5,548,Real Sociedad,530,Atletico Madrid,0.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/530.png
+1570382,LALIGA,2026,2026-09-14T19:00:00+00:00,FT,Regular Season - 5,533,Villarreal,543,Real Betis,1.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/543.png
+1570391,LALIGA,2026,2026-09-15T17:00:00+00:00,FT,Regular Season - 6,728,Rayo Vallecano,540,Espanyol,2.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/540.png
+1570383,LALIGA,2026,2026-09-15T18:00:00+00:00,FT,Regular Season - 6,542,Alaves,532,Valencia,0.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/532.png
+1570388,LALIGA,2026,2026-09-15T19:30:00+00:00,FT,Regular Season - 6,797,Elche,541,Real Madrid,2.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/541.png
+1570384,LALIGA,2026,2026-09-16T17:00:00+00:00,FT,Regular Season - 6,530,Atletico Madrid,727,Osasuna,4.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/727.png
+1570387,LALIGA,2026,2026-09-16T17:00:00+00:00,FT,Regular Season - 6,544,Deportivo La Coruna,536,Sevilla,0.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/536.png
+1570385,LALIGA,2026,2026-09-16T19:30:00+00:00,FT,Regular Season - 6,529,Barcelona,4665,Racing Santander,7.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/4665.png
+1570386,LALIGA,2026,2026-09-17T17:00:00+00:00,FT,Regular Season - 6,543,Real Betis,546,Getafe,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/546.png
+1570390,LALIGA,2026,2026-09-17T19:30:00+00:00,FT,Regular Season - 6,535,Malaga,533,Villarreal,1.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/533.png
+1570397,LALIGA,2026,2026-09-18T19:00:00+00:00,FT,Regular Season - 7,540,Espanyol,797,Elche,1.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/797.png
+1570399,LALIGA,2026,2026-09-19T12:00:00+00:00,FT,Regular Season - 7,727,Osasuna,728,Rayo Vallecano,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/728.png
+1570393,LALIGA,2026,2026-09-19T14:15:00+00:00,FT,Regular Season - 7,531,Athletic Club,542,Alaves,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/542.png
+1570395,LALIGA,2026,2026-09-19T16:30:00+00:00,FT,Regular Season - 7,538,Celta Vigo,4665,Racing Santander,5.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/4665.png
+1570400,LALIGA,2026,2026-09-19T19:00:00+00:00,FT,Regular Season - 7,536,Sevilla,529,Barcelona,1.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/529.png
+1570398,LALIGA,2026,2026-09-20T12:00:00+00:00,FT,Regular Season - 7,546,Getafe,535,Malaga,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/535.png
+1570394,LALIGA,2026,2026-09-20T14:15:00+00:00,FT,Regular Season - 7,530,Atletico Madrid,541,Real Madrid,2.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/541.png
+1570396,LALIGA,2026,2026-09-20T16:30:00+00:00,FT,Regular Season - 7,544,Deportivo La Coruna,543,Real Betis,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/543.png
+1570402,LALIGA,2026,2026-09-20T16:30:00+00:00,FT,Regular Season - 7,533,Villarreal,539,Levante,3.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/539.png
+1570401,LALIGA,2026,2026-09-20T19:00:00+00:00,FT,Regular Season - 7,532,Valencia,548,Real Sociedad,2.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/548.png
+1570408,LALIGA,2026,2026-10-09T19:00:00+00:00,FT,Regular Season - 8,535,Malaga,540,Espanyol,1.0,1.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/540.png
+1570410,LALIGA,2026,2026-10-10T12:00:00+00:00,ABD,Regular Season - 8,728,Rayo Vallecano,531,Athletic Club,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/531.png
+1570403,LALIGA,2026,2026-10-10T14:15:00+00:00,FT,Regular Season - 8,542,Alaves,530,Atletico Madrid,1.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/530.png
+1570404,LALIGA,2026,2026-10-10T16:30:00+00:00,FT,Regular Season - 8,529,Barcelona,546,Getafe,3.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/546.png
+1570411,LALIGA,2026,2026-10-10T19:00:00+00:00,FT,Regular Season - 8,541,Real Madrid,533,Villarreal,1.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/533.png
+1570406,LALIGA,2026,2026-10-11T12:00:00+00:00,FT,Regular Season - 8,797,Elche,538,Celta Vigo,0.0,0.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/538.png
+1570412,LALIGA,2026,2026-10-11T14:15:00+00:00,FT,Regular Season - 8,548,Real Sociedad,544,Deportivo La Coruna,3.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/544.png
+1570405,LALIGA,2026,2026-10-11T16:30:00+00:00,FT,Regular Season - 8,543,Real Betis,727,Osasuna,5.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/727.png
+1570409,LALIGA,2026,2026-10-11T19:00:00+00:00,FT,Regular Season - 8,4665,Racing Santander,532,Valencia,2.0,2.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/532.png
+1570407,LALIGA,2026,2026-10-12T19:00:00+00:00,FT,Regular Season - 8,539,Levante,536,Sevilla,3.0,3.0,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/536.png
+1570415,LALIGA,2026,2026-10-16T19:00:00+00:00,NS,Regular Season - 9,544,Deportivo La Coruna,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/539.png
+1570416,LALIGA,2026,2026-10-17T12:00:00+00:00,NS,Regular Season - 9,540,Espanyol,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/530.png
+1570422,LALIGA,2026,2026-10-17T14:15:00+00:00,NS,Regular Season - 9,533,Villarreal,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/797.png
+1570413,LALIGA,2026,2026-10-17T16:30:00+00:00,NS,Regular Season - 9,543,Real Betis,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/529.png
+1570421,LALIGA,2026,2026-10-17T19:00:00+00:00,NS,Regular Season - 9,532,Valencia,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/531.png
+1570419,LALIGA,2026,2026-10-18T12:00:00+00:00,NS,Regular Season - 9,727,Osasuna,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/4665.png
+1570414,LALIGA,2026,2026-10-18T14:15:00+00:00,NS,Regular Season - 9,538,Celta Vigo,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/542.png
+1570418,LALIGA,2026,2026-10-18T16:30:00+00:00,NS,Regular Season - 9,535,Malaga,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/548.png
+1570420,LALIGA,2026,2026-10-18T19:00:00+00:00,NS,Regular Season - 9,541,Real Madrid,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/536.png
+1570417,LALIGA,2026,2026-10-19T19:00:00+00:00,NS,Regular Season - 9,546,Getafe,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/728.png
+1570389,LALIGA,2026,2026-10-21T18:00:00+00:00,NS,Regular Season - 6,539,Levante,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/531.png
+1570423,LALIGA,2026,2026-10-23T19:00:00+00:00,NS,Regular Season - 10,542,Alaves,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/535.png
+1570429,LALIGA,2026,2026-10-24T12:00:00+00:00,NS,Regular Season - 10,728,Rayo Vallecano,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/797.png
+1570428,LALIGA,2026,2026-10-24T14:15:00+00:00,NS,Regular Season - 10,4665,Racing Santander,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/540.png
+1570432,LALIGA,2026,2026-10-24T16:30:00+00:00,NS,Regular Season - 10,532,Valencia,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/533.png
+1570425,LALIGA,2026,2026-10-24T19:00:00+00:00,NS,Regular Season - 10,530,Atletico Madrid,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/544.png
+1570424,LALIGA,2026,2026-10-25T13:00:00+00:00,NS,Regular Season - 10,531,Athletic Club,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/546.png
+1570427,LALIGA,2026,2026-10-25T15:15:00+00:00,NS,Regular Season - 10,538,Celta Vigo,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/543.png
+1570430,LALIGA,2026,2026-10-25T17:30:00+00:00,NS,Regular Season - 10,548,Real Sociedad,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/539.png
+1570426,LALIGA,2026,2026-10-25T20:00:00+00:00,NS,Regular Season - 10,529,Barcelona,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/541.png
+1570431,LALIGA,2026,2026-10-26T20:00:00+00:00,NS,Regular Season - 10,536,Sevilla,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/727.png
+1570442,LALIGA,2026,2026-10-30T20:00:00+00:00,NS,Regular Season - 11,533,Villarreal,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/540.png
+1570439,LALIGA,2026,2026-10-31T13:00:00+00:00,NS,Regular Season - 11,539,Levante,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/530.png
+1570441,LALIGA,2026,2026-10-31T15:15:00+00:00,NS,Regular Season - 11,728,Rayo Vallecano,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/538.png
+1570435,LALIGA,2026,2026-10-31T17:30:00+00:00,NS,Regular Season - 11,543,Real Betis,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/535.png
+1570434,LALIGA,2026,2026-10-31T20:00:00+00:00,NS,Regular Season - 11,529,Barcelona,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/542.png
+1570438,LALIGA,2026,2026-11-01T13:00:00+00:00,NS,Regular Season - 11,546,Getafe,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/536.png
+1570440,LALIGA,2026,2026-11-01T15:15:00+00:00,NS,Regular Season - 11,4665,Racing Santander,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/541.png
+1570437,LALIGA,2026,2026-11-01T17:30:00+00:00,NS,Regular Season - 11,797,Elche,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/532.png
+1570433,LALIGA,2026,2026-11-01T20:00:00+00:00,NS,Regular Season - 11,531,Athletic Club,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/548.png
+1570436,LALIGA,2026,2026-11-02T20:00:00+00:00,NS,Regular Season - 11,544,Deportivo La Coruna,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/727.png
+1570443,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,530,Atletico Madrid,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/529.png
+1570444,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,538,Celta Vigo,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/539.png
+1570445,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,797,Elche,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/543.png
+1570446,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,540,Espanyol,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/544.png
+1570447,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,535,Malaga,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/4665.png
+1570448,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,727,Osasuna,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/531.png
+1570449,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,548,Real Sociedad,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/728.png
+1570450,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,536,Sevilla,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/542.png
+1570451,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,532,Valencia,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/541.png
+1570452,LALIGA,2026,2026-11-08T16:00:00+00:00,NS,Regular Season - 12,533,Villarreal,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/546.png
+1570453,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,542,Alaves,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/544.png
+1570454,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,531,Athletic Club,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/540.png
+1570455,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,529,Barcelona,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/533.png
+1570456,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,546,Getafe,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/530.png
+1570457,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,539,Levante,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/797.png
+1570458,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,727,Osasuna,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/535.png
+1570459,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,4665,Racing Santander,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/548.png
+1570460,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,728,Rayo Vallecano,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/532.png
+1570461,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,541,Real Madrid,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/538.png
+1570462,LALIGA,2026,2026-11-22T16:00:00+00:00,NS,Regular Season - 13,536,Sevilla,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/543.png
+1570463,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,543,Real Betis,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/728.png
+1570464,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,538,Celta Vigo,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/533.png
+1570465,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,544,Deportivo La Coruna,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/529.png
+1570466,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,797,Elche,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/530.png
+1570467,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,540,Espanyol,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/546.png
+1570468,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,539,Levante,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/4665.png
+1570469,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,535,Malaga,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/531.png
+1570470,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,541,Real Madrid,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/542.png
+1570471,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,548,Real Sociedad,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/536.png
+1570472,LALIGA,2026,2026-11-29T16:00:00+00:00,NS,Regular Season - 14,532,Valencia,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/727.png
+1570473,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,542,Alaves,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/540.png
+1570474,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,531,Athletic Club,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/541.png
+1570475,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,530,Atletico Madrid,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/543.png
+1570476,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,529,Barcelona,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/538.png
+1570477,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,546,Getafe,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/532.png
+1570478,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,727,Osasuna,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/797.png
+1570479,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,4665,Racing Santander,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/544.png
+1570480,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,728,Rayo Vallecano,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/539.png
+1570481,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,536,Sevilla,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/535.png
+1570482,LALIGA,2026,2026-12-06T16:00:00+00:00,NS,Regular Season - 15,533,Villarreal,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/548.png
+1570483,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,530,Atletico Madrid,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/532.png
+1570484,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,543,Real Betis,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/4665.png
+1570485,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,544,Deportivo La Coruna,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/531.png
+1570486,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,797,Elche,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/536.png
+1570487,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,540,Espanyol,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/538.png
+1570488,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,539,Levante,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/542.png
+1570489,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,535,Malaga,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/529.png
+1570490,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,541,Real Madrid,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/727.png
+1570491,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,548,Real Sociedad,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/546.png
+1570492,LALIGA,2026,2026-12-13T16:00:00+00:00,NS,Regular Season - 16,533,Villarreal,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/728.png
+1570493,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,542,Alaves,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/797.png
+1570494,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,531,Athletic Club,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/543.png
+1570495,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,529,Barcelona,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/548.png
+1570496,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,538,Celta Vigo,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/530.png
+1570497,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,544,Deportivo La Coruna,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/541.png
+1570498,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,546,Getafe,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/539.png
+1570499,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,727,Osasuna,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/533.png
+1570500,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,728,Rayo Vallecano,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/535.png
+1570501,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,536,Sevilla,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/4665.png
+1570502,LALIGA,2026,2026-12-20T16:00:00+00:00,NS,Regular Season - 17,532,Valencia,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/540.png
+1570503,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,543,Real Betis,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/542.png
+1570504,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,538,Celta Vigo,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/544.png
+1570505,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,540,Espanyol,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/529.png
+1570506,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,539,Levante,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/532.png
+1570507,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,535,Malaga,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/797.png
+1570508,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,4665,Racing Santander,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/531.png
+1570509,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,728,Rayo Vallecano,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/530.png
+1570510,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,541,Real Madrid,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/546.png
+1570511,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,548,Real Sociedad,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/727.png
+1570512,LALIGA,2026,2027-01-03T16:00:00+00:00,NS,Regular Season - 18,533,Villarreal,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/536.png
+1570513,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,542,Alaves,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/548.png
+1570514,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,531,Athletic Club,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/533.png
+1570515,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,530,Atletico Madrid,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/4665.png
+1570516,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,544,Deportivo La Coruna,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/728.png
+1570517,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,797,Elche,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/546.png
+1570518,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,540,Espanyol,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/543.png
+1570519,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,727,Osasuna,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/529.png
+1570520,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,541,Real Madrid,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/539.png
+1570521,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,536,Sevilla,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/538.png
+1570522,LALIGA,2026,2027-01-10T16:00:00+00:00,NS,Regular Season - 19,532,Valencia,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/535.png
+1570523,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,530,Atletico Madrid,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/548.png
+1570524,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,529,Barcelona,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/797.png
+1570525,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,543,Real Betis,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/544.png
+1570526,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,538,Celta Vigo,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/532.png
+1570527,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,546,Getafe,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/531.png
+1570528,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,539,Levante,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/540.png
+1570529,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,535,Malaga,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/541.png
+1570530,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,4665,Racing Santander,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/727.png
+1570531,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,728,Rayo Vallecano,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/536.png
+1570532,LALIGA,2026,2027-01-17T16:00:00+00:00,NS,Regular Season - 20,533,Villarreal,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/542.png
+1570533,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,542,Alaves,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/529.png
+1570534,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,531,Athletic Club,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/539.png
+1570535,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,544,Deportivo La Coruna,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/530.png
+1570536,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,797,Elche,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/728.png
+1570537,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,540,Espanyol,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/533.png
+1570538,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,546,Getafe,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/727.png
+1570539,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,4665,Racing Santander,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/538.png
+1570540,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,541,Real Madrid,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/543.png
+1570541,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,548,Real Sociedad,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/535.png
+1570542,LALIGA,2026,2027-01-24T16:00:00+00:00,NS,Regular Season - 21,532,Valencia,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/536.png
+1570543,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,530,Atletico Madrid,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/540.png
+1570544,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,529,Barcelona,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/532.png
+1570545,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,543,Real Betis,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/797.png
+1570546,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,538,Celta Vigo,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/546.png
+1570547,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,539,Levante,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/548.png
+1570548,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,535,Malaga,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/542.png
+1570549,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,727,Osasuna,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/544.png
+1570550,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,728,Rayo Vallecano,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/541.png
+1570551,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,536,Sevilla,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/531.png
+1570552,LALIGA,2026,2027-01-31T16:00:00+00:00,NS,Regular Season - 22,533,Villarreal,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/4665.png
+1570553,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,542,Alaves,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/538.png
+1570554,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,531,Athletic Club,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/727.png
+1570555,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,529,Barcelona,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/530.png
+1570556,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,543,Real Betis,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/536.png
+1570557,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,544,Deportivo La Coruna,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/535.png
+1570558,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,797,Elche,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/539.png
+1570559,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,540,Espanyol,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/728.png
+1570560,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,546,Getafe,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/533.png
+1570561,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,548,Real Sociedad,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/541.png
+1570562,LALIGA,2026,2027-02-07T16:00:00+00:00,NS,Regular Season - 23,532,Valencia,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/4665.png
+1570563,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,538,Celta Vigo,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/728.png
+1570564,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,797,Elche,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/544.png
+1570565,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,539,Levante,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/535.png
+1570566,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,727,Osasuna,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/530.png
+1570567,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,4665,Racing Santander,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/546.png
+1570568,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,541,Real Madrid,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/531.png
+1570569,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,548,Real Sociedad,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/543.png
+1570570,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,536,Sevilla,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/540.png
+1570571,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,532,Valencia,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/542.png
+1570572,LALIGA,2026,2027-02-14T16:00:00+00:00,NS,Regular Season - 24,533,Villarreal,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/529.png
+1570573,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,542,Alaves,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/4665.png
+1570574,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,531,Athletic Club,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/538.png
+1570575,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,530,Atletico Madrid,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/797.png
+1570576,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,529,Barcelona,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/539.png
+1570577,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,544,Deportivo La Coruna,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/548.png
+1570578,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,540,Espanyol,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/727.png
+1570579,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,535,Malaga,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/543.png
+1570580,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,728,Rayo Vallecano,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/546.png
+1570581,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,536,Sevilla,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/541.png
+1570582,LALIGA,2026,2027-02-21T16:00:00+00:00,NS,Regular Season - 25,533,Villarreal,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/532.png
+1570583,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,531,Athletic Club,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/529.png
+1570584,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,543,Real Betis,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/533.png
+1570585,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,538,Celta Vigo,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/540.png
+1570586,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,546,Getafe,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/542.png
+1570587,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,539,Levante,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/544.png
+1570588,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,535,Malaga,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/530.png
+1570589,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,727,Osasuna,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/536.png
+1570590,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,4665,Racing Santander,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/728.png
+1570591,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,541,Real Madrid,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/532.png
+1570592,LALIGA,2026,2027-02-28T16:00:00+00:00,NS,Regular Season - 26,548,Real Sociedad,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/797.png
+1570593,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,542,Alaves,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/531.png
+1570594,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,530,Atletico Madrid,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/538.png
+1570595,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,529,Barcelona,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/543.png
+1570596,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,544,Deportivo La Coruna,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/546.png
+1570597,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,797,Elche,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/535.png
+1570598,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,540,Espanyol,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/4665.png
+1570599,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,728,Rayo Vallecano,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/727.png
+1570600,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,536,Sevilla,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/548.png
+1570601,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,532,Valencia,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/539.png
+1570602,LALIGA,2026,2027-03-07T16:00:00+00:00,NS,Regular Season - 27,533,Villarreal,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/541.png
+1570603,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,542,Alaves,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/536.png
+1570604,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,531,Athletic Club,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/532.png
+1570605,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,529,Barcelona,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/544.png
+1570606,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,543,Real Betis,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/539.png
+1570607,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,797,Elche,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/533.png
+1570608,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,546,Getafe,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/548.png
+1570609,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,535,Malaga,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/728.png
+1570610,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,727,Osasuna,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/538.png
+1570611,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,4665,Racing Santander,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/530.png
+1570612,LALIGA,2026,2027-03-14T16:00:00+00:00,NS,Regular Season - 28,541,Real Madrid,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/540.png
+1570613,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,530,Atletico Madrid,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/546.png
+1570614,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,538,Celta Vigo,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/541.png
+1570615,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,540,Espanyol,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/531.png
+1570616,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,539,Levante,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/727.png
+1570617,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,4665,Racing Santander,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/543.png
+1570618,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,728,Rayo Vallecano,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/529.png
+1570619,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,548,Real Sociedad,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/542.png
+1570620,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,536,Sevilla,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/797.png
+1570621,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,532,Valencia,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/544.png
+1570622,LALIGA,2026,2027-03-21T16:00:00+00:00,NS,Regular Season - 29,533,Villarreal,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/535.png
+1570623,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,531,Athletic Club,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/4665.png
+1570624,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,529,Barcelona,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/536.png
+1570625,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,543,Real Betis,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/538.png
+1570626,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,544,Deportivo La Coruna,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/533.png
+1570627,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,797,Elche,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/542.png
+1570628,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,546,Getafe,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/540.png
+1570629,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,539,Levante,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/728.png
+1570630,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,535,Malaga,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/727.png
+1570631,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,541,Real Madrid,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/530.png
+1570632,LALIGA,2026,2027-04-04T15:00:00+00:00,NS,Regular Season - 30,548,Real Sociedad,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/532.png
+1570633,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,542,Alaves,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/543.png
+1570634,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,530,Atletico Madrid,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/539.png
+1570635,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,538,Celta Vigo,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/797.png
+1570636,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,540,Espanyol,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/535.png
+1570637,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,727,Osasuna,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/541.png
+1570638,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,4665,Racing Santander,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/529.png
+1570639,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,728,Rayo Vallecano,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/548.png
+1570640,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,536,Sevilla,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/544.png
+1570641,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,532,Valencia,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/546.png
+1570642,LALIGA,2026,2027-04-11T15:00:00+00:00,NS,Regular Season - 31,533,Villarreal,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/531.png
+1570643,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,542,Alaves,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/728.png
+1570644,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,530,Atletico Madrid,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/536.png
+1570645,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,529,Barcelona,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/540.png
+1570646,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,543,Real Betis,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/531.png
+1570647,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,544,Deportivo La Coruna,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/538.png
+1570648,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,797,Elche,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/727.png
+1570649,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,546,Getafe,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/541.png
+1570650,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,539,Levante,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/533.png
+1570651,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,535,Malaga,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/532.png
+1570652,LALIGA,2026,2027-04-18T15:00:00+00:00,NS,Regular Season - 32,548,Real Sociedad,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/4665.png
+1570653,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,531,Athletic Club,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/544.png
+1570654,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,538,Celta Vigo,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/529.png
+1570655,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,540,Espanyol,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/548.png
+1570656,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,546,Getafe,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/543.png
+1570657,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,727,Osasuna,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/542.png
+1570658,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,4665,Racing Santander,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/535.png
+1570659,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,541,Real Madrid,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/797.png
+1570660,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,536,Sevilla,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/539.png
+1570661,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,532,Valencia,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/728.png
+1570662,LALIGA,2026,2027-04-21T15:00:00+00:00,NS,Regular Season - 33,533,Villarreal,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/530.png
+1570663,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,530,Atletico Madrid,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/542.png
+1570664,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,529,Barcelona,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/727.png
+1570665,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,543,Real Betis,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/532.png
+1570666,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,538,Celta Vigo,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/536.png
+1570667,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,544,Deportivo La Coruna,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/4665.png
+1570668,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,797,Elche,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/540.png
+1570669,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,539,Levante,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/541.png
+1570670,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,535,Malaga,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/546.png
+1570671,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,728,Rayo Vallecano,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/533.png
+1570672,LALIGA,2026,2027-05-02T15:00:00+00:00,NS,Regular Season - 34,548,Real Sociedad,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/531.png
+1570673,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,542,Alaves,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/539.png
+1570674,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,531,Athletic Club,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/535.png
+1570675,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,543,Real Betis,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/540.png
+1570676,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,546,Getafe,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/797.png
+1570677,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,727,Osasuna,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/548.png
+1570678,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,4665,Racing Santander,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/536.png
+1570679,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,728,Rayo Vallecano,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/544.png
+1570680,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,541,Real Madrid,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/529.png
+1570681,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,532,Valencia,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/530.png
+1570682,LALIGA,2026,2027-05-09T15:00:00+00:00,NS,Regular Season - 35,533,Villarreal,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/538.png
+1570683,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,530,Atletico Madrid,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/728.png
+1570684,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,544,Deportivo La Coruna,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/542.png
+1570685,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,797,Elche,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/531.png
+1570686,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,540,Espanyol,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/532.png
+1570687,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,539,Levante,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/546.png
+1570688,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,535,Malaga,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/538.png
+1570689,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,727,Osasuna,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/543.png
+1570690,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,541,Real Madrid,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/4665.png
+1570691,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,548,Real Sociedad,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/529.png
+1570692,LALIGA,2026,2027-05-16T15:00:00+00:00,NS,Regular Season - 36,536,Sevilla,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/533.png
+1570693,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,542,Alaves,541,Real Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/542.png,https://media.api-sports.io/football/teams/541.png
+1570694,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,530,Atletico Madrid,531,Athletic Club,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/530.png,https://media.api-sports.io/football/teams/531.png
+1570695,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,529,Barcelona,535,Malaga,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/529.png,https://media.api-sports.io/football/teams/535.png
+1570696,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,538,Celta Vigo,548,Real Sociedad,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/538.png,https://media.api-sports.io/football/teams/548.png
+1570697,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,544,Deportivo La Coruna,540,Espanyol,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/544.png,https://media.api-sports.io/football/teams/540.png
+1570698,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,4665,Racing Santander,539,Levante,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/4665.png,https://media.api-sports.io/football/teams/539.png
+1570699,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,728,Rayo Vallecano,543,Real Betis,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/728.png,https://media.api-sports.io/football/teams/543.png
+1570700,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,536,Sevilla,546,Getafe,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/536.png,https://media.api-sports.io/football/teams/546.png
+1570701,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,532,Valencia,797,Elche,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/532.png,https://media.api-sports.io/football/teams/797.png
+1570702,LALIGA,2026,2027-05-23T15:00:00+00:00,NS,Regular Season - 37,533,Villarreal,727,Osasuna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/533.png,https://media.api-sports.io/football/teams/727.png
+1570703,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,531,Athletic Club,728,Rayo Vallecano,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/531.png,https://media.api-sports.io/football/teams/728.png
+1570704,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,543,Real Betis,530,Atletico Madrid,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/543.png,https://media.api-sports.io/football/teams/530.png
+1570705,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,797,Elche,4665,Racing Santander,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/797.png,https://media.api-sports.io/football/teams/4665.png
+1570706,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,540,Espanyol,542,Alaves,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/540.png,https://media.api-sports.io/football/teams/542.png
+1570707,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,546,Getafe,529,Barcelona,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/546.png,https://media.api-sports.io/football/teams/529.png
+1570708,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,539,Levante,538,Celta Vigo,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/539.png,https://media.api-sports.io/football/teams/538.png
+1570709,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,535,Malaga,536,Sevilla,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/535.png,https://media.api-sports.io/football/teams/536.png
+1570710,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,727,Osasuna,532,Valencia,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/727.png,https://media.api-sports.io/football/teams/532.png
+1570711,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,541,Real Madrid,544,Deportivo La Coruna,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/541.png,https://media.api-sports.io/football/teams/544.png
+1570712,LALIGA,2026,2027-05-30T15:00:00+00:00,NS,Regular Season - 38,548,Real Sociedad,533,Villarreal,,,https://media.api-sports.io/football/leagues/140.png,https://media.api-sports.io/football/teams/548.png,https://media.api-sports.io/football/teams/533.png

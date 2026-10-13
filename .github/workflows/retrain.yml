@@ -1,0 +1,42 @@
+name: retrain
+
+# Weekly refit of the Elo parameters + logistic layer on all completed matches, and a fresh
+# validation report. Elo ratings themselves update every day from new results without this.
+on:
+  schedule:
+    - cron: "0 4 * * 1"     # Mondays
+  workflow_dispatch:
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  retrain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m football_ml refresh
+      - run: python -m football_ml validate
+      - run: python -m football_ml train
+      - name: Commit
+        run: |
+          git config user.name "football-ml-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ models/ reports/
+          if ! git diff --cached --quiet; then
+            git commit -m "model: weekly retrain $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi

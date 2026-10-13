@@ -80,6 +80,18 @@ def cmd_ratings(args):
         print(g[["rank", "team", "rating", "played"]].to_string(index=False))
 
 
+def cmd_picks(args):
+    from .api import ApiFootball
+    from .picks import run
+    run(ApiFootball(), day=args.date, dry_run=args.dry_run, refresh=not args.no_refresh, force=args.force)
+
+
+def cmd_results(args):
+    from .api import ApiFootball
+    from .results import run
+    run(ApiFootball(), dry_run=args.dry_run)
+
+
 def main(argv=None):
     # Team names include č/ć/đ/ã; Windows consoles default to a codepage that can't print them.
     if hasattr(sys.stdout, "reconfigure"):
@@ -109,8 +121,18 @@ def main(argv=None):
     p = sub.add_parser("ratings", help="show current Elo ratings table per league")
     p.add_argument("--leagues", **league_arg); p.set_defaults(fn=cmd_ratings)
 
-    p = sub.add_parser("predict", help="show model probabilities for a day's fixtures")
+    p = sub.add_parser("predict", help="show model probabilities for a day's fixtures (no odds, no POST)")
     p.add_argument("--date"); p.set_defaults(fn=cmd_predict)
+
+    p = sub.add_parser("picks", help="daily job: select and POST picks")
+    p.add_argument("--date", help="YYYY-MM-DD in PICKS_TIMEZONE (default today)")
+    p.add_argument("--dry-run", action="store_true", help="print payload, do not POST or log")
+    p.add_argument("--no-refresh", action="store_true", help="skip re-downloading current seasons")
+    p.add_argument("--force", action="store_true", help="send even if picks for the date were already sent")
+    p.set_defaults(fn=cmd_picks)
+
+    p = sub.add_parser("results", help="settle finished picks and POST results")
+    p.add_argument("--dry-run", action="store_true"); p.set_defaults(fn=cmd_results)
 
     args = ap.parse_args(argv)
     args.fn(args)

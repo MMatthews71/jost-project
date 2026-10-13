@@ -1,3 +1,7 @@
+import json
+import threading
+from http.server import BaseHTTPRequestHandler, HTTPServer
+
 import numpy as np
 import pandas as pd
 import pytest
@@ -36,7 +40,45 @@ def tmp_paths(tmp_path, monkeypatch):
     """Point every storage path at a temp dir."""
     for attr, val in [("FIXTURES_DIR", tmp_path / "data" / "fixtures"),
                       ("MODEL_PATH", tmp_path / "models" / "model.json"),
+                      ("PICKS_LOG", tmp_path / "data" / "picks.jsonl"),
+                      ("RESULTS_LOG", tmp_path / "data" / "results.jsonl"),
+                      ("ODDS_DIR", tmp_path / "data" / "odds"),
                       ("REPORTS_DIR", tmp_path / "reports")]:
         monkeypatch.setattr(config, attr, val)
     return tmp_path
 
+
+@pytest.fixture
+def mock_endpoint(monkeypatch):
+    """A local stand-in for the vowtips.com API: records every POST and answers like the site.
+    Set `received.reply` to change the JSON it answers with."""
+
+    class Handler(BaseHTTPRequestHandler):
+        def do_POST(self):
+            body = json.loads(self.rfile.read(int(self.headers["Content-Length"])))
+            received.append({"path": self.path, "api_key": self.headers.get("x-api-key"), "body": body})
+            if self.headers.get("x-api-key") != "test-key":
+                self.send_response(401); self.end_headers(); return
+            reply = getattr(received, "reply", None) or {"inserted": len(body), "updated": 0, "drafted": 0,
+                                                          "rejected": 0, "errors": []}
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps(reply).encode())
+
+        def log_message(self, *a):
+            pass
+
+    class Received(list):
+        reply = None
+
+    received = Received()
+    srv = HTTPServer(("127.0.0.1", 0), Handler)
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    base = f"http://127.0.0.1:{srv.server_port}"
+    monkeypatch.setattr(config, "PICKS_URL", base + "/picks")
+    monkeypatch.setattr(config, "RESULTS_URL", base + "/results")
+    monkeypatch.setenv("PICKS_API_KEY", "test-key")
+    monkeypatch.delenv("PICKS_TEST_MODE", raising=False)
+    yield received
+    srv.shutdown()

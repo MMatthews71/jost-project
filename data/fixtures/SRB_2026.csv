@@ -1,183 +1,183 @@
-fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals
-1553808,SRB,2026,2026-07-17T18:00:00+00:00,FT,Regular Season - 1,598,FK Crvena Zvezda,2637,Macva,5.0,0.0
-1553813,SRB,2026,2026-07-17T18:00:00+00:00,FT,Regular Season - 1,12360,Železničar Pančevo,2254,Radnicki NIS,2.0,1.0
-1553810,SRB,2026,2026-07-18T18:00:00+00:00,FT,Regular Season - 1,2643,Novi Pazar,2644,Radnicki 1923,1.0,0.0
-1553814,SRB,2026,2026-07-18T18:00:00+00:00,FT,Regular Season - 1,2642,Zemun,573,FK Partizan,2.0,2.0
-1553809,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,2656,Cukaricki,12316,IMT Novi Beograd,0.0,1.0
-1553811,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,2657,Radnik Surdulica,699,Mladost Lucani,1.0,1.0
-1553812,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,702,Vojvodina,2633,OFK Beograd,4.0,0.0
-1553821,SRB,2026,2026-07-25T15:30:00+00:00,FT,Regular Season - 2,2254,Radnicki NIS,2656,Cukaricki,0.0,2.0
-1553816,SRB,2026,2026-07-25T18:00:00+00:00,FT,Regular Season - 2,12316,IMT Novi Beograd,2642,Zemun,4.0,0.0
-1553819,SRB,2026,2026-07-25T18:00:00+00:00,FT,Regular Season - 2,2633,OFK Beograd,2657,Radnik Surdulica,0.0,0.0
-1553815,SRB,2026,2026-07-26T17:00:00+00:00,FT,Regular Season - 2,598,FK Crvena Zvezda,702,Vojvodina,3.0,1.0
-1553818,SRB,2026,2026-07-26T18:30:00+00:00,FT,Regular Season - 2,699,Mladost Lucani,2643,Novi Pazar,0.0,0.0
-1553820,SRB,2026,2026-07-26T18:30:00+00:00,PST,Regular Season - 2,2644,Radnicki 1923,12360,Železničar Pančevo,,
-1553817,SRB,2026,2026-07-26T19:00:00+00:00,FT,Regular Season - 2,2637,Macva,573,FK Partizan,1.0,3.0
-1553823,SRB,2026,2026-08-01T18:00:00+00:00,FT,Regular Season - 3,2643,Novi Pazar,2633,OFK Beograd,1.0,4.0
-1553822,SRB,2026,2026-08-01T18:30:00+00:00,FT,Regular Season - 3,2656,Cukaricki,2644,Radnicki 1923,3.0,0.0
-1553824,SRB,2026,2026-08-02T18:00:00+00:00,FT,Regular Season - 3,573,FK Partizan,12316,IMT Novi Beograd,1.0,2.0
-1553828,SRB,2026,2026-08-02T18:00:00+00:00,FT,Regular Season - 3,2642,Zemun,2254,Radnicki NIS,0.0,1.0
-1553826,SRB,2026,2026-08-03T17:00:00+00:00,FT,Regular Season - 3,702,Vojvodina,2637,Macva,2.0,0.0
-1553827,SRB,2026,2026-08-03T19:00:00+00:00,FT,Regular Season - 3,12360,Železničar Pančevo,699,Mladost Lucani,0.0,0.0
-1553834,SRB,2026,2026-08-08T15:00:00+00:00,PST,Regular Season - 4,2254,Radnicki NIS,573,FK Partizan,,
-1553829,SRB,2026,2026-08-08T18:00:00+00:00,FT,Regular Season - 4,598,FK Crvena Zvezda,2643,Novi Pazar,2.0,0.0
-1553833,SRB,2026,2026-08-08T18:00:00+00:00,FT,Regular Season - 4,2644,Radnicki 1923,2642,Zemun,3.0,0.0
-1553830,SRB,2026,2026-08-09T18:00:00+00:00,FT,Regular Season - 4,2637,Macva,12316,IMT Novi Beograd,1.0,0.0
-1553835,SRB,2026,2026-08-09T18:00:00+00:00,FT,Regular Season - 4,702,Vojvodina,2657,Radnik Surdulica,2.0,1.0
-1553831,SRB,2026,2026-08-09T19:00:00+00:00,FT,Regular Season - 4,699,Mladost Lucani,2656,Cukaricki,2.0,2.0
-1553832,SRB,2026,2026-08-09T19:00:00+00:00,FT,Regular Season - 4,2633,OFK Beograd,12360,Železničar Pančevo,2.0,2.0
-1553840,SRB,2026,2026-08-15T17:00:00+00:00,FT,Regular Season - 5,2657,Radnik Surdulica,2637,Macva,2.0,1.0
-1553836,SRB,2026,2026-08-15T19:00:00+00:00,FT,Regular Season - 5,2656,Cukaricki,2633,OFK Beograd,2.0,0.0
-1553837,SRB,2026,2026-08-16T17:00:00+00:00,FT,Regular Season - 5,12316,IMT Novi Beograd,2254,Radnicki NIS,0.0,0.0
-1553839,SRB,2026,2026-08-16T19:00:00+00:00,FT,Regular Season - 5,573,FK Partizan,2644,Radnicki 1923,0.0,1.0
-1553842,SRB,2026,2026-08-16T19:00:00+00:00,FT,Regular Season - 5,2642,Zemun,699,Mladost Lucani,0.0,1.0
-1553838,SRB,2026,2026-08-17T18:00:00+00:00,FT,Regular Season - 5,2643,Novi Pazar,702,Vojvodina,2.0,0.0
-1553844,SRB,2026,2026-08-22T16:30:00+00:00,FT,Regular Season - 6,2637,Macva,2254,Radnicki NIS,1.0,0.0
-1553847,SRB,2026,2026-08-22T17:00:00+00:00,FT,Regular Season - 6,2644,Radnicki 1923,12316,IMT Novi Beograd,2.0,1.0
-1553846,SRB,2026,2026-08-22T19:00:00+00:00,FT,Regular Season - 6,2633,OFK Beograd,2642,Zemun,1.0,0.0
-1553843,SRB,2026,2026-08-23T17:00:00+00:00,FT,Regular Season - 6,598,FK Crvena Zvezda,2656,Cukaricki,4.0,0.0
-1553848,SRB,2026,2026-08-23T17:00:00+00:00,FT,Regular Season - 6,2657,Radnik Surdulica,2643,Novi Pazar,1.0,0.0
-1553845,SRB,2026,2026-08-23T19:00:00+00:00,FT,Regular Season - 6,699,Mladost Lucani,573,FK Partizan,3.0,1.0
-1553849,SRB,2026,2026-08-23T19:00:00+00:00,FT,Regular Season - 6,702,Vojvodina,12360,Železničar Pančevo,1.0,0.0
-1553855,SRB,2026,2026-08-29T17:00:00+00:00,FT,Regular Season - 7,12360,Železničar Pančevo,2657,Radnik Surdulica,5.0,1.0
-1553850,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2656,Cukaricki,702,Vojvodina,0.0,5.0
-1553852,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2643,Novi Pazar,2637,Macva,1.0,1.0
-1553854,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2254,Radnicki NIS,2644,Radnicki 1923,1.0,1.0
-1553856,SRB,2026,2026-08-30T18:00:00+00:00,FT,Regular Season - 7,2642,Zemun,598,FK Crvena Zvezda,0.0,2.0
-1553851,SRB,2026,2026-08-30T19:00:00+00:00,FT,Regular Season - 7,12316,IMT Novi Beograd,699,Mladost Lucani,2.0,0.0
-1553853,SRB,2026,2026-08-31T17:00:00+00:00,FT,Regular Season - 7,573,FK Partizan,2633,OFK Beograd,3.0,1.0
-1553860,SRB,2026,2026-09-04T17:00:00+00:00,FT,Regular Season - 8,2643,Novi Pazar,12360,Železničar Pančevo,2.0,0.0
-1553862,SRB,2026,2026-09-05T16:00:00+00:00,FT,Regular Season - 8,2657,Radnik Surdulica,2656,Cukaricki,3.0,1.0
-1553858,SRB,2026,2026-09-05T18:00:00+00:00,FT,Regular Season - 8,2637,Macva,2644,Radnicki 1923,0.0,0.0
-1553859,SRB,2026,2026-09-05T18:00:00+00:00,FT,Regular Season - 8,699,Mladost Lucani,2254,Radnicki NIS,1.0,0.0
-1553857,SRB,2026,2026-09-06T17:00:00+00:00,FT,Regular Season - 8,598,FK Crvena Zvezda,573,FK Partizan,2.0,1.0
-1553863,SRB,2026,2026-09-06T19:00:00+00:00,FT,Regular Season - 8,702,Vojvodina,2642,Zemun,2.0,1.0
-1553861,SRB,2026,2026-09-07T18:00:00+00:00,FT,Regular Season - 8,2633,OFK Beograd,12316,IMT Novi Beograd,1.0,1.0
-1553825,SRB,2026,2026-09-10T17:00:00+00:00,FT,Regular Season - 3,2657,Radnik Surdulica,598,FK Crvena Zvezda,0.0,0.0
-1553869,SRB,2026,2026-09-11T16:30:00+00:00,FT,Regular Season - 9,12360,Železničar Pančevo,2637,Macva,2.0,0.0
-1553864,SRB,2026,2026-09-12T16:30:00+00:00,FT,Regular Season - 9,2656,Cukaricki,2643,Novi Pazar,1.0,1.0
-1553867,SRB,2026,2026-09-12T18:30:00+00:00,FT,Regular Season - 9,2644,Radnicki 1923,699,Mladost Lucani,5.0,0.0
-1553868,SRB,2026,2026-09-13T14:00:00+00:00,FT,Regular Season - 9,2254,Radnicki NIS,2633,OFK Beograd,3.0,1.0
-1553866,SRB,2026,2026-09-13T15:00:00+00:00,FT,Regular Season - 9,573,FK Partizan,702,Vojvodina,2.0,3.0
-1553865,SRB,2026,2026-09-13T17:00:00+00:00,FT,Regular Season - 9,12316,IMT Novi Beograd,598,FK Crvena Zvezda,0.0,1.0
-1553870,SRB,2026,2026-09-14T17:00:00+00:00,FT,Regular Season - 9,2642,Zemun,2657,Radnik Surdulica,1.0,1.0
-1553841,SRB,2026,2026-09-17T18:00:00+00:00,FT,Regular Season - 5,12360,Železničar Pančevo,598,FK Crvena Zvezda,1.0,2.0
-1553873,SRB,2026,2026-09-19T15:00:00+00:00,FT,Regular Season - 10,2643,Novi Pazar,2642,Zemun,2.0,2.0
-1553876,SRB,2026,2026-09-19T15:00:00+00:00,FT,Regular Season - 10,702,Vojvodina,12316,IMT Novi Beograd,1.0,1.0
-1553874,SRB,2026,2026-09-19T17:00:00+00:00,FT,Regular Season - 10,2633,OFK Beograd,2644,Radnicki 1923,3.0,5.0
-1553875,SRB,2026,2026-09-19T17:00:00+00:00,FT,Regular Season - 10,2657,Radnik Surdulica,573,FK Partizan,4.0,4.0
-1553872,SRB,2026,2026-09-20T15:00:00+00:00,FT,Regular Season - 10,2637,Macva,699,Mladost Lucani,1.0,2.0
-1553871,SRB,2026,2026-09-20T17:00:00+00:00,FT,Regular Season - 10,598,FK Crvena Zvezda,2254,Radnicki NIS,3.0,0.0
-1553877,SRB,2026,2026-09-20T18:00:00+00:00,FT,Regular Season - 10,12360,Železničar Pančevo,2656,Cukaricki,2.0,1.0
-1553879,SRB,2026,2026-10-10T13:00:00+00:00,FT,Regular Season - 11,12316,IMT Novi Beograd,2657,Radnik Surdulica,1.0,0.0
-1553878,SRB,2026,2026-10-10T15:00:00+00:00,FT,Regular Season - 11,2656,Cukaricki,2637,Macva,2.0,2.0
-1553882,SRB,2026,2026-10-10T17:00:00+00:00,FT,Regular Season - 11,2644,Radnicki 1923,598,FK Crvena Zvezda,0.0,3.0
-1553883,SRB,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 11,2254,Radnicki NIS,702,Vojvodina,1.0,4.0
-1553881,SRB,2026,2026-10-11T15:00:00+00:00,FT,Regular Season - 11,573,FK Partizan,2643,Novi Pazar,1.0,0.0
-1553884,SRB,2026,2026-10-11T17:00:00+00:00,FT,Regular Season - 11,2642,Zemun,12360,Železničar Pančevo,0.0,3.0
-1553880,SRB,2026,2026-10-12T18:00:00+00:00,FT,Regular Season - 11,699,Mladost Lucani,2633,OFK Beograd,0.0,0.0
-1553885,SRB,2026,2026-10-17T16:00:00+00:00,TBD,Regular Season - 12,598,FK Crvena Zvezda,699,Mladost Lucani,,
-1553886,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2656,Cukaricki,2642,Zemun,,
-1553887,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2637,Macva,2633,OFK Beograd,,
-1553888,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2643,Novi Pazar,12316,IMT Novi Beograd,,
-1553889,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2657,Radnik Surdulica,2254,Radnicki NIS,,
-1553890,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,702,Vojvodina,2644,Radnicki 1923,,
-1553891,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,12360,Železničar Pančevo,573,FK Partizan,,
-1553892,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,12316,IMT Novi Beograd,12360,Železničar Pančevo,,
-1553893,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,699,Mladost Lucani,702,Vojvodina,,
-1553894,SRB,2026,2026-10-24T16:00:00+00:00,PST,Regular Season - 13,2633,OFK Beograd,598,FK Crvena Zvezda,,
-1553895,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,573,FK Partizan,2656,Cukaricki,,
-1553896,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2644,Radnicki 1923,2657,Radnik Surdulica,,
-1553897,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2254,Radnicki NIS,2643,Novi Pazar,,
-1553898,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2642,Zemun,2637,Macva,,
-1553899,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,12316,IMT Novi Beograd,2656,Cukaricki,,
-1553900,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2637,Macva,598,FK Crvena Zvezda,,
-1553901,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,699,Mladost Lucani,2657,Radnik Surdulica,,
-1553902,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2633,OFK Beograd,702,Vojvodina,,
-1553903,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,573,FK Partizan,2642,Zemun,,
-1553904,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2644,Radnicki 1923,2643,Novi Pazar,,
-1553905,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2254,Radnicki NIS,12360,Železničar Pančevo,,
-1553906,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2656,Cukaricki,2254,Radnicki NIS,,
-1553907,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2643,Novi Pazar,699,Mladost Lucani,,
-1553908,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,573,FK Partizan,2637,Macva,,
-1553909,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2657,Radnik Surdulica,2633,OFK Beograd,,
-1553910,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,702,Vojvodina,598,FK Crvena Zvezda,,
-1553911,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,12360,Železničar Pančevo,2644,Radnicki 1923,,
-1553912,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2642,Zemun,12316,IMT Novi Beograd,,
-1553913,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,598,FK Crvena Zvezda,2657,Radnik Surdulica,,
-1553914,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,12316,IMT Novi Beograd,573,FK Partizan,,
-1553915,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2637,Macva,702,Vojvodina,,
-1553916,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,699,Mladost Lucani,12360,Železničar Pančevo,,
-1553917,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2633,OFK Beograd,2643,Novi Pazar,,
-1553918,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2644,Radnicki 1923,2656,Cukaricki,,
-1553919,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2254,Radnicki NIS,2642,Zemun,,
-1553920,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2656,Cukaricki,699,Mladost Lucani,,
-1553921,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,12316,IMT Novi Beograd,2637,Macva,,
-1553922,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2643,Novi Pazar,598,FK Crvena Zvezda,,
-1553923,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,573,FK Partizan,2254,Radnicki NIS,,
-1553924,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2657,Radnik Surdulica,702,Vojvodina,,
-1553925,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,12360,Železničar Pančevo,2633,OFK Beograd,,
-1553926,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2642,Zemun,2644,Radnicki 1923,,
-1553927,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,598,FK Crvena Zvezda,12360,Železničar Pančevo,,
-1553928,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2637,Macva,2657,Radnik Surdulica,,
-1553929,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,699,Mladost Lucani,2642,Zemun,,
-1553930,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2633,OFK Beograd,2656,Cukaricki,,
-1553931,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2644,Radnicki 1923,573,FK Partizan,,
-1553932,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2254,Radnicki NIS,12316,IMT Novi Beograd,,
-1553933,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,702,Vojvodina,2643,Novi Pazar,,
-1553934,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2656,Cukaricki,598,FK Crvena Zvezda,,
-1553935,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,12316,IMT Novi Beograd,2644,Radnicki 1923,,
-1553936,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2643,Novi Pazar,2657,Radnik Surdulica,,
-1553937,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,573,FK Partizan,699,Mladost Lucani,,
-1553938,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2254,Radnicki NIS,2637,Macva,,
-1553939,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,12360,Železničar Pančevo,702,Vojvodina,,
-1553940,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2642,Zemun,2633,OFK Beograd,,
-1553941,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,598,FK Crvena Zvezda,2642,Zemun,,
-1553942,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2637,Macva,2643,Novi Pazar,,
-1553943,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,699,Mladost Lucani,12316,IMT Novi Beograd,,
-1553944,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2633,OFK Beograd,573,FK Partizan,,
-1553945,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2644,Radnicki 1923,2254,Radnicki NIS,,
-1553946,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2657,Radnik Surdulica,12360,Železničar Pančevo,,
-1553947,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,702,Vojvodina,2656,Cukaricki,,
-1553948,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2656,Cukaricki,2657,Radnik Surdulica,,
-1553949,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,12316,IMT Novi Beograd,2633,OFK Beograd,,
-1553950,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,573,FK Partizan,598,FK Crvena Zvezda,,
-1553951,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2644,Radnicki 1923,2637,Macva,,
-1553952,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2254,Radnicki NIS,699,Mladost Lucani,,
-1553953,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,12360,Železničar Pančevo,2643,Novi Pazar,,
-1553954,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2642,Zemun,702,Vojvodina,,
-1553955,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,598,FK Crvena Zvezda,12316,IMT Novi Beograd,,
-1553956,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2637,Macva,12360,Železničar Pančevo,,
-1553957,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,699,Mladost Lucani,2644,Radnicki 1923,,
-1553958,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2643,Novi Pazar,2656,Cukaricki,,
-1553959,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2633,OFK Beograd,2254,Radnicki NIS,,
-1553960,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2657,Radnik Surdulica,2642,Zemun,,
-1553961,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,702,Vojvodina,573,FK Partizan,,
-1553962,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2656,Cukaricki,12360,Železničar Pančevo,,
-1553963,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,12316,IMT Novi Beograd,702,Vojvodina,,
-1553964,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,699,Mladost Lucani,2637,Macva,,
-1553965,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,573,FK Partizan,2657,Radnik Surdulica,,
-1553966,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2644,Radnicki 1923,2633,OFK Beograd,,
-1553967,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2254,Radnicki NIS,598,FK Crvena Zvezda,,
-1553968,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2642,Zemun,2643,Novi Pazar,,
-1553969,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,598,FK Crvena Zvezda,2644,Radnicki 1923,,
-1553970,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2637,Macva,2656,Cukaricki,,
-1553971,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2643,Novi Pazar,573,FK Partizan,,
-1553972,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2633,OFK Beograd,699,Mladost Lucani,,
-1553973,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2657,Radnik Surdulica,12316,IMT Novi Beograd,,
-1553974,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,702,Vojvodina,2254,Radnicki NIS,,
-1553975,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,12360,Železničar Pančevo,2642,Zemun,,
-1553976,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,12316,IMT Novi Beograd,2643,Novi Pazar,,
-1553977,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,699,Mladost Lucani,598,FK Crvena Zvezda,,
-1553978,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2633,OFK Beograd,2637,Macva,,
-1553979,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,573,FK Partizan,12360,Železničar Pančevo,,
-1553980,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2644,Radnicki 1923,702,Vojvodina,,
-1553981,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2254,Radnicki NIS,2657,Radnik Surdulica,,
-1553982,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2642,Zemun,2656,Cukaricki,,
-1553983,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,598,FK Crvena Zvezda,2633,OFK Beograd,,
-1553984,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2656,Cukaricki,573,FK Partizan,,
-1553985,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2637,Macva,2642,Zemun,,
-1553986,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2643,Novi Pazar,2254,Radnicki NIS,,
-1553987,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2657,Radnik Surdulica,2644,Radnicki 1923,,
-1553988,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,702,Vojvodina,699,Mladost Lucani,,
-1553989,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,12360,Železničar Pančevo,12316,IMT Novi Beograd,,
+fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away_name,home_goals,away_goals,league_logo,home_logo,away_logo
+1553808,SRB,2026,2026-07-17T18:00:00+00:00,FT,Regular Season - 1,598,FK Crvena Zvezda,2637,Macva,5.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2637.png
+1553813,SRB,2026,2026-07-17T18:00:00+00:00,FT,Regular Season - 1,12360,Železničar Pančevo,2254,Radnicki NIS,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2254.png
+1553810,SRB,2026,2026-07-18T18:00:00+00:00,FT,Regular Season - 1,2643,Novi Pazar,2644,Radnicki 1923,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2644.png
+1553814,SRB,2026,2026-07-18T18:00:00+00:00,FT,Regular Season - 1,2642,Zemun,573,FK Partizan,2.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/573.png
+1553809,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,2656,Cukaricki,12316,IMT Novi Beograd,0.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/12316.png
+1553811,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,2657,Radnik Surdulica,699,Mladost Lucani,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/699.png
+1553812,SRB,2026,2026-07-19T17:00:00+00:00,FT,Regular Season - 1,702,Vojvodina,2633,OFK Beograd,4.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2633.png
+1553821,SRB,2026,2026-07-25T15:30:00+00:00,FT,Regular Season - 2,2254,Radnicki NIS,2656,Cukaricki,0.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2656.png
+1553816,SRB,2026,2026-07-25T18:00:00+00:00,FT,Regular Season - 2,12316,IMT Novi Beograd,2642,Zemun,4.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2642.png
+1553819,SRB,2026,2026-07-25T18:00:00+00:00,FT,Regular Season - 2,2633,OFK Beograd,2657,Radnik Surdulica,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2657.png
+1553815,SRB,2026,2026-07-26T17:00:00+00:00,FT,Regular Season - 2,598,FK Crvena Zvezda,702,Vojvodina,3.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/702.png
+1553818,SRB,2026,2026-07-26T18:30:00+00:00,FT,Regular Season - 2,699,Mladost Lucani,2643,Novi Pazar,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2643.png
+1553820,SRB,2026,2026-07-26T18:30:00+00:00,PST,Regular Season - 2,2644,Radnicki 1923,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/12360.png
+1553817,SRB,2026,2026-07-26T19:00:00+00:00,FT,Regular Season - 2,2637,Macva,573,FK Partizan,1.0,3.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/573.png
+1553823,SRB,2026,2026-08-01T18:00:00+00:00,FT,Regular Season - 3,2643,Novi Pazar,2633,OFK Beograd,1.0,4.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2633.png
+1553822,SRB,2026,2026-08-01T18:30:00+00:00,FT,Regular Season - 3,2656,Cukaricki,2644,Radnicki 1923,3.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2644.png
+1553824,SRB,2026,2026-08-02T18:00:00+00:00,FT,Regular Season - 3,573,FK Partizan,12316,IMT Novi Beograd,1.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/12316.png
+1553828,SRB,2026,2026-08-02T18:00:00+00:00,FT,Regular Season - 3,2642,Zemun,2254,Radnicki NIS,0.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2254.png
+1553826,SRB,2026,2026-08-03T17:00:00+00:00,FT,Regular Season - 3,702,Vojvodina,2637,Macva,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2637.png
+1553827,SRB,2026,2026-08-03T19:00:00+00:00,FT,Regular Season - 3,12360,Železničar Pančevo,699,Mladost Lucani,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/699.png
+1553834,SRB,2026,2026-08-08T15:00:00+00:00,PST,Regular Season - 4,2254,Radnicki NIS,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/573.png
+1553829,SRB,2026,2026-08-08T18:00:00+00:00,FT,Regular Season - 4,598,FK Crvena Zvezda,2643,Novi Pazar,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2643.png
+1553833,SRB,2026,2026-08-08T18:00:00+00:00,FT,Regular Season - 4,2644,Radnicki 1923,2642,Zemun,3.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2642.png
+1553830,SRB,2026,2026-08-09T18:00:00+00:00,FT,Regular Season - 4,2637,Macva,12316,IMT Novi Beograd,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/12316.png
+1553835,SRB,2026,2026-08-09T18:00:00+00:00,FT,Regular Season - 4,702,Vojvodina,2657,Radnik Surdulica,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2657.png
+1553831,SRB,2026,2026-08-09T19:00:00+00:00,FT,Regular Season - 4,699,Mladost Lucani,2656,Cukaricki,2.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2656.png
+1553832,SRB,2026,2026-08-09T19:00:00+00:00,FT,Regular Season - 4,2633,OFK Beograd,12360,Železničar Pančevo,2.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/12360.png
+1553840,SRB,2026,2026-08-15T17:00:00+00:00,FT,Regular Season - 5,2657,Radnik Surdulica,2637,Macva,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2637.png
+1553836,SRB,2026,2026-08-15T19:00:00+00:00,FT,Regular Season - 5,2656,Cukaricki,2633,OFK Beograd,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2633.png
+1553837,SRB,2026,2026-08-16T17:00:00+00:00,FT,Regular Season - 5,12316,IMT Novi Beograd,2254,Radnicki NIS,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2254.png
+1553839,SRB,2026,2026-08-16T19:00:00+00:00,FT,Regular Season - 5,573,FK Partizan,2644,Radnicki 1923,0.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2644.png
+1553842,SRB,2026,2026-08-16T19:00:00+00:00,FT,Regular Season - 5,2642,Zemun,699,Mladost Lucani,0.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/699.png
+1553838,SRB,2026,2026-08-17T18:00:00+00:00,FT,Regular Season - 5,2643,Novi Pazar,702,Vojvodina,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/702.png
+1553844,SRB,2026,2026-08-22T16:30:00+00:00,FT,Regular Season - 6,2637,Macva,2254,Radnicki NIS,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2254.png
+1553847,SRB,2026,2026-08-22T17:00:00+00:00,FT,Regular Season - 6,2644,Radnicki 1923,12316,IMT Novi Beograd,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/12316.png
+1553846,SRB,2026,2026-08-22T19:00:00+00:00,FT,Regular Season - 6,2633,OFK Beograd,2642,Zemun,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2642.png
+1553843,SRB,2026,2026-08-23T17:00:00+00:00,FT,Regular Season - 6,598,FK Crvena Zvezda,2656,Cukaricki,4.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2656.png
+1553848,SRB,2026,2026-08-23T17:00:00+00:00,FT,Regular Season - 6,2657,Radnik Surdulica,2643,Novi Pazar,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2643.png
+1553845,SRB,2026,2026-08-23T19:00:00+00:00,FT,Regular Season - 6,699,Mladost Lucani,573,FK Partizan,3.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/573.png
+1553849,SRB,2026,2026-08-23T19:00:00+00:00,FT,Regular Season - 6,702,Vojvodina,12360,Železničar Pančevo,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/12360.png
+1553855,SRB,2026,2026-08-29T17:00:00+00:00,FT,Regular Season - 7,12360,Železničar Pančevo,2657,Radnik Surdulica,5.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2657.png
+1553850,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2656,Cukaricki,702,Vojvodina,0.0,5.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/702.png
+1553852,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2643,Novi Pazar,2637,Macva,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2637.png
+1553854,SRB,2026,2026-08-29T19:00:00+00:00,FT,Regular Season - 7,2254,Radnicki NIS,2644,Radnicki 1923,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2644.png
+1553856,SRB,2026,2026-08-30T18:00:00+00:00,FT,Regular Season - 7,2642,Zemun,598,FK Crvena Zvezda,0.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/598.png
+1553851,SRB,2026,2026-08-30T19:00:00+00:00,FT,Regular Season - 7,12316,IMT Novi Beograd,699,Mladost Lucani,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/699.png
+1553853,SRB,2026,2026-08-31T17:00:00+00:00,FT,Regular Season - 7,573,FK Partizan,2633,OFK Beograd,3.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2633.png
+1553860,SRB,2026,2026-09-04T17:00:00+00:00,FT,Regular Season - 8,2643,Novi Pazar,12360,Železničar Pančevo,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/12360.png
+1553862,SRB,2026,2026-09-05T16:00:00+00:00,FT,Regular Season - 8,2657,Radnik Surdulica,2656,Cukaricki,3.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2656.png
+1553858,SRB,2026,2026-09-05T18:00:00+00:00,FT,Regular Season - 8,2637,Macva,2644,Radnicki 1923,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2644.png
+1553859,SRB,2026,2026-09-05T18:00:00+00:00,FT,Regular Season - 8,699,Mladost Lucani,2254,Radnicki NIS,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2254.png
+1553857,SRB,2026,2026-09-06T17:00:00+00:00,FT,Regular Season - 8,598,FK Crvena Zvezda,573,FK Partizan,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/573.png
+1553863,SRB,2026,2026-09-06T19:00:00+00:00,FT,Regular Season - 8,702,Vojvodina,2642,Zemun,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2642.png
+1553861,SRB,2026,2026-09-07T18:00:00+00:00,FT,Regular Season - 8,2633,OFK Beograd,12316,IMT Novi Beograd,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/12316.png
+1553825,SRB,2026,2026-09-10T17:00:00+00:00,FT,Regular Season - 3,2657,Radnik Surdulica,598,FK Crvena Zvezda,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/598.png
+1553869,SRB,2026,2026-09-11T16:30:00+00:00,FT,Regular Season - 9,12360,Železničar Pančevo,2637,Macva,2.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2637.png
+1553864,SRB,2026,2026-09-12T16:30:00+00:00,FT,Regular Season - 9,2656,Cukaricki,2643,Novi Pazar,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2643.png
+1553867,SRB,2026,2026-09-12T18:30:00+00:00,FT,Regular Season - 9,2644,Radnicki 1923,699,Mladost Lucani,5.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/699.png
+1553868,SRB,2026,2026-09-13T14:00:00+00:00,FT,Regular Season - 9,2254,Radnicki NIS,2633,OFK Beograd,3.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2633.png
+1553866,SRB,2026,2026-09-13T15:00:00+00:00,FT,Regular Season - 9,573,FK Partizan,702,Vojvodina,2.0,3.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/702.png
+1553865,SRB,2026,2026-09-13T17:00:00+00:00,FT,Regular Season - 9,12316,IMT Novi Beograd,598,FK Crvena Zvezda,0.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/598.png
+1553870,SRB,2026,2026-09-14T17:00:00+00:00,FT,Regular Season - 9,2642,Zemun,2657,Radnik Surdulica,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2657.png
+1553841,SRB,2026,2026-09-17T18:00:00+00:00,FT,Regular Season - 5,12360,Železničar Pančevo,598,FK Crvena Zvezda,1.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/598.png
+1553873,SRB,2026,2026-09-19T15:00:00+00:00,FT,Regular Season - 10,2643,Novi Pazar,2642,Zemun,2.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2642.png
+1553876,SRB,2026,2026-09-19T15:00:00+00:00,FT,Regular Season - 10,702,Vojvodina,12316,IMT Novi Beograd,1.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/12316.png
+1553874,SRB,2026,2026-09-19T17:00:00+00:00,FT,Regular Season - 10,2633,OFK Beograd,2644,Radnicki 1923,3.0,5.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2644.png
+1553875,SRB,2026,2026-09-19T17:00:00+00:00,FT,Regular Season - 10,2657,Radnik Surdulica,573,FK Partizan,4.0,4.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/573.png
+1553872,SRB,2026,2026-09-20T15:00:00+00:00,FT,Regular Season - 10,2637,Macva,699,Mladost Lucani,1.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/699.png
+1553871,SRB,2026,2026-09-20T17:00:00+00:00,FT,Regular Season - 10,598,FK Crvena Zvezda,2254,Radnicki NIS,3.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2254.png
+1553877,SRB,2026,2026-09-20T18:00:00+00:00,FT,Regular Season - 10,12360,Železničar Pančevo,2656,Cukaricki,2.0,1.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2656.png
+1553879,SRB,2026,2026-10-10T13:00:00+00:00,FT,Regular Season - 11,12316,IMT Novi Beograd,2657,Radnik Surdulica,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2657.png
+1553878,SRB,2026,2026-10-10T15:00:00+00:00,FT,Regular Season - 11,2656,Cukaricki,2637,Macva,2.0,2.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2637.png
+1553882,SRB,2026,2026-10-10T17:00:00+00:00,FT,Regular Season - 11,2644,Radnicki 1923,598,FK Crvena Zvezda,0.0,3.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/598.png
+1553883,SRB,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 11,2254,Radnicki NIS,702,Vojvodina,1.0,4.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/702.png
+1553881,SRB,2026,2026-10-11T15:00:00+00:00,FT,Regular Season - 11,573,FK Partizan,2643,Novi Pazar,1.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2643.png
+1553884,SRB,2026,2026-10-11T17:00:00+00:00,FT,Regular Season - 11,2642,Zemun,12360,Železničar Pančevo,0.0,3.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/12360.png
+1553880,SRB,2026,2026-10-12T18:00:00+00:00,FT,Regular Season - 11,699,Mladost Lucani,2633,OFK Beograd,0.0,0.0,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2633.png
+1553885,SRB,2026,2026-10-17T16:00:00+00:00,TBD,Regular Season - 12,598,FK Crvena Zvezda,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/699.png
+1553886,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2656,Cukaricki,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2642.png
+1553887,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2637,Macva,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2633.png
+1553888,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2643,Novi Pazar,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/12316.png
+1553889,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2657,Radnik Surdulica,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2254.png
+1553890,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,702,Vojvodina,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2644.png
+1553891,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,12360,Železničar Pančevo,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/573.png
+1553892,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,12316,IMT Novi Beograd,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/12360.png
+1553893,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,699,Mladost Lucani,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/702.png
+1553894,SRB,2026,2026-10-24T16:00:00+00:00,PST,Regular Season - 13,2633,OFK Beograd,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/598.png
+1553895,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,573,FK Partizan,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2656.png
+1553896,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2644,Radnicki 1923,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2657.png
+1553897,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2254,Radnicki NIS,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2643.png
+1553898,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2642,Zemun,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2637.png
+1553899,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,12316,IMT Novi Beograd,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2656.png
+1553900,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2637,Macva,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/598.png
+1553901,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,699,Mladost Lucani,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2657.png
+1553902,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2633,OFK Beograd,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/702.png
+1553903,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,573,FK Partizan,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2642.png
+1553904,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2644,Radnicki 1923,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2643.png
+1553905,SRB,2026,2026-11-01T17:00:00+00:00,NS,Regular Season - 14,2254,Radnicki NIS,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/12360.png
+1553906,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2656,Cukaricki,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2254.png
+1553907,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2643,Novi Pazar,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/699.png
+1553908,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,573,FK Partizan,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2637.png
+1553909,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2657,Radnik Surdulica,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2633.png
+1553910,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,702,Vojvodina,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/598.png
+1553911,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,12360,Železničar Pančevo,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2644.png
+1553912,SRB,2026,2026-11-07T17:00:00+00:00,NS,Regular Season - 15,2642,Zemun,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/12316.png
+1553913,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,598,FK Crvena Zvezda,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2657.png
+1553914,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,12316,IMT Novi Beograd,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/573.png
+1553915,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2637,Macva,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/702.png
+1553916,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,699,Mladost Lucani,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/12360.png
+1553917,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2633,OFK Beograd,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2643.png
+1553918,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2644,Radnicki 1923,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2656.png
+1553919,SRB,2026,2026-11-21T17:00:00+00:00,NS,Regular Season - 16,2254,Radnicki NIS,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2642.png
+1553920,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2656,Cukaricki,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/699.png
+1553921,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,12316,IMT Novi Beograd,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2637.png
+1553922,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2643,Novi Pazar,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/598.png
+1553923,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,573,FK Partizan,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2254.png
+1553924,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2657,Radnik Surdulica,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/702.png
+1553925,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,12360,Železničar Pančevo,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2633.png
+1553926,SRB,2026,2026-11-28T17:00:00+00:00,NS,Regular Season - 17,2642,Zemun,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2644.png
+1553927,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,598,FK Crvena Zvezda,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/12360.png
+1553928,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2637,Macva,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2657.png
+1553929,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,699,Mladost Lucani,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2642.png
+1553930,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2633,OFK Beograd,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2656.png
+1553931,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2644,Radnicki 1923,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/573.png
+1553932,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,2254,Radnicki NIS,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/12316.png
+1553933,SRB,2026,2026-12-06T17:00:00+00:00,NS,Regular Season - 18,702,Vojvodina,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2643.png
+1553934,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2656,Cukaricki,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/598.png
+1553935,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,12316,IMT Novi Beograd,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2644.png
+1553936,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2643,Novi Pazar,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2657.png
+1553937,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,573,FK Partizan,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/699.png
+1553938,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2254,Radnicki NIS,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2637.png
+1553939,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,12360,Železničar Pančevo,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/702.png
+1553940,SRB,2026,2027-02-06T17:00:00+00:00,NS,Regular Season - 19,2642,Zemun,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2633.png
+1553941,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,598,FK Crvena Zvezda,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2642.png
+1553942,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2637,Macva,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2643.png
+1553943,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,699,Mladost Lucani,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/12316.png
+1553944,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2633,OFK Beograd,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/573.png
+1553945,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2644,Radnicki 1923,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2254.png
+1553946,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,2657,Radnik Surdulica,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/12360.png
+1553947,SRB,2026,2027-02-13T17:00:00+00:00,NS,Regular Season - 20,702,Vojvodina,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2656.png
+1553948,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2656,Cukaricki,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/2657.png
+1553949,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,12316,IMT Novi Beograd,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2633.png
+1553950,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,573,FK Partizan,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/598.png
+1553951,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2644,Radnicki 1923,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2637.png
+1553952,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2254,Radnicki NIS,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/699.png
+1553953,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,12360,Železničar Pančevo,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2643.png
+1553954,SRB,2026,2027-02-20T17:00:00+00:00,NS,Regular Season - 21,2642,Zemun,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/702.png
+1553955,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,598,FK Crvena Zvezda,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/12316.png
+1553956,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2637,Macva,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/12360.png
+1553957,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,699,Mladost Lucani,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2644.png
+1553958,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2643,Novi Pazar,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2656.png
+1553959,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2633,OFK Beograd,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2254.png
+1553960,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,2657,Radnik Surdulica,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2642.png
+1553961,SRB,2026,2027-02-27T17:00:00+00:00,NS,Regular Season - 22,702,Vojvodina,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/573.png
+1553962,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2656,Cukaricki,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/12360.png
+1553963,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,12316,IMT Novi Beograd,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/702.png
+1553964,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,699,Mladost Lucani,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/2637.png
+1553965,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,573,FK Partizan,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/2657.png
+1553966,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2644,Radnicki 1923,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/2633.png
+1553967,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2254,Radnicki NIS,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/598.png
+1553968,SRB,2026,2027-03-07T17:00:00+00:00,NS,Regular Season - 23,2642,Zemun,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2643.png
+1553969,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,598,FK Crvena Zvezda,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2644.png
+1553970,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2637,Macva,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2656.png
+1553971,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2643,Novi Pazar,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/573.png
+1553972,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2633,OFK Beograd,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/699.png
+1553973,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,2657,Radnik Surdulica,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/12316.png
+1553974,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,702,Vojvodina,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/2254.png
+1553975,SRB,2026,2027-03-13T17:00:00+00:00,NS,Regular Season - 24,12360,Železničar Pančevo,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/2642.png
+1553976,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,12316,IMT Novi Beograd,2643,Novi Pazar,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12316.png,https://media.api-sports.io/football/teams/2643.png
+1553977,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,699,Mladost Lucani,598,FK Crvena Zvezda,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/699.png,https://media.api-sports.io/football/teams/598.png
+1553978,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2633,OFK Beograd,2637,Macva,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2633.png,https://media.api-sports.io/football/teams/2637.png
+1553979,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,573,FK Partizan,12360,Železničar Pančevo,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/573.png,https://media.api-sports.io/football/teams/12360.png
+1553980,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2644,Radnicki 1923,702,Vojvodina,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2644.png,https://media.api-sports.io/football/teams/702.png
+1553981,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2254,Radnicki NIS,2657,Radnik Surdulica,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2254.png,https://media.api-sports.io/football/teams/2657.png
+1553982,SRB,2026,2027-03-20T17:00:00+00:00,NS,Regular Season - 25,2642,Zemun,2656,Cukaricki,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2642.png,https://media.api-sports.io/football/teams/2656.png
+1553983,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,598,FK Crvena Zvezda,2633,OFK Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/598.png,https://media.api-sports.io/football/teams/2633.png
+1553984,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2656,Cukaricki,573,FK Partizan,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2656.png,https://media.api-sports.io/football/teams/573.png
+1553985,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2637,Macva,2642,Zemun,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2637.png,https://media.api-sports.io/football/teams/2642.png
+1553986,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2643,Novi Pazar,2254,Radnicki NIS,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2643.png,https://media.api-sports.io/football/teams/2254.png
+1553987,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,2657,Radnik Surdulica,2644,Radnicki 1923,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/2657.png,https://media.api-sports.io/football/teams/2644.png
+1553988,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,702,Vojvodina,699,Mladost Lucani,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/702.png,https://media.api-sports.io/football/teams/699.png
+1553989,SRB,2026,2027-04-03T16:00:00+00:00,NS,Regular Season - 26,12360,Železničar Pančevo,12316,IMT Novi Beograd,,,https://media.api-sports.io/football/leagues/286.png,https://media.api-sports.io/football/teams/12360.png,https://media.api-sports.io/football/teams/12316.png

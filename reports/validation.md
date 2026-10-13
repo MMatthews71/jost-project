@@ -1,6 +1,6 @@
 # Model validation (held-out season)
 
-Generated 2026-10-13T02:08:11+00:00. Elo params: `{'k': 20.0, 'home_adv': 40.0, 'carry': 0.9, 'new_team_pct': 20.0, 'base': 1500.0}`.
+Generated 2026-10-13T03:58:25+00:00. Elo params: `{'k': 20.0, 'home_adv': 40.0, 'carry': 0.9, 'new_team_pct': 20.0, 'base': 1500.0}`.
 
 Each league's most recent completed season is held out. Elo ratings are updated online (only pre-kickoff information is used for every prediction); the logistic-regression layer and the Elo parameters are fitted on earlier seasons only. The first season of each league is used purely to warm up ratings. The production model (`models/model.json`) is re-tuned and refitted on all completed matches, including the holdout season, so its Elo settings can differ slightly from the ones above.
 
@@ -20,7 +20,7 @@ Accuracy is how often the model's most likely outcome happened. Around 50% is a 
 
 | League | Holdout | n | Accuracy | Log loss | Base-rate log loss | RPS |
 |---|---|---|---|---|---|---|
-| Serie A (Brasileirao) (Brazil) | 2025 | 380 | 0.500 | 0.9985 | 1.0401 | 0.2029 |
+| Brasileirão (Brazil) | 2025 | 380 | 0.500 | 0.9985 | 1.0401 | 0.2029 |
 | Bundesliga (Germany) | 2025 | 306 | 0.542 | 0.9684 | 1.0719 | 0.1951 |
 | Championship (England) | 2025 | 552 | 0.451 | 1.0615 | 1.0839 | 0.2232 |
 | Premier League (England) | 2025 | 380 | 0.476 | 1.0335 | 1.0852 | 0.2110 |
@@ -29,7 +29,7 @@ Accuracy is how often the model's most likely outcome happened. Around 50% is a 
 | La Liga (Spain) | 2025 | 380 | 0.518 | 0.9812 | 1.0509 | 0.2006 |
 | Ligue 1 (France) | 2025 | 305 | 0.505 | 1.0003 | 1.0645 | 0.2082 |
 | Serie A (Italy) | 2025 | 380 | 0.511 | 0.9989 | 1.0906 | 0.2023 |
-| Super Liga (Serbia) | 2025 | 296 | 0.527 | 1.0027 | 1.0976 | 0.1945 |
+| Serbian SuperLiga (Serbia) | 2025 | 296 | 0.527 | 1.0027 | 1.0976 | 0.1945 |
 
 ## Calibration
 

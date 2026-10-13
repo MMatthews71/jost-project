@@ -10,7 +10,8 @@ FINISHED = {"FT", "AET", "PEN"}
 VOID = {"PST", "CANC", "ABD", "AWD", "WO"}
 
 COLUMNS = ["fixture_id", "league", "season", "kickoff_utc", "status", "round",
-           "home_id", "home_name", "away_id", "away_name", "home_goals", "away_goals"]
+           "home_id", "home_name", "away_id", "away_name", "home_goals", "away_goals",
+           "league_logo", "home_logo", "away_logo"]
 
 
 def parse_fixture(item: dict, league_key: str | None = None) -> dict:
@@ -36,6 +37,9 @@ def parse_fixture(item: dict, league_key: str | None = None) -> dict:
         "away_name": teams["away"]["name"],
         "home_goals": hg,
         "away_goals": ag,
+        "league_logo": lg.get("logo"),
+        "home_logo": teams["home"].get("logo"),
+        "away_logo": teams["away"].get("logo"),
     }
 
 
