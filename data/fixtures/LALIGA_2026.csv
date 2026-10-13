@@ -69,15 +69,15 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1570402,LALIGA,2026,2026-09-20T16:30:00+00:00,FT,Regular Season - 7,533,Villarreal,539,Levante,3.0,1.0
 1570401,LALIGA,2026,2026-09-20T19:00:00+00:00,FT,Regular Season - 7,532,Valencia,548,Real Sociedad,2.0,3.0
 1570408,LALIGA,2026,2026-10-09T19:00:00+00:00,FT,Regular Season - 8,535,Malaga,540,Espanyol,1.0,1.0
-1570410,LALIGA,2026,2026-10-10T12:00:00+00:00,INT,Regular Season - 8,728,Rayo Vallecano,531,Athletic Club,0.0,0.0
+1570410,LALIGA,2026,2026-10-10T12:00:00+00:00,ABD,Regular Season - 8,728,Rayo Vallecano,531,Athletic Club,0.0,0.0
 1570403,LALIGA,2026,2026-10-10T14:15:00+00:00,FT,Regular Season - 8,542,Alaves,530,Atletico Madrid,1.0,2.0
 1570404,LALIGA,2026,2026-10-10T16:30:00+00:00,FT,Regular Season - 8,529,Barcelona,546,Getafe,3.0,0.0
 1570411,LALIGA,2026,2026-10-10T19:00:00+00:00,FT,Regular Season - 8,541,Real Madrid,533,Villarreal,1.0,0.0
 1570406,LALIGA,2026,2026-10-11T12:00:00+00:00,FT,Regular Season - 8,797,Elche,538,Celta Vigo,0.0,0.0
-1570412,LALIGA,2026,2026-10-11T14:15:00+00:00,1H,Regular Season - 8,548,Real Sociedad,544,Deportivo La Coruna,1.0,0.0
-1570405,LALIGA,2026,2026-10-11T16:30:00+00:00,NS,Regular Season - 8,543,Real Betis,727,Osasuna,,
-1570409,LALIGA,2026,2026-10-11T19:00:00+00:00,NS,Regular Season - 8,4665,Racing Santander,532,Valencia,,
-1570407,LALIGA,2026,2026-10-12T19:00:00+00:00,NS,Regular Season - 8,539,Levante,536,Sevilla,,
+1570412,LALIGA,2026,2026-10-11T14:15:00+00:00,FT,Regular Season - 8,548,Real Sociedad,544,Deportivo La Coruna,3.0,2.0
+1570405,LALIGA,2026,2026-10-11T16:30:00+00:00,FT,Regular Season - 8,543,Real Betis,727,Osasuna,5.0,2.0
+1570409,LALIGA,2026,2026-10-11T19:00:00+00:00,FT,Regular Season - 8,4665,Racing Santander,532,Valencia,2.0,2.0
+1570407,LALIGA,2026,2026-10-12T19:00:00+00:00,FT,Regular Season - 8,539,Levante,536,Sevilla,3.0,3.0
 1570415,LALIGA,2026,2026-10-16T19:00:00+00:00,NS,Regular Season - 9,544,Deportivo La Coruna,539,Levante,,
 1570416,LALIGA,2026,2026-10-17T12:00:00+00:00,NS,Regular Season - 9,540,Espanyol,530,Atletico Madrid,,
 1570422,LALIGA,2026,2026-10-17T14:15:00+00:00,NS,Regular Season - 9,533,Villarreal,797,Elche,,

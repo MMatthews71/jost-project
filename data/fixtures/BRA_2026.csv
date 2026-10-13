@@ -291,14 +291,14 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1492396,BRA,2026,2026-10-09T00:30:00+00:00,FT,Regular Season - 29,121,Palmeiras,118,Bahia,1.0,0.0
 1492409,BRA,2026,2026-10-10T21:00:00+00:00,FT,Regular Season - 30,133,Vasco DA Gama,1198,Remo,0.0,0.0
 1492408,BRA,2026,2026-10-11T00:00:00+00:00,FT,Regular Season - 30,126,Sao Paulo,136,Vitoria,2.0,1.0
-1492400,BRA,2026,2026-10-11T19:00:00+00:00,NS,Regular Season - 30,1062,Atletico-MG,128,Santos,,
-1492405,BRA,2026,2026-10-11T20:30:00+00:00,NS,Regular Season - 30,127,Flamengo,124,Fluminense,,
-1492406,BRA,2026,2026-10-11T20:30:00+00:00,NS,Regular Season - 30,130,Gremio,119,Internacional,,
-1492407,BRA,2026,2026-10-11T20:30:00+00:00,NS,Regular Season - 30,121,Palmeiras,131,Corinthians,,
-1492401,BRA,2026,2026-10-11T22:30:00+00:00,NS,Regular Season - 30,118,Bahia,7848,Mirassol,,
-1492404,BRA,2026,2026-10-12T19:00:00+00:00,NS,Regular Season - 30,147,Coritiba,120,Botafogo,,
-1492403,BRA,2026,2026-10-12T22:30:00+00:00,NS,Regular Season - 30,132,Chapecoense-sc,134,Atletico Paranaense,,
-1492402,BRA,2026,2026-10-13T00:00:00+00:00,NS,Regular Season - 30,794,RB Bragantino,135,Cruzeiro,,
+1492400,BRA,2026,2026-10-11T19:00:00+00:00,FT,Regular Season - 30,1062,Atletico-MG,128,Santos,2.0,1.0
+1492405,BRA,2026,2026-10-11T20:30:00+00:00,FT,Regular Season - 30,127,Flamengo,124,Fluminense,1.0,0.0
+1492406,BRA,2026,2026-10-11T20:30:00+00:00,FT,Regular Season - 30,130,Gremio,119,Internacional,1.0,1.0
+1492407,BRA,2026,2026-10-11T20:30:00+00:00,FT,Regular Season - 30,121,Palmeiras,131,Corinthians,4.0,1.0
+1492401,BRA,2026,2026-10-11T22:30:00+00:00,FT,Regular Season - 30,118,Bahia,7848,Mirassol,1.0,0.0
+1492404,BRA,2026,2026-10-12T19:00:00+00:00,FT,Regular Season - 30,147,Coritiba,120,Botafogo,1.0,1.0
+1492403,BRA,2026,2026-10-12T22:30:00+00:00,FT,Regular Season - 30,132,Chapecoense-sc,134,Atletico Paranaense,1.0,4.0
+1492402,BRA,2026,2026-10-13T00:00:00+00:00,FT,Regular Season - 30,794,RB Bragantino,135,Cruzeiro,4.0,2.0
 1492417,BRA,2026,2026-10-16T23:00:00+00:00,NS,Regular Season - 31,7848,Mirassol,119,Internacional,,
 1492413,BRA,2026,2026-10-17T21:00:00+00:00,NS,Regular Season - 31,120,Botafogo,132,Chapecoense-sc,,
 1492411,BRA,2026,2026-10-17T21:30:00+00:00,NS,Regular Season - 31,1062,Atletico-MG,147,Coritiba,,

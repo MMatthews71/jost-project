@@ -41,16 +41,16 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1548537,HNL,2026,2026-10-09T16:00:00+00:00,FT,Regular Season - 9,1068,HNK Gorica,1019,Rudes,1.0,2.0
 1548538,HNL,2026,2026-10-10T13:00:00+00:00,FT,Regular Season - 9,608,HNK Hajduk Split,620,Dinamo Zagreb,2.0,1.0
 1548540,HNL,2026,2026-10-10T16:00:00+00:00,FT,Regular Season - 9,616,NK Osijek,1016,Istra 1961,1.0,3.0
-1548539,HNL,2026,2026-10-11T13:00:00+00:00,2H,Regular Season - 9,1017,NK Lokomotiva Zagreb,1483,NK Varazdin,0.0,1.0
-1548541,HNL,2026,2026-10-11T16:00:00+00:00,NS,Regular Season - 9,1018,NK Slaven Belupo,561,HNK Rijeka,,
+1548539,HNL,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 9,1017,NK Lokomotiva Zagreb,1483,NK Varazdin,0.0,1.0
+1548541,HNL,2026,2026-10-11T16:00:00+00:00,FT,Regular Season - 9,1018,NK Slaven Belupo,561,HNK Rijeka,4.0,1.0
 1548545,HNL,2026,2026-10-16T16:00:00+00:00,NS,Regular Season - 10,1019,Rudes,561,HNK Rijeka,,
 1548543,HNL,2026,2026-10-17T13:00:00+00:00,NS,Regular Season - 10,1017,NK Lokomotiva Zagreb,1016,Istra 1961,,
 1548544,HNL,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 10,616,NK Osijek,1068,HNK Gorica,,
 1548542,HNL,2026,2026-10-18T13:00:00+00:00,NS,Regular Season - 10,608,HNK Hajduk Split,1483,NK Varazdin,,
 1548546,HNL,2026,2026-10-18T16:00:00+00:00,NS,Regular Season - 10,1018,NK Slaven Belupo,620,Dinamo Zagreb,,
-1548547,HNL,2026,2026-10-24T15:00:00+00:00,NS,Regular Season - 11,620,Dinamo Zagreb,561,HNK Rijeka,,
+1548547,HNL,2026,2026-10-24T15:00:00+00:00,PST,Regular Season - 11,620,Dinamo Zagreb,561,HNK Rijeka,,
 1548548,HNL,2026,2026-10-24T15:00:00+00:00,NS,Regular Season - 11,1068,HNK Gorica,1017,NK Lokomotiva Zagreb,,
-1548549,HNL,2026,2026-10-24T15:00:00+00:00,NS,Regular Season - 11,1016,Istra 1961,608,HNK Hajduk Split,,
+1548549,HNL,2026,2026-10-24T15:00:00+00:00,PST,Regular Season - 11,1016,Istra 1961,608,HNK Hajduk Split,,
 1548550,HNL,2026,2026-10-24T15:00:00+00:00,NS,Regular Season - 11,616,NK Osijek,1019,Rudes,,
 1548551,HNL,2026,2026-10-24T15:00:00+00:00,NS,Regular Season - 11,1483,NK Varazdin,1018,NK Slaven Belupo,,
 1548552,HNL,2026,2026-10-31T16:00:00+00:00,NS,Regular Season - 12,608,HNK Hajduk Split,1068,HNK Gorica,,

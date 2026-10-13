@@ -55,10 +55,10 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1557423,EPL,2026,2026-10-10T14:00:00+00:00,FT,Regular Season - 6,57,Ipswich,36,Fulham,2.0,1.0
 1557426,EPL,2026,2026-10-10T14:00:00+00:00,FT,Regular Season - 6,746,Sunderland,51,Brighton,0.0,2.0
 1557425,EPL,2026,2026-10-10T16:30:00+00:00,FT,Regular Season - 6,33,Manchester United,47,Tottenham,1.0,1.0
-1557421,EPL,2026,2026-10-11T13:00:00+00:00,2H,Regular Season - 6,52,Crystal Palace,65,Nottingham Forest,3.0,1.0
-1557422,EPL,2026,2026-10-11T13:00:00+00:00,2H,Regular Season - 6,64,Hull City,45,Everton,2.0,2.0
-1557424,EPL,2026,2026-10-11T15:30:00+00:00,NS,Regular Season - 6,40,Liverpool,50,Manchester City,,
-1557420,EPL,2026,2026-10-12T19:00:00+00:00,NS,Regular Season - 6,1346,Coventry,34,Newcastle,,
+1557421,EPL,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 6,52,Crystal Palace,65,Nottingham Forest,3.0,1.0
+1557422,EPL,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 6,64,Hull City,45,Everton,2.0,2.0
+1557424,EPL,2026,2026-10-11T15:30:00+00:00,FT,Regular Season - 6,40,Liverpool,50,Manchester City,0.0,3.0
+1557420,EPL,2026,2026-10-12T19:00:00+00:00,FT,Regular Season - 6,1346,Coventry,34,Newcastle,4.0,1.0
 1557430,EPL,2026,2026-10-17T11:30:00+00:00,NS,Regular Season - 7,45,Everton,49,Chelsea,,
 1557428,EPL,2026,2026-10-17T14:00:00+00:00,NS,Regular Season - 7,55,Brentford,40,Liverpool,,
 1557431,EPL,2026,2026-10-17T14:00:00+00:00,NS,Regular Season - 7,36,Fulham,64,Hull City,,

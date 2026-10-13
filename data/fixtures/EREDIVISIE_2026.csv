@@ -70,7 +70,7 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1552185,EREDIVISIE,2026,2026-10-11T10:15:00+00:00,FT,Regular Season - 8,207,Utrecht,195,Willem II,3.0,1.0
 1552186,EREDIVISIE,2026,2026-10-11T12:30:00+00:00,FT,Regular Season - 8,427,Telstar,198,ADO Den Haag,2.0,2.0
 1552187,EREDIVISIE,2026,2026-10-11T12:30:00+00:00,FT,Regular Season - 8,193,PEC Zwolle,420,Cambuur,0.0,1.0
-1552188,EREDIVISIE,2026,2026-10-11T14:45:00+00:00,1H,Regular Season - 8,196,Excelsior,202,Groningen,0.0,0.0
+1552188,EREDIVISIE,2026,2026-10-11T14:45:00+00:00,FT,Regular Season - 8,196,Excelsior,202,Groningen,1.0,5.0
 1552189,EREDIVISIE,2026,2026-10-16T18:00:00+00:00,NS,Regular Season - 9,210,Heerenveen,196,Excelsior,,
 1552190,EREDIVISIE,2026,2026-10-17T14:30:00+00:00,NS,Regular Season - 9,198,ADO Den Haag,197,PSV Eindhoven,,
 1552192,EREDIVISIE,2026,2026-10-17T18:00:00+00:00,NS,Regular Season - 9,427,Telstar,209,Feyenoord,,

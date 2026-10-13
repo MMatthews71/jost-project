@@ -146,7 +146,9 @@ def write_report(rep: dict) -> None:
         "Each league's most recent completed season is held out. Elo ratings are updated online "
         "(only pre-kickoff information is used for every prediction); the logistic-regression layer "
         "and the Elo parameters are fitted on earlier seasons only. The first season of each league "
-        "is used purely to warm up ratings.",
+        "is used purely to warm up ratings. The production model (`models/model.json`) is re-tuned and "
+        "refitted on all completed matches, including the holdout season, so its Elo settings can differ "
+        "slightly from the ones above.",
         "",
         f"Training matches: {rep['n_train']}. Test matches: {o['model']['n']}.",
         "",

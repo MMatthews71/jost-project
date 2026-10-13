@@ -1,8 +1,8 @@
 # Model validation (held-out season)
 
-Generated 2026-10-11T14:58:58+00:00. Elo params: `{'k': 20.0, 'home_adv': 40.0, 'carry': 0.9, 'new_team_pct': 20.0, 'base': 1500.0}`.
+Generated 2026-10-13T02:08:11+00:00. Elo params: `{'k': 20.0, 'home_adv': 40.0, 'carry': 0.9, 'new_team_pct': 20.0, 'base': 1500.0}`.
 
-Each league's most recent completed season is held out. Elo ratings are updated online (only pre-kickoff information is used for every prediction); the logistic-regression layer and the Elo parameters are fitted on earlier seasons only. The first season of each league is used purely to warm up ratings.
+Each league's most recent completed season is held out. Elo ratings are updated online (only pre-kickoff information is used for every prediction); the logistic-regression layer and the Elo parameters are fitted on earlier seasons only. The first season of each league is used purely to warm up ratings. The production model (`models/model.json`) is re-tuned and refitted on all completed matches, including the holdout season, so its Elo settings can differ slightly from the ones above.
 
 Training matches: 6932. Test matches: 3465.
 

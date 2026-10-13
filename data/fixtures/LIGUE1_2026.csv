@@ -50,9 +50,9 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1552777,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,97,Lorient,114,Paris FC,1.0,0.0
 1552778,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,91,Monaco,96,Toulouse,2.0,2.0
 1552780,LIGUE1,2026,2026-10-10T18:45:00+00:00,FT,Regular Season - 6,85,Paris Saint Germain,1298,Le Mans,3.0,1.0
-1552779,LIGUE1,2026,2026-10-11T13:00:00+00:00,2H,Regular Season - 6,84,Nice,95,Strasbourg,2.0,1.0
-1552781,LIGUE1,2026,2026-10-11T15:15:00+00:00,NS,Regular Season - 6,94,Rennes,108,Auxerre,,
-1552782,LIGUE1,2026,2026-10-11T18:45:00+00:00,NS,Regular Season - 6,110,Estac Troyes,81,Marseille,,
+1552779,LIGUE1,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 6,84,Nice,95,Strasbourg,2.0,1.0
+1552781,LIGUE1,2026,2026-10-11T15:15:00+00:00,FT,Regular Season - 6,94,Rennes,108,Auxerre,4.0,1.0
+1552782,LIGUE1,2026,2026-10-11T18:45:00+00:00,FT,Regular Season - 6,110,Estac Troyes,81,Marseille,0.0,2.0
 1552785,LIGUE1,2026,2026-10-16T18:45:00+00:00,NS,Regular Season - 7,1298,Le Mans,96,Toulouse,,
 1552790,LIGUE1,2026,2026-10-17T15:15:00+00:00,NS,Regular Season - 7,95,Strasbourg,85,Paris Saint Germain,,
 1552786,LIGUE1,2026,2026-10-17T18:45:00+00:00,NS,Regular Season - 7,79,Lille,106,Stade Brestois 29,,

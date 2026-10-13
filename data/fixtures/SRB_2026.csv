@@ -72,10 +72,10 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1553879,SRB,2026,2026-10-10T13:00:00+00:00,FT,Regular Season - 11,12316,IMT Novi Beograd,2657,Radnik Surdulica,1.0,0.0
 1553878,SRB,2026,2026-10-10T15:00:00+00:00,FT,Regular Season - 11,2656,Cukaricki,2637,Macva,2.0,2.0
 1553882,SRB,2026,2026-10-10T17:00:00+00:00,FT,Regular Season - 11,2644,Radnicki 1923,598,FK Crvena Zvezda,0.0,3.0
-1553883,SRB,2026,2026-10-11T13:00:00+00:00,2H,Regular Season - 11,2254,Radnicki NIS,702,Vojvodina,0.0,4.0
-1553881,SRB,2026,2026-10-11T15:00:00+00:00,NS,Regular Season - 11,573,FK Partizan,2643,Novi Pazar,,
-1553884,SRB,2026,2026-10-11T17:00:00+00:00,NS,Regular Season - 11,2642,Zemun,12360,Železničar Pančevo,,
-1553880,SRB,2026,2026-10-12T18:00:00+00:00,NS,Regular Season - 11,699,Mladost Lucani,2633,OFK Beograd,,
+1553883,SRB,2026,2026-10-11T13:00:00+00:00,FT,Regular Season - 11,2254,Radnicki NIS,702,Vojvodina,1.0,4.0
+1553881,SRB,2026,2026-10-11T15:00:00+00:00,FT,Regular Season - 11,573,FK Partizan,2643,Novi Pazar,1.0,0.0
+1553884,SRB,2026,2026-10-11T17:00:00+00:00,FT,Regular Season - 11,2642,Zemun,12360,Železničar Pančevo,0.0,3.0
+1553880,SRB,2026,2026-10-12T18:00:00+00:00,FT,Regular Season - 11,699,Mladost Lucani,2633,OFK Beograd,0.0,0.0
 1553885,SRB,2026,2026-10-17T16:00:00+00:00,TBD,Regular Season - 12,598,FK Crvena Zvezda,699,Mladost Lucani,,
 1553886,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2656,Cukaricki,2642,Zemun,,
 1553887,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,2637,Macva,2633,OFK Beograd,,
@@ -85,7 +85,7 @@ fixture_id,league,season,kickoff_utc,status,round,home_id,home_name,away_id,away
 1553891,SRB,2026,2026-10-17T16:00:00+00:00,NS,Regular Season - 12,12360,Železničar Pančevo,573,FK Partizan,,
 1553892,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,12316,IMT Novi Beograd,12360,Železničar Pančevo,,
 1553893,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,699,Mladost Lucani,702,Vojvodina,,
-1553894,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2633,OFK Beograd,598,FK Crvena Zvezda,,
+1553894,SRB,2026,2026-10-24T16:00:00+00:00,PST,Regular Season - 13,2633,OFK Beograd,598,FK Crvena Zvezda,,
 1553895,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,573,FK Partizan,2656,Cukaricki,,
 1553896,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2644,Radnicki 1923,2657,Radnik Surdulica,,
 1553897,SRB,2026,2026-10-24T16:00:00+00:00,NS,Regular Season - 13,2254,Radnicki NIS,2643,Novi Pazar,,
