@@ -15,12 +15,12 @@ class ApiError(RuntimeError):
 
 class ApiFootball:
     def __init__(self, key: str | None = None, min_interval: float | None = None, session=None):
-        self.key = key or os.environ.get("API_FOOTBALL_KEY") or os.environ.get("APIFOOTBALL_KEY")
+        self.key = key or os.environ.get("API_FOOTBALL_KEY")
         if not self.key:
             raise ApiError("API_FOOTBALL_KEY is not set (env var or .env file)")
         # Free plan allows 10 req/min, Pro 300/min. Default is safe for Pro; set 6.5 for Free.
         self.min_interval = float(min_interval if min_interval is not None
-                                  else os.environ.get("APIFOOTBALL_MIN_INTERVAL", 0.25))
+                                  else os.environ.get("API_FOOTBALL_MIN_INTERVAL", 0.25))
         self.session = session or requests.Session()
         self._last = 0.0
         self.calls = 0
